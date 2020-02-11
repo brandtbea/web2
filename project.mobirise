@@ -76,7 +76,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-d\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Újszülött fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Karácsonyi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Keresztelő</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-d\">RÓLAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-9\">KAPCSOLAT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-d\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Újszülött fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Karácsonyi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Keresztelő</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-d\">RÓLAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-9\">KAPCSOLAT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Téma"
           ],
@@ -177,7 +177,97 @@
                 "overlayOpacity": "0.1"
               },
               {
+                "image": "@PROJECT_PATH@/assets/images/img-0070-szabadterifotozas-outdoorphoto-1-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Újszülött fotózás",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/img-9480-ujszulottfotos-newbornphotographer-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Újszülött fotózás",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/-mg-4730-1-noiportre-womanprotrait-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Újszülött fotózás",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-5351-varandosfotozas-pregnantphoto-1-2000x1333.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Újszülött fotózás",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-5851-2-kislanyfoto-littlegirlphoto-1-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Újszülött fotózás",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-1228-edit-kutyafoto-dogphotos-1-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Újszülött fotózás",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-4066-edit-gyerekfoto-kidphoto-1-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -207,22 +297,7 @@
                 "overlayOpacity": "0.1"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-0070-szabadterifotozas-outdoorphoto-1-2000x1333.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Újszülött fotózás",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-1228-edit-kutyafoto-dogphotos-1-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-6761-edit-csaldifotozas-familiefoto-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -267,7 +342,7 @@
                 "overlayOpacity": "0.1"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-6761-edit-csaldifotozas-familiefoto-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-4506-gyerekfotos-kidphotographer-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -297,37 +372,22 @@
                 "overlayOpacity": "0.1"
               },
               {
+                "image": "@PROJECT_PATH@/assets/images/-mg-0596-newbornshoot-ujszulottfotozas-1-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Újszülött fotózás",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/img-5636-babafoto-babyphoto-1-2000x1333.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Újszülött fotózás",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-4066-edit-gyerekfoto-kidphoto-1-2000x1333.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Újszülött fotózás",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-5851-2-kislanyfoto-littlegirlphoto-1-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -387,7 +447,7 @@
                 "overlayOpacity": "0.1"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-5351-varandosfotozas-pregnantphoto-1-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-5547-ujszulott-csaladifoto-newborn-family-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -417,21 +477,6 @@
                 "overlayOpacity": "0.1"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-5547-ujszulott-csaladifoto-newborn-family-2000x1333.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Újszülött fotózás",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/img-3560-1-pp2-newbornphotograpy-ujszulottfotos-1-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
@@ -447,37 +492,7 @@
                 "overlayOpacity": "0.1"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/-mg-4730-1-noiportre-womanprotrait-2000x1333.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Újszülött fotózás",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/img-3808-cicafoto-catphoto-2000x1333.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Újszülött fotózás",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-4506-gyerekfotos-kidphotographer-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -523,66 +538,6 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-1981-edit-3a-1-2000x1333.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Újszülött fotózás",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/-mg-0596-newbornshoot-ujszulottfotozas-1-2000x1333.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Újszülött fotózás",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-2416-karacsonyikep-christmaspicture-2000x1333.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Újszülött fotózás",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-2449-csaladfotozas-familyphotography-2000x1333.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Újszülött fotózás",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-2445-karacsonyikep-christmaspicture-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -690,7 +645,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-0073-edit-csaladifotos-familyphotographer-1-600x900.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-0073-edit-csaladifotos-familyphotographer-2-600x900.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -746,8 +701,8 @@
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM<br></a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEK</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEK</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM<br></a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
@@ -814,7 +769,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-mg-1050-edit-keresztelo-christening-1-600x900.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-mg-1050-edit-keresztelo-christening-2-600x900.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -857,10 +812,10 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEK</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEK</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEK</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEK</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
@@ -949,7 +904,7 @@
             "showArrow": false,
             "imageSize": "63",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1275.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -959,7 +914,7 @@
             },
             "overlay": true,
             "overlayColor": "#ccc",
-            "overlayOpacity": "0.9"
+            "overlayOpacity": "0.8"
           },
           "media": {
             "image": {
@@ -979,7 +934,7 @@
               "size": 250
             }
           },
-          "title": "FOTÓZÁSOM KÉPEIBŐL KÉSZÜLT VIDEO",
+          "title": "Kérlek nézd meg egy első születésnapos kisfiú képeiből készült videómat!",
           "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -1082,7 +1037,7 @@
           "subtitle": "Ha kérdésed lenne a fotózással kapcsolatban, kérlek írj e-mail-t vagy írj itt üzenetet.<br>Mobil: +36 (30) 416 7606<br>E-mail:&nbsp;brandtbea12@gmail.com",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">KÜLDÉS</a>",
           "form": {
-            "action": "cc.aa@freemail.hu",
+            "action": "brandtbea12@gmail.com",
             "alerts": {
               "success": "Köszönöm, üzenetére rövidesen válaszolok."
             },
@@ -1556,7 +1511,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-d\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Újszülött fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Karácsonyi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Keresztelő</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-d\">RÓLAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-9\">KAPCSOLAT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-d\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Újszülött fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Karácsonyi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Keresztelő</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-d\">RÓLAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-9\">KAPCSOLAT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Téma"
           ],
