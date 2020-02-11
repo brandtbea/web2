@@ -536,8 +536,16 @@ section.form .container {
   font-size: 48px;
   font-family: 'Montserrat', sans-serif;
 }
+#msg-box5-d P {
+  text-align: left;
+}
+#msg-box5-d H3 {
+  text-align: left;
+  font-size: 30px;
+}
 #header6-n .mbr-section-title {
   color: #28262b;
+  font-size: 36px;
 }
 #header6-n .mbr-section-text {
   color: #565656;
@@ -552,12 +560,15 @@ section.form .container {
 #social-buttons4-b .btn-social {
   color: #fff;
 }
+#social-buttons4-b .mbr-section-title {
+  font-size: 30px;
+}
 #social-buttons3-a .mbr-section-title,
 #social-buttons3-a .btn-social {
   color: #fff;
 }
 #social-buttons3-a .mbr-section-title {
-  font-size: 24px;
+  font-size: 25px;
 }
 #footer1-c P {
   text-align: center;
@@ -567,6 +578,13 @@ section.form .container {
 #header3-t .mbr-section-title,
 #header3-t .mbr-section-subtitle {
   text-align: center;
+}
+#header3-t .mbr-section-title {
+  font-size: 32px;
+  text-align: center;
+}
+#buttons1-s .btn {
+  font-size: 18px;
 }
 #ext_menu-f .hide-buttons .nav-btn {
   display: none !important;
