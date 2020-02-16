@@ -23,28 +23,31 @@
       "additionalSetColors": [
         "#9dd0ec",
         "#211e1e",
-        "#3c3c3c"
+        "#3c3c3c",
+        "#232323",
+        "#acacac"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 31,
+    "uniqCompNum": 65,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
     "favicon": false,
     "noImageResize": false,
     "siteUrl": "undefined",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "cookiesAlert": false,
+    "google-analytics": "<h2>Popup</h2>\n",
     "gdpr": {
       "colorText": "#a7a7a7",
       "colorLink": "#149dcc",
       "underlineLink": false,
-      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
-    },
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "cookiesAlert": false
+      "text": "Az <a href='policy.html'>Adatvédelmi szabályzatot</a> megismertem és elfogadom."
+    }
   },
   "pages": {
     "index.html": {
@@ -54,7 +57,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/img-4806-elsoszuletesnapi-foto-birthday-2000x1333.jpg"
       },
       "components": [
         {
@@ -67,7 +71,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "1.05",
+            "fontSize": "1",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -76,7 +80,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-d\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Újszülött fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Karácsonyi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Keresztelő</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-d\">RÓLAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-9\">KAPCSOLAT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-d\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Karácsonyi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Keresztelő</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">RÓLAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-9\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-9\">KAPCSOLAT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Téma"
           ],
@@ -101,10 +105,10 @@
               "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "1.05rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -158,21 +162,21 @@
             "paddingTop": "2",
             "paddingBottom": "0",
             "showBullets": false,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "timeout": 5,
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/img-4806-elsoszuletesnapi-foto-birthday-2000x1333.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Újszülött fotózás",
+                "title": "<br><br><br><br>Újszülött fotózás",
                 "overlay": false,
                 "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Felirat",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.1"
               },
@@ -222,8 +226,23 @@
                 "overlayOpacity": "0.1"
               },
               {
+                "image": "@PROJECT_PATH@/assets/images/img-5498-1-varandosfoto-expectantphoto-1-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Újszülött fotózás",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/img-5351-varandosfotozas-pregnantphoto-1-2000x1333.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -462,21 +481,6 @@
                 "overlayOpacity": "0.1"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-5498-1-varandosfoto-expectantphoto-1-2000x1333.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Újszülött fotózás",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/img-3560-1-pp2-newbornphotograpy-ujszulottfotos-1-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
@@ -493,21 +497,6 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-3808-cicafoto-catphoto-2000x1333.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Újszülött fotózás",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-2553-karacsonyifotozas-christmasphotography-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -550,6 +539,141 @@
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-4311-edit-pecs-gyermekfotozas-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Újszülött fotózás",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-4110-gyerekfoto-kindfoto-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Újszülött fotózás",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/-mg-0556-ujszulottfotos-newbornphotographer-2-2000x2000.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Újszülött fotózás",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-3622-1-ujszulottbaba-newbornbaby-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Újszülött fotózás",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/-mg-4165-1-babakep-ocbaby-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Újszülött fotózás",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-9450-3-ujszulottfotos-newbornphotographer-2-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Újszülött fotózás",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-5517-pocakfotozas-bellyphotoshoot-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Újszülött fotózás",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-2411-karacsonyifoto-christmasphoto-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<br><br><br><br>Újszülött fotózás",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Felirat",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-2126-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<br><br><br><br>Újszülött fotózás",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Felirat",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
               }
             ]
           },
@@ -566,6 +690,9 @@
               "font-size": "48px",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "P": {
+              "text-align": "left"
             }
           }
         },
@@ -577,7 +704,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/beata-brandt-photographer-2000x1429.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/alrsom-2-2000x1429.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -609,7 +736,7 @@
             "paddingBottom": "1",
             "columns": "4",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -722,7 +849,7 @@
             "paddingBottom": "1",
             "columns": "4",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -751,9 +878,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "ujszulott_fotozas.html",
               "alt": "Újszülött fotózás",
-              "title": "Újszülött fotózás"
+              "title": "Újszülött fotózás",
+              "linkInNewWindow": false
             }
           },
           "media3": {
@@ -813,7 +941,7 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"ujszulott_fotozas.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -832,25 +960,25 @@
             "inverse": false,
             "imageSize": "43",
             "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1276.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#c0a375",
+            "overlayOpacity": "0.8"
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/beatabrandtphotographyimg-2211-2-pp-1400x2100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-2211-2-pp-bea-1400x2100.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -869,7 +997,7 @@
           },
           "title": "Kedves Látogató!",
           "text": "<br>Szeretettel üdvözöllek a honlapomon!&nbsp;<br><br><b>Brandt Beáta vagyok</b> <b>édesanya, feleség és fotográfus.</b> \n<br>Számomra a fotózás egyszerre kihívás, szenvedély, alkotás és kiteljesedés.&nbsp;<br>A fényképezés szeretetét már generációkon keresztül a családból hozom. Már gyerekkorom óta igazán érdekelt a fotózás és a szívem mélyén mindig szerettem volna hivatásos fotós lenni. Sikerült a világ számos csodálatos helyére eljutnom és a fényképezés iránti szenvedélyemet rengeteg gyönyörű kép készítésében kiélnem.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BŐVEBBEN RÓLAM</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">BŐVEBBEN RÓLAM</a>",
           "_tags": [
             "Téma"
           ],
@@ -886,25 +1014,46 @@
           }
         },
         {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#c0a375"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-17"
+        },
+        {
           "_inherit": "header2",
           "_styles": {
             ".mbr-section-title": {
               "color": "#28262b",
-              "font-size": "36px"
+              "font-size": "36px",
+              "text-align": "center"
             },
             ".mbr-section-text": {
-              "color": "#565656"
+              "color": "#211e1e",
+              "text-align": "center",
+              "font-size": "36px"
+            },
+            ".mbr-section-text B": {
+              "font-size": "32px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
           },
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "showArrow": false,
-            "imageSize": "63",
+            "imageSize": "52",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1275.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-4610-szuletesnapifotos-birthdayphotoshoot-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -914,7 +1063,7 @@
             },
             "overlay": true,
             "overlayColor": "#ccc",
-            "overlayOpacity": "0.8"
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -923,7 +1072,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://youtu.be/lVcYk4rH07Q",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -935,7 +1084,7 @@
             }
           },
           "title": "Kérlek nézd meg egy első születésnapos kisfiú képeiből készült videómat!",
-          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
+          "text": "<b>Kérlek nézd meg egy első születésnapos kisfiú képeiből készült videómat!</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -947,18 +1096,18 @@
           "_params": {
             "showTitle": true,
             "showSubtitle": true,
-            "showImages": true,
+            "showImages": false,
             "showName": true,
             "showBio": false,
             "count": "3",
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
@@ -988,7 +1137,7 @@
               "text": "“Rugalmas és innovatív, olyan képek születtek a lányaimról, amilyenek a valóságban is. A képei letisztultak és remekül elkapja azokat a pillanatokat, ahol látszanak az egyéniségük.”",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face1.jpg",
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -1002,7 +1151,7 @@
               "text": "“Kedves, türelmes fotós. Élveztük a fotózást. Tetszettek a beállítások, klassz képek készültek nagyon jó minőségben. Baba, családi fotózásra egyaránt szívesen ajánljuk Beát!”",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face2.jpg",
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -1015,7 +1164,31 @@
             "Theme"
           ],
           "_name": "testimonials1",
-          "_anchor": "testimonials1-l"
+          "_anchor": "testimonials1-l",
+          "_styles": {
+            ".mbr-author-name": {
+              "color": "#3c3c3c"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#3c3c3c"
+            },
+            ".mbr-section-title": {
+              "color": "#3c3c3c"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI VÉLEMÉNYEK</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-10"
         },
         {
           "_params": {
@@ -1025,16 +1198,16 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1318.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0.6"
           },
           "title": "<span style=\"font-weight: normal;\">KAPCSOLAT</span>",
-          "subtitle": "Ha kérdésed lenne a fotózással kapcsolatban, kérlek írj e-mail-t vagy írj itt üzenetet.<br>Mobil: +36 (30) 416 7606<br>E-mail:&nbsp;brandtbea12@gmail.com",
+          "subtitle": "Szeretettel várlak, ha szeretnél magadról, illetve a családodról szép képeket, vagy, ha esetleg szeretetted szeretnéd meglepni egy fotózással. <br>Ha kérdésed lenne a fotózással kapcsolatban, kérlek írj e-mail-t vagy írj itt üzenetet.<br>Mobil: +36 (30) 416 7606<br>E-mail:&nbsp;brandtbea12@gmail.com",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">KÜLDÉS</a>",
           "form": {
             "action": "brandtbea12@gmail.com",
@@ -1085,7 +1258,7 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "font-size": "30px"
+              "font-size": "25px"
             }
           },
           "_params": {
@@ -1115,14 +1288,14 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "font-size": "25px"
+              "font-size": "23px"
             }
           },
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#2e2e2e",
@@ -1144,10 +1317,34 @@
         },
         {
           "_params": {
-            "paddingTop": 2,
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#3c3c3c"
+          },
+          "text1": "<p><br></p>",
+          "text2": "<b>Adatvédelem</b>",
+          "text3": "<br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-z",
+          "_styles": {
+            ".lead": {
+              "color": "#acacac",
+              "text-align": "center"
+            },
+            ".lead P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#3c3c3c",
@@ -1157,15 +1354,15 @@
           },
           "text": "Copyright (c) 2020",
           "_tags": [
-            "Téma"
+            "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-c",
           "_styles": {
             "P": {
               "text-align": "center"
             }
-          }
+          },
+          "_anchor": "footer1-y"
         }
       ]
     },
@@ -1173,15 +1370,96 @@
       "settings": {
         "meta_descr": "Újszülött fotózás",
         "title": "Újszülött fotózás",
-        "order": 1
+        "order": 4
       },
       "components": [
         {
           "_params": {
-            "showBullets": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "70",
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-9450-3-ujszulottfotos-newbornphotographer-2-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": "0.6"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-9480-ujszulottfotos-newbornphotographer-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "ÚJSZÜLÖTT FOTÓIM",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-14"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/alrsom-2-2000x1429.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.2"
+          },
+          "title": "FULL SCREEN INTRO",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-19"
+        },
+        {
+          "_params": {
+            "showBullets": false,
             "fullWidth": false,
             "spacing": "0",
-            "paddingTop": "4",
+            "paddingTop": "0",
             "paddingBottom": "1",
             "filterBgColor": false,
             "bgColor": "#FFFFFF",
@@ -1466,7 +1744,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Kérlek nézd meg a karácsonyi fotókat is.",
+          "title": "Kérlek nézd meg az ünnepi fotóimat is.",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -1480,7 +1758,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Tovább a Karácsonyi fotókhoz</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Tovább az ünnepi fotóimhoz</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -1502,7 +1780,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "1.05",
+            "fontSize": "1",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -1511,7 +1789,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-d\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Újszülött fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Karácsonyi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Keresztelő</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-d\">RÓLAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-9\">KAPCSOLAT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-d\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Karácsonyi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Keresztelő</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">RÓLAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-9\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-9\">KAPCSOLAT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Téma"
           ],
@@ -1588,10 +1866,10 @@
         },
         {
           "_params": {
-            "paddingTop": 2,
+            "paddingTop": "1",
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#3c3c3c",
@@ -1601,15 +1879,728 @@
           },
           "text": "Copyright (c) 2020",
           "_tags": [
-            "Téma"
+            "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-h",
           "_styles": {
             "P": {
               "text-align": "center"
             }
+          },
+          "_anchor": "footer1-y"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "meta_descr": "Web Site Creator Description",
+        "title": "Rólam",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-d\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Karácsonyi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Keresztelő</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">RÓLAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-9\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-9\">KAPCSOLAT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Téma"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bblogo-388x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1a"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-1b"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1e"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/alrsom-2-2000x1429.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-3259-2-onportre-selfportrait-1400x933.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-1j"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "58",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-7077-edit-csaladifotos-familyphotographer-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "<br>Kedves Látogató!&nbsp;",
+          "text": "<br>Szeretettel üdvözöllek a honlapomon!&nbsp;<br>Brandt Beáta vagyok édesanya, feleség és fotográfus. \n<br>Számomra a fotózás egyszerre kihívás, szenvedély, alkotás és kiteljesedés.\n<br>A fényképezés szeretetét már generációkon keresztül a családból hozom. Már gyerekkorom óta igazán érdekelt a fotózás és a szívem mélyén mindig szerettem volna hivatásos fotós lenni. Sikerült a világ számos csodálatos helyére eljutnom és a fényképezés iránti szenvedélyemet rengeteg gyönyörű kép készítésében kiélnem.\n<br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1d"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "55",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-3171-nportr-a-1400x934.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Az életembe a csodás fordulatot a várandósságom hozta, amikor úgy döntöttem, hogy tantermi keretek között fotográfus végzettséget is szerzek. Nagy örömömre a férjem is csatlakozott, így egy csapattá váltunk. Hálás köszönet a drága kisfiúnknak, akinek születése lehetővé tette az álmunk megvalósulását. \n<br>Édesanyaként kezdtem el az élet legcsodálatosabb pillanatait megörökíteni, mint a babavárást, az újszülöttek első mosolyát, a babák, gyerekek őszinte világát, és a családokban az egymás iránti szeretet meghitt pillanatait. \n<br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1k",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
           }
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "41",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-3899-edit-1400x2100.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Számomra minden ember egy történet. Szeretem meglátni és kifejezni a bennük lévő egyediséget és szépséget olyan képekben, melyek örök emlékek maradnak az utódoknak is.<br>Folyamatosan fejlesztem és képzem magamat, minden fotózásba újdonságot viszek bele és az egyediség varázsára törekszem. \n<br>Szeretettel várlak, ha szeretnél magadról, illetve a családodról szép képeket, vagy, ha esetleg szeretetted szeretnéd meglepni egy fotózással. \n<br>Előre is köszönöm, hogy megtekinted a honlapomat, ha szeretnél több fotót látni és az aktuális akciókról, nyereményjátékokról értesülni, akkor, kérlek, szépen kövess a Facebook és Instagram oldalamon is. &nbsp;&nbsp;<br><br><br><br><br><br><br><br><br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1l"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "meta_descr": "Web Page Generator Description",
+        "title": "Kapcsolat",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-d\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Karácsonyi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Keresztelő</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">RÓLAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-9\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-9\">KAPCSOLAT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Téma"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bblogo-388x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1m"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-1n"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "Adatvédelmi szabályzat",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-d\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Karácsonyi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-6\">Keresztelő</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">RÓLAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-9\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-9\">KAPCSOLAT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Téma"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bblogo-388x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1o"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-1p"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1r"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Adatvédelmi tájékoztató",
+          "meta": "2020. január",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1q"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><span style=\"font-size: 1.07rem;\">Jelen Adatkezelési Nyilatkozat célja, hogy a hírlevélre feliratkozók által megadott, a Duna-Dráva Nemzeti Park Igazgatóság által kezelt személyes adatok és egyéb adatok kezelésére vonatkozó elveket és szabályokat meghatározza.</span><br></p><p>\n</p><p>A jelen adatkezelési tájékoztató az önkéntes hozzájárulással megadott, hírlevél kiküldéséhez kapcsolódó adatok tárolására és kezelésére vonatkozik. A személyes adatok kezelését az alábbi alapelvek betartása mellett végzi:\n</p><p>\n</p><p>Személyes adat kizárólag meghatározott célból, jog gyakorlása és kötelezettség teljesítése érdekében kezelhető. Az adatkezelésnek minden szakaszában meg kell felelnie az adatkezelés céljának, az adatok felvételének és kezelésének tisztességesnek és törvényesnek kell lennie.\n</p><p>Csak olyan személyes adat kezelhető, amely az adatkezelés céljának megvalósulásához elengedhetetlen, a cél elérésére alkalmas. A személyes adat csak a cél megvalósulásához szükséges mértékben és ideig kezelhető.\n</p><p>A személyes adat az adatkezelés során mindaddig megőrzi e minőségét, amíg kapcsolata az érintettel helyreállítható. Az érintettel akkor helyreállítható a kapcsolat, ha az adatkezelő rendelkezik azokkal a technikai feltételekkel, amelyek a helyreállításhoz szükségesek.\n</p><p>Az adatkezelés során biztosítani kell az adatok pontosságát, teljességét és - ha az adatkezelés céljára tekintettel szükséges - naprakészségét, valamint azt, hogy az érintettet csak az adatkezelés céljához szükséges ideig lehessen azonosítani.</p><p><br></p><p>\n</p><p>I. ÁLTALÁNOS RENDELKEZÉSEK\n</p><p>Az adatkezelő megnevezése: Brandt Beáta (továbbiakban: Adatkezelő)\n</p><p>Az Adatkezelő címe: 7625 Pécs, Tettye tér 9.\n</p><p>Az Adatkezelő elérhetőségei:\n</p><p>postacím: 7602 Pécs, Pf. 312.\n</p><p>telefon: 72/517-200, 30/288-1308\n</p><p>e-mail: dunadrava@ddnp.hu\n</p><p>tel: 72/517-200, 30/288-1308\n</p><p>honlap: ddnp.hu\n</p><p>Az adatkezelés jogalapja: az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 5. § (1) bekezdés a) pontja alapján az érintett hozzájárulása\n</p><p>Adatkezeléssel érintettek köre: hírlevélre feliratkozók\n</p><p>\n</p><p>Hozzájárulás az adatkezeléshez: A Felhasználók kifejezetten hozzájárulnak ahhoz, hogy személyes adatait az Adatkezelő a jelen tájékoztatóban írt módon kezelje.\n</p><p>Az adatkezelés célja: tájékoztató elküldése emailben, kapcsolatfelvétel és hírlevél küldés.\n</p><p>Az adatkezelés módja: automatizált adatfeldolgozás</p><p><br></p><p>\n</p><p>\n</p><p>2. A KEZELT SZEMÉLYES ADATOK KÖRE:\n</p><p>A felhasználói önkéntes adatszolgáltatás során az alábbi adatokat adhatja meg (önkéntes alapon):\n</p><p>\n</p><p>a felhasználó neve - aki az üzenetet írja – cél: kapcsolatfelvétel, azonosítás\n</p><p>e-mail címe – cél: kapcsolatfelvétel, tájékoztató megküldése, hírlevél küldése</p><p><br></p><p>\n</p><p>3. AZ ADATFELDOLGOZÓK (AZ ADATKEZELÉSI MŰVELETEKHEZ KAPCSOLÓDÓ TECHNIKAI FELADATOKAT VÉGZŐK) SZEMÉLYE:\n</p><p><br></p><p>\n</p><p>4. AZ ADATKEZELÉS IDŐTARTAMA:\n</p><p>A megadott adatokat határozatlan ideig vagy az érintett hozzájárulásának visszavonásáig kezeli az Adatkezelő.</p><p><br></p><p>\n</p><p>\n</p><p>5. ADATTOVÁBBÍTÁS KÜLFÖLDRE:\n</p><p>Nem történik adattovábbítás.</p><p><br></p><p>\n</p><p>\n</p><p>6. AZ ÉRINTETTEK JOGAI:</p><p><span style=\"font-size: 1.07rem;\">Az érintett kérelmezheti az Adatkezelőnél:</span><br></p><p>\n</p><p>tájékoztatását személyes adatai kezeléséről,\n</p><p>személyes adatainak helyesbítését, valamint\n</p><p>személyes adatainak törlését vagy zárolását.\n</p><p>Az érintett kérelmére az Adatkezelő tájékoztatást ad az érintett általa kezelt, illetve az általa vagy rendelkezése szerint megbízott adatfeldolgozó által feldolgozott adatairól, azok forrásáról, az adatkezelés céljáról, jogalapjáról, időtartamáról, az adatfeldolgozó nevéről, címéről és az adatkezeléssel összefüggő tevékenységérők, továbbá - az érintett személyes adatainak továbbítása esetén - az adattovábbítás jogalapjáról és címzettjéről.\n</p><p>\n</p><p>Adatvédelmi incidens esetén az Adatkezelő tájékoztatást ad az érintetteknek az adatvédelmi incidens körülményeiről, hatásairól és az elhárítására megtett intézkedésekről.\n</p><p>\n</p><p>Az Adatkezelő - ha belső adatvédelmi felelőssel rendelkezik, a belső adatvédelmi felelős útján - az adatvédelmi incidenssel kapcsolatos intézkedések ellenőrzése, valamint az érintett tájékoztatása céljából nyilvántartást vezet, amely tartalmazza az érintett személyes adatok körét, az adatvédelmi incidenssel érintettek körét és számát, az adatvédelmi incidens időpontját, körülményeit, hatásait és az elhárítására megtett intézkedéseket, valamint az adatkezelést előíró jogszabályban meghatározott egyéb adatokat.\n</p><p>\n</p><p>Az Adatkezelő köteles a kérelem benyújtásától számított legrövidebb idő alatt, legfeljebb azonban 25 napon belül, közérthető formában, az érintett erre irányuló kérelmére írásban megadni a tájékoztatást.\n</p><p>\n</p><p>A tájékoztatás ingyenes, ha a tájékoztatást kérő a folyó évben azonos adatkörre vonatkozó tájékoztatási kérelmet az Adatkezelőhöz még nem nyújtott be. Egyéb esetekben az Adatkezelő költségtérítést állapíthat meg.\n</p><p>\n</p><p>Az Adatkezelő a személyes adatot törli, ha\n</p><p>\n</p><p>kezelése jogellenes;\n</p><p>az érintett kéri;\n</p><p>az hiányos vagy téves - és ez az állapot jogszerűen nem orvosolható -, feltéve, hogy a törlést törvény nem zárja ki;\n</p><p>az adatkezelés célja megszűnt, vagy az adatok tárolásának törvényben meghatározott határideje lejárt;\n</p><p>azt a bíróság vagy a Hatóság elrendelte.\n</p><p>A helyesbítésről, a zárolásról, a megjelölésről és a törlésről az érintettet, továbbá mindazokat értesíteni kell, akiknek korábban az adatot adatkezelés céljára továbbították. Az értesítés mellőzhető, ha ez az adatkezelés céljára való tekintettel az érintett jogos érdekét nem sérti.\n</p><p>\n</p><p>Ha az Adatkezelő az érintett helyesbítés, zárolás vagy törlés iránti kérelmét nem teljesíti, a kérelem kézhezvételét követő 30 napon belül írásban vagy az érintett hozzájárulásával elektronikus úton közli a helyesbítés, zárolás vagy törlés iránti kérelem elutasításának ténybeli és jogi indokait. A helyesbítés, törlés vagy zárolás iránti kérelem elutasítása esetén az Adatkezelő tájékoztatja az érintettet a bírósági jogorvoslat, továbbá a Hatósághoz fordulás lehetőségéről.\n</p><p>\n</p><p><br></p>",
+          "text2": "<p>7. TILTAKOZÁS A SZEMÉLYES ADATOK KEZELÉSE ELLEN:\r</p><p>Az érintett tiltakozhat személyes adatának kezelése ellen,\r</p><p>ha a személyes adatok kezelése vagy továbbítása kizárólag az Adatkezelőre vonatkozó jogi kötelezettség teljesítéséhez vagy az Adatkezelő, adatátvevő vagy harmadik személy jogos érdekének érvényesítéséhez szükséges, kivéve kötelező adatkezelés esetén;\r</p><p>ha a személyes adat felhasználása vagy továbbítása közvetlen üzletszerzés, közvélemény-kutatás vagy tudományos kutatás céljára történik; valamint\r</p><p>törvényben meghatározott egyéb esetben.\r</p><p>Az Adatkezelő a tiltakozást a kérelem benyújtásától számított legrövidebb időn belül, de legfeljebb 15 napon belül megvizsgálja, annak megalapozottsága kérdésében döntést hoz, és döntéséről a kérelmezőt írásban tájékoztatja.\r</p><p>Ha az Adatkezelő az érintett tiltakozásának megalapozottságát megállapítja, az adatkezelést - beleértve a további adatfelvételt és adattovábbítást is - megszünteti, és az adatokat zárolja, valamint a tiltakozásról, továbbá az annak alapján tett intézkedésekről értesíti mindazokat, akik részére a tiltakozással érintett személyes adatot korábban továbbította, és akik kötelesek intézkedni a tiltakozási jog érvényesítése érdekében.\r</p><p>Ha az érintett az Adatkezelő meghozott döntésével nem ért egyet, illetve ha az Adatkezelő a fenti határidőt elmulasztja, az érintett - a döntés közlésétől, illetve a határidő utolsó napjától számított 30 napon belül bírósághoz fordulhat.\r</p><p>Amennyiben az érintett személyes adatai kezelése ellen tiltakozik, avagy bírósági jogorvoslattal él, továbbá amennyiben harmadik személytől olyan adatközlésre irányuló megkeresés érkezik, mely nem az érintett hozzájárulásán alapul, úgy a fentiek jogszerűségének elbírálásához szükséges körben az adatok az Adatkezelő által megbízott jogi képviselők részére is kiadhatók.\r</p><p>8. BÍRÓSÁGI JOGORVOSLAT:\r</p><p>Kérjük a tisztelt Felhasználókat, hogy amennyiben úgy érzik, hogy az Adatkezelő megsértette a személyes adatok védelméhez fűződő jogaikat, akkor vegyék fel velünk a kapcsolatot, hogy az esetleges jogsértést orvosolhassuk.\r</p><p>Tájékoztatjuk a Felhasználókat továbbá, hogy az érintett a jogainak megsértése esetén az Adatkezelő ellen bírósághoz fordulhat. A bíróság az ügyben soron kívül jár el. A per elbírálása a törvényszék hatáskörébe tartozik. A per az Adatkezelő székhelye szerinti, vagy az érintett választása szerint az érintett lakóhelye vagy tartózkodási helye szerinti törvényszék előtt is megindítható. A perben fél lehet az is, akinek egyébként nincs perbeli jogképessége.\r</p><p>Ha az Adatkezelő az érintett adatainak jogellenes kezelésével vagy az adatbiztonság követelményeinek megszegésével másnak kárt okoz, köteles azt megtéríteni. Ha az Adatkezelő az érintett adatainak jogellenes kezelésével vagy az adatbiztonság követelményeinek megszegésével az érintett személyiségi jogát megsérti, az érintett az Adatkezelőtől sérelemdíjat követelhet. Az Adatkezelő mentesül az okozott kárért való felelősség és a sérelemdíj megfizetésének kötelezettsége alól, ha bizonyítja, hogy a kárt vagy az érintett személyiségi jogának sérelmét az adatkezelés körén kívül eső elháríthatatlan ok idézte elő. Nem kell megtéríteni a kárt és nem követelhető a sérelemdíj annyiban, amennyiben a kár a károsult vagy a személyiségi jog megsértésével okozott jogsérelem az érintett szándékos vagy súlyosan gondatlan magatartásából származott.\r</p><p>9. HATÓSÁG ELJÁRÁSA:\r</p><p>Az érintett panasszal fordulhat, ill. tájékoztatást kérhet a Hatóságtól is: \r</p><p>Név: Nemzeti Adatvédelmi és Információs Hatóság\r</p><p>Székhely: 1125 Budapest Szilágyi Erzsébet fasor 22/c.\r</p><p>Postacím: 1530 Budapest, Pf.: 5.\r</p><p>Email:\r</p><p>Telefon: +36 (1) 391-1400\r</p><p>Fax: +36 (1) 391-1410\r</p><p>Honlap: http://naih.hu</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-1s"
         }
       ]
     }

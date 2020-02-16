@@ -1077,8 +1077,8 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 
 .mbr-slider .carousel-control {
   position: absolute;
-  width: 70px;
-  height: 70px;
+  width: 35px;
+  height: 35px;
   top: 50%;
   margin-top: -35px;
   line-height: 70px;
