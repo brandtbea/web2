@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "ujszulott_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -46,7 +46,7 @@
       "colorText": "#a7a7a7",
       "colorLink": "#149dcc",
       "underlineLink": false,
-      "text": "Az <a href='policy.html'>Adatvédelmi szabályzatot</a> megismertem és elfogadom."
+      "text": "Az <a href='adatvedelem.html'>Adatvédelmi szabályzatot</a> megismertem és elfogadom."
     }
   },
   "pages": {
@@ -542,7 +542,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-4311-edit-pecs-gyermekfotozas-2000x1333.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -662,7 +662,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/-mg-7748-1-cicafoto-catphoto-2000x1333.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -797,7 +797,7 @@
             "paddingBottom": "1",
             "columns": "4",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -910,7 +910,7 @@
             "paddingBottom": "1",
             "columns": "4",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -1286,7 +1286,7 @@
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#2e2e2e",
@@ -1335,7 +1335,7 @@
             "paddingTop": "1",
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#3c3c3c",
@@ -1777,10 +1777,10 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#2e2e2e",
             "overlay": true,
             "overlayColor": "#ffffff",
@@ -1811,7 +1811,7 @@
           "_anchor": "contacts1-1w",
           "_styles": {
             "P": {
-              "color": "#211e1e"
+              "color": "#acacac"
             }
           }
         },
@@ -1914,7 +1914,7 @@
             "paddingTop": "1",
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#3c3c3c",
@@ -1936,7 +1936,7 @@
         }
       ]
     },
-    "page2.html": {
+    "rolam.html": {
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "Rólam",
@@ -2042,7 +2042,7 @@
             "paddingTop": "1",
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#3c3c3c",
@@ -2086,7 +2086,7 @@
             "paddingBottom": "0",
             "columns": "2",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -2193,7 +2193,7 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#F2F2F2",
@@ -2245,7 +2245,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -2302,7 +2302,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#efefef",
@@ -2348,10 +2348,10 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#2e2e2e",
             "overlay": true,
             "overlayColor": "#ffffff",
@@ -2382,13 +2382,13 @@
           "_anchor": "contacts1-1w",
           "_styles": {
             "P": {
-              "color": "#211e1e"
+              "color": "#acacac"
             }
           }
         }
       ]
     },
-    "page3.html": {
+    "kapcsolat.html": {
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "Kapcsolat",
@@ -2494,7 +2494,7 @@
             "paddingTop": "1",
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#3c3c3c",
@@ -2518,10 +2518,10 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#2e2e2e",
             "overlay": true,
             "overlayColor": "#ffffff",
@@ -2552,13 +2552,13 @@
           "_anchor": "contacts1-1w",
           "_styles": {
             "P": {
-              "color": "#211e1e"
+              "color": "#acacac"
             }
           }
         }
       ]
     },
-    "page4.html": {
+    "adatvedelem.html": {
       "settings": {
         "meta_descr": "A fotózás iránt érdeklődők kapcsolati adatainak adatvédelmi téjékoztatója.",
         "title": "Adatvédelmi tájékoztató",
@@ -2664,7 +2664,7 @@
             "paddingTop": "1",
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#3c3c3c",
@@ -2735,10 +2735,10 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#2e2e2e",
             "overlay": true,
             "overlayColor": "#ffffff",
@@ -2769,13 +2769,13 @@
           "_anchor": "contacts1-1w",
           "_styles": {
             "P": {
-              "color": "#211e1e"
+              "color": "#acacac"
             }
           }
         }
       ]
     },
-    "page5.html": {
+    "velemenyek.html": {
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Vélemények",
@@ -2881,7 +2881,7 @@
             "paddingTop": "1",
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#3c3c3c",
@@ -3076,10 +3076,10 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#2e2e2e",
             "overlay": true,
             "overlayColor": "#ffffff",
@@ -3110,7 +3110,7 @@
           "_anchor": "contacts1-1w",
           "_styles": {
             "P": {
-              "color": "#211e1e"
+              "color": "#acacac"
             }
           }
         }
