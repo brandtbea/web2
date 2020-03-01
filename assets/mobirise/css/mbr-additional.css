@@ -468,7 +468,10 @@ section.form .container {
   margin: 0 -15px;
 }
 #msg-box5-14 P {
-  text-align: left;
+  text-align: right;
+}
+#msg-box5-14 H3 {
+  font-size: 30px;
 }
 #header3-t .mbr-section-title,
 #header3-t .mbr-section-subtitle {
@@ -879,7 +882,7 @@ section.form .container {
 
 
 #msg-box5-21 H3 {
-  font-size: 32px;
+  font-size: 30px;
   text-align: center;
 }
 #header3-24 .mbr-section-title,
@@ -967,7 +970,10 @@ section.form .container {
 
 
 #msg-box5-3d H3 {
-  font-size: 36px;
+  font-size: 30px;
+}
+#msg-box5-3d P {
+  text-align: center;
 }
 #header3-3g .mbr-section-title,
 #header3-3g .mbr-section-subtitle {
@@ -1054,7 +1060,7 @@ section.form .container {
 
 
 #msg-box5-2x H3 {
-  font-size: 32px;
+  font-size: 30px;
 }
 #header3-30 .mbr-section-title,
 #header3-30 .mbr-section-subtitle {
@@ -1140,7 +1146,7 @@ section.form .container {
 
 
 #msg-box5-2p H3 {
-  font-size: 36px;
+  font-size: 30px;
 }
 #header3-2s .mbr-section-title,
 #header3-2s .mbr-section-subtitle {
@@ -1225,6 +1231,9 @@ section.form .container {
 }
 
 
+#msg-box5-29 H3 {
+  font-size: 30px;
+}
 #header3-2c .mbr-section-title,
 #header3-2c .mbr-section-subtitle {
   text-align: center;
@@ -1399,10 +1408,10 @@ section.form .container {
 
 
 #msg-box5-35 H3 {
-  font-size: 36px;
+  font-size: 30px;
 }
 #msg-box5-35 P {
-  text-align: left;
+  text-align: right;
 }
 #header3-38 .mbr-section-title,
 #header3-38 .mbr-section-subtitle {
@@ -1569,6 +1578,13 @@ section.form .container {
 #msg-box5-d H3 {
   text-align: left;
   font-size: 30px;
+}
+#header3-3t .mbr-section-title,
+#header3-3t .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3t .mbr-section-title {
+  font-size: 36px;
 }
 #header6-n .mbr-section-title {
   color: #28262b;
