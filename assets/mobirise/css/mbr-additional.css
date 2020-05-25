@@ -1613,12 +1613,15 @@ section.form .container {
 
 
 #msg-box5-2p H3 {
-  font-size: 30px;
+  font-size: 24px;
   text-align: center;
 }
 #msg-box5-2p I {
   font-size: 17px;
   font-family: 'Raleway', sans-serif;
+}
+#msg-box5-2p P {
+  text-align: center;
 }
 #header3-42 .mbr-section-title,
 #header3-42 .mbr-section-subtitle {

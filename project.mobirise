@@ -8136,7 +8136,7 @@
         {
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false,
             "inverse": false,
             "imageSize": "62",
@@ -8176,8 +8176,8 @@
               "size": 0
             }
           },
-          "title": "ESKÜVŐ ÉS KERESZTELŐ FOTÓZÁS<br><i style=\"font-weight: normal;\">...életed egyszeri és megismételhetetlen pillanatai...</i>",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "title": "ESKÜVŐ ÉS KERESZTELŐ FOTÓZÁS<br><br>",
+          "text": "<i>...életed egyszeri és megismételhetetlen pillanatai...&nbsp;</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -8186,13 +8186,16 @@
           "_anchor": "msg-box5-2p",
           "_styles": {
             "H3": {
-              "font-size": "30px",
+              "font-size": "24px",
               "text-align": "center"
             },
             "I": {
               "font-size": "17px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "P": {
+              "text-align": "center"
             }
           }
         },
