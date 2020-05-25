@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "unnepi_fotozas.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -7726,11 +7726,11 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-mg-1050-edit-keresztelo-christening-2-600x900.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mg-1881-edit-uj-eskuvoifoto-weddingphoto-800x1200.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "keresztelo_fenykepezes.html",
+              "link": "eskuvo_keresztelo_fenykepezes.html",
               "alt": "Keresztelő fotók",
               "title": "Keresztelő fotózás",
               "linkInNewWindow": false
