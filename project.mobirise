@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "eskuvo_keresztelo_fenykepezes.html",
+    "currentPage": "ujszulott_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -2025,7 +2025,10 @@
           "_anchor": "msg-box5-21",
           "_styles": {
             "H3": {
-              "font-size": "30px",
+              "font-size": "24px",
+              "text-align": "center"
+            },
+            "P": {
               "text-align": "center"
             }
           }

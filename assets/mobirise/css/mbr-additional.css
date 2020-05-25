@@ -889,7 +889,10 @@ section.form .container {
 
 
 #msg-box5-21 H3 {
-  font-size: 30px;
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-21 P {
   text-align: center;
 }
 #header3-3v .mbr-section-title,
