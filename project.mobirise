@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "ujszulott_fotozas.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -7942,7 +7942,7 @@
             "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"velemenyek.html\" data-toolbar=\"-mbrBtnMove\">OLVASS TOVÁBBI VÉLEMÉNYEK</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"velemenyek.html\" data-toolbar=\"-mbrBtnMove\">OLVASS TOVÁBBI VÉLEMÉNYEKET</a> ",
           "_tags": [
             "Theme"
           ],
