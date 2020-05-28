@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "ujszulott_fotozas.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1847,7 +1847,7 @@
               "text": "\"Szívből ajánlom mindenkinek! Tökéletes képeket készít, könnyedén elkapja a megfelelő pillanatot, amit sok fotósnak csak nehezen,vagy egyáltalán nem sikerül elcsípnie. Az eddigi közös projektjeink mindig jó hangulatban teltek,és szuper lett a végeredmény is. De a képek magukért beszélnek!\"&nbsp;",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/img-0894-low-key-portre-portrait-800x1200.jpeg",
+                  "src": "@PROJECT_PATH@/assets/images/img-1034-modellfotozas-modellphotoshoot.jpeg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -1881,7 +1881,7 @@
               "text": "\"Élvezetes volt a fotózás és csodálatos képek készültek! Csak ajánlani tudom mindenkinek! Köszönjük szépen. 😊\"",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/img-7698-2-csaladfoto-familyshoot-2-800x533.jpeg",
+                  "src": "@PROJECT_PATH@/assets/images/img-7698-2-csaladfoto-familyshoot-4-800x533.jpeg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -1898,7 +1898,7 @@
               "text": "\"Bea nagyon kedves, jó hangulatban telt a lányok fotózása. Szuper képek készültek róluk!\"&nbsp;",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/img-5745-gyerekfoto-kidphotography-107x160.jpeg",
+                  "src": "@PROJECT_PATH@/assets/images/img-5745-gyerekfoto-kidphotography-1-107x160.jpeg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -1915,7 +1915,7 @@
               "text": "\"Kedves fotós! ♥ Szuper képek készültek ;-) Köszönöm szépen.\"&nbsp;",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/img-5518-pocakfoto-bellyphoto-600x900.jpeg",
+                  "src": "@PROJECT_PATH@/assets/images/img-5518-pocakfoto-bellyphoto-1-600x900.jpeg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -1932,7 +1932,7 @@
               "text": "\"Nagyon kedvesek mindig több képüket láttam a precizításra és a jó beállításokra mennek\r<div>Emellett nagyon jól is éreztem magam köszönöm szépen. 😊\"</div>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/img-7266-edit-800x1200.jpeg",
+                  "src": "@PROJECT_PATH@/assets/images/img-7266-edit-1-800x1200.jpeg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
