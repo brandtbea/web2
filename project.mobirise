@@ -1769,7 +1769,7 @@
           "_params": {
             "showTitle": true,
             "showSubtitle": true,
-            "showImages": false,
+            "showImages": true,
             "showName": true,
             "showBio": false,
             "count": "9",
@@ -1796,11 +1796,14 @@
               "text": "\"Mindenkinek csak ajánlani tudom! Kedves, közvetlen, precíz. Amellett, hogy szuper képek készülnek a fotózás is nagyon jó hangulatban telik.😊\"",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/img-0530-portrefotos-portraitphotographer-1-800x1200.jpeg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
                 }
               }
             },
@@ -1810,11 +1813,14 @@
               "text": "<p>“Rugalmas és innovatív, olyan képek születtek a lányaimról, amilyenek a valóságban is. A képei letisztultak és remekül elkapja azokat a pillanatokat, ahol látszanak az egyéniségük.\"</p>",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/img-6761-edit-csaldifotozas-familiefoto-1-800x533.jpeg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
                 }
               }
             },
@@ -1824,11 +1830,14 @@
               "text": "\"Nagyon szép képeket kaptunk, pocakosból és újszülött képekből is:) Köszönjük!\"",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/img-4256-1-pocakfoto-pregnantphoto-800x1200.jpeg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
                 }
               }
             },
@@ -1838,11 +1847,14 @@
               "text": "\"Szívből ajánlom mindenkinek! Tökéletes képeket készít, könnyedén elkapja a megfelelő pillanatot, amit sok fotósnak csak nehezen,vagy egyáltalán nem sikerül elcsípnie. Az eddigi közös projektjeink mindig jó hangulatban teltek,és szuper lett a végeredmény is. De a képek magukért beszélnek!\"&nbsp;",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/img-0894-low-key-portre-portrait-800x1200.jpeg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
                 }
               }
             },
@@ -1852,11 +1864,14 @@
               "text": "\"Nagyon kedves, aranyos fotós. Képei nagyon szép színekben pompáznak és a pillanatokat is nagyon jó elkapja. Élveztük a keresztelős fotózást.\"&nbsp;",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/mg-1085-keresztelo-christeningphoto-800x533.jpeg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
                 }
               }
             },
@@ -1866,11 +1881,14 @@
               "text": "\"Élvezetes volt a fotózás és csodálatos képek készültek! Csak ajánlani tudom mindenkinek! Köszönjük szépen. 😊\"",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/img-7698-2-csaladfoto-familyshoot-1-800x533.jpeg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
                 }
               }
             },
@@ -1880,11 +1898,14 @@
               "text": "\"Bea nagyon kedves, jó hangulatban telt a lányok fotózása. Szuper képek készültek róluk!\"&nbsp;",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/img-5745-gyerekfoto-kidphotography-107x160.jpeg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
                 }
               }
             },
@@ -1894,11 +1915,14 @@
               "text": "\"Kedves fotós! ♥ Szuper képek készültek ;-) Köszönöm szépen.\"&nbsp;",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/img-5518-pocakfoto-bellyphoto-600x900.jpeg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
                 }
               }
             },
@@ -1908,11 +1932,14 @@
               "text": "\"Nagyon kedvesek mindig több képüket láttam a precizításra és a jó beállításokra mennek\r<div>Emellett nagyon jól is éreztem magam köszönöm szépen. 😊\"</div>",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/img-7266-edit-800x1200.jpeg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
                 }
               }
             }
@@ -2971,26 +2998,6 @@
             }
           },
           "_anchor": "footer1-28"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "Title with Solid Background Color",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-3u"
         }
       ]
     },
@@ -7657,7 +7664,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"baba_gyermek_fotok.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">NÉZD MEG A TOVÁBBI KÉPEIMET<br></a>",
+          "button1": "<a data-app-btn=\"true\" href=\"baba_gyermek_fotok.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM<br></a>",
           "button2": "<a data-app-btn=\"true\" href=\"varandos_fotozas.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM<br></a>",
           "button3": "<a data-app-btn=\"true\" href=\"csaladifoto.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM<br></a>",
           "button4": "<a data-app-btn=\"true\" href=\"portre_fotozas.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM</a>",
@@ -7855,7 +7862,7 @@
           "_params": {
             "showTitle": true,
             "showSubtitle": true,
-            "showImages": false,
+            "showImages": true,
             "showName": true,
             "showBio": false,
             "count": "3",
@@ -7879,7 +7886,7 @@
               "text": "<p>“Szívből ajánlom mindenkinek! Nagyon jó képeket készít, könnyedén elkapja a megfelelő pillanatot, amit sok fotósnak csak nehezen sikerül elkapnia. Ezenkívül közvetlen, barátságos, és végtelenül türelmes. De szerintem a képek magukért beszélnek!”</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/mbr-3-160x107.jpeg",
+                  "src": "@PROJECT_PATH@/assets/images/img-3885-1-csaladifoto-familyphoto-800x1195.jpeg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -7896,11 +7903,14 @@
               "text": "\"Már másodszor volt szerencsénk Beával dolgozni. 🥰 Nagyon türelmes, jól elkapja a pillanatokat, gyönyörű képeket csinált! 😊Ajánlom mindenkinek! Mi harmadszorra is vissza fogunk jönni. Nagyon köszönjük!\" 😘",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/mg-1810-apa-lanya-foto-familyphoto.jpeg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
                 }
               }
             },
@@ -7910,11 +7920,14 @@
               "text": "“Kedves, türelmes fotós. Élveztük a fotózást. Tetszettek a beállítások, klassz képek készültek nagyon jó minőségben. Baba, családi fotózásra egyaránt szívesen ajánljuk Beát!”",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/img-7006-edit-csaladifoto-familyphotos-1-800x550.jpeg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
                 }
               }
             }
