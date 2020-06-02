@@ -38,9 +38,9 @@
     "screenshot": "screenshot.png",
     "favicon": false,
     "noImageResize": false,
-    "siteUrl": "https://beatabrandt,hu",
+    "siteUrl": false,
     "robotsSwitcher": true,
-    "sitemapSwitcher": true,
+    "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
     "cookiesAlert": {
       "customDialogSelector": false,
@@ -81,7 +81,7 @@
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-9450-3-ujszulottfotos-newbornphotographer-2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img_9450-3_ujszulottfotos_newbornphotographer-2-2000x1333.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#efefef",
@@ -566,7 +566,7 @@
             }
           },
           "text1": "<br><br>",
-          "text2": "<b>Kapcsolat</b><b><br></b><br>E-mail: brandtbea12 @ gmail.com<br>Mobil: +36 (30) 416 7606&nbsp;<br>",
+          "text2": "<b>Kapcsolat</b><b><br></b><br>E-mail: brandtbea12 @ gmail.com<br>Mobil: +36 (30) 416 7606&nbsp;<br>m.me/beata.brandt.photography<br>Pécs<br><br>",
           "text3": "<br><br>",
           "_tags": [
             "Theme"
@@ -1150,7 +1150,7 @@
             }
           },
           "text1": "<br><br>",
-          "text2": "<b>Kapcsolat</b><b><br></b><br>E-mail: brandtbea12 @ gmail.com<br>Mobil: +36 (30) 416 7606&nbsp;<br>",
+          "text2": "<b>Kapcsolat</b><b><br></b><br>E-mail: brandtbea12 @ gmail.com<br>Mobil: +36 (30) 416 7606&nbsp;<br>m.me/beata.brandt.photography<br>Pécs<br><br>",
           "text3": "<br><br>",
           "_tags": [
             "Theme"
@@ -1387,7 +1387,7 @@
             }
           },
           "text1": "<br><br>",
-          "text2": "<b>Kapcsolat</b><b><br></b><br>E-mail: brandtbea12 @ gmail.com<br>Mobil: +36 (30) 416 7606&nbsp;<br>",
+          "text2": "<b>Kapcsolat</b><b><br></b><br>E-mail: brandtbea12 @ gmail.com<br>Mobil: +36 (30) 416 7606&nbsp;<br>m.me/beata.brandt.photography<br>Pécs<br><br>",
           "text3": "<br><br>",
           "_tags": [
             "Theme"
@@ -1606,7 +1606,7 @@
             }
           },
           "text1": "<br><br>",
-          "text2": "<b>Kapcsolat</b><b><br></b><br>E-mail: brandtbea12 @ gmail.com<br>Mobil: +36 (30) 416 7606&nbsp;<br>",
+          "text2": "<b>Kapcsolat</b><b><br></b><br>E-mail: brandtbea12 @ gmail.com<br>Mobil: +36 (30) 416 7606&nbsp;<br>m.me/beata.brandt.photography<br>Pécs<br><br>",
           "text3": "<br><br>",
           "_tags": [
             "Theme"
@@ -1976,7 +1976,7 @@
             }
           },
           "text1": "<br><br>",
-          "text2": "<b>Kapcsolat</b><b><br></b><br>E-mail: brandtbea12 @ gmail.com<br>Mobil: +36 (30) 416 7606&nbsp;<br>",
+          "text2": "<b>Kapcsolat</b><b><br></b><br>E-mail: brandtbea12 @ gmail.com<br>Mobil: +36 (30) 416 7606&nbsp;<br>m.me/beata.brandt.photography<br>Pécs<br><br>",
           "text3": "<br><br>",
           "_tags": [
             "Theme"
@@ -2746,42 +2746,6 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-5518-gyerekfotozas-kidportrait.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-5518-gyerekfotozas-kidportrait-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-5803-babafotozas-babyphotographer.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-5803-babafotozas-babyphotographer-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/mg-9668-childphotoshoot-gyerekfoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-9668-childphotoshoot-gyerekfoto-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
                 "active": true
               }
             ]
@@ -2865,7 +2829,7 @@
             }
           },
           "text1": "<br><br>",
-          "text2": "<b>Kapcsolat</b><b><br></b><br>E-mail: brandtbea12 @ gmail.com<br>Mobil: +36 (30) 416 7606&nbsp;<br>",
+          "text2": "<b>Kapcsolat</b><b><br></b><br>E-mail: brandtbea12 @ gmail.com<br>Mobil: +36 (30) 416 7606&nbsp;<br>m.me/beata.brandt.photography<br>Pécs<br><br>",
           "text3": "<br><br>",
           "_tags": [
             "Theme"
@@ -3018,7 +2982,7 @@
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-9450-3-ujszulottfotos-newbornphotographer-2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img_9450-3_ujszulottfotos_newbornphotographer-2-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#efefef",
@@ -3611,7 +3575,7 @@
             }
           },
           "text1": "<br><br>",
-          "text2": "<b>Kapcsolat</b><b><br></b><br>E-mail: brandtbea12 @ gmail.com<br>Mobil: +36 (30) 416 7606&nbsp;<br>",
+          "text2": "<b>Kapcsolat</b><b><br></b><br>E-mail: brandtbea12 @ gmail.com<br>Mobil: +36 (30) 416 7606&nbsp;<br>m.me/beata.brandt.photography<br>Pécs<br><br>",
           "text3": "<br><br>",
           "_tags": [
             "Theme"
@@ -3764,7 +3728,7 @@
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-9450-3-ujszulottfotos-newbornphotographer-2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img_9450-3_ujszulottfotos_newbornphotographer-2-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#efefef",
@@ -4436,7 +4400,7 @@
             }
           },
           "text1": "<br><br>",
-          "text2": "<b>Kapcsolat</b><b><br></b><br>E-mail: brandtbea12 @ gmail.com<br>Mobil: +36 (30) 416 7606&nbsp;<br>",
+          "text2": "<b>Kapcsolat</b><b><br></b><br>E-mail: brandtbea12 @ gmail.com<br>Mobil: +36 (30) 416 7606&nbsp;<br>m.me/beata.brandt.photography<br>Pécs<br><br>",
           "text3": "<br><br>",
           "_tags": [
             "Theme"
@@ -4589,7 +4553,7 @@
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-9450-3-ujszulottfotos-newbornphotographer-2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img_9450-3_ujszulottfotos_newbornphotographer-2-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#efefef",
@@ -5129,7 +5093,7 @@
             }
           },
           "text1": "<br><br>",
-          "text2": "<b>Kapcsolat</b><b><br></b><br>E-mail: brandtbea12 @ gmail.com<br>Mobil: +36 (30) 416 7606&nbsp;<br>",
+          "text2": "<b>Kapcsolat</b><b><br></b><br>E-mail: brandtbea12 @ gmail.com<br>Mobil: +36 (30) 416 7606&nbsp;<br>m.me/beata.brandt.photography<br>Pécs<br><br>",
           "text3": "<br><br>",
           "_tags": [
             "Theme"
@@ -5282,7 +5246,7 @@
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-9450-3-ujszulottfotos-newbornphotographer-2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img_9450-3_ujszulottfotos_newbornphotographer-2-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#efefef",
@@ -5876,7 +5840,7 @@
             }
           },
           "text1": "<br><br>",
-          "text2": "<b>Kapcsolat</b><b><br></b><br>E-mail: brandtbea12 @ gmail.com<br>Mobil: +36 (30) 416 7606&nbsp;<br>",
+          "text2": "<b>Kapcsolat</b><b><br></b><br>E-mail: brandtbea12 @ gmail.com<br>Mobil: +36 (30) 416 7606&nbsp;<br>m.me/beata.brandt.photography<br>Pécs<br><br>",
           "text3": "<br><br>",
           "_tags": [
             "Theme"
@@ -6029,7 +5993,7 @@
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-9450-3-ujszulottfotos-newbornphotographer-2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img_9450-3_ujszulottfotos_newbornphotographer-2-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#efefef",
@@ -6620,7 +6584,7 @@
             }
           },
           "text1": "<br><br>",
-          "text2": "<b>Kapcsolat</b><b><br></b><br>E-mail: brandtbea12 @ gmail.com<br>Mobil: +36 (30) 416 7606&nbsp;<br>",
+          "text2": "<b>Kapcsolat</b><b><br></b><br>E-mail: brandtbea12 @ gmail.com<br>Mobil: +36 (30) 416 7606&nbsp;<br>m.me/beata.brandt.photography<br>Pécs<br><br>",
           "text3": "<br><br>",
           "_tags": [
             "Theme"
@@ -6919,7 +6883,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/-mg-4730-1-noiportre-womanprotrait-2000x1333.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -7008,83 +6972,8 @@
                 "overlayOpacity": "0.1"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/-mg-2232-testverfoto-childphoto-1-2000x1333.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Újszülött fotózás",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/img-6761-edit-csaldifotozas-familiefoto-2000x1333.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Újszülött fotózás",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-0123-csaladifotozas-familyphotography-1-2000x1333.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Újszülött fotózás",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-3854-2-csaladifoto-familyphoto-1-2000x1333.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Újszülött fotózás",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-4506-gyerekfotos-kidphotographer-2000x1333.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Újszülött fotózás",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-7077-edit-csaladifotos-familyphotographer-1-2000x1333.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -7099,51 +6988,6 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/-mg-0596-newbornshoot-ujszulottfotozas-1-2000x1333.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Újszülött fotózás",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-5636-babafoto-babyphoto-1-2000x1333.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Újszülött fotózás",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-7802-gyerekfoto-kidphoto-1-2000x1333.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Újszülött fotózás",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-1955-edit-1-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -7173,52 +7017,7 @@
                 "overlayOpacity": "0.1"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-5547-ujszulott-csaladifoto-newborn-family-2000x1333.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Újszülött fotózás",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/img-3560-1-pp2-newbornphotograpy-ujszulottfotos-1-2000x1333.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Újszülött fotózás",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-3808-cicafoto-catphoto-2000x1333.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Újszülött fotózás",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-4610-szuletesnapifotos-birthdayphotoshoot-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -7278,51 +7077,6 @@
                 "overlayOpacity": "0.1"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-9450-3-ujszulottfotos-newbornphotographer-2-2000x1333.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Újszülött fotózás",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-5517-pocakfotozas-bellyphotoshoot-2000x1333.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Újszülött fotózás",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-2411-karacsonyifoto-christmasphoto-2000x1333.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<br><br><br><br>Újszülött fotózás",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Felirat",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/img-2126-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
@@ -7338,36 +7092,6 @@
                 "overlayOpacity": "0.1"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-5707-gyermekfotozas-kidportrait-1-2000x1333.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Újszülött fotózás",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-6923-babafenykep-babyportrait-2000x1175.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Újszülött fotózás",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/-mg-7748-1-cicafoto-catphoto-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
@@ -7379,21 +7103,6 @@
                 "overlay": false,
                 "contentAlign": "left",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/g85a3149-gyerekportre-macskaportre-kidportrait-catportrait.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<br><br><br><br>Újszülött fotózás",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Felirat",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.1"
               },
@@ -7886,7 +7595,7 @@
               "text": "<p>“Szívből ajánlom mindenkinek! Nagyon jó képeket készít, könnyedén elkapja a megfelelő pillanatot, amit sok fotósnak csak nehezen sikerül elkapnia. Ezenkívül közvetlen, barátságos, és végtelenül türelmes. De szerintem a képek magukért beszélnek!”</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/img-3885-1-csaladifoto-familyphoto-800x1195.jpeg",
+                  "src": "@PROJECT_PATH@/assets/images/img-3885-1-csaladifoto-familyphoto-1-800x1195.jpeg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -7903,7 +7612,7 @@
               "text": "\"Már másodszor volt szerencsénk Beával dolgozni. 🥰 Nagyon türelmes, jól elkapja a pillanatokat, gyönyörű képeket csinált! 😊Ajánlom mindenkinek! Mi harmadszorra is vissza fogunk jönni. Nagyon köszönjük!\" 😘",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/mg-1810-apa-lanya-foto-familyphoto.jpeg",
+                  "src": "@PROJECT_PATH@/assets/images/mg-1810-apa-lanya-foto-familyphoto-1.jpeg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -8159,7 +7868,7 @@
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-9450-3-ujszulottfotos-newbornphotographer-2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img_9450-3_ujszulottfotos_newbornphotographer-2-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#efefef",
@@ -8480,7 +8189,7 @@
             }
           },
           "text1": "<br><br>",
-          "text2": "<b>Kapcsolat</b><b><br></b><br>E-mail: brandtbea12 @ gmail.com<br>Mobil: +36 (30) 416 7606&nbsp;<br>",
+          "text2": "<b>Kapcsolat</b><b><br></b><br>E-mail: brandtbea12 @ gmail.com<br>Mobil: +36 (30) 416 7606&nbsp;<br>m.me/beata.brandt.photography<br>Pécs<br><br>",
           "text3": "<br><br>",
           "_tags": [
             "Theme"
