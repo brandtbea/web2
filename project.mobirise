@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "csaladifoto.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1108,7 +1108,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Számomra minden ember egy történet. Szeretem meglátni és kifejezni a bennük lévő egyediséget és szépséget olyan képekben, melyek örök emlékek maradnak az utódoknak is.<br><br>Folyamatosan fejlesztem és képzem magamat, minden fotózásba újdonságot viszek bele és az egyediség varázsára törekszem. <br>\n<br>Szeretettel várlak, ha szeretnél magadról, illetve a családodról szép képeket, vagy, ha esetleg szeretetted szeretnéd meglepni egy fotózással. <br>\n<br>Előre is köszönöm, hogy megtekinted a honlapomat, ha szeretnél több fotót látni és az aktuális akciókról, nyereményjátékokról értesülni, akkor, kérlek, szépen kövess a Facebook és Instagram oldalamon is. &nbsp;&nbsp;<br>",
+          "text": "Számomra minden ember egy történet. Szeretem meglátni és kifejezni a bennük lévő egyediséget és szépséget olyan képekben, melyek örök emlékek maradnak az utódoknak is.<br><br>Folyamatosan fejlesztem és képzem magamat, minden fotózásba újdonságot viszek bele és az egyediség varázsára törekszem. <br>\n<br>Szeretettel várlak, ha szeretnél magadról, illetve a családodról szép képeket, vagy, ha esetleg szeretetted szeretnéd meglepni egy fotózással Pécsen a stúdiómban vagy a természetben.&nbsp;<br>\n<br>Előre is köszönöm, hogy megtekinted a honlapomat, ha szeretnél több fotót látni és az aktuális akciókról, nyereményjátékokról értesülni, akkor, kérlek, szépen kövess a Facebook és Instagram oldalamon is. &nbsp;&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -5011,6 +5011,18 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a6331-familyphotograpy-csaladifotozas-pipacs-poppy-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a6331-familyphotograpy-csaladifotozas-pipacs-poppy-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -6972,21 +6984,6 @@
                 "overlayOpacity": "0.1"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-6761-edit-csaldifotozas-familiefoto-2000x1333.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Újszülött fotózás",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/-mg-0596-newbornshoot-ujszulottfotozas-1-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
@@ -7048,7 +7045,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-4311-edit-pecs-gyermekfotozas-2000x1333.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -7058,36 +7055,6 @@
                 "overlay": false,
                 "contentAlign": "left",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/-mg-4165-1-babakep-ocbaby-2000x1333.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Újszülött fotózás",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-2126-2000x1333.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<br><br><br><br>Újszülött fotózás",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Felirat",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.1"
               },
@@ -7123,6 +7090,21 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/g85a4352-csaladifoto-familyphoto-apa-fiu-foto.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Újszülött fotózás",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/g85a6331-familyphotograpy-csaladifotozas-pipacs-poppy-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -7445,14 +7427,13 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mg-1881-edit-uj-eskuvoifoto-weddingphoto-800x1200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a6104-weddingphoto-outdoor-eskuvoifoto-600x900.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "eskuvo_keresztelo_fenykepezes.html",
               "alt": "Keresztelő fotók",
-              "title": "Keresztelő fotózás",
-              "linkInNewWindow": false
+              "title": "Keresztelő fotózás"
             }
           },
           "media5": {
@@ -7968,7 +7949,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "...életed egyszeri és megismételhetetlen pillantai...",
+          "title": "...életed egyszeri és megismételhetetlen pillanatai...",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -7993,6 +7974,54 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a6105-weddingphotography-eskuvoifotos-outdoor-pecs-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a6105-weddingphotography-eskuvoifotos-outdoor-pecs-2000x3000-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-mg-1881-weddingphotography-eskuvofotozas-pecs-outdoor-szabadter-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-1881-weddingphotography-eskuvofotozas-pecs-outdoor-szabadter-2000x3000-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a6104-weddingphoto-outdoor-eskuvoifoto-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a6104-weddingphoto-outdoor-eskuvoifoto-2000x3000-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a6104-weddingphotoshoot-eskuvoifotozas-pecs-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a6104-weddingphotoshoot-eskuvoifotozas-pecs-2000x3000-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/mg-1072-keresztelofoto-christeningphoto.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-1072-keresztelofoto-christeningphoto-800x533.jpg",
                 "alt": "",
@@ -8005,8 +8034,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/mg-1041-edit-keresztelo-christening.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-1041-edit-keresztelo-christening-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-1085-keresztelo-christeningphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-1085-keresztelo-christeningphoto-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -8029,8 +8058,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/mg-1085-keresztelo-christeningphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-1085-keresztelo-christeningphoto-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-1041-edit-keresztelo-christening.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-1041-edit-keresztelo-christening-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -8067,18 +8096,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/img-1899-eskuvofotos-weddingphotographer-1.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-1899-eskuvofotos-weddingphotographer-1-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/mg-1881-edit-uj-eskuvoifoto-weddingphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-1881-edit-uj-eskuvoifoto-weddingphoto-800x1200.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
