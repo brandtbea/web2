@@ -6,6 +6,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 
 
 
@@ -1466,6 +1467,8 @@ section.form .container {
 
 
 
+
+
 #ext_menu-3 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1537,6 +1540,18 @@ section.form .container {
 }
 #slider-5 P {
   text-align: left;
+}
+#header3-47 .mbr-section-title,
+#header3-47 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-47 .mbr-section-title {
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Indie Flower', cursive;
+}
+#header3-47 .mbr-section-title I {
+  font-family: 'Lora', serif;
 }
 #msg-box5-d P {
   text-align: left;
