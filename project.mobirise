@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "ujszulott_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -487,8 +487,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<div><i><b>…egy új élet kezdete... az első mosoly... egy csöpp kis test... apró kis kezek és talpak.... babaillat...</b></i></div><div><br></div><div> \n</div><div>Egy csodálatos, hamar elillanó és soha vissza nem térő pár nap. \n</div><div>A fényképezésre a legideálisabb időszak a 4-14 nap. Ilyenkor még aluszékonyak, és nem mozognak annyit. A fotózást a kicsi hangulatához, kényelméhez és biztonságához igazítom. Csak biztonságos beállításokkal dolgozom. Végig ott lehettek mindketten a baba mellett, segíthettek az öltöztetésben, a beállításokban, bármikor megetetheted, felveheted, folyamatosan figyelek a baba igényeire. </div><div>Puha pamut és kötött ruhákat és sapkákat, hajpántokat használok, amelyek nem allergizálnak. Ha általad hozott ruhában szeretnéd, az is természetesen lehetséges.</div><div><br></div>",
-          "text2": "<div><br></div><div><br></div><div><br></div><div>A fotózás helyszíne Pécsen a stúdióm, ahol otthonos, meleg környezetben több fajta kellék közül választhatsz. Egyedi, letisztult fotókat készítek, amelynek a középpontjában a pici babátok szépsége és egyedisége áll. \n</div><div>Természetesen családi és testvér képek készítésére is lehetőség van. Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra. \n</div><div>Ha szeretnéd ezt a gyorsan múló különlegesen törékeny időszakot megörökíttetni, akkor kérlek szépen, ha lehet már a várható születés időpontja előtt egyeztessünk, illetve a szülést követően is. </div><div>Várlak Benneteket szeretettel!\n</div><div><br></div>",
+          "text1": "<div><i><b>…egy új élet kezdete... az első mosoly... egy csöpp kis test... apró kis kezek és talpak.... babaillat...</b></i></div><div><br></div><div> \n</div><div>Egy csodálatos, hamar elillanó és soha vissza nem térő pár nap. \n</div><div>A fényképezésre a legideálisabb időszak a 4-14 nap. Ilyenkor még aluszékonyak, és nem mozognak annyit. A fotózást a kicsi hangulatához, kényelméhez és biztonságához igazítom. Csak biztonságos beállításokkal dolgozom. Végig ott lehettek mindketten a baba mellett, segíthettek az öltöztetésben, a beállításokban, bármikor megetetheted, felveheted, folyamatosan figyelek a baba igényeire. </div><div>Puha pamut és kötött ruhákat és sapkákat, hajpántokat használok, amelyek nem allergizálnak. Ha általad hozott ruhában szeretnéd, az is természetesen lehetséges. </div><div>A fotózás helyszíne Pécsen a stúdióm, ahol otthonos, meleg környezetben több fajta kellék közül választhatsz.</div><div><br></div>",
+          "text2": "<div><br></div><div><br></div><div><br></div><div><span style=\"font-size: 1.07rem;\">Egyedi, letisztult fotókat készítek, amelynek a középpontjában a pici babátok szépsége és egyedisége áll.</span><br></div><div>Természetesen családi és testvér képeket is szívesen készítek. A családi fotók számomra mindig nagyon fontos részei az újszülöttfotózásnak, hiszen ezek lesznek később gyermekeitek legnagyobb kincsei.</div><div> Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra. \n</div><div>Ha szeretnéd ezt a gyorsan múló különlegesen törékeny időszakot megörökíttetni, akkor kérlek szépen, ha lehet már a várható születés időpontja előtt egyeztessünk, illetve a szülést követően is. </div><div>Várlak Benneteket szeretettel!</div><div>\n</div><div><br></div>",
           "_tags": [
             "Theme"
           ],
@@ -4938,7 +4938,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -4986,19 +4986,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a3678-apa-fia-foto-dady-son-photo.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a3678-apa-fia-foto-dady-son-photo-800x1200.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Creative",
