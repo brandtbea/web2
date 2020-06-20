@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "ujszulott_fotozas.html",
+    "currentPage": "kapcsolat.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -66,8 +66,8 @@
   "pages": {
     "ujszulott_fotozas.html": {
       "settings": {
-        "meta_descr": "Brandt Beáta fotográfus. Újszülött fotózás bababarát stúdióban. Egyedi újszülött, baba, gyermek, kismama, családi, portré, esküvő fotózás stúdióban és szabadtéren Pécsen.\n",
-        "title": "Újszülött fotózás",
+        "meta_descr": "Brandt Beáta újszülött fotográfus, Pécs. Újszülött fotózás bababarát stúdióban. Egyedi újszülött, baba, gyermek, kismama, családi, portré, esküvő fotózás stúdióban és szabadtéren Pécsen.\n",
+        "title": "Újszülött fotózás Pécs",
         "order": 5
       },
       "components": [
@@ -1168,8 +1168,8 @@
     },
     "kapcsolat.html": {
       "settings": {
-        "meta_descr": "Kapcsolat: Brandt Beáta email: brandtbea12@gmail.com",
-        "title": "Kapcsolat",
+        "meta_descr": "Kapcsolat: Brandt Beáta fotográfus, Pécs email: brandtbea12@gmail.com",
+        "title": "Kapcsolat Beata Brandt Photographer Pécs",
         "order": 3
       },
       "components": [
@@ -1624,7 +1624,7 @@
     },
     "velemenyek.html": {
       "settings": {
-        "meta_descr": "Vélemények rólam\nBrandt Beáta fotográfus. Egyedi baba, gyermek, újszülött, kismama és családi fotózás stúdióban és szabadtéren Pécsen és környékén.",
+        "meta_descr": "Vélemények rólam\nBrandt Beáta fotográfus, Pécs. Egyedi baba, gyermek, újszülött, kismama és családi fotózás stúdióban és szabadtéren Pécsen és környékén.",
         "title": "Vélemények",
         "order": 1
       },
@@ -1995,7 +1995,7 @@
     "baba_gyermek_fotok.html": {
       "settings": {
         "meta_descr": "Brandt Beáta fotográfus.  Egyedi gyermek és családfotózás stúdióban és szabadtéren Pécsen és környékén. Egyedi baba, gyermek, újszülött, kismama,  családi, portré és esküvő fotózás stúdióban és szabadtéren Pécsen és környékén.\n\n",
-        "title": "Baba és gyermek fotók",
+        "title": "Baba és gyermek fotózás Pécs",
         "order": 13
       },
       "components": [
@@ -2967,8 +2967,8 @@
     },
     "unnepi_fotozas.html": {
       "settings": {
-        "meta_descr": "Brandt Beáta fotográfus. Ünnepi fotózás stúdióban és szabadtéren Pécsen. Egyedi baba, gyermek, újszülött, kismama,  családi, portré és esküvő fotózás stúdióban és szabadtéren Pécsen és környékén.\n",
-        "title": "Ünnepi fotózás",
+        "meta_descr": "Brandt Beáta fotográfus, Pécs. Ünnepi (karácsonyi, húsvéti) fotózás stúdióban és szabadtéren Pécsen. Egyedi baba, gyermek, újszülött, kismama,  családi, portré és esküvő fotózás stúdióban és szabadtéren Pécsen és környékén.\n",
+        "title": "Ünnepi fotózás Pécs",
         "order": 6
       },
       "components": [
@@ -3713,8 +3713,8 @@
     },
     "szuletesnapi_fotozas.html": {
       "settings": {
-        "meta_descr": "Brandt Beáta fotográfus.  Születésnapi fotók készítése stúdióban és szabadtéren Pécsen. Egyedi baba, gyermek, újszülött, kismama,  családi, portré és esküvő fotózás stúdióban és szabadtéren Pécsen és környékén.\n\n",
-        "title": "Születésnapi fotózás",
+        "meta_descr": "Brandt Beáta születésnapi fotózás, Pécs.  Születésnapi fotók készítése stúdióban és szabadtéren Pécsen. Egyedi baba, gyermek, újszülött, kismama,  családi, portré és esküvő fotózás stúdióban és szabadtéren Pécsen és környékén.\n\n",
+        "title": "Születésnapi fotózás Pécs",
         "order": 9
       },
       "components": [
@@ -4538,8 +4538,8 @@
     },
     "csaladifoto.html": {
       "settings": {
-        "meta_descr": "Brandt Beáta fotográfus.  Egyedi gyermek és családfotózás stúdióban és szabadtéren Pécsen és környékén. Egyedi baba, gyermek, újszülött, kismama,  családi, portré és esküvő fotózás stúdióban és szabadtéren Pécsen és környékén.\n",
-        "title": "Családi fotók",
+        "meta_descr": "Brandt Beáta családi fotográfus, Pécs.  Egyedi gyermek és családfotózás stúdióban és szabadtéren Pécsen és környékén. Egyedi baba, gyermek, újszülött, kismama,  családi, portré és esküvő fotózás stúdióban és szabadtéren Pécsen és környékén.\n",
+        "title": "Családi fotózás Pécs",
         "order": 12
       },
       "components": [
@@ -5231,8 +5231,8 @@
     },
     "varandos_fotozas.html": {
       "settings": {
-        "meta_descr": "Brandt Beáta fotográfus.  Kismama és párosfotók exkluzív ruhákkal stúdióban és szabadtéren Pécsen és környékén. Egyedi baba, gyermek, újszülött, kismama,  családi, portré és esküvő fotózás stúdióban és szabadtéren Pécsen és környékén.\n\n\n ",
-        "title": "Kismama és párosfotók",
+        "meta_descr": "Brandt Beáta fotográfus, Pécs.  Kismama, várandós, terhes és párosfotók exkluzív ruhákkal stúdióban és szabadtéren Pécsen és környékén. Egyedi baba, gyermek, újszülött, kismama,  családi, portré és esküvő fotózás stúdióban és szabadtéren Pécsen és környékén.\n\n\n ",
+        "title": "Kismama, várandós, terhes és párosfotózás Pécsen",
         "order": 11
       },
       "components": [
@@ -5978,8 +5978,8 @@
     },
     "portre_fotozas.html": {
       "settings": {
-        "meta_descr": "Brandt Beáta fotográfus. Női és férfi, business portré fénykép készítése stúdióban és szabadtéren Pécsen és környékén.  Ünnepi fotózás stúdióban és szabadtéren Pécsen. Egyedi baba, gyermek, újszülött, kismama,  családi, portré és esküvő fotózás stúdióban és szabadtéren Pécsen és környékén.",
-        "title": "Portré fotózás",
+        "meta_descr": "Brandt Beáta portré fotográfus, Pécs. Női és férfi, business portré fénykép készítése stúdióban és szabadtéren Pécsen és környékén.  Ünnepi fotózás stúdióban és szabadtéren Pécsen. Egyedi baba, gyermek, újszülött, kismama,  családi, portré és esküvő fotózás stúdióban és szabadtéren Pécsen és környékén.",
+        "title": "Portré fotózás Pécs",
         "order": 7
       },
       "components": [
@@ -6724,7 +6724,7 @@
       "settings": {
         "main": true,
         "title": "Beata Brandt Photographer",
-        "meta_descr": "Brandt Beáta fotográfus. Egyedi baba, gyermek, újszülött, kismama és családi fotózás stúdióban és szabadtéren Pécsen és környékén.",
+        "meta_descr": "Brandt Beáta fotográfus, Pécs. Egyedi baba, gyermek, újszülött, kismama és családi fotózás stúdióban és szabadtéren Pécsen és környékén.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -7230,7 +7230,7 @@
             }
           },
           "title": "<br>Kedves Látogató!",
-          "text": "<br>Szeretettel üdvözöllek és előre is köszönöm, hogy megtekinted a honlapomat!&nbsp;<br><br><b>Brandt Beáta vagyok</b> <b>édesanya, feleség és fotográfus...</b> <br>\n<br>Számomra a fotózás egyszerre kihívás, szenvedély, alkotás és kiteljesedés.&nbsp;<br><br>A fényképezés szeretetét már generációkon keresztül a családból hozom. Már gyerekkorom óta igazán érdekelt a fotózás és a szívem mélyén mindig szerettem volna hivatásos fotós lenni. Sikerült a világ számos csodálatos helyére eljutnom és a fényképezés iránti szenvedélyemet rengeteg gyönyörű kép készítésében kiélnem.<br><br>Az életembe a csodás fordulatot a várandósságom hozta. Édesanyaként kezdtem el az élet legcsodálatosabb pillanatait megörökíteni, mint a babavárást, az újszülöttek első mosolyát, a babák, gyerekek őszinte világát, és a családokban az egymás iránti szeretet meghitt pillanatait.&nbsp;<br><br>Számomra minden ember egy történet. Szeretem meglátni és kifejezni a bennük lévő egyediséget és szépséget olyan képekben, melyek örök emlékek maradnak az utódoknak is.<br><br>Szeretettel várlak, ha szeretnél magadról, illetve a családodról szép képeket, vagy, ha esetleg szeretetted szeretnéd meglepni egy örök emlékkel. \n<br>&nbsp;<br>",
+          "text": "<br>Szeretettel üdvözöllek és előre is köszönöm, hogy megtekinted a honlapomat!&nbsp;<br><br><b>Brandt Beáta vagyok</b> <b>édesanya, feleség és fotográfus...</b> <br>\n<br>Számomra a fotózás egyszerre kihívás, szenvedély, alkotás és kiteljesedés.&nbsp;<br><br>A fényképezés szeretetét már generációkon keresztül a családomból hozom. Már gyerekkorom óta igazán érdekelt a fotózás és a szívem mélyén mindig szerettem volna hivatásos fotós lenni. Sikerült a világ számos csodálatos helyére eljutnom és a fényképezés iránti szenvedélyemet rengeteg gyönyörű kép készítésében kiélnem.<br><br>Az életembe a csodás fordulatot a várandósságom hozta. Édesanyaként kezdtem el az élet legcsodálatosabb pillanatait megörökíteni, mint a babavárást, az újszülöttek első mosolyát, a babák, gyerekek őszinte világát, és a családokban az egymás iránti szeretet meghitt pillanatait.&nbsp;<br><br>Számomra minden ember egy történet. Szeretem meglátni és kifejezni a bennük lévő egyediséget és szépséget olyan képekben, melyek örök emlékek maradnak az utódoknak is.<br><br>Szeretettel várlak, ha szeretnél magadról, illetve a családodról szép képeket, vagy, ha esetleg szeretetted szeretnéd meglepni egy örök emlékkel. \n<br>&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"rolam.html\" data-toolbar=\"-mbrBtnMove\">OLVASS BŐVEBBEN RÓLAM</a>",
           "_tags": [
             "Téma"
@@ -7852,8 +7852,8 @@
     },
     "eskuvo_keresztelo_fenykepezes.html": {
       "settings": {
-        "meta_descr": "Brandt Beáta fotográfus.  Esküvő és keresztelő fotózás Pécsen és környékén. Egyedi baba, gyermek, újszülött, kismama,  családi, portré és esküvő fotózás stúdióban és szabadtéren Pécsen és környékén.\n\n",
-        "title": "Esküvő és keresztelő",
+        "meta_descr": "Brandt Beáta fotográfus, Pécs. Esküvő és keresztelő fotózás Pécsen és környékén. Egyedi baba, gyermek, újszülött, kismama,  családi, portré és esküvő fotózás stúdióban és szabadtéren Pécsen és környékén.\n\n",
+        "title": "Esküvő és keresztelő fotózás Pécs",
         "order": 10
       },
       "components": [
