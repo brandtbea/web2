@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "kapcsolat.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -6723,7 +6723,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Beata Brandt Photographer",
+        "title": "Beata Brandt Photographer baba, gyermek, családi, kismama, újszülött, páros, esküvő, portré fotózás Pécsen",
         "meta_descr": "Brandt Beáta fotográfus, Pécs. Egyedi baba, gyermek, újszülött, kismama és családi fotózás stúdióban és szabadtéren Pécsen és környékén.",
         "header_custom": "",
         "footer_custom": "",
