@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "kapcsolat.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 152,
+    "uniqCompNum": 154,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -175,7 +175,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Örökítsd meg kisbabád első mosolyát csodás fotókon!",
+          "title": "<i>Örökítsd meg kisbabád első mosolyát csodás fotókon!</i>",
           "meta": "",
           "_tags": [
             "Theme"
@@ -2104,7 +2104,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Örökítsd meg gyermeked őszinte mosolyát, kacaját, szépségét, egyéniségét!",
+          "title": "<i>Örökítsd meg gyermeked őszinte mosolyát, kacaját, szépségét, egyéniségét!</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -2763,6 +2763,43 @@
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
             },
+            ".mbr-section-title I": {
+              "font-size": "24px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "<i>Örökítsd meg gyermeked őszinte mosolyát, kacaját, szépségét, egyéniségét!</i>",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-49"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "A gyermekeink olyan gyorsan változnak és felnőnek. Egy fénykép elővarázsolja az elfelejtett emlékeket, pillanatokat, érzéseket, arcvonásokat, amiket már nem is tudnánk felidézni a képek nélkül. Segítenek, hogy egy pillanatra megálljunk, rácsodálkozzunk, és emlékezzünk egy gyorsan tovatűnő csodálatos időszakra. Generációkon keresztül ezek a képek fognak öröklődni és a családotok legfontosabb kincsei lesznek. \n<div>A fotózás helyszínéül választhatod Pécsen a stúdiómat, ahol otthonos, meleg környezetben több fajta kellék közül választhatsz vagy szabadteret, a szép rózsás, levendulás udvarunkat, mezőt, tópartot, erdőt, szőlőültetvényt stb.  \n</div><div>\n</div><div><br></div>",
+          "text2": "Egyedi, letisztult fényképeket készítek, melynek a középpontjában a gyermeketek/gyermekeitek szépsége, személyisége és egyedisége áll. A fotózás alatt teljes mértékben figyelek a gyermeketek igényeire és a fotózást hozzájuk igazítom. Gondoskodom a vidám hangulatról és, hogy élvezzétek a fotózást. \r<div>Természetesen családi képeket is szívesen készítek. A családi fotók számomra mindig nagyon fontos részei az gyerekfotózásnak, hiszen ezek lesznek később gyermekeitek legnagyobb kincsei.\r</div><div>Az elkészült képekből te választhatod ki, hogy melyek kerüljenek retusálásra.\r</div><div>Várlak Benneteket szeretettel!\r</div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-48"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
             ".mbr-section-title": {
               "font-size": "32px",
               "text-align": "center"
@@ -3076,7 +3113,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Örökítsd meg az ünnepek meghitt hangulatait!",
+          "title": "<i>Örökítsd meg az ünnepek meghitt hangulatait!</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -3819,7 +3856,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Örökítsd meg gyermeked születésnapjait csodás fotókon!",
+          "title": "<i>Örökítsd meg gyermeked születésnapjait csodás fotókon!</i>",
           "meta": "",
           "_tags": [
             "Theme"
@@ -4644,7 +4681,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "...generációknak szóló emlékek...",
+          "title": "<i>...generációknak szóló emlékek...</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -5341,7 +5378,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Örökítsd meg a gyermekvárás legcsodálatosabb pillanatait babáddal a szíved alatt!",
+          "title": "<i>Örökítsd meg a gyermekvárás legcsodálatosabb pillanatait babáddal a szíved alatt!</i>",
           "meta": "",
           "_tags": [
             "Theme"
@@ -6087,7 +6124,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Ha szeretnéd meglepni a párod vagy magad egy rólad készült, vagy közös sorozattal...&nbsp;",
+          "title": "<i>Ha szeretnéd meglepni a párod vagy magad egy rólad készült, vagy közös sorozattal...&nbsp;</i>",
           "meta": "",
           "_tags": [
             "Theme"
@@ -7967,7 +8004,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "...életed egyszeri és megismételhetetlen pillanatai...",
+          "title": "<i>...életed egyszeri és megismételhetetlen pillanatai...</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
