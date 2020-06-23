@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "baba_gyermek_fotok.html",
+    "currentPage": "csaladifoto.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 157,
+    "uniqCompNum": 160,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -114,7 +114,7 @@
               "size": 0
             }
           },
-          "title": "ÚJSZÜLÖTT FOTÓIM",
+          "title": "ÚJSZÜLÖTT FOTÓZÁS PÉCSEN",
           "text": "<i>...egy új élet kezdete...<br>...az első mosoly...</i><br><i>...egy csöpp kis test...<br></i><i>...apró kis kezek és talpak...</i><br><i>...babaillat...</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -127,7 +127,7 @@
               "text-align": "right"
             },
             "H3": {
-              "font-size": "30px"
+              "font-size": "23px"
             }
           }
         },
@@ -490,8 +490,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<div><i><b>…egy új élet kezdete... az első mosoly... egy csöpp kis test... apró kis kezek és talpak.... babaillat...</b></i></div><div><br></div><div> \n</div><div>Egy csodálatos, hamar elillanó és soha vissza nem térő pár nap. \n</div><div>A fényképezésre a legideálisabb időszak a 4-14 nap. Ilyenkor még aluszékonyak, és nem mozognak annyit. A fotózást a kicsi hangulatához, kényelméhez és biztonságához igazítom. Csak biztonságos beállításokkal dolgozom. Végig ott lehettek mindketten a baba mellett, segíthettek az öltöztetésben, a beállításokban, bármikor megetetheted, felveheted, folyamatosan figyelek a baba igényeire. </div><div>Puha pamut és kötött ruhákat és sapkákat, hajpántokat használok, amelyek nem allergizálnak. Ha általad hozott ruhában szeretnéd, az is természetesen lehetséges. </div><div>A fotózás helyszíne Pécsen a stúdióm, ahol otthonos, meleg környezetben több fajta kellék közül választhatsz.</div><div><br></div>",
-          "text2": "<div><br></div><div><br></div><div><br></div><div><span style=\"font-size: 1.07rem;\">Egyedi, letisztult fotókat készítek, amelynek a középpontjában a pici babátok szépsége és egyedisége áll.</span><br></div><div>Természetesen családi és testvér képeket is szívesen készítek. A családi fotók számomra mindig nagyon fontos részei az újszülöttfotózásnak, hiszen ezek lesznek később gyermekeitek legnagyobb kincsei.</div><div> Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra. \n</div><div>Ha szeretnéd ezt a gyorsan múló különlegesen törékeny időszakot megörökíttetni, akkor kérlek szépen, ha lehet már a várható születés időpontja előtt egyeztessünk, illetve a szülést követően is. </div><div>Várlak Benneteket szeretettel!</div><div>\n</div><div><br></div>",
+          "text1": "<div><i><b>…egy új élet kezdete... az első mosoly... egy csöpp kis test... apró kis kezek és talpak.... babaillat...</b></i></div><div><br></div><div> \n</div><div>Egy újszülött baba érkezése a családba az egyik legcsodálatosabb dolog a világon, egy hamar elillanó és soha vissza nem térő pár nap. Ezért az újszülött fotózás különösen hálás és megtisztelő feladat a számomra.</div><div>A fényképezésre a <b>legideálisabb időszak a 4-14 nap</b>. Ilyenkor a babák még aluszékonyak, és nem mozognak annyit. <b>A fotózást a kicsi hangulatához, kényelméhez és biztonságához igazítom. Csak biztonságos beállításokkal dolgozom. Végig ott lehettek mindketten a baba mellett, segíthettek</b> az öltöztetésben, a beállításokban, bármikor megetetheted, felveheted, folyamatosan figyelek a baba igényeire. </div><div><b>Puha pamut és kötött ruhákat és sapkákat, hajpántokat használok</b>, amelyek nem allergizálnak. Ha általad hozott babaruhában szeretnéd a fényképezést, az is természetesen lehetséges. </div><div><br></div><div><br></div>",
+          "text2": "<div><br></div><div><br></div><div><br></div><div><b>A fotózás helyszíne Pécsen a stúdióm,</b> ahol otthonos, meleg, tiszta környezetben több fajta kellék közül választhatsz.\n</div><div>Egyedi, letisztult fotókat készítek, amelynek a középpontjában a pici babátok szépsége és egyedisége áll.\n</div><div><b>Természetesen családi és testvér képeket is szívesen készítek rólatok.</b> A családi fotók számomra mindig nagyon fontos részei az újszülöttfotózásnak, hiszen ezek lesznek később gyermekeitek legnagyobb kincsei.\n</div><div>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra.\n</div><div>Ha szeretnéd ezt a gyorsan múló különlegesen törékeny időszakot megörökíttetni, akkor kérlek szépen, <b>ha lehet már a várható születés időpontja előtt egyeztessünk</b>, illetve a szülést követően is.\n</div><div>Várlak Benneteket szeretettel!\n</div><div><br></div><div>\n</div><div><br></div>",
           "_tags": [
             "Theme"
           ],
@@ -502,6 +502,24 @@
               "font-size": "19px"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"csaladifoto.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni</a>           ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "buttons1-4e"
         },
         {
           "_styles": {
@@ -2050,7 +2068,7 @@
               "size": 0
             }
           },
-          "title": "BABA ÉS GYERMEK FOTÓIM",
+          "title": "BABA ÉS GYERMEK FOTÓZÁS PÉCSEN",
           "text": "<i>...a babák és a gyerekek őszinte világa...</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -3060,7 +3078,7 @@
               "size": 0
             }
           },
-          "title": "ÜNNEPI FOTÓIM",
+          "title": "ÜNNEPI FOTÓZÁS PÉCSEN",
           "text": "<i>...ünnepi hangulatban...</i><br><i>...családi pillanatok...</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -3070,7 +3088,7 @@
           "_anchor": "msg-box5-3d",
           "_styles": {
             "H3": {
-              "font-size": "30px"
+              "font-size": "23px"
             },
             "P": {
               "text-align": "center"
@@ -3809,7 +3827,7 @@
               "size": 0
             }
           },
-          "title": "SZÜLETÉSNAPI FOTÓIM<br><br>",
+          "title": "SZÜLETÉSNAPI FOTÓZÁS PÉCSEN<br><br>",
           "text": "<i>...az első torta maszatolás..</i>.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -3819,7 +3837,11 @@
           "_anchor": "msg-box5-2x",
           "_styles": {
             "H3": {
-              "font-size": "30px"
+              "font-size": "23px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
             }
           }
         },
@@ -4634,7 +4656,7 @@
               "size": 0
             }
           },
-          "title": "CSALÁDI FOTÓIM",
+          "title": "CSALÁDI FOTÓZÁS PÉCSEN",
           "text": "<i>...az egymás iránti szeretet meghitt pillanatai</i>...<br><i>...generációknak szóló emlékek..</i>.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -4644,7 +4666,8 @@
           "_anchor": "msg-box5-29",
           "_styles": {
             "H3": {
-              "font-size": "30px"
+              "font-size": "24px",
+              "text-align": "center"
             }
           }
         },
@@ -5079,7 +5102,7 @@
               "text-align": "center"
             },
             ".mbr-section-title I": {
-              "font-size": "25px"
+              "font-size": "23px"
             }
           },
           "_params": {
@@ -5102,13 +5125,31 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "A családi fotók számomra mindig nagyon fontos részei a fotózásnak, hiszen ezek lesznek később gyermekeitek legnagyobb kincsei, melyek generációkon keresztül öröklődni fognak.\r<div>A fotózás helyszínéül választhatod Pécsen a stúdiómat, ahol otthonos, meleg környezetben több fajta kellék közül választhatsz vagy szabadteret, a szép rózsás, levendulás udvarunkat, mezőt, tópartot, erdőt, szőlőültetvényt stb. Természetesen házi kedvenceitekkel együtt is szívesen fényképezlek Benneteket. \r</div><div><br></div>",
-          "text2": "Egyedi, letisztult fényképeket készítek, melynek a középpontjában a szépségetek, személyiségetek és egyediségetek áll. A fotózás alatt teljes mértékben figyelek a gyermeketek igényeire és a fotózást hozzájuk igazítom. Gondoskodom a vidám hangulatról és, hogy élvezzétek a fotózást.  \n<div>Az elkészült képekből te választhatod ki, hogy melyek kerüljenek retusálásra.\n</div><div>Várlak Benneteket szeretettel!\n</div><div><br></div>",
+          "text1": "A<b> családi fotók </b>számomra mindig nagyon fontos részei a fotózásnak, hiszen ezek <b>lesznek később gyermekeitek legnagyobb kincsei,</b> melyek <b>generációkon keresztül öröklődni fognak</b>. A családfotózás összehozza a családot, amikor mindenki együtt van, és, ahol mindenki rajta van képen. Egy maradandó élmény, ahol az egymás iránti szeretet meghitt pillanatai egymás szemében tükröződik, a közös nevetések, a viccelődések mind élvezetessé teszik a családi fotózást.<div><b>A fotózás helyszínéül választhatod Pécsen a műtermemet,</b> ahol otthonos, meleg környezetben több fajta kellék közül választhatsz vagy a <b>természetet</b>, a szép rózsás, levendulás udvarunkat, mezőt, parkot, tópartot, erdőt, szőlőültetvényt stb. Természetesen <b>házi kedvenceitekkel együtt</b> is szívesen fényképezlek Benneteket.&nbsp;</div>",
+          "text2": "<p>Egyedi, letisztult fényképeket készítek, melynek a középpontjában a szépségetek, személyiségetek és egyediségetek áll. \n</p><p><span style=\"font-size: 1.07rem;\">A fotózás alatt teljes mértékben </span><b style=\"font-size: 1.07rem;\">figyelek a gyermeketek igényeire és a fotózást hozzájuk igazítom</b><span style=\"font-size: 1.07rem;\">. <b>V</b></span><b style=\"font-size: 1.07rem;\">idám hangulatot, </b><span style=\"font-size: 1.07rem;\">é</span><span style=\"font-size: 1.07rem;\">s</span><b style=\"font-size: 1.07rem;\">&nbsp;</b><span style=\"font-size: 1.07rem;\">&nbsp;</span><b style=\"font-size: 1.07rem;\">élvezetes családi fotózást </b><span style=\"font-size: 1.07rem;\">szeretnék ajándékozni nektek</span><span style=\"font-size: 1.07rem;\">.</span><br></p><div>Az elkészült képekből te választhatod ki, hogy melyek kerüljenek retusálásra.</div><div>Mindig nagy öröm számomra a visszatérő családok, hisz a gyerekek olyan gyorsan változnak és felnőnek, és igazán megtisztelő a számomra, hogy részese lehetek ennek a csodás folyamatnak, és a családi albumukat az általam készített képek gazdagítják, amiket majd generációkon keresztül fognak visszanézni.</div><div>\n</div><div>Várlak Benneteket szeretettel!\n</div><div><br></div><p></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content6",
           "_anchor": "content6-4b"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"csaladifoto.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni</a>           ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "buttons1-4f"
         },
         {
           "_styles": {
@@ -5367,7 +5408,7 @@
               "size": 0
             }
           },
-          "title": "KISMAMA ÉS PÁROS FOTÓIM",
+          "title": "KISMAMA, VÁRANDÓS ÉS PÁROS FOTÓZÁS PÉCSEN",
           "text": "<i>...az a csodás 9 hónap babáddal a szíved alatt...</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -5377,7 +5418,7 @@
           "_anchor": "msg-box5-2h",
           "_styles": {
             "H3": {
-              "font-size": "30px",
+              "font-size": "23px",
               "text-align": "center"
             },
             "P": {
@@ -5432,7 +5473,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>Örökítsd meg a gyermekvárás legcsodálatosabb pillanatait babáddal a szíved alatt!</i>",
+          "title": "<i>Örökítsd meg a gyermekvárásod legcsodálatosabb pillanatait babáddal a szíved alatt!</i>",
           "meta": "",
           "_tags": [
             "Theme"
@@ -5852,8 +5893,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b><i>…az a csodás 9 hónap, ami egy nőt anyává varázsol...</i></b></p><p><br></p><p> \n</p><div>A babavárás egy nő életében a legcsodálatosabb időszak, amikor ragyogsz a várakozás örömétől, de ezzel párhuzamosan megéled az izgatottságot, a szorongást is, de mégis árad belőled egyfajta boldog békés harmónia, miközben a világ legnagyobb csodája történik benned. Ezeket a meghitt pillanatokat megörökíteni különösen hálás kihívás a számomra. </div><div>Szívesen készítek a várandósságod boldog pillanatiról páros fotókat is, illetve, ha már van gyermeketek, akkor vele együtt is készülhetnek szép családi babavárós képek. </div><div>Több álomszép ruha közül tudsz választani magyar és külföldi készítőktől, de szívesen fotózlak saját kedvenc ruhádban is.</div><div> \n</div><p></p>",
-          "text2": "<div><br></div><div><br></div><div><span style=\"font-size: 1.07rem;\">Ultrahangképet, kiscipőt, illetve bármit, amit szívesen látnál a képeken, nyugodtan hozd magaddal.</span><br></div><div>A pocakfotózásra általában a legideálisabb a 27-33 hét, de alkattól függően később vagy korábban is sor kerülhet. A lényeg, hogy a pocakod már jól látszódjon. \n</div><div>Fotózás helyszínéül választhatod a saját stúdiómat Pécsen, bérelt stúdiót vagy szabadteret. Stúdiós és kültéri fotózásra is lehetőség van egyszerre. \n</div><div>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra. A kiválasztott képekből egyedi zenés digitális slide-show is kérhető.</div><div> \n</div><div>Várlak Benneteket szeretettel!</div>",
+          "text1": "<p><b><i>…az a csodás 9 hónap, ami egy nőt anyává varázsol...</i></b></p><p><br></p><p> \n</p><div><b>A babavárás egy nő életében a legcsodálatosabb időszak,</b> amikor ragyogsz a várakozás örömétől, de ezzel párhuzamosan megéled az izgatottságot, a szorongást is, de mégis árad belőled egyfajta boldog békés harmónia, miközben a világ legnagyobb csodája történik benned. Számomra a terhesség életem legcsodálatosabb időszaka volt, menynek minden percét élveztem. Ezért ezeket az igaz meghitt pillanatokat megörökíteni különösen hálás kihívás a számomra. </div><div><b>Szívesen készítek</b> a várandósságod boldog pillanatiról<b> páros fotókat is</b>, illetve, <b>ha már van gyermeketek, akkor vele együtt is</b> <b>készülhetnek szép családi babavárós képek. </b></div><div><b>Több álomszép kismamaruha közül tudsz választani </b>magyar és külföldi készítőktől, de szívesen fotózlak saját kedvenc terhes ruhádban is.</div><div>Ultrahangképet, kiscipőt, babaruhát, illetve bármit, amit szívesen látnál a képeken, nyugodtan hozd magaddal.</div><div> \n</div><p></p>",
+          "text2": "<div><br></div><div><br></div><div><span style=\"font-size: 1.07rem;\">A pocakfotózásra általában a</span><i style=\"font-size: 1.07rem;\"> legideálisabb a terhesség 27-33 hete,</i><span style=\"font-size: 1.07rem;\"> de alkattól függően természetesen később vagy korábban is sor kerülhet. A lényeg, hogy a pocakod már jól látszódjon.</span><br></div><div><b>A kismama fotózás helyszínéül választhatod </b>a saját <b>műtermemet</b> Pécsen, bérelt stúdiót vagy <b>szabadteret</b>, a gyönyörű virágos udvarunkat, mezőt, erdőt, tópartot stb.. <b>Stúdiós és kültéri fotózásra is lehetőség van egyszerre. \n</b></div><div><i>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra.</i> A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető.</b></div><div>Nagyon hálás vagyok, amikor a kismamák, a szülés után már a gyönyörű babáikkal, gyermekeikkel keresnek meg, hogy újra csodás családi fotók készüljenek róluk képeket.<b>&nbsp;</b></div><div><span style=\"font-size: 1.07rem;\">Várlak Benneteket szeretettel!</span><br></div>",
           "_tags": [
             "Theme"
           ],
@@ -5862,8 +5903,29 @@
           "_styles": {
             ".lead P": {
               "font-size": "19px"
+            },
+            ".lead DIV": {
+              "text-align": "left"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"csaladifoto.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni</a>           ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "buttons1-4d"
         },
         {
           "_styles": {
@@ -6122,7 +6184,7 @@
               "size": 0
             }
           },
-          "title": "PORTRÉ FOTÓIM",
+          "title": "PORTRÉ FOTÓZÁS PÉCSEN",
           "text": "<i>...minden ember egy történet</i>...",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -6132,7 +6194,7 @@
           "_anchor": "msg-box5-35",
           "_styles": {
             "H3": {
-              "font-size": "30px"
+              "font-size": "24px"
             },
             "P": {
               "text-align": "right"
@@ -7999,7 +8061,7 @@
               "size": 0
             }
           },
-          "title": "ESKÜVŐ ÉS KERESZTELŐ FOTÓZÁS<br><br>",
+          "title": "ESKÜVŐ ÉS KERESZTELŐ FOTÓZÁS PÉCSEN<br><br>",
           "text": "<i>...életed egyszeri és megismételhetetlen pillanatai...&nbsp;</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
