@@ -2020,7 +2020,7 @@
     },
     "baba_gyermek_fotok.html": {
       "settings": {
-        "meta_descr": "Brandt Beáta fotográfus.  Egyedi gyermek és családfotózás stúdióban és szabadtéren Pécsen és környékén. Egyedi baba, gyermek, újszülött, kismama,  családi, portré és esküvő fotózás stúdióban és szabadtéren Pécsen és környékén.\n\n",
+        "meta_descr": "Brandt Beáta fotográfus.  Egyedi baba, gyermek és családfotózás stúdióban és szabadtéren Pécsen és környékén. Egyedi baba, gyermek, újszülött, kismama,  családi, portré és esküvő fotózás stúdióban és szabadtéren Pécsen és környékén.\n\n",
         "title": "Baba és gyermek fotózás Pécs",
         "order": 13
       },
@@ -4662,7 +4662,7 @@
     },
     "csaladifoto.html": {
       "settings": {
-        "meta_descr": "Brandt Beáta családi fotográfus, Pécs.  Egyedi gyermek és családfotózás stúdióban és szabadtéren Pécsen és környékén. Egyedi baba, gyermek, újszülött, kismama,  családi, portré és esküvő fotózás stúdióban és szabadtéren Pécsen és környékén.\n",
+        "meta_descr": "Brandt Beáta családi fotózás, Pécs.  Egyedi gyerek és családfotózás stúdióban és szabadtéren Pécsen és környékén. Egyedi baba, gyermek, újszülött, kismama,  családi, portré és esküvő fotózás stúdióban és szabadtéren Pécsen és környékén.\n",
         "title": "Családi fotózás Pécs",
         "order": 12
       },
@@ -6956,7 +6956,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Beata Brandt Photographer baba, gyermek, családi, kismama, újszülött, páros, esküvő, portré fotózás Pécsen",
+        "title": "Beata Brandt Photographer baba, gyermek, családi, kismama, esküvő, portré fotózás Pécsen",
         "meta_descr": "Brandt Beáta fotográfus, Pécs. Egyedi baba, gyermek, újszülött, kismama és családi fotózás stúdióban és szabadtéren Pécsen és környékén.",
         "header_custom": "",
         "footer_custom": "",
@@ -7791,7 +7791,7 @@
             }
           },
           "title": "Kérlek nézd meg egy első születésnapos kisfiú képeiből készült videómat!",
-          "text": "<b>Kérlek nézd meg kisfiúnk első születésnapi képeiből készült videónkat!</b>",
+          "text": "<b>Kérlek nézd meg kisfiúnk első születésnapi képeiből készült egyedi zenés slideshow-t!</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
