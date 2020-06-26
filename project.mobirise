@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "szuletesnapi_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 166,
+    "uniqCompNum": 169,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -490,8 +490,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<div><i><b>…egy új élet kezdete... az első mosoly... egy csöpp kis test... apró kis kezek és talpak.... babaillat...</b></i></div><div><br></div><div> \n</div><div>Egy újszülött baba érkezése a családba az egyik legcsodálatosabb dolog a világon, egy hamar elillanó és soha vissza nem térő pár nap. Ezért az újszülött fotózás különösen hálás és megtisztelő feladat a számomra.</div><div>A fényképezésre a <b>legideálisabb időszak a 4-14 nap</b>. Ilyenkor a babák még aluszékonyak, és nem mozognak annyit. <b>A fotózást a kicsi hangulatához, kényelméhez és biztonságához igazítom. Csak biztonságos beállításokkal dolgozom. Végig ott lehettek mindketten a baba mellett, segíthettek</b> az öltöztetésben, a beállításokban, bármikor megetetheted, felveheted, folyamatosan figyelek a baba igényeire. </div><div><b>Puha pamut és kötött ruhákat és sapkákat, hajpántokat használok</b>, amelyek nem allergizálnak. Ha általad hozott babaruhában szeretnéd a fényképezést, az is természetesen lehetséges. </div><div><br></div><div><br></div>",
-          "text2": "<div><br></div><div><br></div><div><br></div><div><b>A fotózás helyszíne Pécsen a stúdióm,</b> ahol otthonos, meleg, tiszta környezetben több fajta kellék közül választhatsz.\n</div><div>Egyedi, letisztult fotókat készítek, amelynek a középpontjában a pici babátok szépsége és egyedisége áll.\n</div><div><b>Természetesen családi és testvér képeket is szívesen készítek rólatok.</b> A családi fotók számomra mindig nagyon fontos részei az újszülöttfotózásnak, hiszen ezek lesznek később gyermekeitek legnagyobb kincsei.\n</div><div>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra.\n</div><div>Ha szeretnéd ezt a gyorsan múló különlegesen törékeny időszakot megörökíttetni, akkor kérlek szépen, <b>ha lehet már a várható születés időpontja előtt egyeztessünk</b>, illetve a szülést követően is.\n</div><div>Várlak Benneteket szeretettel!\n</div><div><br></div><div>\n</div><div><br></div>",
+          "text1": "<div><i><b>…egy új élet kezdete... az első mosoly... egy csöpp kis test... apró kis kezek és talpak.... babaillat...</b></i></div><div><br></div><div> \n</div><div>Egy újszülött baba érkezése a családba az egyik legcsodálatosabb dolog a világon, egy hamar elillanó és soha vissza nem térő pár nap. Ezért az újszülött fotózás különösen hálás és megtisztelő feladat a számomra.</div><div><b>A fényképezésre a</b> <b>legideálisabb időszak a 4-14 nap</b>. Ilyenkor a babák még aluszékonyak, és nem mozognak annyit. <b>A fotózást a kicsi hangulatához, kényelméhez és biztonságához igazítom. Csak biztonságos beállításokkal dolgozom. Végig ott lehettek mindketten a baba mellett, segíthettek</b> az öltöztetésben, a beállításokban, bármikor megetetheted, felveheted, folyamatosan figyelek a baba igényeire. </div><div><b>Puha pamut és kötött ruhákat és sapkákat, hajpántokat használok</b>, amelyek nem allergizálnak. Ha általad hozott babaruhában szeretnéd a fényképezést, az is természetesen lehetséges. </div><div><br></div><div><br></div>",
+          "text2": "<div><br></div><div><br></div><div><br></div><div><b>A fotózás helyszínéül </b>választhatod<b> Pécsen a stúdiómat,</b> ahol <b>otthonos, meleg, tiszta környezetben több fajta kellék közül választhatsz</b>.\n</div><div><i>Egyedi, letisztult fotókat készítek, amelynek a középpontjában a pici babátok szépsége és egyedisége áll.\n</i></div><div><b>Természetesen családi és testvér képeket is szívesen készítek rólatok.</b> A családi fotók számomra mindig nagyon fontos részei az újszülöttfotózásnak, hiszen ezek lesznek később gyermekeitek legnagyobb kincsei.\n</div><div>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra. A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető.</b></div><div>Ha szeretnéd ezt a gyorsan múló különlegesen törékeny időszakot megörökíttetni, akkor kérlek szépen, <b>ha lehet már a várható születés időpontja előtt egyeztessünk</b>, illetve a szülést követően is.\n</div><div>Várlak Benneteket szeretettel!\n</div><div><br></div><div>\n</div><div><br></div>",
           "_tags": [
             "Theme"
           ],
@@ -2814,7 +2814,7 @@
             "bgColor": "#fff"
           },
           "text1": "A gyermekeink olyan gyorsan változnak és felnőnek. Egy fénykép elővarázsolja az elfelejtett emlékeket, pillanatokat, érzéseket, arcvonásokat, amiket már nem is tudnánk felidézni a képek nélkül. Segítenek, hogy egy pillanatra megálljunk, rácsodálkozzunk, és emlékezzünk egy gyorsan tovatűnő csodálatos időszakra. Generációkon keresztül ezek a képek fognak öröklődni és a családotok legfontosabb kincsei lesznek. \n<div><b>A fotózás helyszínéül választhatod Pécsen a stúdiómat</b>, ahol otthonos, meleg környezetben <b>több fajta kellék közül választhatsz</b> vagy a<b> természetet, a szép rózsás, levendulás udvarunkat, mezőt, tópartot, erdőt, szőlőültetvényt stb</b>.  \n</div><div>\n</div><div><br></div>",
-          "text2": "Egyedi, letisztult fényképeket készítek, melynek a középpontjában a gyermeketek/gyermekeitek szépsége, személyisége és egyedisége áll. A fotózás alatt teljes mértékben figyelek a gyermeketek igényeire és a fotózást hozzájuk igazítom. Gondoskodom a vidám hangulatról és, hogy élvezzétek a fotózást. \n<div>Természetesen <b>családi képeket is szívesen készítek</b>. A családi fotók számomra mindig nagyon fontos részei az gyerekfotózásnak, hiszen ezek lesznek később gyermekeitek legnagyobb kincsei.\n</div><div>Az elkészült képekből te választhatod ki, hogy melyek kerüljenek retusálásra.\n</div><div>Várlak Benneteket szeretettel!\n</div>",
+          "text2": "Egyedi, letisztult fényképeket készítek, melynek a középpontjában a gyermeketek/gyermekeitek szépsége, személyisége és egyedisége áll. A fotózás alatt teljes mértékben figyelek a gyermeketek igényeire és a fotózást hozzájuk igazítom. Gondoskodom a vidám hangulatról és, hogy élvezzétek a fotózást. \n<div>Természetesen <b>családi képeket is szívesen készítek</b>. A családi fotók számomra mindig nagyon fontos részei az gyerekfotózásnak, hiszen ezek lesznek később gyermekeitek legnagyobb kincsei.\n</div><div>Az elkészült képekből te választhatod ki, hogy melyek kerüljenek retusálásra. A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető.</b></div><div>Várlak Benneteket szeretettel!\n</div>",
           "_tags": [
             "Theme"
           ],
@@ -3585,6 +3585,20 @@
           ],
           "_name": "gallery1",
           "_anchor": "gallery1-3f"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "Az ünnepi <b>fotózás helyszínéül</b> <b>választhatod a</b> <b>saját műtermemet Pécsen, bérelt stúdiót vagy szabadteret</b>, a gyönyörű virágos udvarunkat, mezőt, erdőt, tópartot stb.. Stúdiós és kültéri fotózásra is lehetőség van egyszerre.\n<div>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra. A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető. </b>Várlak Benneteket szeretettel!</div><div><br></div>",
+          "text2": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-4m"
         },
         {
           "_params": {
@@ -4437,6 +4451,20 @@
         },
         {
           "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "A születésnapi <b>fotózás helyszínéül választhatod a saját műtermemet Pécsen, bérelt stúdiót vagy a természetet,</b> a gyönyörű virágos udvarunkat, tópartot, erdőt, mezőt, stb.. <b>Műtermi és kültéri fotózásra is lehetőség van egyszerre.\n</b><div>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra. A kiválasztott képekből<b> egyedi zenés digitális slideshow is kérhető. </b>Várlak Benneteket szeretettel!</div>",
+          "text2": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-4o"
+        },
+        {
+          "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
             "bgColor": "#fff"
@@ -5180,7 +5208,7 @@
             "bgColor": "#fff"
           },
           "text1": "A<b> családi fotók </b>számomra mindig nagyon fontos részei a fotózásnak, hiszen ezek <b>lesznek később gyermekeitek legnagyobb kincsei,</b> melyek <b>generációkon keresztül öröklődni fognak</b>. A családfotózás összehozza a családot, amikor mindenki együtt van, és, ahol mindenki rajta van képen. Egy maradandó élmény, ahol az egymás iránti szeretet meghitt pillanatai egymás szemében tükröződik, a közös nevetések, a viccelődések mind élvezetessé teszik a családi fotózást.<div><b>A fotózás helyszínéül választhatod Pécsen a műtermemet,</b> ahol otthonos, meleg környezetben több fajta kellék közül választhatsz vagy a <b>természetet</b>, a szép rózsás, levendulás udvarunkat, mezőt, parkot, tópartot, erdőt, szőlőültetvényt stb. Természetesen <b>házi kedvenceitekkel együtt</b> is szívesen fényképezlek Benneteket.&nbsp;</div>",
-          "text2": "<p>Egyedi, letisztult fényképeket készítek, melynek a középpontjában a szépségetek, személyiségetek és egyediségetek áll. \n</p><p><span style=\"font-size: 1.07rem;\">A fotózás alatt teljes mértékben </span><b style=\"font-size: 1.07rem;\">figyelek a gyermeketek igényeire és a fotózást hozzájuk igazítom</b><span style=\"font-size: 1.07rem;\">. <b>V</b></span><b style=\"font-size: 1.07rem;\">idám hangulatot, </b><span style=\"font-size: 1.07rem;\">é</span><span style=\"font-size: 1.07rem;\">s</span><b style=\"font-size: 1.07rem;\">&nbsp;</b><span style=\"font-size: 1.07rem;\">&nbsp;</span><b style=\"font-size: 1.07rem;\">élvezetes családi fotózást </b><span style=\"font-size: 1.07rem;\">szeretnék ajándékozni nektek</span><span style=\"font-size: 1.07rem;\">.</span><br></p><div>Az elkészült képekből te választhatod ki, hogy melyek kerüljenek retusálásra.</div><div>Mindig nagy öröm számomra a visszatérő családok, hisz a gyerekek olyan gyorsan változnak és felnőnek, és igazán megtisztelő a számomra, hogy részese lehetek ennek a csodás folyamatnak, és a családi albumukat az általam készített képek gazdagítják, amiket majd generációkon keresztül fognak visszanézni.</div><div>\n</div><div>Várlak Benneteket szeretettel!\n</div><div><br></div><p></p>",
+          "text2": "<p>Egyedi, letisztult fényképeket készítek, melynek a középpontjában a szépségetek, személyiségetek és egyediségetek áll. \n</p><p><span style=\"font-size: 1.07rem;\">A fotózás alatt teljes mértékben </span><b style=\"font-size: 1.07rem;\">figyelek a gyermeketek igényeire és a fotózást hozzájuk igazítom</b><span style=\"font-size: 1.07rem;\">. <b>V</b></span><b style=\"font-size: 1.07rem;\">idám hangulatot, </b><span style=\"font-size: 1.07rem;\">é</span><span style=\"font-size: 1.07rem;\">s</span><b style=\"font-size: 1.07rem;\">&nbsp;</b><span style=\"font-size: 1.07rem;\">&nbsp;</span><b style=\"font-size: 1.07rem;\">élvezetes családi fotózást </b><span style=\"font-size: 1.07rem;\">szeretnék ajándékozni nektek</span><span style=\"font-size: 1.07rem;\">.</span><br></p><div>Az elkészült képekből te választhatod ki, hogy melyek kerüljenek retusálásra. A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető.</b></div><div>Mindig nagy öröm számomra a visszatérő családok, hisz a gyerekek olyan gyorsan változnak és felnőnek, és igazán megtisztelő a számomra, hogy részese lehetek ennek a csodás folyamatnak, és a családi albumukat az általam készített képek gazdagítják, amiket majd generációkon keresztül fognak visszanézni.</div><div>\n</div><div>Várlak Benneteket szeretettel!\n</div><div><br></div><p></p>",
           "_tags": [
             "Theme"
           ],
@@ -6727,6 +6755,20 @@
           ],
           "_name": "gallery1",
           "_anchor": "gallery1-37"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "Az portré <b>fotózás helyszínéül választhatod a saját műtermemet Pécsen, bérelt stúdiót vagy a természetet,</b> a gyönyörű virágos udvarunkat, erdőt, mezőt, tópartot stb.. <b>Stúdiós és kültéri fotózásra is lehetőség van egyszerre.\n</b><div>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra. A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető. </b>Várlak Benneteket szeretettel!</div>",
+          "text2": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-4n"
         },
         {
           "_params": {
