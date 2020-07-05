@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "csaladifoto.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -4738,7 +4738,7 @@
               "size": 0
             }
           },
-          "title": "CSALÁDI FOTÓZÁS PÉCSEN",
+          "title": "CSALÁDI FOTÓZÁS PÉCSEN ÉS KÖRNYÉKÉN",
           "text": "<i>...az egymás iránti szeretet meghitt pillanatai</i>...<br><i>...generációknak szóló emlékek..</i>.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -4800,7 +4800,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>...generációknak szóló emlékek...</i>",
+          "title": "<i>...generációknak szóló emlékek a családi fotók...</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -5193,7 +5193,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>...generációknak szóló emlékek...</i>",
+          "title": "<i>...generációknak szóló emlékek a családi fotók...</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
