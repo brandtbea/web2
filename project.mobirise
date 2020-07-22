@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "velemenyek.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -731,7 +731,7 @@
     "rolam.html": {
       "settings": {
         "meta_descr": "Brandt Beáta vagyok édesanya, feleség és fotográfus. Egyedi baba, gyermek, kismama, újszülött, családi, portré és esküvő fotók stúdióban és szabadtéren Pécsen és környékén.",
-        "title": "Rólam",
+        "title": "Rólam Brandt Beáta",
         "order": 4
       },
       "components": [
@@ -1020,7 +1020,7 @@
             }
           },
           "title": "<br>Kedves Látogató!&nbsp;",
-          "text": "<br>Szeretettel üdvözöllek a honlapomon!&nbsp;<br><br><b>Brandt Beáta vagyok</b> édesanya, feleség és fotográfus... \n<br><br>Számomra a fotózás egyszerre kihívás, szenvedély, alkotás és kiteljesedés.<br>\n<br>A fényképezés szeretetét már generációkon keresztül a családomból hozom. Már gyerekkorom óta igazán érdekelt a fotózás és a szívem mélyén mindig szerettem volna hivatásos fotós lenni. Sikerült a világ számos csodálatos helyére eljutnom és a fényképezés iránti szenvedélyemet rengeteg gyönyörű kép készítésében kiélnem.\n<br><br>",
+          "text": "<br>Szeretettel üdvözöllek a honlapomon!&nbsp;<br><br><b>Brandt Beáta vagyok</b> édesanya, feleség, <b>fotográfus</b>, coach... \n<br><br>Számomra a fotózás egyszerre kihívás, szenvedély, alkotás és kiteljesedés.<br>\n<br>A fényképezés szeretetét már generációkon keresztül a családomból hozom. Már gyerekkorom óta igazán érdekelt a fotózás és a szívem mélyén mindig szerettem volna hivatásos fotós lenni. Sikerült a világ számos csodálatos helyére eljutnom és a fényképezés iránti szenvedélyemet rengeteg gyönyörű kép készítésében kiélnem.\n<br><br>",
           "_tags": [
             "Theme"
           ],
@@ -1029,7 +1029,7 @@
           "_anchor": "msg-box4-1d",
           "_styles": {
             "H3": {
-              "font-size": "36px"
+              "font-size": "30px"
             }
           }
         },
@@ -1651,7 +1651,7 @@
     "velemenyek.html": {
       "settings": {
         "meta_descr": "Vélemények rólam\nBrandt Beáta fotográfus, Pécs. Egyedi baba, gyermek, újszülött, kismama és családi fotózás stúdióban és szabadtéren Pécsen és környékén.",
-        "title": "Vélemények",
+        "title": "Vélemények Beata Brandt Photographer",
         "order": 1
       },
       "components": [
@@ -3048,7 +3048,7 @@
     },
     "unnepi_fotozas.html": {
       "settings": {
-        "meta_descr": "Brandt Beáta fotográfus, Pécs. Ünnepi (karácsonyi, húsvéti) fotózás stúdióban és szabadtéren Pécsen. Egyedi baba, gyermek, újszülött, kismama,  családi, portré és esküvő fotózás stúdióban és szabadtéren Pécsen és környékén.\n",
+        "meta_descr": "Brandt Beáta fotográfus, Pécs. Ünnepi (karácsonyi, húsvéti, születésnapi) fotózás stúdióban és szabadtéren Pécsen. Egyedi baba, gyermek, újszülött, kismama,  családi, portré és esküvő fotózás stúdióban és szabadtéren Pécsen és környékén.\n",
         "title": "Ünnepi fotózás Pécs",
         "order": 6
       },
@@ -6218,7 +6218,7 @@
     },
     "portre_fotozas.html": {
       "settings": {
-        "meta_descr": "Brandt Beáta portré fotográfus, Pécs. Női és férfi, business portré fénykép készítése stúdióban és szabadtéren Pécsen és környékén.  Ünnepi fotózás stúdióban és szabadtéren Pécsen. Egyedi baba, gyermek, újszülött, kismama,  családi, portré és esküvő fotózás stúdióban és szabadtéren Pécsen és környékén.",
+        "meta_descr": "Brandt Beáta portré fotográfus, Pécs. Női, férfi, business portré fénykép készítése stúdióban és szabadtéren Pécsen és környékén.  Ünnepi fotózás stúdióban és szabadtéren Pécsen. Egyedi baba, gyermek, újszülött, kismama,  családi, portré és esküvő fotózás stúdióban és szabadtéren Pécsen és környékén.",
         "title": "Portré fotózás Pécs",
         "order": 7
       },
@@ -7518,7 +7518,7 @@
             }
           },
           "title": "<br>Kedves Látogató!",
-          "text": "<br>Szeretettel üdvözöllek és előre is köszönöm, hogy megtekinted a honlapomat!&nbsp;<br><br><b>Brandt Beáta vagyok</b> <b>édesanya, feleség és fotográfus...</b> <br>\n<br>Számomra a fotózás egyszerre kihívás, szenvedély, alkotás és kiteljesedés.&nbsp;<br><br>A fényképezés szeretetét már generációkon keresztül a családomból hozom. Már gyerekkorom óta igazán érdekelt a fotózás és a szívem mélyén mindig szerettem volna hivatásos fotós lenni. Sikerült a világ számos csodálatos helyére eljutnom és a fényképezés iránti szenvedélyemet rengeteg gyönyörű kép készítésében kiélnem.<br><br>Az életembe a csodás fordulatot a várandósságom hozta. Édesanyaként kezdtem el az élet legcsodálatosabb pillanatait megörökíteni, mint a babavárást, az újszülöttek első mosolyát, a babák, gyerekek őszinte világát, és a családokban az egymás iránti szeretet meghitt pillanatait.&nbsp;<br><br>Számomra minden ember egy történet. Szeretem meglátni és kifejezni a bennük lévő egyediséget és szépséget olyan képekben, melyek örök emlékek maradnak az utódoknak is.<br><br>Szeretettel várlak, ha szeretnél magadról, illetve a családodról szép képeket, vagy, ha esetleg szeretetted szeretnéd meglepni egy örök emlékkel. \n<br>&nbsp;<br>",
+          "text": "<br>Szeretettel üdvözöllek és előre is köszönöm, hogy megtekinted a honlapomat!&nbsp;<br><br><b>Brandt Beáta vagyok</b> <b>édesanya, feleség, fotográfus, coach...</b> <br>\n<br>Számomra a fotózás egyszerre kihívás, szenvedély, alkotás és kiteljesedés.&nbsp;<br><br>A fényképezés szeretetét már generációkon keresztül a családomból hozom. Már gyerekkorom óta igazán érdekelt a fotózás és a szívem mélyén mindig szerettem volna hivatásos fotós lenni. Sikerült a világ számos csodálatos helyére eljutnom és a fényképezés iránti szenvedélyemet rengeteg gyönyörű kép készítésében kiélnem.<br><br>Az életembe a csodás fordulatot a várandósságom hozta. Édesanyaként kezdtem el az élet legcsodálatosabb pillanatait megörökíteni, mint a babavárást, az újszülöttek első mosolyát, a babák, gyerekek őszinte világát, és a családokban az egymás iránti szeretet meghitt pillanatait.&nbsp;<br><br>Számomra minden ember egy történet. Szeretem meglátni és kifejezni a bennük lévő egyediséget és szépséget olyan képekben, melyek örök emlékek maradnak az utódoknak is.<br><br>Szeretettel várlak, ha szeretnél magadról, illetve a családodról szép képeket, vagy, ha esetleg szeretetted szeretnéd meglepni egy örök emlékkel. \n<br>&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"rolam.html\" data-toolbar=\"-mbrBtnMove\">OLVASS BŐVEBBEN RÓLAM</a>",
           "_tags": [
             "Téma"
