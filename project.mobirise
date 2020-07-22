@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "csaladifoto.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 169,
+    "uniqCompNum": 170,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -7460,6 +7460,19 @@
           ],
           "_name": "header3",
           "_anchor": "header3-47"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "Szeretnéd az élet legcsodálatosabb pillanatait megörökíteni, mint a babavárást, az újszülöttek első mosolyát, a babák, gyerekek őszinte kacaját, az egymás iránti szeretet meghitt pillanatait, egyedi, érzelemmel teli csodás fotókon? Kismama, baba, gyermek, újszülött, családi, portré, keresztelő és esküvői fotógráfus vagyok. Saját műtermemben és szabadtéren fotózom Pécsen és környékén.&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4p"
         },
         {
           "_params": {
