@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "velemenyek.html",
+    "currentPage": "unnepi_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 170,
+    "uniqCompNum": 171,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -2068,7 +2068,7 @@
               "size": 0
             }
           },
-          "title": "BABA ÉS GYERMEK FOTÓZÁS PÉCSEN",
+          "title": "MŰTERMI ÉS SZABADTÉRI BABA ÉS GYERMEK FOTÓZÁS PÉCSEN",
           "text": "<i>...a babák és a gyerekek őszinte világa...</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -4738,7 +4738,7 @@
               "size": 0
             }
           },
-          "title": "CSALÁDI FOTÓZÁS PÉCSEN ÉS KÖRNYÉKÉN",
+          "title": "MŰTERMI ÉS SZABADTÉRI CSALÁDI FOTÓZÁS PÉCSEN ÉS KÖRNYÉKÉN",
           "text": "<i>...az egymás iránti szeretet meghitt pillanatai</i>...<br><i>...generációknak szóló emlékek..</i>.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -5490,7 +5490,7 @@
               "size": 0
             }
           },
-          "title": "KISMAMA, VÁRANDÓS ÉS PÁROS FOTÓZÁS PÉCSEN",
+          "title": "MŰTERMI ÉS SZABADTÉRI KISMAMA, VÁRANDÓS ÉS PÁROS FOTÓZÁS PÉCSEN",
           "text": "<i>...az a csodás 9 hónap babáddal a szíved alatt...</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -6266,7 +6266,7 @@
               "size": 0
             }
           },
-          "title": "PORTRÉ FOTÓZÁS PÉCSEN",
+          "title": "MŰTERMI ÉS SZABADTÉRI PORTRÉ FOTÓZÁS PÉCSEN",
           "text": "<i>...minden ember egy történet</i>...",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -7437,6 +7437,42 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
+              "font-size": "32px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Műtermi és szabadtéri kismama, baba, gyermek, újszülött, családi, portré, jegyes és esküvői fotózás Pécsen",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4q"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "Szeretnéd az élet legcsodálatosabb pillanatait megörökíteni, mint a babavárást, az újszülöttek első mosolyát, a babák, gyerekek őszinte kacaját, az egymás iránti szeretet meghitt pillanatait, egyedi, érzelemmel teli csodás fotókon? Kismama, baba, gyermek, újszülött, családi, portré, keresztelő és esküvői fotógráfus vagyok. Saját műtermemben és szabadtéren fotózom Pécsen és környékén.&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4p"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
               "text-align": "center",
               "font-size": "30px",
               "font-family": "'Indie Flower', cursive",
@@ -7460,19 +7496,6 @@
           ],
           "_name": "header3",
           "_anchor": "header3-47"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "Szeretnéd az élet legcsodálatosabb pillanatait megörökíteni, mint a babavárást, az újszülöttek első mosolyát, a babák, gyerekek őszinte kacaját, az egymás iránti szeretet meghitt pillanatait, egyedi, érzelemmel teli csodás fotókon? Kismama, baba, gyermek, újszülött, családi, portré, keresztelő és esküvői fotógráfus vagyok. Saját műtermemben és szabadtéren fotózom Pécsen és környékén.&nbsp;",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-4p"
         },
         {
           "_params": {
@@ -8140,8 +8163,8 @@
     },
     "eskuvo_keresztelo_fenykepezes.html": {
       "settings": {
-        "meta_descr": "Brandt Beáta fotográfus, Pécs. Esküvő és keresztelő fotózás Pécsen és környékén. Egyedi baba, gyermek, újszülött, kismama,  családi, portré és esküvő fotózás stúdióban és szabadtéren Pécsen és környékén.\n\n",
-        "title": "Esküvő és keresztelő fotózás Pécs",
+        "meta_descr": "Brandt Beáta fotográfus, Pécs. Esküvő, jegyes és keresztelő fotózás Pécsen és környékén. Egyedi baba, gyermek, újszülött, kismama,  családi, portré és esküvő fotózás stúdióban és szabadtéren Pécsen és környékén.\n\n",
+        "title": "Esküvő, jegyes és keresztelő fotózás Pécs",
         "order": 10
       },
       "components": [
@@ -8188,7 +8211,7 @@
               "size": 0
             }
           },
-          "title": "ESKÜVŐ ÉS KERESZTELŐ FOTÓZÁS PÉCSEN<br><br>",
+          "title": "ESKÜVŐ, JEGYES ÉS KERESZTELŐ FOTÓZÁS PÉCSEN<br><br>",
           "text": "<i>...életed egyszeri és megismételhetetlen pillanatai...&nbsp;</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
