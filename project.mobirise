@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "portre_fotozas.html",
+    "currentPage": "eskuvo_keresztelo_fenykepezes.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1019,8 +1019,8 @@
               "size": 250
             }
           },
-          "title": "<br>Kedves Látogató!&nbsp;",
-          "text": "<br>Szeretettel üdvözöllek a honlapomon!&nbsp;<br><br><b>Brandt Beáta vagyok</b> édesanya, feleség, <b>fotográfus</b>, coach... \n<br><br>Számomra a fotózás egyszerre kihívás, szenvedély, alkotás és kiteljesedés.<br>\n<br>A fényképezés szeretetét már generációkon keresztül a családomból hozom. Már gyerekkorom óta igazán érdekelt a fotózás és a szívem mélyén mindig szerettem volna hivatásos fotós lenni. Sikerült a világ számos csodálatos helyére eljutnom és a fényképezés iránti szenvedélyemet rengeteg gyönyörű kép készítésében kiélnem.\n<br><br>",
+          "title": "<br><i>Kedves Látogató!</i>&nbsp;",
+          "text": "<br>Szeretettel üdvözöllek a honlapomon!&nbsp;<br><br><i><b>Brandt Beáta vagyok édesanya, feleség, fotográfus, coach... \n</b></i><br><br><i>Számomra a fotózás egyszerre kihívás, szenvedély, alkotás és kiteljesedés.</i><br>\n<br><b><i>A fényképezés szeretetét már generációkon keresztül a családomból hozom.</i> </b>Már gyerekkorom óta igazán érdekelt a fotózás és a szívem mélyén mindig szerettem volna hivatásos fotós lenni. Sikerült a világ számos csodálatos helyére eljutnom és a fényképezés iránti szenvedélyemet rengeteg gyönyörű kép készítésében kiélnem.\n<br><br>",
           "_tags": [
             "Theme"
           ],
@@ -1077,7 +1077,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Az életembe a csodás fordulatot a várandósságom hozta, amikor úgy döntöttem, hogy tantermi keretek között fotográfus végzettséget is szerzek. Nagy örömömre a férjem is csatlakozott, így egy csapattá váltunk. Hálás köszönet a drága kisfiúnknak, akinek születése lehetővé tette az álmunk megvalósulását. <br>\n<br>Édesanyaként kezdtem el az élet legcsodálatosabb pillanatait megörökíteni, mint a babavárást, az újszülöttek első mosolyát, a babák, gyerekek őszinte világát, és a családokban az egymás iránti szeretet meghitt pillanatait. <br>",
+          "text": "Az életembe a csodás fordulatot a várandósságom hozta, amikor úgy döntöttem, hogy tantermi keretek között fotográfus végzettséget is szerzek. Nagy örömömre a férjem is csatlakozott, így egy csapattá váltunk. Hálás köszönet a drága kisfiúnknak, akinek születése lehetővé tette az álmunk megvalósulását. <br>\n<br><i><b>Édesanyaként kezdtem el az élet legcsodálatosabb pillanatait megörökíteni,</b></i> <i>mint a babavárást, az újszülöttek első mosolyát, a babák, gyerekek őszinte világát, és a családokban az egymás iránti szeretet meghitt pillanatait. </i><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -1134,7 +1134,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Számomra minden ember egy történet. Szeretem meglátni és kifejezni a bennük lévő egyediséget és szépséget olyan képekben, melyek örök emlékek maradnak az utódoknak is.<br><br>Folyamatosan fejlesztem és képzem magamat, minden fotózásba újdonságot viszek bele és az egyediség varázsára törekszem. <br>\n<br>Szeretettel várlak, ha szeretnél magadról, illetve a családodról szép képeket, vagy, ha esetleg szeretetted szeretnéd meglepni egy fotózással Pécsen a stúdiómban vagy a természetben.&nbsp;<br>\n<br>Előre is köszönöm, hogy megtekinted a honlapomat, ha szeretnél több fotót látni és az aktuális akciókról, nyereményjátékokról értesülni, akkor, kérlek, szépen kövess a Facebook és Instagram oldalamon is. &nbsp;&nbsp;<br>",
+          "text": "<b><i>Számomra minden ember egy történet. Szeretem meglátni és kifejezni a bennük lévő egyediséget és szépséget olyan képekben, melyek örök emlékek maradnak az utódoknak is.</i></b><br><br>Folyamatosan fejlesztem és képzem magamat, minden fotózásba újdonságot viszek bele és az egyediség varázsára törekszem. <br>\n<br><i><b>Szeretettel várlak, ha szeretnél magadról, illetve a családodról szép képeket, vagy, ha esetleg szeretetted szeretnéd meglepni egy fotózással Pécsen a stúdiómban vagy a természetben. Keress bizalommal!</b></i><br>\n<br><i>Előre is köszönöm, hogy megtekinted a honlapomat, ha szeretnél több fotót látni és az aktuális akciókról, nyereményjátékokról értesülni, akkor, kérlek, szépen kövess a Facebook és Instagram oldalamon is.</i> &nbsp;&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -5976,7 +5976,7 @@
             "bgColor": "#fff"
           },
           "text1": "<p><b><i>…az a csodás 9 hónap, ami egy nőt anyává varázsol...</i></b></p><p><br></p><p> \n</p><div><b>A babavárás egy nő életében a legcsodálatosabb időszak,</b> amikor ragyogsz a várakozás örömétől, de ezzel párhuzamosan megéled az izgatottságot, a szorongást is, de mégis árad belőled egyfajta boldog békés harmónia, miközben a világ legnagyobb csodája történik benned. Számomra a terhesség életem legcsodálatosabb időszaka volt, menynek minden percét élveztem. Ezért ezeket az igaz meghitt pillanatokat megörökíteni különösen hálás kihívás a számomra. </div><div><b>Szívesen készítek</b> a várandósságod boldog pillanatiról<b> páros fotókat is</b>, illetve, <b>ha már van gyermeketek, akkor vele együtt is</b> <b>készülhetnek szép családi babavárós képek. </b></div><div><b>Több álomszép kismamaruha közül tudsz választani </b>magyar és külföldi készítőktől, de szívesen fotózlak saját kedvenc terhes ruhádban is.</div><div>Ultrahangképet, kiscipőt, babaruhát, illetve bármit, amit szívesen látnál a képeken, nyugodtan hozd magaddal.</div><div> \n</div><p></p>",
-          "text2": "<div><br></div><div><br></div><div><span style=\"font-size: 1.07rem;\">A pocakfotózásra általában a</span><span style=\"font-size: 1.07rem;\"><b> legideálisabb</b> <b>a terhesség 27-33 hete</b><i>,</i></span><span style=\"font-size: 1.07rem;\"> de alkattól függően természetesen később vagy korábban is sor kerülhet. A lényeg, hogy a pocakod már jól látszódjon.</span><br></div><div><b>A kismama fotózás helyszínéül választhatod </b>a saját <b>műtermemet</b> Pécsen, bérelt stúdiót vagy <b>szabadteret</b>, a gyönyörű virágos udvarunkat, mezőt, erdőt, tópartot stb.. <b>Stúdiós és kültéri fotózásra is lehetőség van egyszerre. \n</b></div><div><i>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra.</i> A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető. A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készítetthetsz .&nbsp;</b></div><div>Nagyon hálás vagyok, amikor a kismamák, a szülés után már a gyönyörű babáikkal, gyermekeikkel keresnek meg, hogy újra csodás családi fotók készüljenek róluk képeket.<b>&nbsp;</b></div><div><span style=\"font-size: 1.07rem;\">Várlak Benneteket szeretettel!</span><br></div>",
+          "text2": "<div><br></div><div><br></div><div><span style=\"font-size: 1.07rem;\">A pocakfotózásra általában a</span><span style=\"font-size: 1.07rem;\"><b> legideálisabb</b> <b>a terhesség 27-33 hete</b><i>,</i></span><span style=\"font-size: 1.07rem;\"> de alkattól függően természetesen később vagy korábban is sor kerülhet. A lényeg, hogy a pocakod már jól látszódjon.</span><br></div><div><b>A kismama fotózás helyszínéül választhatod </b>a saját <b>műtermemet</b> Pécsen, bérelt stúdiót vagy <b>szabadteret</b>, a gyönyörű virágos udvarunkat, mezőt, erdőt, tópartot stb.. <b>Stúdiós és kültéri fotózásra is lehetőség van egyszerre. \n</b></div><div><i>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra.</i> A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető. A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készítetthetsz .&nbsp;</b></div><div>Nagyon hálás vagyok, amikor a kismamák, a szülés után már a gyönyörű babáikkal, gyermekeikkel keresnek meg, hogy újra csodás családi fotók készüljenek róluk képeket.<b>&nbsp;</b></div><div><span style=\"font-size: 1.07rem;\"><i><b>Várlak Benneteket szeretettel! Keress bizalommal!</b></i></span><br></div>",
           "_tags": [
             "Theme"
           ],
@@ -7467,7 +7467,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Szeretnéd az élet legcsodálatosabb pillanatait megörökíteni, mint a babavárást, az újszülöttek első mosolyát, a babák, gyerekek őszinte kacaját, az egymás iránti szeretet meghitt pillanatait, egyedi, érzelemmel teli csodás fotókon? </p><p>Kismama, baba, gyermek, újszülött, családi, portré, keresztelő és esküvői fotógráfus vagyok. A fényképezés élményét egy kellemes program keretében a saját műterműnkben és szabadtéren is megtapasztalhatod velünk Pécsen és környékén. Várunk szeretettel!&nbsp;</p>",
+          "text": "<p><b>Szeretnéd az élet legcsodálatosabb pillanatait megörökíteni,</b> mint a babavárást, az újszülöttek első mosolyát, a babák, gyerekek őszinte kacaját, az egymás iránti szeretet meghitt pillanatait,<b> egyedi, érzelemmel teli csodás fotókon? </b></p><p><b><i>Kismama, baba, gyermek, újszülött, családi, portré, keresztelő és esküvői fotógráfus vagyok.</i> </b>A fényképezés élményét egy kellemes program keretében a saját műterműnkben és szabadtéren is megtapasztalhatod velünk Pécsen és környékén. Várunk szeretettel!&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -7517,8 +7517,8 @@
               "size": 0
             }
           },
-          "title": "<br>Kedves Látogató!",
-          "text": "<br>Szeretettel üdvözöllek és előre is köszönöm, hogy megtekinted a honlapomat!&nbsp;<br><br><b>Brandt Beáta vagyok</b> <b>édesanya, feleség, fotográfus, coach...</b> <br>\n<br>Számomra a fotózás egyszerre kihívás, szenvedély, alkotás és kiteljesedés.&nbsp;<br><br>A fényképezés szeretetét már generációkon keresztül a családomból hozom. Már gyerekkorom óta igazán érdekelt a fotózás és a szívem mélyén mindig szerettem volna hivatásos fotós lenni. Sikerült a világ számos csodálatos helyére eljutnom és a fényképezés iránti szenvedélyemet rengeteg gyönyörű kép készítésében kiélnem.<br><br>Az életembe a csodás fordulatot a várandósságom hozta. Édesanyaként kezdtem el az élet legcsodálatosabb pillanatait megörökíteni, mint a babavárást, az újszülöttek első mosolyát, a babák, gyerekek őszinte világát, és a családokban az egymás iránti szeretet meghitt pillanatait.&nbsp;<br><br>Számomra minden ember egy történet. Szeretem meglátni és kifejezni a bennük lévő egyediséget és szépséget olyan képekben, melyek örök emlékek maradnak az utódoknak is.<br><br>Szeretettel várlak, ha szeretnél magadról, illetve a családodról szép képeket, vagy, ha esetleg szeretetted szeretnéd meglepni egy örök emlékkel. \n<br>&nbsp;<br>",
+          "title": "<br><i>Kedves Látogató!</i>",
+          "text": "<br>Szeretettel üdvözöllek és előre is köszönöm, hogy megtekinted a honlapomat!&nbsp;<br><br><i><b>Brandt Beáta vagyok</b> </i><b><i>édesanya, feleség, fotográfus, coach..</i>.</b> <br>\n<br>A fotózás számomra egyszerre szenvedély, kihívás, alkotás és kiteljesedés.&nbsp;<br><br><b>A</b> <b>fényképezés szeretetét már generációkon keresztül a családomból hozom</b>. Már gyerekkorom óta igazán érdekelt a fotózás és a szívem mélyén mindig szerettem volna hivatásos fotós lenni. Sikerült a világ számos csodálatos helyére eljutnom és a fényképezés iránti szenvedélyemet rengeteg gyönyörű kép készítésében kiélnem.<br><br>Az életembe a csodás fordulatot a várandósságom hozta. <b>Édesanyaként kezdtem el az élet legcsodálatosabb pillanatait megörökíteni, </b><i>mint a babavárást, az újszülöttek első mosolyát, a babák, gyerekek őszinte világát, és a családokban az egymás iránti szeretet meghitt pillanatait.&nbsp;</i><br><br><i>Számomra minden ember egy történet. Szeretem meglátni és kifejezni a bennük lévő egyediséget és szépséget olyan képekben, melyek örök emlékek maradnak az utódoknak is.</i><br><br><b><i>Szeretettel várlak, ha szeretnél magadról, illetve a családodról szép képeket, vagy, ha esetleg szeretetted szeretnéd meglepni egy örök emlékkel.</i> \n</b><br>&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"rolam.html\" data-toolbar=\"-mbrBtnMove\">OLVASS BŐVEBBEN RÓLAM</a>",
           "_tags": [
             "Téma"
@@ -7846,7 +7846,7 @@
             }
           },
           "title": "Kérlek nézd meg egy első születésnapos kisfiú képeiből készült videómat!",
-          "text": "<b>Kérlek nézd meg kisfiúnk első születésnapi képeiből készült egyedi zenés slideshow-t!</b>",
+          "text": "<b><i>Kérlek nézd meg kisfiúnk első születésnapi képeiből készült egyedi zenés slideshow-t!</i></b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -8478,7 +8478,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Kérlek nézd meg a baba és gyermek fotóimat is.",
+          "title": "<i>Kérlek nézd meg a baba és gyermek fotóimat is.</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
