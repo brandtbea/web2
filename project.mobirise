@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "ujszulott_fotozas.html",
+    "currentPage": "varandos_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -3634,7 +3634,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Kérlek nézd meg az esküvői és keresztelő fotóimat is.",
+          "title": "<i>Kérlek nézd meg az esküvői és keresztelő fotóimat is.</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -4497,7 +4497,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Kérlek nézd meg az újszülött fotóimat is.",
+          "title": "<i>Kérlek nézd meg az újszülött fotóimat is.</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -6025,7 +6025,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Kérlek nézd meg a családi fotóimat is.",
+          "title": "<i>Kérlek nézd meg a családi fotóimat is.</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -6804,7 +6804,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Kérlek nézd meg a születésnapi fotóimat is.",
+          "title": "<i>Kérlek nézd meg a születésnapi fotóimat is.</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
