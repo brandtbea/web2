@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "eskuvo_keresztelo_fenykepezes.html",
+    "currentPage": "ujszulott_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -537,7 +537,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Kérlek nézd meg az ünnepi fotóimat is.",
+          "title": "<i>Kérlek nézd meg az ünnepi fotóimat is.</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
