@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "varandos_fotozas.html",
+    "currentPage": "unnepi_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 170,
+    "uniqCompNum": 174,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -537,7 +537,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>Kérlek nézd meg az ünnepi fotóimat is.</i>",
+          "title": "<i>Kérlek tekintsd meg az ünnepi fotóimat is.</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -974,6 +974,29 @@
           ],
           "_name": "features3",
           "_anchor": "features3-1j"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "<i>\"Meglátni és elkapni az igaz pillanatot.\"</i>",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4q"
         },
         {
           "_inherit": "msg-box5",
@@ -2855,7 +2878,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Kérlek nézd meg a kismama és páros fotóimat is.",
+          "title": "<i>Kérlek tekintsd meg a kismama és páros fotóimat is.</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -3592,13 +3615,27 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "Az ünnepi <b>fotózás helyszínéül</b> <b>választhatod a</b> <b>saját műtermemet Pécsen, bérelt stúdiót vagy szabadteret</b>, a gyönyörű virágos udvarunkat, mezőt, erdőt, tópartot stb.. Stúdiós és kültéri fotózásra is lehetőség van egyszerre.\n<div>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra. A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető. A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készítetthetsz . &nbsp;</b>Várlak Benneteket szeretettel!</div><div><br></div>",
+          "text1": "<p><br></p><p>Igazán megtisztelő a számomra, amikor egy család többször tér vissza hozzám,   hogy megörökítsem, hogyan változik, cseperedik gyermekük az évek alatt. Boldoggá tesz, hogy én is részese lehetek ennek a csodának, és változásnak, és ennek a gyorsan múló időnek a pillanatait én örökíthetem meg, amelyek majd később a legértékesebb családi emlékek lesznek az albumokban.\n</p><p>A karácsonyi, húsvéti, anyáknapi fotózás kiváló alkalmat ad arra, hogy <i>ajándékként fotósorozattal kedveskedjetek a nagyszülőknek,</i> a rokonoknak.</p><p><br></p><p>A családi fotók számomra mindig nagyon fontos részei a fotózásnak, hiszen ezek lesznek később gyermekeitek legnagyobb kincsei, melyek generációkon keresztül öröklődni fognak. A családfotózás összehozza a családot, amikor mindenki együtt van, és, ahol mindenki rajta van képen. Egy maradandó élmény, ahol az egymás iránti szeretet meghitt pillanatai egymás szemében tükröződik, a közös nevetések, a viccelődések mind élvezetessé teszik a családi fotózást.</p><p><br></p><p>\n</p><p>A fotózáshoz <b>rengeteg kellék és díszlet közül választhatsz</b>.</p><p><br></p><p>Az ünnepi <b>fotózás helyszínéül</b> <b>választhatod a</b> <b>saját műtermemet Pécsen, bérelt stúdiót vagy szabadteret</b>, a gyönyörű virágos udvarunkat, mezőt, erdőt, tópartot stb.. Stúdiós és kültéri fotózásra is lehetőség van egyszerre.\n</p><div>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra. A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető. A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készítetthetsz . &nbsp;</b>Várlak Benneteket szeretettel!</div><div><br></div><p></p>",
           "text2": "",
           "_tags": [
             "Theme"
           ],
           "_name": "content6",
           "_anchor": "content6-4m"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "Igazán megtisztelő a számomra, amikor egy család többször tér vissza hozzám, hogy megörökítsem, hogyan változik, cseperedik gyermekük az évek alatt. Boldoggá tesz, hogy én is részese lehetek ennek a csodának, és változásnak, és ennek a gyorsan múló időnek a pillanatait én örökíthetem meg, amelyek majd később a legértékesebb családi emlékek lesznek az albumokban.\n<div>A karácsonyi, húsvéti, anyáknapi fotózás kiváló alkalmat ad arra, hogy ajándékként fotósorozattal kedveskedjetek a nagyszülőknek, a rokonoknak.</div><div><br></div><div>A családi fotók számomra mindig nagyon fontos részei a fotózásnak, hiszen ezek lesznek később gyermekeitek legnagyobb kincsei, melyek generációkon keresztül öröklődni fognak. A családfotózás összehozza a családot, amikor mindenki együtt van, és, ahol mindenki rajta van képen. Egy maradandó élmény, ahol az egymás iránti szeretet meghitt pillanatai egymás szemében tükröződik, a közös nevetések, a viccelődések mind élvezetessé teszik a családi fotózást.</div>",
+          "text2": "A fotózáshoz rengeteg kellék és díszlet közül választhatsz.\r<div>\r<span style=\"font-size: 1.07rem;\">Az ünnepi fotózás helyszínéül választhatod a saját műtermemet Pécsen, bérelt stúdiót vagy szabadteret, a gyönyörű virágos udvarunkat, mezőt, erdőt, tópartot stb.. Stúdiós és kültéri fotózásra is lehetőség van egyszerre.&nbsp;</span></div><div>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra. A kiválasztott képekből egyedi zenés digitális slideshow is kérhető. A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készítetthetsz .  Várlak Benneteket szeretettel!</div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-4t"
         },
         {
           "_params": {
@@ -3634,7 +3671,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>Kérlek nézd meg az esküvői és keresztelő fotóimat is.</i>",
+          "title": "<i>Kérlek tekintsd meg az esküvői és keresztelő fotóimat is.</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -4455,13 +4492,13 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "A születésnapi <b>fotózás helyszínéül választhatod a saját műtermemet Pécsen, bérelt stúdiót vagy a természetet,</b> a gyönyörű virágos udvarunkat, tópartot, erdőt, mezőt, stb.. <b>Műtermi és kültéri fotózásra is lehetőség van egyszerre.\n</b><div>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra. A kiválasztott képekből<b> egyedi zenés digitális slideshow is kérhető. A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készítetthetsz .&nbsp;</b>Várlak Benneteket szeretettel!</div>",
-          "text2": "",
+          "text1": "Igazi örömmel tölt el, amikor egy család többször tér vissza hozzám,   hogy megörökítsem, hogyan változik, cseperedik gyermekük az évek alatt. Boldoggá tesz, hogy én is részese lehetek ennek a csodának, és változásnak, és ennek a gyorsan múló időnek a pillanatait én örökíthetem meg, amelyek majd később a legértékesebb családi emlékek lesznek az albumokban.\n<div>A születésnapi esemény kiváló alkalmat ad arra, hogy <i><b>ajándékként</b> fotósorozattal kedveskedjetek a nagyszülőknek, a rokonoknak.\n</i></div><div>A fotózáshoz<b> rengeteg kellék és díszlet közül választhatsz</b>. Továbbá gyermekeitek kipróbálhatják <i>az első tortamaszatolás élményét is.</i></div>",
+          "text2": "A születésnapi <b>fotózás helyszínéül választhatod a saját műtermemet Pécsen, bérelt stúdiót vagy a természetet</b>, a gyönyörű virágos udvarunkat, tópartot, erdőt, mezőt, stb.. <b>Műtermi és kültéri fotózásra is lehetőség van egyszerre.\n</b><div>Az elkészült fotókból <b>te választhatod ki, hogy melyek kerüljenek retusálásra. </b>A kiválasztott<b> </b>képekből <b>egyedi zenés digitális slideshow is kérhető.</b> A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készítetthetsz .\n</div><div>Várlak Benneteket szeretettel!</div>",
           "_tags": [
             "Theme"
           ],
           "_name": "content6",
-          "_anchor": "content6-4o"
+          "_anchor": "content6-4s"
         },
         {
           "_params": {
@@ -4497,7 +4534,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>Kérlek nézd meg az újszülött fotóimat is.</i>",
+          "title": "<i>Kérlek tekintsd meg az újszülött fotóimat is.</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -5249,7 +5286,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Kérlek nézd meg a portré fotóimat is.",
+          "title": "<i>Kérlek tekintsd meg a portré fotóimat is.</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -6025,7 +6062,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>Kérlek nézd meg a családi fotóimat is.</i>",
+          "title": "<i>Kérlek tekintsd meg a családi fotóimat is.</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -6762,13 +6799,13 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "Az portré <b>fotózás helyszínéül választhatod a saját műtermemet Pécsen, bérelt stúdiót vagy a természetet,</b> a gyönyörű virágos udvarunkat, erdőt, mezőt, tópartot stb.. <b>Stúdiós és kültéri fotózásra is lehetőség van egyszerre.\n</b><div>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra. A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető. A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készítetthetsz.&nbsp;</b></div><div>Várlak Benneteket szeretettel!</div>",
-          "text2": "",
+          "text1": "Számomra minden ember egy történet. Szeretem meglátni és kifejezni a bennük lévő egyediséget és szépséget olyan képekben, melyek örök emlékek maradnak az utódoknak is.\n<div>Folyamatosan fejlesztem és képzem magamat, minden fotózásba újdonságot viszek bele és az egyediség varázsára törekszem.\n</div><div>\n</div><div>Minden nő életében eljön az a pillanat, amikor úgy érzi, hogy szeretné magát, illetve a párját meglepni egy szép fotósorozattal, illetve szeretnének egy szép páros sorozatot.&nbsp;</div><div><br></div>",
+          "text2": "A portré <b>fotózás helyszínéül választhatod a saját műtermemet Pécsen, bérelt stúdiót vagy a természetet</b>, a gyönyörű virágos udvarunkat, erdőt, mezőt, tópartot stb.. <b>Stúdiós és kültéri fotózásra is lehetőség van egyszerre.\n</b><div>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra. A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető. </b>A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készítetthetsz. \n</div><div>Várlak Benneteket szeretettel!</div>",
           "_tags": [
             "Theme"
           ],
           "_name": "content6",
-          "_anchor": "content6-4n"
+          "_anchor": "content6-4r"
         },
         {
           "_params": {
@@ -6804,7 +6841,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>Kérlek nézd meg a születésnapi fotóimat is.</i>",
+          "title": "<i>Kérlek tekintsd meg a születésnapi fotóimat is.</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -8188,7 +8225,7 @@
               "size": 0
             }
           },
-          "title": "ESKÜVŐ ÉS KERESZTELŐ FOTÓZÁS PÉCSEN<br><br>",
+          "title": "ESKÜVŐ, JEGYES ÉS KERESZTELŐ FOTÓZÁS PÉCSEN ÉS KÖRNYÉKÉN<br><br>",
           "text": "<i>...életed egyszeri és megismételhetetlen pillanatai...&nbsp;</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -8478,7 +8515,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>Kérlek nézd meg a baba és gyermek fotóimat is.</i>",
+          "title": "<i>Kérlek tekintsd meg a baba és gyermek fotóimat is.</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"

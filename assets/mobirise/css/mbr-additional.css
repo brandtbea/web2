@@ -639,6 +639,13 @@ section.form .container {
 #footer1-1b P {
   text-align: center;
 }
+#header3-4q .mbr-section-title,
+#header3-4q .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-4q .mbr-section-title {
+  font-size: 30px;
+}
 #msg-box4-1d H3 {
   font-size: 30px;
 }
