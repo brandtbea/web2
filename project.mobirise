@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 174,
+    "uniqCompNum": 175,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -3615,22 +3615,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><br></p><p>Igazán megtisztelő a számomra, amikor egy család többször tér vissza hozzám,   hogy megörökítsem, hogyan változik, cseperedik gyermekük az évek alatt. Boldoggá tesz, hogy én is részese lehetek ennek a csodának, és változásnak, és ennek a gyorsan múló időnek a pillanatait én örökíthetem meg, amelyek majd később a legértékesebb családi emlékek lesznek az albumokban.\n</p><p>A karácsonyi, húsvéti, anyáknapi fotózás kiváló alkalmat ad arra, hogy <i>ajándékként fotósorozattal kedveskedjetek a nagyszülőknek,</i> a rokonoknak.</p><p><br></p><p>A családi fotók számomra mindig nagyon fontos részei a fotózásnak, hiszen ezek lesznek később gyermekeitek legnagyobb kincsei, melyek generációkon keresztül öröklődni fognak. A családfotózás összehozza a családot, amikor mindenki együtt van, és, ahol mindenki rajta van képen. Egy maradandó élmény, ahol az egymás iránti szeretet meghitt pillanatai egymás szemében tükröződik, a közös nevetések, a viccelődések mind élvezetessé teszik a családi fotózást.</p><p><br></p><p>\n</p><p>A fotózáshoz <b>rengeteg kellék és díszlet közül választhatsz</b>.</p><p><br></p><p>Az ünnepi <b>fotózás helyszínéül</b> <b>választhatod a</b> <b>saját műtermemet Pécsen, bérelt stúdiót vagy szabadteret</b>, a gyönyörű virágos udvarunkat, mezőt, erdőt, tópartot stb.. Stúdiós és kültéri fotózásra is lehetőség van egyszerre.\n</p><div>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra. A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető. A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készítetthetsz . &nbsp;</b>Várlak Benneteket szeretettel!</div><div><br></div><p></p>",
-          "text2": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_anchor": "content6-4m"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "Igazán megtisztelő a számomra, amikor egy család többször tér vissza hozzám, hogy megörökítsem, hogyan változik, cseperedik gyermekük az évek alatt. Boldoggá tesz, hogy én is részese lehetek ennek a csodának, és változásnak, és ennek a gyorsan múló időnek a pillanatait én örökíthetem meg, amelyek majd később a legértékesebb családi emlékek lesznek az albumokban.\n<div>A karácsonyi, húsvéti, anyáknapi fotózás kiváló alkalmat ad arra, hogy ajándékként fotósorozattal kedveskedjetek a nagyszülőknek, a rokonoknak.</div><div><br></div><div>A családi fotók számomra mindig nagyon fontos részei a fotózásnak, hiszen ezek lesznek később gyermekeitek legnagyobb kincsei, melyek generációkon keresztül öröklődni fognak. A családfotózás összehozza a családot, amikor mindenki együtt van, és, ahol mindenki rajta van képen. Egy maradandó élmény, ahol az egymás iránti szeretet meghitt pillanatai egymás szemében tükröződik, a közös nevetések, a viccelődések mind élvezetessé teszik a családi fotózást.</div>",
-          "text2": "A fotózáshoz rengeteg kellék és díszlet közül választhatsz.\r<div>\r<span style=\"font-size: 1.07rem;\">Az ünnepi fotózás helyszínéül választhatod a saját műtermemet Pécsen, bérelt stúdiót vagy szabadteret, a gyönyörű virágos udvarunkat, mezőt, erdőt, tópartot stb.. Stúdiós és kültéri fotózásra is lehetőség van egyszerre.&nbsp;</span></div><div>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra. A kiválasztott képekből egyedi zenés digitális slideshow is kérhető. A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készítetthetsz .  Várlak Benneteket szeretettel!</div>",
+          "text1": "Igazán megtisztelő a számomra, amikor egy család többször tér vissza hozzám, hogy megörökítsem, hogyan változik, cseperedik gyermekük az évek alatt. Boldoggá tesz, hogy én is részese lehetek ennek a csodának, és változásnak, és ennek a gyorsan múló időnek a pillanatait én örökíthetem meg, amelyek majd később a legértékesebb családi emlékek lesznek az albumokban.\n<div>A karácsonyi, húsvéti, anyáknapi fotózás kiváló alkalmat ad arra, hogy ajándékként fotósorozattal kedveskedjetek a nagyszülőknek, a rokonoknak.</div><div><br></div><div>A családi fotók számomra mindig nagyon fontos részei a fotózásnak, hiszen ezek lesznek később gyermekeitek legnagyobb kincsei, melyek generációkon keresztül öröklődni fognak. A családfotózás összehozza a családot, amikor mindenki együtt van, és, ahol mindenki rajta van képen.&nbsp;</div>",
+          "text2": "<p>Egy maradandó élmény, ahol az egymás iránti szeretet meghitt pillanatai egymás szemében tükröződik, a közös nevetések, a viccelődések mind élvezetessé teszik a családi fotózást.</p><p><br></p><p><span style=\"font-size: 1.07rem;\">A fotózáshoz <b>rengeteg kellék és díszlet közül választhatsz</b>.</span><br></p><div>\n<span style=\"font-size: 1.07rem;\">Az ünnepi <b>fotózás helyszínéül választhatod a saját műtermemet Pécsen, bérelt stúdiót vagy szabadteret,</b> a gyönyörű virágos udvarunkat, mezőt, erdőt, tópartot stb.. Stúdiós és kültéri fotózásra is lehetőség van egyszerre.&nbsp;</span></div><div><br></div><div>Az elkészült fotókból <b>te választhatod ki, hogy melyek kerüljenek retusálásra.</b> A kiválasztott képekből e<b>gyedi zenés digitális slideshow is kérhető.</b> A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készítetthetsz . </div><div> Várlak Benneteket szeretettel!</div><p></p>",
           "_tags": [
             "Theme"
           ],
@@ -7473,6 +7459,42 @@
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
             },
+            ".mbr-section-title I": {
+              "font-size": "32px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "<i>Kismama, újszülött, baba, gyermek, családi portré fotózás Pécsen és környékén szabadtéren és műteremben</i>",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4u"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Szeretnéd az élet legcsodálatosabb pillanatait megörökíteni,</b> mint a babavárást, az újszülöttek első mosolyát, a babák, gyerekek őszinte kacaját, az egymás iránti szeretet meghitt pillanatait,<b> egyedi, érzelemmel teli csodás fotókon? </b></p><p><b><i>Kismama, baba, gyermek, újszülött, családi, portré, keresztelő és esküvői fotógráfus vagyok.</i> </b>A fényképezés élményét egy kellemes program keretében a saját műterműnkben és szabadtéren is megtapasztalhatod velünk Pécsen és környékén. Várunk szeretettel!&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4p"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
             ".mbr-section-title": {
               "text-align": "center",
               "font-size": "30px",
@@ -7490,26 +7512,13 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "\"Meglátni és elkapni az igaz pillanatot.\"<i>&nbsp;</i>",
+          "title": "\"Meglátni és elkapni az igaz pillanatot.\"&nbsp;",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
           "_anchor": "header3-47"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p><b>Szeretnéd az élet legcsodálatosabb pillanatait megörökíteni,</b> mint a babavárást, az újszülöttek első mosolyát, a babák, gyerekek őszinte kacaját, az egymás iránti szeretet meghitt pillanatait,<b> egyedi, érzelemmel teli csodás fotókon? </b></p><p><b><i>Kismama, baba, gyermek, újszülött, családi, portré, keresztelő és esküvői fotógráfus vagyok.</i> </b>A fényképezés élményét egy kellemes program keretében a saját műterműnkben és szabadtéren is megtapasztalhatod velünk Pécsen és környékén. Várunk szeretettel!&nbsp;</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-4p"
         },
         {
           "_params": {
@@ -7804,7 +7813,7 @@
           "title3": "Ünnepi fotózás<br>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Esküvő, keresztelő fotózás<br>",
+          "title4": "Esküvő, jegyes és keresztelő fotózás<br>",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "title5": "Trendy Website Blocks",

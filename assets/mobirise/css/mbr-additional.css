@@ -1612,6 +1612,13 @@ section.form .container {
 #slider-5 P {
   text-align: left;
 }
+#header3-4u .mbr-section-title,
+#header3-4u .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-4u .mbr-section-title I {
+  font-size: 32px;
+}
 #header3-47 .mbr-section-title,
 #header3-47 .mbr-section-subtitle {
   text-align: center;
