@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "unnepi_fotozas.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -4478,8 +4478,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "Igazi örömmel tölt el, amikor egy család többször tér vissza hozzám,   hogy megörökítsem, hogyan változik, cseperedik gyermekük az évek alatt. Boldoggá tesz, hogy én is részese lehetek ennek a csodának, és változásnak, és ennek a gyorsan múló időnek a pillanatait én örökíthetem meg, amelyek majd később a legértékesebb családi emlékek lesznek az albumokban.\n<div>A születésnapi esemény kiváló alkalmat ad arra, hogy <i><b>ajándékként</b> fotósorozattal kedveskedjetek a nagyszülőknek, a rokonoknak.\n</i></div><div>A fotózáshoz<b> rengeteg kellék és díszlet közül választhatsz</b>. Továbbá gyermekeitek kipróbálhatják <i>az első tortamaszatolás élményét is.</i></div>",
-          "text2": "A születésnapi <b>fotózás helyszínéül választhatod a saját műtermemet Pécsen, bérelt stúdiót vagy a természetet</b>, a gyönyörű virágos udvarunkat, tópartot, erdőt, mezőt, stb.. <b>Műtermi és kültéri fotózásra is lehetőség van egyszerre.\n</b><div>Az elkészült fotókból <b>te választhatod ki, hogy melyek kerüljenek retusálásra. </b>A kiválasztott<b> </b>képekből <b>egyedi zenés digitális slideshow is kérhető.</b> A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készítetthetsz .\n</div><div>Várlak Benneteket szeretettel!</div>",
+          "text1": "Igazi örömmel tölt el, amikor egy család többször tér vissza hozzám,   hogy megörökítsem, hogyan változik, cseperedik gyermekük az évek alatt. Boldoggá tesz, hogy én is részese lehetek ennek a csodának, és változásnak, és ennek a gyorsan múló időnek a pillanatait én örökíthetem meg, amelyek majd később a legértékesebb családi emlékek lesznek az albumokban.\n<div>A születésnapi esemény kiváló alkalmat ad arra, hogy <i><b>ajándékként</b> fotósorozattal kedveskedjetek a nagyszülőknek, a rokonoknak.\n</i></div><div>A fotózáshoz<b> rengeteg kellék és díszlet közül választhatsz</b>.&nbsp;</div>",
+          "text2": "<p>Továbbá gyermekeitek kipróbálhatják az első tortamaszatolás élményét is.</p><p>A születésnapi <b>fotózás helyszínéül választhatod a saját műtermemet Pécsen, bérelt stúdiót vagy a természetet</b>, a gyönyörű virágos udvarunkat, tópartot, erdőt, mezőt, stb.. <b>Műtermi és kültéri fotózásra is lehetőség van egyszerre.\n</b></p><div>Az elkészült fotókból <b>te választhatod ki, hogy melyek kerüljenek retusálásra. </b>A kiválasztott<b> </b>képekből <b>egyedi zenés digitális slideshow is kérhető.</b> A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készítetthetsz .\n</div><div>Várlak Benneteket szeretettel!</div><p></p>",
           "_tags": [
             "Theme"
           ],
@@ -7460,7 +7460,7 @@
               "text-align": "center"
             },
             ".mbr-section-title I": {
-              "font-size": "32px"
+              "font-size": "25px"
             }
           },
           "_params": {
