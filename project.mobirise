@@ -509,7 +509,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"csaladifoto.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -2934,7 +2934,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"portre_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -3713,7 +3713,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"varandos_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -4576,7 +4576,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"varandos_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -5364,7 +5364,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"csaladifoto.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -6140,7 +6140,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"csaladifoto.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -6919,7 +6919,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"varandos_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -8616,7 +8616,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"varandos_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -9241,7 +9241,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"portre_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -9593,7 +9593,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"portre_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>           ",
           "_tags": [
             "Theme"
           ],
