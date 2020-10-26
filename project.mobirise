@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "baba_gyermek_fotok.html",
+    "currentPage": "karacsonyi_fotozas_pecs.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -9146,7 +9146,7 @@
               "size": 0
             }
           },
-          "title": "<i>KARÁCSONYI FOTÓZÁS PÉCSEN</i>",
+          "title": "<i>KARÁCSONYI CSALÁDI FOTÓZÁS PÉCSEN</i>",
           "text": "<i>&nbsp;...együtt a család...<br>...karácsonyi hangulatban...</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -9213,7 +9213,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "title": "<i>KARÁCSONYI MŰTERMI FOTÓZÁS PÉCSEN</i>",
+          "title": "<i>KARÁCSONYI CSALÁDI FOTÓZÁS PÉCSEN</i>",
           "meta": "Lepd meg szeretteidet gyönyörű családi és gyerek fotókkal!&nbsp;",
           "_tags": [
             "Theme"
