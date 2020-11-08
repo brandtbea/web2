@@ -1540,6 +1540,7 @@ section.form .container {
 
 
 
+
 #ext_menu-3 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1612,12 +1613,24 @@ section.form .container {
 #slider-5 P {
   text-align: left;
 }
+#header3-5a .mbr-section-title,
+#header3-5a .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5a .mbr-section-title {
+  text-align: center;
+  font-size: 32px;
+}
 #header3-4u .mbr-section-title,
 #header3-4u .mbr-section-subtitle {
   text-align: center;
 }
 #header3-4u .mbr-section-title I {
   font-size: 25px;
+}
+#msg-box5-5e H3 {
+  font-size: 24px;
+  text-align: center;
 }
 #header3-47 .mbr-section-title,
 #header3-47 .mbr-section-subtitle {
@@ -1667,6 +1680,17 @@ section.form .container {
 }
 #testimonials1-l .mbr-section-title {
   color: #3c3c3c;
+}
+#header3-5c .mbr-section-title,
+#header3-5c .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5c .mbr-section-title {
+  font-size: 30px;
+}
+#buttons1-5b .btn {
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
 }
 #form1-9 .form-control-label {
   color: #232323;
@@ -1911,6 +1935,13 @@ section.form .container {
 #contacts1-4z P {
   color: #acacac;
   font-size: 13px;
+}
+#social-buttons3-5f .mbr-section-title,
+#social-buttons3-5f .btn-social {
+  color: #fff;
+}
+#social-buttons3-5f .mbr-section-title {
+  font-size: 23px;
 }
 #ext_menu-50 .hide-buttons .nav-btn {
   display: none !important;
