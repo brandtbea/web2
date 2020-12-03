@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "karacsonyi_fotozas_pecs.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -9937,6 +9937,54 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a9959-karacsonyifoto-pecs-christmasphoto-gyerekfotozas-2000x1303.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a9959-karacsonyifoto-pecs-christmasphoto-gyerekfotozas-2000x1303-800x521.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9495-karacsonyifoto-gyerekfoto-pecs-christmasphoto-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9495-karacsonyifoto-gyerekfoto-pecs-christmasphoto-2000x3000-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9502-pecs-gyerekfotozas-karacsony-christmasphoto-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9502-pecs-gyerekfotozas-karacsony-christmasphoto-2000x3000-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9666-gyerekfotos-karacsonyifotozas-pecs-christmasphotoshoot-2000x1450.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9666-gyerekfotos-karacsonyifotozas-pecs-christmasphotoshoot-2000x1450-800x580.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9723-gyerekfotozas-karacsony-christmasphoto-pecs-2000x1351.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9723-gyerekfotozas-karacsony-christmasphoto-pecs-2000x1351-800x540.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
