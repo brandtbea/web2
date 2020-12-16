@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "karacsonyi_fotozas_pecs.html",
+    "currentPage": "varandos_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -6197,6 +6197,162 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0397-kismamafotozas-pecs-maternityphotoshoot-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0397-kismamafotozas-pecs-maternityphotoshoot-2000x3000-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0400-kismamafoto-pecs-varandosfotozas-maternityphoto-2000x3083.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0400-kismamafoto-pecs-varandosfotozas-maternityphoto-2000x3083-800x1233.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0411-kismamafotozas-pecs-maternityphotoshoot-pocakfotozas-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0411-kismamafotozas-pecs-maternityphotoshoot-pocakfotozas-2000x3000-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0414-kismamafotos-pecs-maternityphotographer-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0414-kismamafotos-pecs-maternityphotographer-2000x3000-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0424-varandosfotozas-kismamafotozas-pecs-maternityphotoshoot-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0424-varandosfotozas-kismamafotozas-pecs-maternityphotoshoot-2000x3000-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0433-varandosfotozas-kismamafoto-pecs-maternityphoto-2000x2984.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0433-varandosfotozas-kismamafoto-pecs-maternityphoto-2000x2984-800x1194.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0436-kismamafoto-varandosfoto-pecs-maternityphoto-2000x3046.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0436-kismamafoto-varandosfoto-pecs-maternityphoto-2000x3046-800x1218.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0465-varandosfotos-kismamafotozas-pecs-maternityphoto-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0465-varandosfotos-kismamafotozas-pecs-maternityphoto-2000x3000-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0560-kismamafoto-varandosfoto-pecs-maternityphoto-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0560-kismamafoto-varandosfoto-pecs-maternityphoto-2000x3000-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0558-kismamafoto-varandosfoto-pecs-maternityphotoshoot-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0558-kismamafoto-varandosfoto-pecs-maternityphotoshoot-2000x3000-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0702-kismamafoto-pecs-varandosfoto-parosfoto-bellyphoto-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0702-kismamafoto-pecs-varandosfoto-parosfoto-bellyphoto-2000x3000-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0700-kismamafotozas-pocakfoto-pecs-maternityphoto-2000x2940.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0700-kismamafotozas-pocakfoto-pecs-maternityphoto-2000x2940-800x1176.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0706-varandosfoto-kismamafoto-pecs-pregnantphoto-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0706-varandosfoto-kismamafoto-pecs-pregnantphoto-2000x3000-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
