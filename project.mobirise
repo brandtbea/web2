@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "szuletesnapi_fotozas.html",
+    "currentPage": "karacsonyi_fotozas_pecs.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -8358,7 +8358,7 @@
             }
           },
           "title": "Kérlek nézd meg egy első születésnapos kisfiú képeiből készült videómat!",
-          "text": "<b><i>Kérlek nézd meg kisfiúnk első születésnapi képeiből készült egyedi zenés slideshow-t!</i></b>",
+          "text": "<b><i>A fotókból egyedi zenés digitális slideshow is kérhető. Kérlek nézd meg kisfiúnk első születésnapi képeiből készült egyedi zenés slideshow-t!</i></b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -9892,7 +9892,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -10357,6 +10357,66 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a0622-karacsonyifotozas-csaladifoto-christmasphoto-familyphoto-pecs-2000x1573.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a0622-karacsonyifotozas-csaladifoto-christmasphoto-familyphoto-pecs-2000x1573-800x629.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0196-karacsonyi-gyerekfoto-childphoto-christmasphoto-pecs-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0196-karacsonyi-gyerekfoto-childphoto-christmasphoto-pecs-2000x3000-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0405-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0405-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a3179-karacsonyifoto-christmasphoto-pecs-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a3179-karacsonyifoto-christmasphoto-pecs-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a3228-karacsonyi-csaladifoto-christmasphoto-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a3228-karacsonyi-csaladifoto-christmasphoto-2000x1334-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a3407-karcsonyifoto-familyphoto-christmasphoto-csaladifoto-pecs-cicafoto-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a3407-karcsonyifoto-familyphoto-christmasphoto-csaladifoto-pecs-cicafoto-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
