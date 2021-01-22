@@ -2009,3 +2009,108 @@ section.form .container {
 #footer1-51 P {
   text-align: center;
 }
+
+
+
+#msg-box5-5i H3 {
+  font-size: 23px;
+}
+#msg-box5-5i P {
+  text-align: center;
+}
+#header3-5k .mbr-section-title,
+#header3-5k .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5k .mbr-section-title {
+  font-size: 24px;
+  text-align: center;
+}
+#header3-5k .mbr-section-title I {
+  font-size: 22px;
+}
+#buttons1-5n .btn {
+  font-size: 18px;
+}
+#header3-5o .mbr-section-title,
+#header3-5o .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5o .mbr-section-title {
+  font-size: 32px;
+  text-align: center;
+}
+#buttons1-5p .btn {
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
+}
+#contacts1-5q P {
+  color: #acacac;
+  font-size: 13px;
+}
+#ext_menu-5r .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-5r .navbar-caption {
+  color: #ffffff;
+  font-family: 'Titillium Web', sans-serif;
+}
+#ext_menu-5r .navbar-toggler {
+  color: #000000;
+}
+#ext_menu-5r .close-icon::before,
+#ext_menu-5r .close-icon::after {
+  background-color: #000000;
+}
+#ext_menu-5r .link,
+#ext_menu-5r .dropdown-item {
+  color: #000000;
+  font-family: 'Raleway', sans-serif;
+}
+#ext_menu-5r .link {
+  font-size: 1rem;
+}
+#ext_menu-5r .dropdown-item,
+#ext_menu-5r .nav-dropdown-sm .link {
+  font-size: 1.083rem;
+}
+#ext_menu-5r .link:hover,
+#ext_menu-5r .dropdown-item:hover,
+#ext_menu-5r .link:focus,
+#ext_menu-5r .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-5r .link[aria-expanded="true"],
+#ext_menu-5r .dropdown-menu {
+  background: #e6e6e6;
+}
+#ext_menu-5r .nav-dropdown-sm .link:focus,
+#ext_menu-5r .nav-dropdown-sm .link:hover,
+#ext_menu-5r .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-5r .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#ext_menu-5r .navbar,
+#ext_menu-5r .nav-dropdown-sm,
+#ext_menu-5r .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-5r .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#ext_menu-5r .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#ext_menu-5r .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-5r .bg-color.transparent.opened .link:hover,
+#ext_menu-5r .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-5r .link[aria-expanded="true"],
+#ext_menu-5r .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#footer1-5s P {
+  text-align: center;
+}
