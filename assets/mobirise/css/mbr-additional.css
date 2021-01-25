@@ -655,6 +655,9 @@ section.form .container {
 #msg-box5-1l P {
   text-align: left;
 }
+#buttons1-5v .btn {
+  font-size: 18px;
+}
 #contacts1-1w P {
   color: #acacac;
   font-size: 13px;
@@ -1931,6 +1934,16 @@ section.form .container {
 }
 #buttons1-59 .btn {
   font-size: 18px;
+}
+#msg-box7-5u h3,
+#msg-box7-5u p {
+  color: #fff;
+}
+#msg-box7-5u H3 {
+  text-align: center;
+}
+#msg-box7-5u SPAN {
+  font-size: 32px;
 }
 #contacts1-4z P {
   color: #acacac;
