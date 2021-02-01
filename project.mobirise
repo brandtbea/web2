@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "varandos_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -6563,6 +6563,78 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a0706-varandosfoto-kismamafoto-pecs-pregnantphoto-2000x3000.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a0706-varandosfoto-kismamafoto-pecs-pregnantphoto-2000x3000-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9272-varandosfoto-parosfoto-pecs-bellyphoto-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9272-varandosfoto-parosfoto-pecs-bellyphoto-2000x3000-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9310-varandosfotozas-parosfotozas-pecs-maternityphoto-2000x3076.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9310-varandosfotozas-parosfotozas-pecs-maternityphoto-2000x3076-800x1230.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9389-kismamafotozas-pecs-maternityphotoshoot-parosfoto-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9389-kismamafotozas-pecs-maternityphotoshoot-parosfoto-2000x3000-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9473-kismamafoto-maternityphoto-pecs-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9473-kismamafoto-maternityphoto-pecs-2000x3000-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9293-kismamafotozas-pocakfotozas-parosfoto-pecs-bellyphoto-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9293-kismamafotozas-pocakfotozas-parosfoto-pecs-bellyphoto-2000x3000-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9347-kismamafoto-pocakfoto-maternityphoto-pecs-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9347-kismamafoto-pocakfoto-maternityphoto-pecs-2000x3000-800x1200.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
