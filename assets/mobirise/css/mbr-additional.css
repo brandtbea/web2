@@ -2127,3 +2127,112 @@ section.form .container {
 #footer1-5s P {
   text-align: center;
 }
+
+
+#msg-box5-5z H3 {
+  font-size: 23px;
+  text-align: center;
+}
+#msg-box5-5z P {
+  text-align: center;
+}
+#header3-61 .mbr-section-title,
+#header3-61 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-61 .mbr-section-title {
+  font-size: 23px;
+}
+#header3-61 .mbr-section-title I {
+  font-size: 25px;
+}
+#content6-63 .lead P {
+  font-size: 19px;
+}
+#content6-63 .lead DIV {
+  text-align: left;
+}
+#buttons1-64 .btn {
+  font-size: 18px;
+}
+#header3-65 .mbr-section-title,
+#header3-65 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-65 .mbr-section-title {
+  font-size: 32px;
+  text-align: center;
+}
+#buttons1-66 .btn {
+  font-size: 18px;
+}
+#contacts1-67 P {
+  color: #acacac;
+  font-size: 13px;
+}
+#ext_menu-68 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-68 .navbar-caption {
+  color: #ffffff;
+  font-family: 'Titillium Web', sans-serif;
+}
+#ext_menu-68 .navbar-toggler {
+  color: #000000;
+}
+#ext_menu-68 .close-icon::before,
+#ext_menu-68 .close-icon::after {
+  background-color: #000000;
+}
+#ext_menu-68 .link,
+#ext_menu-68 .dropdown-item {
+  color: #000000;
+  font-family: 'Raleway', sans-serif;
+}
+#ext_menu-68 .link {
+  font-size: 1rem;
+}
+#ext_menu-68 .dropdown-item,
+#ext_menu-68 .nav-dropdown-sm .link {
+  font-size: 1.083rem;
+}
+#ext_menu-68 .link:hover,
+#ext_menu-68 .dropdown-item:hover,
+#ext_menu-68 .link:focus,
+#ext_menu-68 .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-68 .link[aria-expanded="true"],
+#ext_menu-68 .dropdown-menu {
+  background: #e6e6e6;
+}
+#ext_menu-68 .nav-dropdown-sm .link:focus,
+#ext_menu-68 .nav-dropdown-sm .link:hover,
+#ext_menu-68 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-68 .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#ext_menu-68 .navbar,
+#ext_menu-68 .nav-dropdown-sm,
+#ext_menu-68 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-68 .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#ext_menu-68 .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#ext_menu-68 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-68 .bg-color.transparent.opened .link:hover,
+#ext_menu-68 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-68 .link[aria-expanded="true"],
+#ext_menu-68 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#footer1-69 P {
+  text-align: center;
+}
