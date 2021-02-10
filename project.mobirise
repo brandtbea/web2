@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "paros_fotozas_pecs.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -11725,7 +11725,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>Örökítsd meg a gyermekvárásod legcsodálatosabb pillanatait babáddal a szíved alatt!</i>",
+          "title": "<i>Örökítsétek meg az egymás iránti szeretetek legszebb pillanatait!</i>",
           "meta": "",
           "_tags": [
             "Theme"
@@ -11857,8 +11857,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b><i>…az egymás iránti szeretet meghitt pillanatai...</i></b></p><p><b><i><br></i></b></p><p> \n</p><div>A Páros fotózás helyszínéül választhatod a saját műtermemet Pécsen, bérelt stúdiót vagy szabadteret, a gyönyörű virágos udvarunkat, mezőt, erdőt, tópartot stb.. Stúdiós és kültéri fotózásra is lehetőség van egyszerre.\r</div><div>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra. A kiválasztott képekből egyedi zenés digitális slideshow is kérhető. A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készítetthetsz. \r</div><div>\r</div><div>Várlak Benneteket szeretettel! Keress bizalommal!</div><div><br></div><div><br></div><div> \n</div><p></p>",
-          "text2": "<div><br></div><div><br></div><div><br></div><div><br></div>",
+          "text1": "<p><b><i>…az egymás iránti szeretet meghitt pillanatai...</i></b></p><p><b><i><br></i></b></p><p> \n</p><div>A Páros fotózás helyszínéül választhatod a saját műtermemet Pécsen, bérelt stúdiót vagy szabadteret, a gyönyörű virágos udvarunkat, mezőt, erdőt, tópartot stb.. Stúdiós és kültéri fotózásra is lehetőség van egyszerre.\n</div><div><br></div><div><br></div><div><br></div><div> \n</div><p></p>",
+          "text2": "<div><br></div><div><br></div><div>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra. A kiválasztott képekből egyedi zenés digitális slideshow is kérhető. A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készítetthetsz.\r</div><div>Várlak Benneteket szeretettel! Keress bizalommal!</div><div><br></div>",
           "_tags": [
             "Theme"
           ],
