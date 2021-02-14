@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "baba_gyermek_fotok.html",
+    "currentPage": "szuletesnapi_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -4875,6 +4875,18 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a1474-elsoszuletesnap-firstbirthdayphoto.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a1474-elsoszuletesnap-firstbirthdayphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a2418-szuletesnapifotozas-pecs-torta-birthdayphoto-2000x1999.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a2418-szuletesnapifotozas-pecs-torta-birthdayphoto-2000x1999-800x800.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
