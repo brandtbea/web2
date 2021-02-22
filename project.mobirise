@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "szuletesnapi_fotozas.html",
+    "currentPage": "baba_gyermek_fotok.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -3210,6 +3210,18 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a9544-gyermekfotozas-pecs-kulterifoto-2000x2994.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a9544-gyermekfotozas-pecs-kulterifoto-2000x2994-800x1198.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9436-gyerekfoto-pecs-szabadterifoto-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9436-gyerekfoto-pecs-szabadterifoto-2000x3000-800x1200.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
