@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "baba_gyermek_fotok.html",
+    "currentPage": "szuletesnapi_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -4806,7 +4806,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -4899,6 +4899,18 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a2418-szuletesnapifotozas-pecs-torta-birthdayphoto-2000x1999.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a2418-szuletesnapifotozas-pecs-torta-birthdayphoto-2000x1999-800x800.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a5984-birthdayphoto-cake-szletesnapifoto-torta-pecs-gyerekfoto-birthdayboy-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a5984-birthdayphoto-cake-szletesnapifoto-torta-pecs-gyerekfoto-birthdayboy-2000x3000-800x1200.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -8259,7 +8271,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>Kismama, újszülött, baba, gyermek, családi, portré, esküvői fotózás Pécsen és környékén szabadtéren és műteremben</i>",
+          "title": "<i>Kismama, újszülött, baba, gyermek, családi, portré, páros, esküvői fotózás Pécsen és környékén szabadtéren és műteremben a saját igényedre szabva</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
