@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "rolam.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1367,7 +1367,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-3899-edit-1400x2100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a4802-1400x1400.jpg",
               "link": "",
               "alt": "",
               "title": ""
