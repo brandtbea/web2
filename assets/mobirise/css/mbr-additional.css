@@ -1752,6 +1752,12 @@ section.form .container {
 #header3-42 .mbr-section-title I {
   font-size: 30px;
 }
+#msg-box5-6c H3 {
+  text-align: center;
+}
+#msg-box5-6c I {
+  font-size: 20px;
+}
 #buttons1-4i .btn {
   font-size: 18px;
 }
