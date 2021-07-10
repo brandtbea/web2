@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "karacsonyi_fotozas_pecs.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -64,7 +64,7 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "imageResize": false,
     "mbrsiteDomain": "f2y28xf9au",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "ujszulott_fotozas.html": {
@@ -8520,7 +8520,7 @@
           },
           "title": "<i>NYÁRI CSALÁDI, GYERMEK, BABA, KISMAMA, PÁROS, PORTRÉ MŰTERMI ÉS SZABADTÉRI FOTÓZÁS PÉCSEN</i>",
           "text": "Tarts velem és lepd meg szeretteidet egy igazán gyönyörű és különleges fotósorozattal, mely a nagyszülőknek is kíváló ajándékkul szolgál.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"husveti_csalad_gyermek_fotozas_pecs.html\" data-toolbar=\"-mbrBtnMove\">Részletekért kattints ide<br></a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
           "_tags": [
             "Theme"
           ],
