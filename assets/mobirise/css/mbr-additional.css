@@ -1538,6 +1538,8 @@ section.form .container {
 
 
 
+
+
 #ext_menu-3 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1624,6 +1626,10 @@ section.form .container {
 }
 #header3-4u .mbr-section-title I {
   font-size: 25px;
+  font-family: 'Montserrat', sans-serif;
+}
+#header3-4u .mbr-section-title {
+  font-size: 25px;
 }
 #msg-box5-5e H3 {
   font-size: 24px;
@@ -1668,6 +1674,10 @@ section.form .container {
 #header6-n .mbr-section-text B {
   font-size: 32px;
   font-family: 'Montserrat', sans-serif;
+}
+#header6-n .mbr-section-text I {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 32px;
 }
 #testimonials1-l .mbr-author-name {
   color: #3c3c3c;
