@@ -3295,6 +3295,10 @@
             },
             ".mbr-section-title I": {
               "font-size": "24px"
+            },
+            ".mbr-section-title": {
+              "text-align": "right",
+              "font-size": "24px"
             }
           },
           "_params": {
@@ -3303,7 +3307,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>Örökítsd meg gyermeked őszinte mosolyát, kacaját, szépségét, egyéniségét!</i>",
+          "title": "<i style=\"\">Örökítsd meg gyermeked őszinte mosolyát, kacaját, szépségét, egyéniségét!</i>",
           "meta": "",
           "_tags": [
             "Theme"
@@ -5797,6 +5801,12 @@
             },
             ".mbr-section-title I": {
               "font-size": "23px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "24px"
+            },
+            ".mbr-section-title": {
+              "font-size": "24px"
             }
           },
           "_params": {
@@ -5805,7 +5815,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>...generációknak szóló emlékek a családi fotók...</i>",
+          "title": "<i style=\"\">...generációknak szóló emlékek a családi fotók...</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -8506,10 +8516,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/g85a6331-familyphotograpy-csaladifotozas-pipacs-poppy-2000x1333.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a8133-babyphoto-childphoto-gyerekfoto-levendula-levandel-2000x1333-800x533.jpg",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -9637,7 +9648,7 @@
               "size": 0
             }
           },
-          "title": "<i>Az esküvői fotókból egyedi zenés digitális slideshow is kérhető. </i><br><i>Kérlek tekintsd meg Emese és Zoli képeiből készült egyedi zenés slideshow-t!</i>",
+          "title": "<i>Az esküvői fotókból egyedi zenés digitális slideshow is kérhető. <br>Kérlek tekintsd meg Emese és Zoli képeiből készült egyedi zenés slideshow-t!</i>",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
@@ -9647,10 +9658,14 @@
           "_anchor": "msg-box5-6c",
           "_styles": {
             "H3": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "20px"
             },
             "I": {
               "font-size": "20px"
+            },
+            "SPAN": {
+              "font-size": "24px"
             }
           }
         },
@@ -10190,7 +10205,7 @@
               "size": 0
             }
           },
-          "title": "<i>KARÁCSONYI CSALÁDI FOTÓZÁS PÉCSEN</i>",
+          "title": "<i>KARÁCSONYI CSALÁDI, GYERMEK, PÁROS, PORTRÉ FOTÓZÁS PÉCSEN</i>",
           "text": "<i>&nbsp;...együtt a család...<br>...karácsonyi hangulatban...</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -10244,11 +10259,14 @@
             },
             ".mbr-section-title": {
               "text-align": "center",
-              "font-size": "32px"
+              "font-size": "25px"
             },
             ".mbr-section-subtitle": {
               "color": "#000000",
               "text-align": "center"
+            },
+            ".mbr-section-title I": {
+              "font-size": "25px"
             }
           },
           "_params": {
@@ -10257,7 +10275,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "title": "<i>KARÁCSONYI CSALÁDI FOTÓZÁS PÉCSEN</i>",
+          "title": "<i style=\"\">KARÁCSONYI CSALÁDI, GYERMEK, PÁROS, PORTRÉ FOTÓZÁS PÉCSEN</i>",
           "meta": "Lepd meg szeretteidet gyönyörű családi és gyerek fotókkal!&nbsp;",
           "_tags": [
             "Theme"

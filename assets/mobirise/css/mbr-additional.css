@@ -923,6 +923,10 @@ section.form .container {
 #header3-49 .mbr-section-title I {
   font-size: 24px;
 }
+#header3-49 .mbr-section-title {
+  text-align: right;
+  font-size: 24px;
+}
 #buttons1-4g .btn {
   font-size: 18px;
 }
@@ -1233,6 +1237,12 @@ section.form .container {
 }
 #header3-4c .mbr-section-title I {
   font-size: 23px;
+}
+#header3-4c .mbr-section-title SPAN {
+  font-size: 24px;
+}
+#header3-4c .mbr-section-title {
+  font-size: 24px;
 }
 #buttons1-4f .btn {
   font-size: 18px;
@@ -1758,9 +1768,13 @@ section.form .container {
 }
 #msg-box5-6c H3 {
   text-align: center;
+  font-size: 20px;
 }
 #msg-box5-6c I {
   font-size: 20px;
+}
+#msg-box5-6c SPAN {
+  font-size: 24px;
 }
 #buttons1-4i .btn {
   font-size: 18px;
@@ -1933,11 +1947,14 @@ section.form .container {
 }
 #header3-53 .mbr-section-title {
   text-align: center;
-  font-size: 32px;
+  font-size: 25px;
 }
 #header3-53 .mbr-section-subtitle {
   color: #000000;
   text-align: center;
+}
+#header3-53 .mbr-section-title I {
+  font-size: 25px;
 }
 #buttons1-58 .btn {
   font-size: 18px;
