@@ -64,7 +64,7 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "imageResize": false,
     "mbrsiteDomain": "f2y28xf9au",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "ujszulott_fotozas.html": {
@@ -8516,7 +8516,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/g85a8133-babyphoto-childphoto-gyerekfoto-levendula-levandel-2000x1333-800x533.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a9080-msolat.jpg",
               "link": "",
               "alt": "",
               "title": "",
