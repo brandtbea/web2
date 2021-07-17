@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "csaladifotozas_pecs_pipacsmezo.html",
+    "currentPage": "csaladifotozas_pecs_levendulamezo.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -856,7 +856,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_pipacsmezo.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"#\" aria-expanded=\"false\">Családi fotózás levendulamezőn</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Téma"
           ],
@@ -985,7 +985,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_pipacsmezo.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"#\" aria-expanded=\"false\">Családi fotózás levendulamezőn</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Téma"
           ],
@@ -1607,7 +1607,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_pipacsmezo.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"#\" aria-expanded=\"false\">Családi fotózás levendulamezőn</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Téma"
           ],
@@ -1779,7 +1779,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_pipacsmezo.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"#\" aria-expanded=\"false\">Családi fotózás levendulamezőn</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Téma"
           ],
@@ -1998,7 +1998,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"velemenyek.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">Családi fotózás levendulamezőn</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_pipacsmezo.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"#\" aria-expanded=\"false\">Családi fotózás levendulamezőn</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Téma"
           ],
@@ -3475,7 +3475,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"velemenyek.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">Családi fotózás levendulamezőn</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_pipacsmezo.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"#\" aria-expanded=\"false\">Családi fotózás levendulamezőn</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Téma"
           ],
@@ -4256,7 +4256,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_pipacsmezo.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"#\" aria-expanded=\"false\">Családi fotózás levendulamezőn</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Téma"
           ],
@@ -5189,7 +5189,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_pipacsmezo.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"#\" aria-expanded=\"false\">Családi fotózás levendulamezőn</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Téma"
           ],
@@ -5983,7 +5983,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"velemenyek.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">Családi fotózás levendulamezőn</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_pipacsmezo.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"#\" aria-expanded=\"false\">Családi fotózás levendulamezőn</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Téma"
           ],
@@ -7071,7 +7071,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_pipacsmezo.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"#\" aria-expanded=\"false\">Családi fotózás levendulamezőn</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Téma"
           ],
@@ -7763,6 +7763,18 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9232-noiportrefoto-pecs-womanportraitphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9232-noiportrefoto-pecs-womanportraitphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -7910,7 +7922,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_pipacsmezo.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"#\" aria-expanded=\"false\">Családi fotózás levendulamezőn</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Téma"
           ],
@@ -8043,7 +8055,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"velemenyek.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">Családi fotózás levendulamezőn</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_pipacsmezo.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"#\" aria-expanded=\"false\">Családi fotózás levendulamezőn</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Téma"
           ],
@@ -9815,7 +9827,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_pipacsmezo.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"#\" aria-expanded=\"false\">Családi fotózás levendulamezőn</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Téma"
           ],
@@ -9944,7 +9956,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"velemenyek.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">Családi fotózás levendulamezőn</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_pipacsmezo.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"#\" aria-expanded=\"false\">Családi fotózás levendulamezőn</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Téma"
           ],
@@ -11388,7 +11400,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_pipacsmezo.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"#\" aria-expanded=\"false\">Családi fotózás levendulamezőn</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Téma"
           ],
@@ -11882,7 +11894,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_pipacsmezo.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"#\" aria-expanded=\"false\">Családi fotózás levendulamezőn</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Téma"
           ],
@@ -12370,7 +12382,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_pipacsmezo.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"#\" aria-expanded=\"false\">Családi fotózás levendulamezőn</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Téma"
           ],
@@ -12506,10 +12518,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-1228-edit-kutyafoto-dogphotos-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a9080-msolat.jpg",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -12523,8 +12536,8 @@
               "size": 0
             }
           },
-          "title": "<i>CSALÁDI FOTÓZÁS PÉCSEN ÉS KÖRNYÉKÉN</i>",
-          "text": "<i>...az egymás iránti szeretet meghitt pillanatai</i>...<br><i>...generációknak szóló emlékek..</i>.",
+          "title": "<i>CSALÁDI FOTÓZÁS LEVENDULAMEZŐN PÉCS KÖRNYÉKÉN</i>",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -12585,7 +12598,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>...generációknak szóló emlékek a családi fotók...</i>",
+          "title": "<i>...családi fotózás kis családommal egy gyönyörű levendulamezőn...</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -12610,8 +12623,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-0070-szabadterifotozas-outdoorphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-0070-szabadterifotozas-outdoorphoto-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a8083-babyphoto-childphoto-gyerekfoto-levendula-levandel-pecs-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8083-babyphoto-childphoto-gyerekfoto-levendula-levandel-pecs-1-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -12622,308 +12635,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-1228-edit-kutyafoto-dogphotos.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-1228-edit-kutyafoto-dogphotos-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-0073-edit-csaladifotos-familyphotographer.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-0073-edit-csaladifotos-familyphotographer-800x1200.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/mg-1653-anyasag-motherhoodpicture.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-1653-anyasag-motherhoodpicture-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-0126-szulo-gyerekfoto-parent-kid-photo.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-0126-szulo-gyerekfoto-parent-kid-photo-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/mg-2318-kutyafoto-dogphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-2318-kutyafoto-dogphoto-800x1200.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/mg-1810-apa-lanya-foto-familyphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-1810-apa-lanya-foto-familyphoto-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-0057-csaladifotos-familyphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-0057-csaladifotos-familyphoto-800x1200.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-0085-motherhoodphoto-anyasag.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-0085-motherhoodphoto-anyasag-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-7575-2-testverfoto-sisterphot.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-7575-2-testverfoto-sisterphot-800x1199.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-3854-2-csaladifoto-familyphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-3854-2-csaladifoto-familyphoto-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-0123-csaladifotozas-familyphotography.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-0123-csaladifotozas-familyphotography-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-0131-familypicture-csaladifenykep.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-0131-familypicture-csaladifenykep-800x1200.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-3885-1-csaladifoto-familyphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-3885-1-csaladifoto-familyphoto-800x1195.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-2581-szuletesnapi-csaladifoto-birthdayfamilyphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2581-szuletesnapi-csaladifoto-birthdayfamilyphoto-800x1200.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-6761-edit-csaldifotozas-familiefoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-6761-edit-csaldifotozas-familiefoto-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-4748-csaladifoto-familyphotoshoot.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-4748-csaladifoto-familyphotoshoot-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-6716-edit-anyasag-motherhood.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-6716-edit-anyasag-motherhood-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-6286-apa-lanya-foto-dady-daughter-photo.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-6286-apa-lanya-foto-dady-daughter-photo-800x1200.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-4819-csaladkep-familypicture.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-4819-csaladkep-familypicture-800x1200.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-6224-apa-lanya-foto-dady-daughterphot.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-6224-apa-lanya-foto-dady-daughterphot-800x1200.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-6299-csaladifoto-familyportrait.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-6299-csaladifoto-familyportrait-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-7006-edit-csaladifoto-familyphotos.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-7006-edit-csaladifoto-familyphotos-800x550.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-7077-edit-csaladifotos-familyphotographer.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-7077-edit-csaladifotos-familyphotographer-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/mg-0904-edit-anya-lanya-foto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-0904-edit-anya-lanya-foto-800x1200.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/mg-6251-apa-gyerek-foto-dady-son-photo.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-6251-apa-gyerek-foto-dady-son-photo-800x1200.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-7698-2-csaladfoto-familyshoot-1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-7698-2-csaladfoto-familyshoot-1-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a8122-familyphoto-csaladifoto-pecs-6.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8122-familyphoto-csaladifoto-pecs-6-614x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -12934,8 +12647,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a3685-csaladifoto-familyphotoshoot.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a3685-csaladifoto-familyphotoshoot-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a8122-familyphoto-csaladifoto-pecs-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8122-familyphoto-csaladifoto-pecs-2-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -12946,8 +12659,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a6331-familyphotograpy-csaladifotozas-pipacs-poppy-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a6331-familyphotograpy-csaladifotozas-pipacs-poppy-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a8177.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8177-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -12958,8 +12671,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a5284-csaladifotozas-pecs-familyphotoshoot-poppy-pipacs-2000x3000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a5284-csaladifotozas-pecs-familyphotoshoot-poppy-pipacs-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a8133-babyphoto-childphoto-gyerekfoto-levendula-levandel-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8133-babyphoto-childphoto-gyerekfoto-levendula-levandel-1-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -12970,8 +12683,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a8532-csaladifoto-levendula-pecs-familyphoto-levandel-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a8532-csaladifoto-levendula-pecs-familyphoto-levandel-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a8177-csaladifoto-familyphoto-pecs-levandel-levendula.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8177-csaladifoto-familyphoto-pecs-levandel-levendula-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -12982,8 +12695,164 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a8177-csaladifoto-familyphoto-pecs-levandel-levendula-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a8177-csaladifoto-familyphoto-pecs-levandel-levendula-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a8241-childphoto-babyphoto-gyerekfotozas-pecs-szabadter-bubble.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8241-childphoto-babyphoto-gyerekfotozas-pecs-szabadter-bubble-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8237-childphoto-gyerekfoto-pecs-levendula-levandel.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8237-childphoto-gyerekfoto-pecs-levendula-levandel-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9288-2-csaladifoto-familyphoto-levendula-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9288-2-csaladifoto-familyphoto-levendula-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8308-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8308-1-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8256-babyphoto-child-gyerekfotos-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8256-babyphoto-child-gyerekfotos-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8257-buborek-gyerekfoto-babafoto-babyphoto-childphoto-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8257-buborek-gyerekfoto-babafoto-babyphoto-childphoto-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8303-babyphoto-childphoto-pecs-gyerekfoto-levendula.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8303-babyphoto-childphoto-pecs-gyerekfoto-levendula-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8379-msolat.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8379-msolat-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8532-csaladifoto-levendula-pecs-familyphoto-levandel.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8532-csaladifoto-levendula-pecs-familyphoto-levandel-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8589-familyphoto-pecs-csaladifoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8589-familyphoto-pecs-csaladifoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8133-babyphoto-childphoto-gyerekfoto-levendula-levandel.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8133-babyphoto-childphoto-gyerekfoto-levendula-levandel-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8076-gyerekfotozas-childphoto-pecs-outdoor-levendulamez.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8076-gyerekfotozas-childphoto-pecs-outdoor-levendulamez-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9089-gyerekfoto-pecs-levendula-childphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9089-gyerekfoto-pecs-levendula-childphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8511-familyphoto-csaladiphoto-szabadter-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8511-familyphoto-csaladiphoto-szabadter-pecs-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -13020,7 +12889,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i style=\"\">...generációknak szóló emlékek a családi fotók...</i>",
+          "title": "",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -13034,8 +12903,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "A<b> családi fotók </b>számomra mindig nagyon fontos részei a fotózásnak, hiszen ezek <b>lesznek később gyermekeitek legnagyobb kincsei,</b> melyek <b>generációkon keresztül öröklődni fognak</b>. A családfotózás összehozza a családot, amikor mindenki együtt van, és, ahol mindenki rajta van képen. Egy maradandó élmény, ahol az egymás iránti szeretet meghitt pillanatai egymás szemében tükröződik, a közös nevetések, a viccelődések mind élvezetessé teszik a családi fotózást.<div><b>A fotózás helyszínéül választhatod Pécsen a műtermemet,</b> ahol otthonos, meleg környezetben több fajta kellék közül választhatsz vagy a <b>természetet</b>, a szép rózsás, levendulás udvarunkat, mezőt, parkot, tópartot, erdőt, szőlőültetvényt stb. Természetesen <b>házi kedvenceitekkel együtt</b> is szívesen fényképezlek Benneteket.&nbsp;</div>",
-          "text2": "<p>Egyedi, letisztult fényképeket készítek, melynek a középpontjában a szépségetek, személyiségetek és egyediségetek áll. \n</p><p><span style=\"font-size: 1.07rem;\">A fotózás alatt teljes mértékben </span><b style=\"font-size: 1.07rem;\">figyelek a gyermeketek igényeire és a fotózást hozzájuk igazítom</b><span style=\"font-size: 1.07rem;\">. <b>V</b></span><b style=\"font-size: 1.07rem;\">idám hangulatot, </b><span style=\"font-size: 1.07rem;\">é</span><span style=\"font-size: 1.07rem;\">s</span><b style=\"font-size: 1.07rem;\">&nbsp;</b><span style=\"font-size: 1.07rem;\">&nbsp;</span><b style=\"font-size: 1.07rem;\">élvezetes családi fotózást </b><span style=\"font-size: 1.07rem;\">szeretnék ajándékozni nektek</span><span style=\"font-size: 1.07rem;\">.</span><br></p><div>Az elkészült képekből te választhatod ki, hogy melyek kerüljenek retusálásra. A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető. A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készítetthetsz .&nbsp;</b></div><div>Mindig nagy öröm számomra a visszatérő családok, hisz a gyerekek olyan gyorsan változnak és felnőnek, és igazán megtisztelő a számomra, hogy részese lehetek ennek a csodás folyamatnak, és a családi albumukat az általam készített képek gazdagítják, amiket majd generációkon keresztül fognak visszanézni.</div><div>\n</div><div>Várlak Benneteket szeretettel!\n</div><div><br></div><p></p>",
+          "text1": "",
+          "text2": "<p><br></p><div><br></div><p></p>",
           "_tags": [
             "Theme"
           ],
@@ -13164,7 +13033,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"velemenyek.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">Családi fotózás levendulamezőn</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_pipacsmezo.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"#\" aria-expanded=\"false\">Családi fotózás levendulamezőn</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Téma"
           ],
@@ -13923,7 +13792,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"velemenyek.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">Családi fotózás levendulamezőn</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_pipacsmezo.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"#\" aria-expanded=\"false\">Családi fotózás levendulamezőn</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Téma"
           ],
