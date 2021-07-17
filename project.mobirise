@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "baba_gyermek_fotok.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -3271,8 +3271,32 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a7190-msolat-gyerekfoto-pecs-repce-childphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a7190-msolat-gyerekfoto-pecs-repce-childphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/img-6175-testverfoto-sisterphoto-2000x3000.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-6175-testverfoto-sisterphoto-2000x3000-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8283-gyerekfoto-pecs-piapacsmezo-kidphoto-poppyfield.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8283-gyerekfoto-pecs-piapacsmezo-kidphoto-poppyfield-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
