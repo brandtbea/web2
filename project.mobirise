@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "portrefotozas_pecs_zsolnaynegyed.html",
+    "currentPage": "csaladifotozas_pecs_levendulamezo.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -12865,6 +12865,18 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a8771-gyerekfoto-childphoto-pecs-levendulamezo.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a8771-gyerekfoto-childphoto-pecs-levendulamezo-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9019-csaladifoto-levendulamezo-pecs-familyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9019-csaladifoto-levendulamezo-pecs-familyphoto-615x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
