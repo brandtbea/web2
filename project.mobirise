@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "csaladifotozas_pecs_napraforgomezo.html",
+    "currentPage": "portre_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -7738,7 +7738,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -7750,15 +7750,15 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Creative",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a9060-noiportrefoto-pecs-womanportraitphoto-2000x3000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a9060-noiportrefoto-pecs-womanportraitphoto-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a9232-noiportrefoto-pecs-womanportraitphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9232-noiportrefoto-pecs-womanportraitphoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -7769,8 +7769,44 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a9232-noiportrefoto-pecs-womanportraitphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a9232-noiportrefoto-pecs-womanportraitphoto-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a9003-msolat-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9003-msolat-1-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9060-noiportrefoto-pecs-womanportraitphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9060-noiportrefoto-pecs-womanportraitphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9133-noiportre-pecs-womanportrait-zsolnaynegyed.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9133-noiportre-pecs-womanportrait-zsolnaynegyed-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9358-noiportrefotozas-pecs-portraitphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9358-noiportrefotozas-pecs-portraitphoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
