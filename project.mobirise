@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "csaladifoto.html",
+    "currentPage": "baba_gyermek_fotok.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -3297,6 +3297,18 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a8283-gyerekfoto-pecs-piapacsmezo-kidphoto-poppyfield.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a8283-gyerekfoto-pecs-piapacsmezo-kidphoto-poppyfield-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a7073-gyerekfotozas-pecs-kidphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a7073-gyerekfotozas-pecs-kidphoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
