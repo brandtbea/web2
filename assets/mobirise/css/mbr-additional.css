@@ -1550,6 +1550,7 @@ section.form .container {
 
 
 
+
 #ext_menu-3 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1643,6 +1644,10 @@ section.form .container {
 }
 #header3-4u .mbr-section-title {
   font-size: 25px;
+}
+#content1-4p P {
+  font-size: 18px;
+  font-family: 'Raleway', sans-serif;
 }
 #msg-box5-5e H3 {
   font-size: 24px;
