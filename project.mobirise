@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "csaladifotozas_Balaton.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -8604,7 +8604,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>Életed legszebb pillanatai egyedi érzelemmel teli csodás fotókon.&nbsp;</i>",
+          "title": "<i>Örökítsd meg életed legszebb pillanatait egyedi, érzelemmel teli, csodás fotókon.&nbsp;</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
