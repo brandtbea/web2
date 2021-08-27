@@ -8596,15 +8596,18 @@
             ".mbr-section-title": {
               "text-align": "center",
               "font-size": "32px"
+            },
+            ".mbr-section-title I": {
+              "font-size": "32px"
             }
           },
           "_params": {
             "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
-          "title": "<i>Örökítsd meg életed legszebb pillanatait egyedi, érzelemmel teli, csodás fotókon.&nbsp;</i>",
+          "title": "<i>Örökítsd meg életed legszebb pillanatait egyedi, érzelemmel teli, csodás fotókon!</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -8659,7 +8662,7 @@
             "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "title": "<i>Kismama, újszülött, baba, gyermek, családi, portré, páros, esküvői fotózás Pécsen és környékén szabadtéren és műteremben a saját igényeid szerint</i>",
           "meta": "By John Smith posted July 20, 2016",
@@ -8673,7 +8676,7 @@
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "3",
-            "bgColor": "#fff"
+            "bgColor": "#ffffff"
           },
           "text": "<p><b>Szeretnéd az élet legcsodálatosabb pillanatait megörökíteni,</b> mint a babavárást, az újszülöttek első mosolyát, a babák, gyerekek őszinte kacaját, az egymás iránti szeretet meghitt pillanatait,<b> egyedi, érzelemmel teli csodás fotókon? </b></p><p><b><i>Kismama, baba, gyermek, újszülött, családi, portré, keresztelő és esküvői fotógráfus vagyok.</i> </b>A fényképezés élményét egy kellemes program keretében a saját műterműnkben és szabadtéren is megtapasztalhatod velünk Pécsen és környékén. Várunk szeretettel!&nbsp;</p>",
           "_tags": [
@@ -8845,9 +8848,9 @@
             "showMeta": false,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
-          "title": "Portfólióm/Szolgáltatásaim",
+          "title": "Portfólióm/Szolgáltatásaim<br><br>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -9166,10 +9169,10 @@
             "paddingTop": 3,
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/gallery/preview.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#cccccc",
             "overlay": true,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
