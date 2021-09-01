@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "csaladifotozas_pecs_pipacsmezo.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -8718,7 +8718,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/g85a9080-msolat.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a9003-msolat-1.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -8736,7 +8736,7 @@
               "size": 0
             }
           },
-          "title": "<i>NYÁRI CSALÁDI, GYERMEK, BABA, KISMAMA, PÁROS, PORTRÉ MŰTERMI ÉS SZABADTÉRI FOTÓZÁS PÉCSEN</i>",
+          "title": "<i>ŐSZI CSALÁDI, GYERMEK, BABA, KISMAMA, PÁROS, PORTRÉ MŰTERMI ÉS SZABADTÉRI FOTÓZÁS PÉCSEN</i>",
           "text": "Tarts velem és lepd meg szeretteidet egy igazán gyönyörű és különleges fotósorozattal, mely a nagyszülőknek is kíváló ajándékkul szolgál.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
           "_tags": [
