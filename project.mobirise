@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "portre_fotozas.html",
+    "currentPage": "varandos_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -704,6 +704,18 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9320-msolat.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9320-msolat-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -2279,7 +2291,7 @@
             {
               "authorName": "Schaub Fruzsina",
               "authorBio": "Developer",
-              "text": "\"Nagyon kedvesek mindig több képüket láttam a precizításra és a jó beállításokra mennek\r<div>Emellett nagyon jól is éreztem magam köszönöm szépen. 😊\"</div>",
+              "text": "\"Nagyon kedvesek mindig több képüket láttam a precizításra és a jó beállításokra mennek\n<div>Emellett nagyon jól is éreztem magam köszönöm szépen. 😊\"</div>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/img-7266-edit-1-800x1200.jpeg",
@@ -7152,6 +7164,54 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a0111-pocakfoto-bellyphoto-pecs.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a0111-pocakfoto-bellyphoto-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mg-2786-kismamafotozas-pecs-maternityphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2786-kismamafotozas-pecs-maternityphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mg-2747-kismamafoto-pecs-maternityphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2747-kismamafoto-pecs-maternityphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a7329-kismamafotozas-pecs-maternityphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a7329-kismamafotozas-pecs-maternityphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a7297-varandosfotozas-pecs-bellyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a7297-varandosfotozas-pecs-bellyphoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
