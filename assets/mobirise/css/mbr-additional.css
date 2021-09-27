@@ -1649,15 +1649,22 @@ section.form .container {
   font-size: 18px;
   font-family: 'Raleway', sans-serif;
 }
-#msg-box5-5e H3 {
-  font-size: 24px;
-  text-align: center;
-}
 #header3-9e .mbr-section-title,
 #header3-9e .mbr-section-subtitle {
   text-align: center;
 }
 #msg-box5-9d H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#header3-ar .mbr-section-title,
+#header3-ar .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-ar .mbr-section-title I {
+  font-size: 25px;
+}
+#msg-box5-5e H3 {
   font-size: 24px;
   text-align: center;
 }
@@ -1756,6 +1763,10 @@ section.form .container {
   text-align: center;
 }
 #footer1-y P {
+  text-align: center;
+}
+#header3-aq .mbr-section-title,
+#header3-aq .mbr-section-subtitle {
   text-align: center;
 }
 
