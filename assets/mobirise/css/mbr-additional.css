@@ -1441,9 +1441,13 @@ section.form .container {
 
 #msg-box5-35 H3 {
   font-size: 24px;
+  text-align: center;
 }
 #msg-box5-35 P {
   text-align: right;
+}
+#msg-box5-35 I {
+  font-size: 24px;
 }
 #header3-46 .mbr-section-title,
 #header3-46 .mbr-section-subtitle {
