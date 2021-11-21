@@ -2134,7 +2134,7 @@
             "showImages": true,
             "showName": true,
             "showBio": false,
-            "count": "12",
+            "count": "15",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
@@ -2347,6 +2347,57 @@
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/img-3885-1-csaladifoto-familyphoto-1-800x1195.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "linkInNewWindow": false
+                }
+              }
+            },
+            {
+              "authorName": "Schmidt Erika",
+              "authorBio": "Developer",
+              "text": "<p>\"Beáta nem csupán fotós, hanem csodálatos Ember is, akinek az első pillanattól ki tudtam nyitni a lelkemet és ezt a fotókon is viszont láttam! Életemben először láttam magamat szépnek, mert az az EGYség tudott megnyilvánulni kifelé is, amit belül érzek önmagammal kapcsolatban, és ezért nagyon hálás vagyok neki! A mosolyával, őszinteségével, tisztaságával már a honlapján elvarázsolt és a hatást csak fokozta a fotózás hangulata! Szép emlék lett számomra a találkozás is vele! Ezt az élményt kívánom szeretettel mindenkinek, aki megkeresi Őt a jövőben! \"</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/g85a2995.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "linkInNewWindow": false
+                }
+              }
+            },
+            {
+              "authorName": "Szantner Klára",
+              "authorBio": "Developer",
+              "text": "\"5+1 csillagot adnék Beának, ha lehetne. : ) Az első perctől kezdve megvolt köztünk az összhang és a fotózás végéig nagyon jó hangulatban telt a közös munka. A lágy háttérzenével oldotta a \"feszültséget\" és ötleteivel is sokat segített nekünk. Életünk legjobb fotózása volt! Nyugodt szívvel ajánlom bárkinek és szerintem mi is találkozunk még egy következő alkalommal! : ) Csak így tovább, Bea!\"",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/g85a3649.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "linkInNewWindow": false
+                }
+              }
+            },
+            {
+              "authorName": "Nagy Ildikó",
+              "authorBio": "Developer",
+              "text": "<p>“Fesztelen, vidám, meghitt fotózásra készüljetek, a szó nemes értelmében, sziruposság nélkül, természetesen.”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/g85a1258-msolat-1.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -8731,6 +8782,18 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a2768-msolat.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a2768-msolat-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -10093,36 +10156,38 @@
           "subtitle": "A fotózásomon résztvevők ajánlásai",
           "testimonial": [
             {
-              "authorName": "Gungl Tomecskó Noémi",
+              "authorName": "Schmidt Erika",
               "authorBio": "User",
-              "text": "<p>“Szívből ajánlom mindenkinek! Nagyon jó képeket készít, könnyedén elkapja a megfelelő pillanatot, amit sok fotósnak csak nehezen sikerül elkapnia. Ezenkívül közvetlen, barátságos, és végtelenül türelmes. De szerintem a képek magukért beszélnek!”</p>",
+              "text": "\"Beáta nem csupán fotós, hanem csodálatos Ember is, akinek az első pillanattól ki tudtam nyitni a lelkemet és ezt a fotókon is viszont láttam! Életemben először láttam magamat szépnek, mert az az EGYség tudott megnyilvánulni kifelé is, amit belül érzek önmagammal kapcsolatban, és ezért nagyon hálás vagyok neki! A mosolyával, őszinteségével, tisztaságával már a honlapján elvarázsolt és a hatást csak fokozta a fotózás hangulata! Szép emlék lett számomra a találkozás is vele! Ezt az élményt kívánom szeretettel mindenkinek, aki megkeresi Őt a jövőben! \"",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/img-3885-1-csaladifoto-familyphoto-1-800x1195.jpeg",
+                  "src": "@PROJECT_PATH@/assets/images/g85a2995.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
                   "active": true,
                   "link": "",
                   "alt": "",
-                  "title": ""
+                  "title": "",
+                  "linkInNewWindow": false
                 }
               }
             },
             {
-              "authorName": "Veress Sándor és Mónika<br><br>",
+              "authorName": "Szantner Klára<br><br>",
               "authorBio": "User",
-              "text": "\"Már harmadszor volt szerencsénk Beával dolgozni. 🥰 Nagyon türelmes, jól elkapja a pillanatokat, gyönyörű képeket csinált! 😊Ajánlom mindenkinek! Mi negyedszerre is vissza fogunk jönni. Nagyon köszönjük!\" 😘",
+              "text": "\"5+1 csillagot adnék Beának, ha lehetne. : ) Az első perctől kezdve megvolt köztünk az összhang és a fotózás végéig nagyon jó hangulatban telt a közös munka. A lágy háttérzenével oldotta a \"feszültséget\" és ötleteivel is sokat segített nekünk. Életünk legjobb fotózása volt! Nyugodt szívvel ajánlom bárkinek és szerintem mi is találkozunk még egy következő alkalommal! : ) Csak így tovább, Bea!\"",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/mg-1810-apa-lanya-foto-familyphoto-1.jpeg",
+                  "src": "@PROJECT_PATH@/assets/images/g85a3649.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
                   "active": true,
                   "link": "",
                   "alt": "",
-                  "title": ""
+                  "title": "",
+                  "linkInNewWindow": false
                 }
               }
             },
