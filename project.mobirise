@@ -8625,19 +8625,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a8609-portrefotozas-portraitphoto-pecs.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a8609-portrefotozas-portraitphoto-pecs-617x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Creative",
@@ -8649,7 +8637,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -8790,6 +8778,18 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a2768-msolat.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a2768-msolat-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8663-noiportrefoto-pecs-portraitphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8663-noiportrefoto-pecs-portraitphoto-614x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -15973,6 +15973,30 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a0730-portrefoto-pecs-portraitphoto.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a0730-portrefoto-pecs-portraitphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8609-portrefotozas-portraitphoto-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8609-portrefotozas-portraitphoto-pecs-617x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8663-noiportrefoto-pecs-portraitphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8663-noiportrefoto-pecs-portraitphoto-614x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
