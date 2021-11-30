@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "portre_fotozas.html",
+    "currentPage": "karacsonyi_fotozas_pecs.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -8853,7 +8853,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -8866,6 +8866,54 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a2241-ferfiportrefoto-pecs-manportraitphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a2241-ferfiportrefoto-pecs-manportraitphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a2199-ferfiportrefoto-pecs-manportraitphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a2199-ferfiportrefoto-pecs-manportraitphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a2017-ferfiportrefoto-pecs-manportraitphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a2017-ferfiportrefoto-pecs-manportraitphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a2019-ferfipotrefotozas-pecs-manportraitphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a2019-ferfipotrefotozas-pecs-manportraitphoto-614x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
               }
             ]
           },
@@ -11471,7 +11519,7 @@
               "size": 0
             }
           },
-          "title": "<i>KARÁCSONYI CSALÁDI, GYERMEK, PÁROS, KISMAMA ÉS PORTRÉ FOTÓZÁS PÉCSEN MŰTEREMBEN</i>",
+          "title": "<i>KARÁCSONYI CSALÁDI, ÚJSZÜLÖTT, BABA, GYERMEK, PÁROS, KISMAMA ÉS PORTRÉ FOTÓZÁS PÉCSEN MŰTEREMBEN</i>",
           "text": "<i>&nbsp;...együtt a család...<br>...karácsonyi hangulatban...</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
