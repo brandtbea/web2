@@ -8625,7 +8625,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -8850,6 +8850,18 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a8699-noiportrefoto-pecs-portraitphoto.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a8699-noiportrefoto-pecs-portraitphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0034-portrefotozas-pecs-portraitphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0034-portrefotozas-pecs-portraitphoto-576x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -13546,7 +13558,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>Örökítsétek meg az egymás iránti szeretetek legszebb pillanatait!</i>",
+          "title": "<i>Örökítsétek meg az egymás iránti szeretet&nbsp; legszebb pillanatait!</i>",
           "meta": "",
           "_tags": [
             "Theme"
@@ -13576,7 +13588,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -13657,6 +13669,54 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a9987-2000x3000.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a9987-2000x3000-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0070-msolat.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0070-msolat-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9964-parosfoto-karacsony-pecs-christmasphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9964-parosfoto-karacsony-pecs-christmasphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9893-prosfoto-pecs-pairphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9893-prosfoto-pecs-pairphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9933-msolat-1-parosfoto-pecs-karacsony-christmasphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9933-msolat-1-parosfoto-pecs-karacsony-christmasphoto-800x800.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
