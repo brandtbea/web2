@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "karacsonyi_fotozas_pecs.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -11569,7 +11569,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "title": "<i style=\"\">KARÁCSONYI CSALÁDI, GYERMEK, PÁROS, PORTRÉ FOTÓZÁS PÉCSEN</i>",
+          "title": "<i style=\"\">KARÁCSONYI CSALÁDI, BABA, GYERMEK, KISMAMA, PÁROS, PORTRÉ FOTÓZÁS PÉCSEN</i>",
           "meta": "Lepd meg szeretteidet gyönyörű családi és gyerek fotókkal!&nbsp;",
           "_tags": [
             "Theme"
@@ -12603,19 +12603,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a1880-gyerekfoto-karacsonyifoto-pecs-christmasphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a1880-gyerekfoto-karacsonyifoto-pecs-christmasphoto-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Creative",
@@ -12646,24 +12634,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a2953.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a2953-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a3064.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a3064-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -12744,6 +12720,42 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a7077-gyerekfoto-karacsonyifoto-pecs-christmasphoto.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a7077-gyerekfoto-karacsonyifoto-pecs-christmasphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8047-karacsonyi-gyerekfoto-pecs-christmasphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8047-karacsonyi-gyerekfoto-pecs-christmasphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8473-karacsonyifoto-csaladifoto-christmasphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8473-karacsonyifoto-csaladifoto-christmasphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a7841-csaldadifoto-karacsonyifoto-christmasphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a7841-csaldadifoto-karacsonyifoto-christmasphoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
