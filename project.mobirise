@@ -9740,7 +9740,7 @@
             }
           },
           "title": "<i>KARÁCSONYI CSALÁDI, GYERMEK, BABA, ÚJSZÜLÖTT, KISMAMA, PÁROS, PORTRÉ MŰTERMI FOTÓZÁS PÉCSEN</i>",
-          "text": "Sok szeretettel várlak a karácsonyi fotózásokra a gyönyörű karácsonyi enteriőrrel berendezett pécsi stúdiómban, rengeteg kellékkel. Még van néhány szabad időpont, amire lehet jelentkezni, siess, hogy le ne maradj.&nbsp;<br>Tarts velem és lepd meg szeretteidet egy igazán gyönyörű és különleges fotósorozattal, mely a nagyszülőknek is különleges ajándékul szolgál, valamint gazdagítsd magad és a családodat egy szép élménnyel. Ha még nincs ötleted, hogy mit ajándékoz szeretteidnek karácsonyra, akkor ajándékozz fotózást, melyet ajándékutalvány formájában a karácsonyfa alá is tehetsz. Családi, gyermek, baba, újszülött, kismama, páros, portré témában várlak szeretettel. \n<br>\n<br>&nbsp;&nbsp;",
+          "text": "Sok szeretettel várlak a karácsonyi fotózásokra a gyönyörű karácsonyi enteriőrrel berendezett pécsi stúdiómban, rengeteg kellékkel január első hetéig. Még van néhány szabad időpont, amire lehet jelentkezni, siess, hogy le ne maradj.&nbsp;<br>Tarts velem és lepd meg szeretteidet egy igazán gyönyörű és különleges fotósorozattal, mely a nagyszülőknek is különleges ajándékul szolgál, valamint gazdagítsd magad és a családodat egy szép élménnyel. Ha még nincs ötleted, hogy mit ajándékoz szeretteidnek karácsonyra, akkor ajándékozz fotózást, melyet ajándékutalvány formájában a karácsonyfa alá is tehetsz. Családi, gyermek, baba, újszülött, kismama, páros, portré témában várlak szeretettel. \n<br>\n<br>&nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
           "_tags": [
             "Theme"
@@ -12603,7 +12603,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -12756,6 +12756,78 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a7841-csaldadifoto-karacsonyifoto-christmasphoto.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a7841-csaldadifoto-karacsonyifoto-christmasphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9505-msolat.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9505-msolat-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9551-msolat.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9551-msolat-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9583-msolat.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9583-msolat-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9660-msolat.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9660-msolat-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9666-msolat.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9666-msolat-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9692-msolat.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9692-msolat-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
