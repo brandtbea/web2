@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "karacsonyi_fotozas_pecs.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -9740,7 +9740,7 @@
             }
           },
           "title": "<i>KARÁCSONYI CSALÁDI, GYERMEK, BABA, ÚJSZÜLÖTT, KISMAMA, PÁROS, PORTRÉ MŰTERMI FOTÓZÁS PÉCSEN</i>",
-          "text": "Sok szeretettel várlak a karácsonyi fotózásokra a gyönyörű karácsonyi enteriőrrel berendezett pécsi stúdiómban, rengeteg kellékkel január első hetéig. Még van néhány szabad időpont, amire lehet jelentkezni, siess, hogy le ne maradj.&nbsp;<br>Tarts velem és lepd meg szeretteidet egy igazán gyönyörű és különleges fotósorozattal, mely a nagyszülőknek is különleges ajándékul szolgál, valamint gazdagítsd magad és a családodat egy szép élménnyel. Ha még nincs ötleted, hogy mit ajándékoz szeretteidnek karácsonyra, akkor ajándékozz fotózást, melyet ajándékutalvány formájában a karácsonyfa alá is tehetsz. Családi, gyermek, baba, újszülött, kismama, páros, portré témában várlak szeretettel. \n<br>\n<br>&nbsp;&nbsp;",
+          "text": "Január első hetéig várlak sok szeretettel karácsonyi fotózásra a gyönyörű karácsonyi enteriőrrel berendezett pécsi stúdiómban, rengeteg kellékkel. Még van néhány szabad időpont, amire lehet jelentkezni, siess, hogy le ne maradj.&nbsp;<br>Tarts velem és lepd meg szeretteidet egy igazán gyönyörű és különleges fotósorozattal, mely a nagyszülőknek is különleges ajándékul szolgál, valamint gazdagítsd magad és a családodat egy szép élménnyel. Ha még nincs ötleted, hogy mit ajándékoz szeretteidnek karácsonyra, akkor ajándékozz fotózást, melyet ajándékutalvány formájában a karácsonyfa alá is tehetsz. Családi, gyermek, baba, újszülött, kismama, páros, portré témában várlak szeretettel. \n<br>\n<br>&nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
           "_tags": [
             "Theme"
@@ -9779,65 +9779,6 @@
           ],
           "_name": "header3",
           "_anchor": "header3-ar"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/g85a9003-msolat-1.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<i>ŐSZI CSALÁDI, GYERMEK, BABA, ÚJSZÜLÖTT, KISMAMA, PÁROS, PORTRÉ MŰTERMI ÉS SZABADTÉRI FOTÓZÁS PÉCSEN</i>",
-          "text": "Tarts velem és lepd meg szeretteidet egy igazán gyönyörű és különleges fotósorozattal, mely a nagyszülőknek is kíváló ajándékkul szolgál.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-5e",
-          "_styles": {
-            "H3": {
-              "font-size": "24px",
-              "text-align": "center"
-            }
-          }
         },
         {
           "_styles": {
