@@ -12916,6 +12916,42 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0429-gyerekfoto-pecs-karacsonyi-christmasphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0429-gyerekfoto-pecs-karacsonyi-christmasphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0913-karacsonyifoto-gyerekfotozas-pecs-christmasphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0913-karacsonyifoto-gyerekfotozas-pecs-christmasphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0933-christmasphoto-gyerekfoto-pecs-karacsonyifoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0933-christmasphoto-gyerekfoto-pecs-karacsonyifoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
