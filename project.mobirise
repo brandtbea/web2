@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "karacsonyi_fotozas_pecs.html",
+    "currentPage": "ujszulott_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -117,7 +117,7 @@
               "size": 0
             }
           },
-          "title": "<i>ÚJSZÜLÖTT FOTÓZÁS PÉCSEN</i>",
+          "title": "<i>ÚJSZÜLÖTT és BABA FOTÓZÁS PÉCSEN</i>",
           "text": "<i>...egy új élet kezdete...<br>...az első mosoly...</i><br><i>...egy csöpp kis test...<br></i><i>...apró kis kezek és talpak...</i><br><i>...babaillat...</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
