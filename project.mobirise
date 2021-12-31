@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "paros_fotozas_pecs.html",
+    "currentPage": "ujszulott_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -844,6 +844,42 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a5719-baba-ujszulott-testverfoto-pecs.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a5719-baba-ujszulott-testverfoto-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9152-babafoto-pecs-babyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9152-babafoto-pecs-babyphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9190-babafoto-pecs-babyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9190-babafoto-pecs-babyphoto-800x532.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9262-babafoto-csaladifoto-pecs-familyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9262-babafoto-csaladifoto-pecs-familyphoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
