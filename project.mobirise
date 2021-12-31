@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "karacsonyi_fotozas_pecs.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -760,6 +760,90 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a9436-babafotozas-pecs-babyphoto.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a9436-babafotozas-pecs-babyphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a6611-babafotzs-pecs-babyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a6611-babafotzs-pecs-babyphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a6769-babafoto-pecs-babyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a6769-babafoto-pecs-babyphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a6771-babafoto-pecs-babyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a6771-babafoto-pecs-babyphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0382-ujszulottfoto-csaladifoto-pecs-newbornphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0382-ujszulottfoto-csaladifoto-pecs-newbornphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0542-ujszulottfoto-csaladifoto-pecs-newbornphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0542-ujszulottfoto-csaladifoto-pecs-newbornphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a5717-ujszulot-baba-testverfoto-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a5717-ujszulot-baba-testverfoto-pecs-614x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a5719-baba-ujszulott-testverfoto-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a5719-baba-ujszulott-testverfoto-pecs-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -3698,7 +3782,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_pipacsmezo.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"karacsonyifotozas_pecs_csaladifotozas.html\">Karácsonyi családi fotózás Pécsen stúdióban</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_buzamezo.html\">Családi fotózás búzamezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_levendulamezo.html\" aria-expanded=\"false\">Családi fotózás levendulamezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"portrefotozas_pecs_zsolnaynegyed.html\" aria-expanded=\"false\">Portré fotózás Pécsen a Zsolnay negyedben</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"potrefotozas_pecs.html\" aria-expanded=\"false\">Portré fotózás Pécsen a Dómtéren</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"portrefoto_pecs.html\" aria-expanded=\"false\">Portré fotózás Pécsen a Tettye romoknál</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Portrefotozas_pecs_puspokszentlaszlo.html\" aria-expanded=\"false\">Portré fotózás a Püspökszentlászlói Arborétumban</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_napraforgomezo.html\" aria-expanded=\"false\">Családi fotózás napraforgómezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_repcemezo_familyphoto.html\" aria-expanded=\"false\">Családi fotózás repceföldön</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_Balaton.html\" aria-expanded=\"false\">Családi fotózás a Balatonnál</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_pipacsmezo.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"karacsonyifotozas_pecs_csaladifotozas.html\">Karácsonyi családi fotózás Pécsen stúdióban</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_buzamezo.html\">Családi fotózás búzamezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_levendulamezo.html\" aria-expanded=\"false\">Családi fotózás levendulamezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"portrefotozas_pecs_zsolnaynegyed.html\" aria-expanded=\"false\">Portré fotózás Pécsen a Zsolnay negyedben</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"potrefotozas_pecs.html\" aria-expanded=\"false\">Portré fotózás Pécsen a Dómtéren</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"potrefotozas_pecs.html\" aria-expanded=\"false\">Portré fotózás Pécsen a Tettye romoknál</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Portrefotozas_pecs_puspokszentlaszlo.html\" aria-expanded=\"false\">Portré fotózás a Püspökszentlászlói Arborétumban</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_napraforgomezo.html\" aria-expanded=\"false\">Családi fotózás napraforgómezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_repcemezo_familyphoto.html\" aria-expanded=\"false\">Családi fotózás repceföldön</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_Balaton.html\" aria-expanded=\"false\">Családi fotózás a Balatonnál</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"karacsonyi_fotozas_pecs.html\">KARÁCSONYI FOTÓZÁS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Téma"
           ],
@@ -9022,6 +9106,42 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1637-portrefoto-pecs-portraitphoto-karacsonyi-christmasphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1637-portrefoto-pecs-portraitphoto-karacsonyi-christmasphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1716-portrefoto-pecs-kutyafoto-portraitphoto-dogphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1716-portrefoto-pecs-kutyafoto-portraitphoto-dogphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1735-portrefoto-pecs-portaitphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1735-portrefoto-pecs-portaitphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -13254,6 +13374,66 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a5004-babafoto-karacsonyifoto-pecs-christmasphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a5004-babafoto-karacsonyifoto-pecs-christmasphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1628-portefoto-pecs-portraitphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1628-portefoto-pecs-portraitphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1680-parosfoto-pecs-pairphoto-karacsonyi-christmasphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1680-parosfoto-pecs-pairphoto-karacsonyi-christmasphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1697-kutyafoto-pecs-dogfoto-parosfoto-pairphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1697-kutyafoto-pecs-dogfoto-parosfoto-pairphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1752-csaladifoto-kutyafoto-familyphoto-dogphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1752-csaladifoto-kutyafoto-familyphoto-dogphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -14311,6 +14491,78 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a9933-msolat-1-parosfoto-pecs-karacsony-christmasphoto.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a9933-msolat-1-parosfoto-pecs-karacsony-christmasphoto-800x800.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1618-parosfoto-pecs-pairphotot.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1618-parosfoto-pecs-pairphotot-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1613-parosfoto-pecs-pairphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1613-parosfoto-pecs-pairphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1615-parosfoto-pecs-pairphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1615-parosfoto-pecs-pairphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1721-parosfoto-kutyafoto-pecs-dogphoto-pairphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1721-parosfoto-kutyafoto-pecs-dogphoto-pairphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1677-parosfoto-pecs-pairphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1677-parosfoto-pecs-pairphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1773-pairphoto-dogphoto-pecs-kutyafoto-parosfoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1773-pairphoto-dogphoto-pecs-kutyafoto-parosfoto-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
