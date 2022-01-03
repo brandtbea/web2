@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "baba_gyermek_fotok.html",
+    "currentPage": "ujszulott_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 388,
+    "uniqCompNum": 390,
     "versionPublish": "5.3.10",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -1502,7 +1502,7 @@
             }
           },
           "title": "<br><i>Kedves Látogató!</i>&nbsp;",
-          "text": "<br>Szeretettel üdvözöllek a honlapomon!&nbsp;<br><br><i><b>Brandt Beáta vagyok édesanya, feleség, fotográfus, coach... \n</b></i><br><br><i>Számomra a fotózás egyszerre kihívás, szenvedély, alkotás és kiteljesedés.</i><br>\n<br><b><i>A fényképezés szeretetét már generációkon keresztül a családomból hozom.</i> </b>Már gyerekkorom óta igazán érdekelt a fotózás és a szívem mélyén mindig szerettem volna hivatásos fotós lenni. Sikerült a világ számos csodálatos helyére eljutnom és a fényképezés iránti szenvedélyemet rengeteg gyönyörű kép készítésében kiélnem.\n<br><br>",
+          "text": "<br>Szeretettel üdvözöllek a honlapomon!&nbsp;<br><br><i><b>Brandt Beáta vagyok édesanya, feleség, fotográfus, coach... \n</b></i><br><br><i>Számomra a fotózás egyszerre kihívás, szenvedély, alkotás és kiteljesedés.</i><br>\n<br><b><i>A fényképezés szeretetét már generációkon keresztül a családomból hozom.</i> </b>Már gyerekkorom óta igazán érdekelt a fotózás és a szívem mélyén mindig szerettem volna hivatásos fotós lenni. Sikerült a világ számos csodálatos helyére eljutnom, és a fényképezés iránti szenvedélyemet rengeteg gyönyörű kép készítésében kiélnem.\n<br><br>",
           "_tags": [
             "Theme"
           ],
@@ -1559,7 +1559,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Az életembe a csodás fordulatot a várandósságom hozta, amikor úgy döntöttem, hogy tantermi keretek között fotográfus végzettséget is szerzek. Nagy örömömre a férjem is csatlakozott, így egy csapattá váltunk. Hálás köszönet a drága kisfiúnknak, akinek születése lehetővé tette az álmunk megvalósulását. <br>\n<br><i><b>Édesanyaként kezdtem el az élet legcsodálatosabb pillanatait megörökíteni,</b></i> <i>mint a babavárást, az újszülöttek első mosolyát, a babák, gyerekek őszinte világát, és a családokban az egymás iránti szeretet meghitt pillanatait. </i><br>",
+          "text": "Az életembe a csodás fordulatot a várandósságom hozta, amikor úgy döntöttem, hogy tantermi keretek között államilag elismert fotográfus végzettséget is szerzek. Nagy örömömre a férjem is csatlakozott, így egy csapattá váltunk. Hálás köszönet a drága kisfiúnknak, akinek születése lehetővé tette az álmunk megvalósulását. <br>\n<br><i><b>Édesanyaként kezdtem el az élet legcsodálatosabb pillanatait megörökíteni,</b></i> <i>mint a babavárást, az újszülöttek első mosolyát, a babák, gyerekek őszinte világát, és a családokban az egymás iránti szeretet meghitt pillanatait. </i><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -1616,7 +1616,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b><i>Számomra minden ember egy történet. Szeretem meglátni és kifejezni a bennük lévő egyediséget és szépséget olyan képekben, melyek örök emlékek maradnak az utódoknak is.</i></b><br><br>Folyamatosan fejlesztem és képzem magamat, minden fotózásba újdonságot viszek bele és az egyediség varázsára törekszem. <br>\n<br><i><b>Szeretettel várlak, ha szeretnél magadról, illetve a családodról szép képeket, vagy, ha esetleg szeretetted szeretnéd meglepni egy fotózással Pécsen a stúdiómban vagy a természetben. Keress bizalommal!</b></i><br>\n<br><br>",
+          "text": "<b><i>Számomra minden ember egy történet. Szeretem meglátni és kifejezni a bennük lévő egyediséget és szépséget olyan képekben, melyek örök emlékek maradnak az utódoknak is.</i></b><br><br>Folyamatosan fejlesztem és képzem magamat, minden fotózásba újdonságot viszek bele, és az egyediség varázsára törekszem. <br>\n<br><i><b>Szeretettel várlak, ha szeretnél magadról, illetve a családodról szép képeket, vagy, ha esetleg szeretetted szeretnéd meglepni egy fotózással Pécsen a stúdiómban vagy a természetben. Keress bizalommal!</b></i><br>\n<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -1673,7 +1673,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Előre is köszönöm, hogy megtekinted a honlapomat, ha szeretnél több fotót látni és az aktuális akciókról, nyereményjátékokról értesülni, akkor, kérlek, szépen kövess a Facebook és Instagram oldalamon is.&nbsp;",
+          "text": "Előre is köszönöm, hogy megtekinted a honlapomat, ha szeretnél több fotót látni és az aktuális akciókról, nyereményjátékokról értesülni, akkor, kérlek szépen, kövess a Facebook és Instagram oldalamon is. Remélem, hamarosan találkozunk.&nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -9920,33 +9920,6 @@
           }
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "text-align": "center",
-              "font-size": "32px"
-            },
-            ".mbr-section-title I": {
-              "font-size": "32px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "title": "<i>Örökítsd meg életed legszebb pillanatait egyedi, érzelemmel teli, csodás fotókon!</i>",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-5a"
-        },
-        {
           "_params": {
             "showTitle": false,
             "showText": false,
@@ -9980,13 +9953,12 @@
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
             },
-            ".mbr-section-title I": {
-              "font-size": "25px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
             ".mbr-section-title": {
-              "font-size": "25px"
+              "text-align": "center",
+              "font-size": "32px"
+            },
+            ".mbr-section-title I": {
+              "font-size": "32px"
             }
           },
           "_params": {
@@ -9995,13 +9967,100 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "title": "<i>Kismama, újszülött, baba, gyermek, családi, portré, páros, esküvői fotózás Pécsen és környékén szabadtéren és műteremben a saját igényeid szerint</i>",
+          "title": "<i>Örökítsd meg életed legszebb pillanatait egyedi, érzelemmel teli, csodás fotókon!</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-4u"
+          "_anchor": "header3-5a"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "title": "<i>Kismama, újszülött, baba, gyermek, családi, portré, páros, esküvői fotózás Pécsen és környékén, szabadtéren és műteremben a saját igényeid szerint\n</i><div><br></div>",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-at"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "56",
+            "paddingTop": 0,
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/g85a8654-portrefotozas-pecs-portraitphoto.jpg",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<i style=\"\"><br></i><br><br><br><i style=\"\">AJÁNDÉKUTALVÁNY FOTÓZÁSRA<br></i><br><br><br><br><span style=\"font-weight: normal;\"><i>Ha szeretnéd a szeretteid meglepni egy jó élménnyel, és örök emlékkel, akkor ajándékozz fotózást ajándékutalvány formájában egyénre szabottan.&nbsp;<br></i></span><br><br><br><br><i style=\"\"><br></i>",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-as",
+          "_styles": {
+            "SPAN": {
+              "font-size": "36px"
+            },
+            "I": {
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-size": "30px",
+              "text-align": "center"
+            }
+          }
         },
         {
           "_params": {
@@ -10179,7 +10238,7 @@
             }
           },
           "title": "<br><i>Kedves Látogató!</i>",
-          "text": "<br>Szeretettel üdvözöllek és előre is köszönöm, hogy megtekinted a honlapomat!&nbsp;<br><br><i><b>Brandt Beáta vagyok</b> </i><b><i>édesanya, feleség, fotográfus, coach, mentál higiénés szakember..</i>.</b> <br>\n<br>A fotózás számomra egyszerre szenvedély, kihívás, alkotás és kiteljesedés.&nbsp;<br><br><b>A</b> <b>fényképezés szeretetét már generációkon keresztül a családomból hozom</b>. Már gyerekkorom óta igazán érdekelt a fotózás és a szívem mélyén mindig szerettem volna hivatásos fotós lenni. Sikerült a világ számos csodálatos helyére eljutnom és a fényképezés iránti szenvedélyemet rengeteg gyönyörű kép készítésében kiélnem.<br><br>Az életembe a csodás fordulatot a várandósságom hozta. <b>Édesanyaként kezdtem el az élet legcsodálatosabb pillanatait megörökíteni, </b><i>mint a babavárást, az újszülöttek első mosolyát, a babák, gyerekek őszinte világát, és a családokban az egymás iránti szeretet meghitt pillanatait.&nbsp;</i><br><br><i>Számomra minden ember egy történet. Szeretem meglátni és kifejezni a bennük lévő egyediséget és szépséget olyan képekben, melyek örök emlékek maradnak az utódoknak is.</i><br><br><b><i>Szeretettel várlak, ha szeretnél magadról, illetve a családodról szép képeket, vagy, ha esetleg szeretetted szeretnéd meglepni egy örök emlékkel.</i> \n</b><br>&nbsp;<br>",
+          "text": "<br>Szeretettel üdvözöllek és előre is köszönöm, hogy megtekinted a honlapomat!&nbsp;<br><br><i><b>Brandt Beáta vagyok</b> </i><b><i>édesanya, feleség, fotográfus, coach, mentál higiénés szakember..</i>.</b> <br>\n<br>A fotózás számomra egyszerre szenvedély, kihívás, alkotás és kiteljesedés.&nbsp;<br><br><b>A</b> <b>fényképezés szeretetét már generációkon keresztül a családomból hozom</b>. Már gyerekkorom óta igazán érdekelt a fotózás és a szívem mélyén mindig szerettem volna hivatásos fotós lenni. Sikerült a világ számos csodálatos helyére eljutnom, és a fényképezés iránti szenvedélyemet rengeteg gyönyörű kép készítésében kiélnem.<br><br>Az életembe a csodás fordulatot a várandósságom hozta. <b>Édesanyaként kezdtem el az élet legcsodálatosabb pillanatait megörökíteni, </b><i>mint a babavárást, az újszülöttek első mosolyát, a babák, gyerekek őszinte világát, és a családokban az egymás iránti szeretet meghitt pillanatait.&nbsp;</i><br><br><i>Számomra minden ember egy történet. Szeretem meglátni és kifejezni a bennük lévő egyediséget és szépséget olyan képekben, melyek örök emlékek maradnak az utódoknak is.</i><br><br><b><i>Szeretettel várlak, ha szeretnél magadról, illetve a családodról szép képeket, vagy, ha esetleg szeretetted szeretnéd meglepni egy örök emlékkel.</i> \n</b><br>&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"rolam.html\" data-toolbar=\"-mbrBtnMove\">OLVASS BŐVEBBEN RÓLAM</a>",
           "_tags": [
             "Téma"
@@ -10641,7 +10700,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Keress bizalommal!",
+          "title": "Keress bizalommal! Remélem, hamarosan találkozunk.&nbsp;",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -10731,6 +10790,9 @@
             ".mbr-section-title SPAN": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000"
             }
           }
         },

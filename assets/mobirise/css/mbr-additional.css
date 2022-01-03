@@ -1554,7 +1554,6 @@ section.form .container {
 
 
 
-
 #ext_menu-3 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1638,16 +1637,22 @@ section.form .container {
 #header3-5a .mbr-section-title I {
   font-size: 32px;
 }
-#header3-4u .mbr-section-title,
-#header3-4u .mbr-section-subtitle {
+#header3-at .mbr-section-title,
+#header3-at .mbr-section-subtitle {
   text-align: center;
 }
-#header3-4u .mbr-section-title I {
-  font-size: 25px;
-  font-family: 'Montserrat', sans-serif;
+#header3-at .mbr-section-title {
+  font-size: 30px;
 }
-#header3-4u .mbr-section-title {
-  font-size: 25px;
+#msg-box5-as SPAN {
+  font-size: 36px;
+}
+#msg-box5-as I {
+  font-size: 30px;
+}
+#msg-box5-as H3 {
+  font-size: 30px;
+  text-align: center;
 }
 #content1-4p P {
   font-size: 18px;
@@ -1736,6 +1741,9 @@ section.form .container {
 }
 #form1-9 .mbr-section-title SPAN {
   font-family: 'Lora', serif;
+}
+#form1-9 .mbr-section-subtitle {
+  color: #000000;
 }
 #social-buttons4-b .mbr-section-title,
 #social-buttons4-b .btn-social {
