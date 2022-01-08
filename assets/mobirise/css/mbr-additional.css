@@ -1669,6 +1669,9 @@ section.form .container {
 #msg-box5-9d P {
   text-align: left;
 }
+#msg-box5-9d I {
+  font-size: 25px;
+}
 #header3-47 .mbr-section-title,
 #header3-47 .mbr-section-subtitle {
   text-align: center;

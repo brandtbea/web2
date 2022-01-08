@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "ujszulott_fotozas.html",
+    "currentPage": "csaladifoto.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 390,
+    "uniqCompNum": 391,
     "versionPublish": "5.3.10",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -703,7 +703,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -914,6 +914,18 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9380-msolat.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9380-msolat-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/mg-7468-ujszulottfotok-newbornphotos-1-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-7468-ujszulottfotok-newbornphotos-1-2000x1333-800x533.jpg",
                 "alt": "",
@@ -931,7 +943,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ]
           },
@@ -996,7 +1008,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>Kérlek tekintsd meg az ünnepi fotóimat is.</i>",
+          "title": "<i>Kérlek tekintsd meg a baba és gyerek fotóimat is.</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -1010,7 +1022,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"unnepi_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide az ünnepi fotóimhoz</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"baba_gyermek_fotok.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a baba és gyermek fotóimhoz</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -2507,7 +2519,7 @@
             {
               "authorName": "Kovács-Valasek Andrea",
               "authorBio": "Developer",
-              "text": "\"Nagyon szépen köszönjük azt a rengeteg időt, energiát amit Ránk szántál. Már a fotózás alkalmával éreztük, hogy kreatívan, ránk figyelve és semmiképp sem mesterkélten igyekeztél megörökíteni a pillanatokat.\r<div>Köszönjük még egyszer azt az empatikus légkört ami a fotózást kísérte. Az elkészült képek a maguk természetességével legnagyobb örömünkre vannak. És azért sem tudunk eléggé hálásak lenni, hogy ilyen gyorsan elkészültek.\"</div>",
+              "text": "\"Nagyon szépen köszönjük azt a rengeteg időt, energiát amit ránk szántál. Már a fotózás alkalmával éreztük, hogy kreatívan, ránk figyelve és semmiképp sem mesterkélten igyekeztél megörökíteni a pillanatokat.\n<div>Köszönjük még egyszer azt az empatikus légkört ami a fotózást kísérte. Az elkészült képek a maguk természetességével legnagyobb örömünkre vannak. És azért sem tudunk eléggé hálásak lenni, hogy ilyen gyorsan elkészültek.\"</div>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/g85a0499-msolat.jpg",
@@ -3802,7 +3814,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>Kérlek tekintsd meg a kismama és páros fotóimat is.</i>",
+          "title": "<i>Kérlek tekintsd meg a születésnapi fotóimat is.</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -3816,7 +3828,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"varandos_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a kismama és páros fotóimhoz</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"varandos_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a születésnapi fotóimhoz</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -4581,7 +4593,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>Kérlek tekintsd meg a párokról készült fotóimat is.</i>",
+          "title": "<i>Kérlek tekintsd meg a karácsonyi fotóimat is.</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -4595,7 +4607,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"paros_fotozas_pecs.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a páros fotóimhoz</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"paros_fotozas_pecs.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a karácsonyi fotóimhoz</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -5660,7 +5672,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>Kérlek tekintsd meg az újszülött fotóimat is.</i>",
+          "title": "<i>Kérlek tekintsd meg a baba és gyermek fotóimat is.</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -5674,7 +5686,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"ujszulott_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Tovább az újszülött fotóimhoz</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"ujszulott_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Tovább a baba és gyermek fotóimhoz</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -6502,7 +6514,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>Kérlek tekintsd meg a portré fotóimat is.</i>",
+          "title": "<i>Kérlek tekintsd meg a családi fotósorozataimat is.</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -6516,7 +6528,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"portre_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a portré fotóimhoz</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"portre_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a családi fotósorozataimhoz</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -7734,7 +7746,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>Kérlek tekintsd meg a családi fotóimat is.</i>",
+          "title": "<i>Kérlek tekintsd meg az újszülött és baba fotóimat is.</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -7748,7 +7760,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"csaladifoto.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a családi fotóimhoz</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"csaladifoto.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide az újszülött és baba fotóimhoz</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -9321,7 +9333,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>Kérlek tekintsd meg a születésnapi fotóimat is.</i>",
+          "title": "<i>Kérlek tekintsd meg a portré fotósorozataimat is.</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -9335,7 +9347,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"szuletesnapi_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a születésnapi fotóimhoz</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"szuletesnapi_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a portré fotósorozataimhoz</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -10094,7 +10106,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "title": "<i>Karácsonyi műtermi fotózás Pécsen</i>",
+          "title": "<i>Valentin napi műtermi és szabadtéri fotózás Pécsen</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -10128,7 +10140,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/karacsonyifotozas-christmasphoto-pecs-gyerekfoto.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-0578-portrefotos-portraitphotographer-1-600x900.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -10146,8 +10158,8 @@
               "size": 0
             }
           },
-          "title": "<i>KARÁCSONYI CSALÁDI, GYERMEK, BABA, ÚJSZÜLÖTT, KISMAMA, PÁROS, PORTRÉ MŰTERMI FOTÓZÁS PÉCSEN</i>",
-          "text": "Január első hetéig várlak sok szeretettel karácsonyi fotózásra a gyönyörű karácsonyi enteriőrrel berendezett pécsi stúdiómban, rengeteg kellékkel. Még van néhány szabad időpont, amire lehet jelentkezni, siess, hogy le ne maradj.&nbsp;<br>Tarts velem és lepd meg szeretteidet egy igazán gyönyörű és különleges fotósorozattal, mely a nagyszülőknek is különleges ajándékul szolgál, valamint gazdagítsd magad és a családodat egy szép élménnyel. Ha még nincs ötleted, hogy mit ajándékoz szeretteidnek karácsonyra, akkor ajándékozz fotózást, melyet ajándékutalvány formájában a karácsonyfa alá is tehetsz. Családi, gyermek, baba, újszülött, kismama, páros, portré témában várlak szeretettel. \n<br>\n<br>&nbsp;&nbsp;",
+          "title": "<i>VALENTIN NAPI PÁROS, PORTRÉ MŰTERMI ÉS SZABADTÉRI FOTÓZÁS PÉCSEN</i>",
+          "text": "<br><br><br>Sok szeretettel várlak Valentin napi fotózásra a saját pécsi pécsi stúdiómban, vagy szabadtéren.<br>Tarts velem és lepd meg párodat egy igazán gyönyörű és különleges fotósorozattal rólad, illetve kettőtökről,&nbsp; amely különleges ajándékul szolgál, valamint gazdagítsd magad és a párodat egy szép élménnyel. Ha még nincs ötleted, hogy mit ajándékoz szerettednek Valentin napra, akkor ajándékozz fotózást, melyet ajándékutalvány formájában is átadhatsz. Várlak szeretettel, és remélem hamarosan találkozunk.&nbsp;<br>\n<br>&nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
           "_tags": [
             "Theme"
@@ -10160,6 +10172,9 @@
             },
             "P": {
               "text-align": "left"
+            },
+            "I": {
+              "font-size": "25px"
             }
           },
           "_anchor": "msg-box5-9d"
@@ -11350,7 +11365,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"baba_gyermek_fotok.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a karácsonyi fotóimhoz</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"baba_gyermek_fotok.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a baba és gyermek fotóimhoz</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -14032,7 +14047,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "title": "<i>HÚSVÉTI CSALÁDI, GYERMEK, KISMAMA, PÁROS, PORTRÉ ÉS MŰTERMI FOTÓZÁS PÉCSEN! </i><br><i>&nbsp;<span style=\"font-weight: normal;\">Lepd meg szeretteidet egy csodálatos sorozattal!</span></i>",
+          "title": "<i>HÚSVÉTI CSALÁDI, BABA, GYERMEK,&nbsp; ÚJSZÜLÖTT, KISMAMA, PÁROS, PORTRÉ ÉS MŰTERMI FOTÓZÁS PÉCSEN! </i><br><i>&nbsp;<span style=\"font-weight: normal;\">Lepd meg szeretteidet egy csodálatos sorozattal!</span></i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -14218,7 +14233,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>Kérlek tekintsd meg az esküvői és keresztelő fotóimat is.</i>",
+          "title": "<i>Kérlek tekintsd meg a karácsonyi fotóimat is.</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -14232,7 +14247,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"eskuvo_keresztelo_fenykepezes.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide az esküvői és keresztelő fotóimhoz</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"eskuvo_keresztelo_fenykepezes.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a karácsonyi fotóimhoz</a>           ",
           "_tags": [
             "Theme"
           ],
