@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "adatvedelem.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -10079,7 +10079,7 @@
             "paddingBottom": "3",
             "bgColor": "#ffffff"
           },
-          "text": "<p><b>Szeretnéd az élet legcsodálatosabb pillanatait megörökíteni,</b> mint a babavárást, az újszülöttek első mosolyát, a babák, gyerekek őszinte kacaját, az egymás iránti szeretet meghitt pillanatait,<b> egyedi, érzelemmel teli csodás fotókon? </b></p><p><b><i>Kismama, baba, gyermek, újszülött, családi, portré, keresztelő és esküvői fotógráfus vagyok.</i> </b>A fényképezés élményét egy kellemes program keretében a saját műterműnkben és szabadtéren is megtapasztalhatod velünk Pécsen és környékén. Keress bizalommal!&nbsp;</p>",
+          "text": "<p><b>Szeretnéd az élet legcsodálatosabb pillanatait megörökíteni,</b> mint a babavárást, az újszülöttek első mosolyát, a babák, gyerekek őszinte kacaját, az egymás iránti szeretet meghitt pillanatait,<b> egyedi, érzelemmel teli csodás fotókon? </b></p><p><b><i>Kismama, baba, gyermek, újszülött, családi, portré, keresztelő és esküvői fotógráfus vagyok.</i> </b>A fényképezés élményét egy kellemes program keretében a saját műterműnkben, és szabadtéren is megtapasztalhatod velünk Pécsen és környékén. Előre is köszönöm, hogy megtekinted a honlapomat. Keress bizalommal! Várlak szeretettel.</p>",
           "_tags": [
             "Theme"
           ],
@@ -10136,7 +10136,7 @@
               "size": 0
             }
           },
-          "title": "<i style=\"\"><br></i><br><br><br><i style=\"\">AJÁNDÉKUTALVÁNY FOTÓZÁSRA<br></i><br><br><br><br><span style=\"font-weight: normal;\"><i>Ha szeretnéd a szeretteid meglepni egy jó élménnyel, és örök emlékkel, akkor ajándékozz fotózást ajándékutalvány formájában egyénre szabottan.&nbsp;<br></i></span><br><br><br><br><i style=\"\"><br></i>",
+          "title": "<i style=\"\"><br></i><br><br><br><i style=\"\">AJÁNDÉKUTALVÁNY FOTÓZÁSRA<br></i><br><br><br><br><span style=\"font-weight: normal;\"><i>Ha szeretnéd a szeretteid meglepni egy jó élménnyel, és örök emlékkel, akkor ajándékozz fotózást ajándékutalvány formájában a saját igényeid szerint.&nbsp;<br></i></span><br><br><br><br><i style=\"\"><br></i>",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
           "_tags": [
@@ -10900,44 +10900,10 @@
           "_tags": [
             "Téma"
           ],
-          "text": "A közösségi médiában is megtalálsz",
+          "text": "Kövess a közösségi médiában!",
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/beata.brandt.photography\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/beatabrandtphotographer/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-b"
-        },
-        {
-          "_inherit": "social-buttons1",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "23px"
-            }
-          },
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5,
-            "facebook": true,
-            "twitter": false,
-            "google": false,
-            "vkontakte": false,
-            "odnoklassniki": false
-          },
-          "_tags": [
-            "Téma"
-          ],
-          "text": "Kérlek oszd meg oldalamat a Facebook-on!",
-          "_name": "social-buttons3",
-          "_anchor": "social-buttons3-a"
         },
         {
           "_params": {
@@ -22973,7 +22939,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b><i>Stúdió \n</i></b><br>\n<br>A fotózás helyszínéül választhatod Pécsen a saját jól felszerelt stúdiómat, ahol otthonos környezetben több fajta háttér, kellék közül választhatsz, ingyenes parkolási lehetőséggel, vagy a természetet, a szép rózsás, levendulás udvarunkat, mezőt, tópartot, erdőt, szőlőültetvényt, pécsi szabadtéri helyszíneket stb. Egyéb helyszínt is választhatsz megegyezés szerint.\n<br>Saját stúdiós és kültéri fotózást a saját udvarunkban kombinálhatod egyszerre.  \n<br>\n<br><i><b>Fototechnika\n</b></i><br>\n<br>Professzionális fényképezőgépet, objektíveket, stúdiólámpákat, a legújabb fotótechnikákat használok.\n<br>\n<br><b><i>Végzettség és szakmai gyakorlat\n<br></i></b>\n<br>Államilag elismert (OKJ) fotográfus végzettséggel rendelkezem, és több éves gyakorlattal.\n<br>Folyamatosan képzem magam mind emberileg és szakmailag, mindig igyekszem valami újat belevinni a fotózásaimba.&nbsp;&nbsp;<br>",
+          "text": "<b><i>Saját Stúdió \n</i></b><br>\n<br>A fotózás helyszínéül választhatod Pécsen a saját jól felszerelt stúdiómat, ahol otthonos környezetben több fajta háttér, kellék közül választhatsz, ingyenes parkolási lehetőséggel, vagy a természetet, a szép rózsás, levendulás udvarunkat, mezőt, tópartot, erdőt, szőlőültetvényt, pécsi szabadtéri helyszíneket stb. Egyéb helyszínt is választhatsz megegyezés szerint.\n<br>Saját stúdiós és kültéri fotózást a saját udvarunkban kombinálhatod egyszerre.  \n<br>\n<br><i><b>Professzionális fototechnika\n</b></i><br>\n<br>Professzionális fényképezőgépet, objektíveket, stúdiólámpákat, a legújabb fotótechnikákat használok.\n<br>\n<br><b><i>Fotográfus végzettség és több éves szakmai gyakorlat\n<br></i></b>\n<br>Államilag elismert (OKJ) fotográfus végzettséggel rendelkezem, és több éves gyakorlattal.\n<br>Folyamatosan képzem magam mind emberileg és szakmailag, mindig igyekszem valami újat belevinni a fotózásaimba.&nbsp;&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -23031,7 +22997,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<i><b>Ár \n</b></i><br>\n<br>Kedvező ár/érték arányú csomagajánlataim közül választhatsz. A fotózás után is válthatsz nagyobb csomagra, illetve a plusz képeket darabáron is megvásárolhatod. Egyedi igények alapján személyre szabott, egyedi árajánlatot adok.\n<br>Minden fotózás után adok kupont, amit a következő fotózás alkalmával tudsz felhasználni.\n<br><br><b><i>Kellékek és ruhák a fotózáshoz\n</i></b><br>\n<br>A várandós fotózásokhoz több álomszép kismamaruha közül tudsz választani magyar és külföldi készítőktől, de szívesen fotózlak saját kedvenc terhes ruhádban is.\n<br>Az újszülött fotózáshoz puha pamut és kötött ruhákat és sapkákat, hajpántokat használok, amelyek nem allergizálnak. Ha általad hozott babaruhában szeretnéd a fényképezést, az is természetesen lehetséges.\n<br>Az újszülött, baba, gyermek fotózáshoz sokfajta kellék közül választhatsz\n<br>\n<br>\n<br>\n<br><br>",
+          "text": "<i><b>Kedvező Ár/érték</b></i><br>\n<br>Kedvező ár/érték arányú csomagajánlataim közül választhatsz. A fotózás után is válthatsz nagyobb csomagra, illetve a plusz képeket darabáron is megvásárolhatod. Egyedi igények alapján személyre szabott, egyedi árajánlatot adok.\n<br>Minden fotózás után adok kupont, amit a következő fotózás alkalmával tudsz felhasználni.\n<br><br><b><i>Sok kellékek és&nbsp; gyönyörű szép ruhák a fotózáshoz\n</i></b><br>\n<br>A várandós fotózásokhoz több álomszép kismamaruha közül tudsz választani magyar és külföldi készítőktől, de szívesen fotózlak saját kedvenc terhes ruhádban is.\n<br>Az újszülött fotózáshoz puha pamut és kötött ruhákat és sapkákat, hajpántokat használok, amelyek nem allergizálnak. Ha általad hozott babaruhában szeretnéd a fényképezést, az is természetesen lehetséges.\n<br>Az újszülött, baba, gyermek fotózáshoz sokfajta kellék közül választhatsz\n<br>\n<br>\n<br>\n<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
