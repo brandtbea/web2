@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "husveti_csalad_gyermek_fotozas_pecs.html",
+    "currentPage": "portre_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 403,
+    "uniqCompNum": 406,
     "versionPublish": "5.3.10",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -975,109 +975,6 @@
           }
         },
         {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni</a>           ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "18px"
-            }
-          },
-          "_anchor": "buttons1-4e"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-size": "32px",
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "<i>Kérlek tekintsd meg a baba és gyerek fotóimat is.</i>",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-t"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"baba_gyermek_fotok.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a baba és gyermek fotóimhoz</a>           ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-s",
-          "_styles": {
-            ".btn": {
-              "font-size": "18px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.2"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/beatabrandtphotographer-1.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<br><br>",
-          "text2": "<b>Kapcsolat</b><b><br></b><br>E-mail: brandtbea12 @ gmail.com<br>Mobil: +36 (30) 416 7606&nbsp;<br>m.me/beata.brandt.photography<br>Pécs<br><br>",
-          "text3": "<br><br>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-1w",
-          "_styles": {
-            "P": {
-              "color": "#acacac",
-              "font-size": "13px"
-            }
-          }
-        },
-        {
           "_inherit": "menu",
           "_params": {
             "logo": true,
@@ -1196,6 +1093,194 @@
             }
           },
           "_anchor": "footer1-y"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": true,
+            "showName": true,
+            "showBio": false,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Az újszülött fotózásomon résztvevők ajánlásai",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Gungl Tomecskó Noémi",
+              "authorBio": "",
+              "text": "“Szívből ajánlom mindenkinek! Nagyon jó képeket készít, könnyedén elkapja a megfelelő pillanatot, amit sok fotósnak csak nehezen sikerül elkapnia. Ezenkívül közvetlen, barátságos, és végtelenül türelmes. De szerintem a képek magukért beszélnek!”",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/img-3885-1-csaladifoto-familyphoto-2-800x1195.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "linkInNewWindow": false
+                }
+              }
+            },
+            {
+              "authorName": "Kovács-Valasek Andrea",
+              "authorBio": "",
+              "text": "\"Nagyon szépen köszönjük azt a rengeteg időt, energiát amit ránk szántál. Már a fotózás alkalmával éreztük, hogy kreatívan, ránk figyelve és semmiképp sem mesterkélten igyekeztél megörökíteni a pillanatokat.\r<div>Köszönjük még egyszer azt az empatikus légkört ami a fotózást kísérte. Az elkészült képek a maguk természetességével legnagyobb örömünkre vannak. És azért sem tudunk eléggé hálásak lenni, hogy ilyen gyorsan elkészültek.\"</div>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/g85a0499-msolat-3.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "linkInNewWindow": false
+                }
+              }
+            },
+            {
+              "authorName": "Ámánné Horváth Szabina",
+              "authorBio": "User",
+              "text": "\"Nagyon szép képeket kaptunk, pocakosból és újszülött képekből is:) Köszönjük!\"",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/img-4256-1-pocakfoto-pregnantphoto-800x1200.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "linkInNewWindow": false
+                }
+              }
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-b8",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "46px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "32px",
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "<i>Kérlek tekintsd meg a baba és gyerek fotóimat is.</i>",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-t"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"baba_gyermek_fotok.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a baba és gyermek fotóimhoz</a>           ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-s",
+          "_styles": {
+            ".btn": {
+              "font-size": "18px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgColor": "#efefef"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni</a>           ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "buttons1-4e"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.2"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/beatabrandtphotographer-1.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<br><br>",
+          "text2": "<b>Kapcsolat</b><b><br></b><br>E-mail: brandtbea12 @ gmail.com<br>Mobil: +36 (30) 416 7606&nbsp;<br>m.me/beata.brandt.photography<br>Pécs<br><br>",
+          "text3": "<br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1w",
+          "_styles": {
+            "P": {
+              "color": "#acacac",
+              "font-size": "13px"
+            }
+          }
         }
       ]
     },
@@ -8052,10 +8137,11 @@
               "text-align": "center"
             },
             "P": {
-              "text-align": "right"
+              "text-align": "right",
+              "font-size": "20px"
             },
             "I": {
-              "font-size": "24px"
+              "font-size": "20px"
             }
           }
         },
@@ -9361,6 +9447,91 @@
           ],
           "_name": "content6",
           "_anchor": "content6-4r"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": true,
+            "showName": true,
+            "showBio": false,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "A portré fotózásomon résztvevők ajánlásai",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Schmidt Erika",
+              "authorBio": "User",
+              "text": "\"Beáta nem csupán fotós, hanem csodálatos Ember is, akinek az első pillanattól ki tudtam nyitni a lelkemet és ezt a fotókon is viszont láttam! Életemben először láttam magamat szépnek, mert az az EGYség tudott megnyilvánulni kifelé is, amit belül érzek önmagammal kapcsolatban, és ezért nagyon hálás vagyok neki! A mosolyával, őszinteségével, tisztaságával már a honlapján elvarázsolt és a hatást csak fokozta a fotózás hangulata! Szép emlék lett számomra a találkozás is vele! Ezt az élményt kívánom szeretettel mindenkinek, aki megkeresi Őt a jövőben! \"",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/g85a2995-1.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "linkInNewWindow": false
+                }
+              }
+            },
+            {
+              "authorName": "Szantner Klára",
+              "authorBio": "User",
+              "text": "\"5+1 csillagot adnék Beának, ha lehetne. : ) Az első perctől kezdve megvolt köztünk az összhang és a fotózás végéig nagyon jó hangulatban telt a közös munka. A lágy háttérzenével oldotta a \"feszültséget\" és ötleteivel is sokat segített nekünk. Életünk legjobb fotózása volt! Nyugodt szívvel ajánlom bárkinek és szerintem mi is találkozunk még egy következő alkalommal! : ) Csak így tovább, Bea!\"",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/g85a3649-1.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "linkInNewWindow": false
+                }
+              }
+            },
+            {
+              "authorName": "Fedeles Márti",
+              "authorBio": "User",
+              "text": "\"Szívből ajánlom mindenkinek! Tökéletes képeket készít, könnyedén elkapja a megfelelő pillanatot, amit sok fotósnak csak nehezen,vagy egyáltalán nem sikerül elcsípnie. Az eddigi közös projektjeink mindig jó hangulatban teltek,és szuper lett a végeredmény is. De a képek magukért beszélnek!\"",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/img-1034-modellfotozas-modellphotoshoot.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "linkInNewWindow": false
+                }
+              }
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-b9",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "46px"
+            }
+          }
         },
         {
           "_params": {

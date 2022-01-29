@@ -481,24 +481,6 @@ section.form .container {
 #content6-45 .lead DIV {
   font-size: 19px;
 }
-#buttons1-4e .btn {
-  font-size: 18px;
-}
-#header3-t .mbr-section-title,
-#header3-t .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-t .mbr-section-title {
-  font-size: 32px;
-  text-align: center;
-}
-#buttons1-s .btn {
-  font-size: 18px;
-}
-#contacts1-1w P {
-  color: #acacac;
-  font-size: 13px;
-}
 #ext_menu-f .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -564,6 +546,27 @@ section.form .container {
 }
 #footer1-y P {
   text-align: center;
+}
+#testimonials1-b8 .mbr-section-title {
+  font-size: 46px;
+}
+#header3-t .mbr-section-title,
+#header3-t .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-t .mbr-section-title {
+  font-size: 32px;
+  text-align: center;
+}
+#buttons1-s .btn {
+  font-size: 18px;
+}
+#buttons1-4e .btn {
+  font-size: 18px;
+}
+#contacts1-1w P {
+  color: #acacac;
+  font-size: 13px;
 }
 
 
@@ -1445,9 +1448,10 @@ section.form .container {
 }
 #msg-box5-35 P {
   text-align: right;
+  font-size: 20px;
 }
 #msg-box5-35 I {
-  font-size: 24px;
+  font-size: 20px;
 }
 #header3-46 .mbr-section-title,
 #header3-46 .mbr-section-subtitle {
@@ -1458,6 +1462,9 @@ section.form .container {
 }
 #header3-46 .mbr-section-title I {
   font-size: 25px;
+}
+#testimonials1-b9 .mbr-section-title {
+  font-size: 46px;
 }
 #buttons1-4j .btn {
   font-size: 18px;
