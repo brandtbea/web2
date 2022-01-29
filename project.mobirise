@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "portre_fotozas.html",
+    "currentPage": "baba_gyermek_fotok.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 406,
+    "uniqCompNum": 409,
     "versionPublish": "5.3.10",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -1175,7 +1175,7 @@
           "_anchor": "testimonials1-b8",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "46px"
+              "font-size": "36px"
             }
           }
         },
@@ -3918,6 +3918,91 @@
         },
         {
           "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": true,
+            "showName": true,
+            "showBio": false,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "A baba és gyermek fotózásomon résztvevők ajánlásai",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Pazaurek Diána",
+              "authorBio": "User",
+              "text": "“Kedves, türelmes fotós. Élveztük a fotózást. Tetszettek a beállítások, klassz képek készültek nagyon jó minőségben. Baba, családi fotózásra egyaránt szívesen ajánljuk Beát!”&nbsp;",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/img-7006-edit-csaladifoto-familyphotos-1-800x550.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "linkInNewWindow": false
+                }
+              }
+            },
+            {
+              "authorName": "Veressné Mónika",
+              "authorBio": "User",
+              "text": "\"Élvezetes volt a fotózás és csodálatos képek készültek! Csak ajánlani tudom mindenkinek! Köszönjük szépen. 😊\"",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/img-7698-2-csaladfoto-familyshoot-4-800x533.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "linkInNewWindow": false
+                }
+              }
+            },
+            {
+              "authorName": "Kerekes Judit",
+              "authorBio": "User",
+              "text": "“Rugalmas és innovatív, olyan képek születtek a lányaimról, amilyenek a valóságban is. A képei letisztultak és remekül elkapja azokat a pillanatokat, ahol látszanak az egyéniségük.\"",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/img-6761-edit-csaldifotozas-familiefoto-1-800x533.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "linkInNewWindow": false
+                }
+              }
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-bc",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          }
+        },
+        {
+          "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
             "bgColor": "#fff"
@@ -6615,6 +6700,91 @@
           ],
           "_name": "content6",
           "_anchor": "content6-4b"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": true,
+            "showName": true,
+            "showBio": false,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "A családi fotózásomon résztvevők ajánlásai",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Veress Sándor",
+              "authorBio": "User",
+              "text": "\"Már harmadszor volt szerencsénk Beával dolgozni. 🥰 Nagyon türelmes, jól elkapja a pillanatokat, gyönyörű képeket csinált! 😊Ajánlom mindenkinek! Mi negyedszerre is vissza fogunk jönni. Nagyon köszönjük!\"",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/mg-1810-apa-lanya-foto-familyphoto-1.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "linkInNewWindow": false
+                }
+              }
+            },
+            {
+              "authorName": "Gungl Tomecskó Noémi",
+              "authorBio": "User",
+              "text": "“Szívből ajánlom mindenkinek! Nagyon jó képeket készít, könnyedén elkapja a megfelelő pillanatot, amit sok fotósnak csak nehezen sikerül elkapnia. Ezenkívül közvetlen, barátságos, és végtelenül türelmes. De szerintem a képek magukért beszélnek!”",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/img-3885-1-csaladifoto-familyphoto-2-800x1195.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "linkInNewWindow": false
+                }
+              }
+            },
+            {
+              "authorName": "Pazaurek Diána",
+              "authorBio": "User",
+              "text": "“Kedves, türelmes fotós. Élveztük a fotózást. Tetszettek a beállítások, klassz képek készültek nagyon jó minőségben. Baba, családi fotózásra egyaránt szívesen ajánljuk Beát!”&nbsp;",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/img-7006-edit-csaladifoto-familyphotos-1-800x550.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "linkInNewWindow": false
+                }
+              }
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-bb",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          }
         },
         {
           "_params": {
@@ -9529,7 +9699,7 @@
           "_anchor": "testimonials1-b9",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "46px"
+              "font-size": "36px"
             }
           }
         },
