@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "baba_gyermek_fotok.html",
+    "currentPage": "portre_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 409,
+    "uniqCompNum": 419,
     "versionPublish": "5.3.10",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -131,6 +131,9 @@
             },
             "H3": {
               "font-size": "23px"
+            },
+            "I": {
+              "font-size": "19px"
             }
           }
         },
@@ -1103,7 +1106,7 @@
             "showBio": false,
             "count": 3,
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
             "parallax": true,
@@ -1178,6 +1181,19 @@
               "font-size": "36px"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"velemenyek.html\" data-toolbar=\"-mbrBtnMove\">OLVASS TOVÁBBI VÉLEMÉNYEKET</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-bh"
         },
         {
           "_styles": {
@@ -2886,6 +2902,9 @@
             },
             "P": {
               "text-align": "center"
+            },
+            "I": {
+              "font-size": "19px"
             }
           }
         },
@@ -3925,7 +3944,7 @@
             "showBio": false,
             "count": 3,
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
             "parallax": true,
@@ -4005,9 +4024,22 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"velemenyek.html\" data-toolbar=\"-mbrBtnMove\">OLVASS TOVÁBBI VÉLEMÉNYEKET</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-bd"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"velemenyek.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -4290,6 +4322,9 @@
             },
             "P": {
               "text-align": "center"
+            },
+            "I": {
+              "font-size": "17px"
             }
           }
         },
@@ -5072,6 +5107,9 @@
             },
             "P": {
               "text-align": "center"
+            },
+            "I": {
+              "font-size": "22px"
             }
           }
         },
@@ -5861,9 +5899,73 @@
         },
         {
           "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": true,
+            "showName": true,
+            "showBio": false,
+            "count": "1",
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "A születésnapi fotózásomon résztvevők ajánlásai",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Kerekes Judit",
+              "authorBio": "User",
+              "text": "<p>“Rugalmas és innovatív, olyan képek születtek a lányaimról, amilyenek a valóságban is. A képei letisztultak és remekül elkapja azokat a pillanatokat, ahol látszanak az egyéniségük.\"</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/img-6761-edit-csaldifotozas-familiefoto-1-800x533.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "linkInNewWindow": false
+                }
+              }
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-bl",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          }
+        },
+        {
+          "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
-            "bgColor": "#fff"
+            "bgColor": "#ffffff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"velemenyek.html\" data-toolbar=\"-mbrBtnMove\">OLVASS TOVÁBBI VÉLEMÉNYEKET</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-bm"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgColor": "#efefef"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>           ",
           "_tags": [
@@ -6146,6 +6248,9 @@
             "H3": {
               "font-size": "24px",
               "text-align": "center"
+            },
+            "I": {
+              "font-size": "19px"
             }
           }
         },
@@ -6710,7 +6815,7 @@
             "showBio": false,
             "count": 3,
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
             "parallax": true,
@@ -6790,7 +6895,20 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
-            "bgColor": "#fff"
+            "bgColor": "#ffffff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"velemenyek.html\" data-toolbar=\"-mbrBtnMove\">OLVASS TOVÁBBI VÉLEMÉNYEKET</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-bi"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgColor": "#efefef"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni</a>           ",
           "_tags": [
@@ -7076,6 +7194,9 @@
             },
             "P": {
               "text-align": "center"
+            },
+            "I": {
+              "font-size": "22px"
             }
           }
         },
@@ -7451,18 +7572,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-5509-kismamakep-bellyshoot.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-5509-kismamakep-bellyshoot-800x1200.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/img-5533-varandossag-expactantphoto.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-5533-varandossag-expactantphoto-800x1200.jpg",
                 "alt": "",
@@ -7643,48 +7752,24 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a0558-kismamafoto-varandosfoto-pecs-maternityphotoshoot-2000x3000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a0558-kismamafoto-varandosfoto-pecs-maternityphotoshoot-2000x3000-800x1200.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a0700-kismamafotozas-pocakfoto-pecs-maternityphoto-2000x2940.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a0700-kismamafotozas-pocakfoto-pecs-maternityphoto-2000x2940-800x1176.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a0702-kismamafoto-pecs-varandosfoto-parosfoto-bellyphoto-2000x3000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a0702-kismamafoto-pecs-varandosfoto-parosfoto-bellyphoto-2000x3000-800x1200.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a0706-varandosfoto-kismamafoto-pecs-pregnantphoto-2000x3000.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a0706-varandosfoto-kismamafoto-pecs-pregnantphoto-2000x3000-800x1200.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0558-kismamafoto-varandosfoto-pecs-maternityphotoshoot-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0558-kismamafoto-varandosfoto-pecs-maternityphotoshoot-2000x3000-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Creative",
@@ -7715,8 +7800,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a9389-kismamafotozas-pecs-maternityphotoshoot-parosfoto-2000x3000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a9389-kismamafotozas-pecs-maternityphotoshoot-parosfoto-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a9293-kismamafotozas-pocakfotozas-parosfoto-pecs-bellyphoto-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9293-kismamafotozas-pocakfotozas-parosfoto-pecs-bellyphoto-2000x3000-800x1200.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -7727,8 +7812,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a9293-kismamafotozas-pocakfotozas-parosfoto-pecs-bellyphoto-2000x3000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a9293-kismamafotozas-pocakfotozas-parosfoto-pecs-bellyphoto-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a9389-kismamafotozas-pecs-maternityphotoshoot-parosfoto-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9389-kismamafotozas-pecs-maternityphotoshoot-parosfoto-2000x3000-800x1200.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -7775,8 +7860,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a0228-kismamafoto-maternityphoto-pecs.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a0228-kismamafoto-maternityphoto-pecs-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a5481-gyerekfoto-kismamafoto-pecs-maternityphoto-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a5481-gyerekfoto-kismamafoto-pecs-maternityphoto-2000x1334-800x534.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -7787,8 +7872,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a5481-gyerekfoto-kismamafoto-pecs-maternityphoto-2000x1334.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a5481-gyerekfoto-kismamafoto-pecs-maternityphoto-2000x1334-800x534.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a0228-kismamafoto-maternityphoto-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0228-kismamafoto-maternityphoto-pecs-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -7907,8 +7992,32 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a2307.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a2307-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/img-4232-msolat-kismamafoto-pecs-maternityphoto.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-4232-msolat-kismamafoto-pecs-maternityphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a2318.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a2318-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -7931,8 +8040,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/mg-2747-kismamafoto-pecs-maternityphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-2747-kismamafoto-pecs-maternityphoto-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a7329-kismamafotozas-pecs-maternityphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a7329-kismamafotozas-pecs-maternityphoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -7943,8 +8052,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a7329-kismamafotozas-pecs-maternityphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a7329-kismamafotozas-pecs-maternityphoto-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-2747-kismamafoto-pecs-maternityphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2747-kismamafoto-pecs-maternityphoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -7961,30 +8070,6 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a2307.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a2307-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a2318.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a2318-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
               }
             ]
           },
@@ -8017,6 +8102,87 @@
               "text-align": "left"
             }
           }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": true,
+            "showName": true,
+            "showBio": false,
+            "count": "2",
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "A kismama és páros fotózásomon résztvevők ajánlásai",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Ámánné Horváth Szabina",
+              "authorBio": "User",
+              "text": "\"Nagyon szép képeket kaptunk, pocakosból és újszülött képekből is:) Köszönjük!\"",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/img-4256-1-pocakfoto-pregnantphoto-800x1200.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "linkInNewWindow": false
+                }
+              }
+            },
+            {
+              "authorName": "Kapitányné Oreskó Klára",
+              "authorBio": "User",
+              "text": "\"Kedves fotós! ♥ Szuper képek készültek ;-) Köszönöm szépen.\"&nbsp;",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/img-5518-pocakfoto-bellyphoto-1-600x900.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "linkInNewWindow": false
+                }
+              }
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-bf",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"velemenyek.html\" data-toolbar=\"-mbrBtnMove\">OLVASS TOVÁBBI VÉLEMÉNYEKET</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-be"
         },
         {
           "_params": {
@@ -8308,10 +8474,10 @@
             },
             "P": {
               "text-align": "right",
-              "font-size": "20px"
+              "font-size": "19px"
             },
             "I": {
-              "font-size": "20px"
+              "font-size": "19px"
             }
           }
         },
@@ -9627,7 +9793,7 @@
             "showBio": false,
             "count": 3,
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
             "parallax": true,
@@ -9707,7 +9873,20 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
-            "bgColor": "#fff"
+            "bgColor": "#ffffff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"velemenyek.html\" data-toolbar=\"-mbrBtnMove\">OLVASS TOVÁBBI VÉLEMÉNYEKET</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-bg"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgColor": "#efefef"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>           ",
           "_tags": [
@@ -11347,7 +11526,7 @@
               "size": 0
             }
           },
-          "title": "<i>ESKÜVŐ, JEGYES ÉS KERESZTELŐ FOTÓZÁS PÉCSEN ÉS KÖRNYÉKÉN</i><br><br>",
+          "title": "<i style=\"\">ESKÜVŐ, JEGYES ÉS KERESZTELŐ FOTÓZÁS PÉCSEN ÉS KÖRNYÉKÉN</i><br><br>",
           "text": "<i>...életed egyszeri és megismételhetetlen pillanatai...&nbsp;</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -11361,7 +11540,7 @@
               "text-align": "center"
             },
             "I": {
-              "font-size": "17px",
+              "font-size": "22px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
@@ -11690,9 +11869,73 @@
         },
         {
           "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": true,
+            "showName": true,
+            "showBio": false,
+            "count": "1",
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "A fotózásomon résztvevők ajánlásai",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Csete Dóra",
+              "authorBio": "User",
+              "text": "\"Nagyon kedves, aranyos fotós. Képei nagyon szép színekben pompáznak és a pillanatokat is nagyon jó elkapja. Élveztük a keresztelős fotózást.\"&nbsp;",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/mg-1085-keresztelo-christeningphoto-800x533.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "linkInNewWindow": false
+                }
+              }
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-bk",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          }
+        },
+        {
+          "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
-            "bgColor": "#fff"
+            "bgColor": "#ffffff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"velemenyek.html\" data-toolbar=\"-mbrBtnMove\">OLVASS TOVÁBBI VÉLEMÉNYEKET</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-bj"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgColor": "#efefef"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>           ",
           "_tags": [
@@ -12239,6 +12482,9 @@
             },
             "P": {
               "text-align": "center"
+            },
+            "I": {
+              "font-size": "22px"
             }
           },
           "_anchor": "msg-box5-54"
@@ -14366,6 +14612,9 @@
             },
             "P": {
               "text-align": "center"
+            },
+            "I": {
+              "font-size": "19px"
             }
           },
           "_anchor": "msg-box5-5i"
@@ -14861,6 +15110,9 @@
             },
             "P": {
               "text-align": "center"
+            },
+            "I": {
+              "font-size": "19px"
             }
           },
           "_anchor": "msg-box5-5z"
@@ -15439,7 +15691,7 @@
         {
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "inverse": false,
             "imageSize": "70",
@@ -15491,6 +15743,9 @@
             "H3": {
               "font-size": "24px",
               "text-align": "center"
+            },
+            "I": {
+              "font-size": "22px"
             }
           },
           "_anchor": "msg-box5-6p"
@@ -16126,7 +16381,7 @@
         {
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "inverse": false,
             "imageSize": "70",
@@ -16178,6 +16433,9 @@
             "H3": {
               "font-size": "24px",
               "text-align": "center"
+            },
+            "I": {
+              "font-size": "22px"
             }
           },
           "_anchor": "msg-box5-6d"
@@ -16937,6 +17195,9 @@
             "H3": {
               "font-size": "24px",
               "text-align": "center"
+            },
+            "I": {
+              "font-size": "22px"
             }
           },
           "_anchor": "msg-box5-71"
@@ -17872,7 +18133,7 @@
         {
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "inverse": false,
             "imageSize": "70",
@@ -17924,6 +18185,9 @@
             "H3": {
               "font-size": "24px",
               "text-align": "center"
+            },
+            "I": {
+              "font-size": "22px"
             }
           },
           "_anchor": "msg-box5-7d"
@@ -18463,7 +18727,7 @@
         {
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "inverse": false,
             "imageSize": "70",
@@ -18515,6 +18779,9 @@
             "H3": {
               "font-size": "24px",
               "text-align": "center"
+            },
+            "I": {
+              "font-size": "22px"
             }
           },
           "_anchor": "msg-box5-7p"
@@ -18813,49 +19080,6 @@
           "_anchor": "gallery1-7s"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title I": {
-              "font-size": "23px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "24px"
-            },
-            ".mbr-section-title": {
-              "font-size": "24px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-7t"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "",
-          "text2": "<p><br></p><div><br></div><p></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_anchor": "content6-7u"
-        },
-        {
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
@@ -19090,7 +19314,7 @@
         {
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "inverse": false,
             "imageSize": "70",
@@ -19142,6 +19366,9 @@
             "H3": {
               "font-size": "24px",
               "text-align": "center"
+            },
+            "I": {
+              "font-size": "22px"
             }
           },
           "_anchor": "msg-box5-81"
@@ -19585,7 +19812,7 @@
         {
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "inverse": false,
             "imageSize": "70",
@@ -19637,6 +19864,9 @@
             "H3": {
               "font-size": "24px",
               "text-align": "center"
+            },
+            "I": {
+              "font-size": "22px"
             }
           },
           "_anchor": "msg-box5-8d"
@@ -20104,7 +20334,7 @@
         {
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "inverse": false,
             "imageSize": "70",
@@ -20156,6 +20386,9 @@
             "H3": {
               "font-size": "24px",
               "text-align": "center"
+            },
+            "I": {
+              "font-size": "22px"
             }
           },
           "_anchor": "msg-box5-8p"
@@ -20695,7 +20928,7 @@
         {
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "inverse": false,
             "imageSize": "70",
@@ -20747,6 +20980,9 @@
             "H3": {
               "font-size": "24px",
               "text-align": "center"
+            },
+            "I": {
+              "font-size": "22px"
             }
           },
           "_anchor": "msg-box5-91"
@@ -21178,7 +21414,7 @@
         {
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "inverse": false,
             "imageSize": "70",
@@ -21230,6 +21466,9 @@
             "H3": {
               "font-size": "24px",
               "text-align": "center"
+            },
+            "I": {
+              "font-size": "22px"
             }
           },
           "_anchor": "msg-box5-9f"
@@ -21769,7 +22008,7 @@
         {
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "inverse": false,
             "imageSize": "70",
@@ -21821,6 +22060,9 @@
             "H3": {
               "font-size": "24px",
               "text-align": "center"
+            },
+            "I": {
+              "font-size": "22px"
             }
           },
           "_anchor": "msg-box5-9r"
@@ -22276,7 +22518,7 @@
         {
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "inverse": false,
             "imageSize": "70",
@@ -22328,6 +22570,9 @@
             "H3": {
               "font-size": "24px",
               "text-align": "center"
+            },
+            "I": {
+              "font-size": "22px"
             }
           },
           "_anchor": "msg-box5-ae"

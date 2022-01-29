@@ -468,6 +468,9 @@ section.form .container {
 #msg-box5-14 H3 {
   font-size: 23px;
 }
+#msg-box5-14 I {
+  font-size: 19px;
+}
 #header3-3z .mbr-section-title,
 #header3-3z .mbr-section-subtitle {
   text-align: center;
@@ -912,6 +915,9 @@ section.form .container {
 #msg-box5-21 P {
   text-align: center;
 }
+#msg-box5-21 I {
+  font-size: 19px;
+}
 #header3-3v .mbr-section-title,
 #header3-3v .mbr-section-subtitle {
   text-align: center;
@@ -1026,6 +1032,9 @@ section.form .container {
 #msg-box5-3d P {
   text-align: center;
 }
+#msg-box5-3d I {
+  font-size: 17px;
+}
 #header3-3w .mbr-section-title,
 #header3-3w .mbr-section-subtitle {
   text-align: center;
@@ -1130,12 +1139,18 @@ section.form .container {
 #msg-box5-2x P {
   text-align: center;
 }
+#msg-box5-2x I {
+  font-size: 22px;
+}
 #header3-3x .mbr-section-title,
 #header3-3x .mbr-section-subtitle {
   text-align: center;
 }
 #header3-3x .mbr-section-title {
   font-size: 30px;
+}
+#testimonials1-bl .mbr-section-title {
+  font-size: 36px;
 }
 #buttons1-4h .btn {
   font-size: 18px;
@@ -1226,6 +1241,9 @@ section.form .container {
 #msg-box5-29 H3 {
   font-size: 24px;
   text-align: center;
+}
+#msg-box5-29 I {
+  font-size: 19px;
 }
 #header3-43 .mbr-section-title,
 #header3-43 .mbr-section-subtitle {
@@ -1346,6 +1364,9 @@ section.form .container {
 #msg-box5-2h P {
   text-align: center;
 }
+#msg-box5-2h I {
+  font-size: 22px;
+}
 #header3-3y .mbr-section-title,
 #header3-3y .mbr-section-subtitle {
   text-align: center;
@@ -1361,6 +1382,9 @@ section.form .container {
 }
 #content6-41 .lead DIV {
   text-align: left;
+}
+#testimonials1-bf .mbr-section-title {
+  font-size: 36px;
 }
 #buttons1-4d .btn {
   font-size: 18px;
@@ -1454,10 +1478,10 @@ section.form .container {
 }
 #msg-box5-35 P {
   text-align: right;
-  font-size: 20px;
+  font-size: 19px;
 }
 #msg-box5-35 I {
-  font-size: 20px;
+  font-size: 19px;
 }
 #header3-46 .mbr-section-title,
 #header3-46 .mbr-section-subtitle {
@@ -1786,7 +1810,7 @@ section.form .container {
   text-align: center;
 }
 #msg-box5-2p I {
-  font-size: 17px;
+  font-size: 22px;
   font-family: 'Raleway', sans-serif;
 }
 #msg-box5-2p P {
@@ -1811,6 +1835,9 @@ section.form .container {
 }
 #msg-box5-6c SPAN {
   font-size: 24px;
+}
+#testimonials1-bk .mbr-section-title {
+  font-size: 36px;
 }
 #buttons1-4i .btn {
   font-size: 18px;
@@ -1977,6 +2004,9 @@ section.form .container {
 #msg-box5-54 P {
   text-align: center;
 }
+#msg-box5-54 I {
+  font-size: 22px;
+}
 #header3-53 .mbr-section-title,
 #header3-53 .mbr-section-subtitle {
   text-align: center;
@@ -2094,6 +2124,9 @@ section.form .container {
 #msg-box5-5i P {
   text-align: center;
 }
+#msg-box5-5i I {
+  font-size: 19px;
+}
 #header3-5k .mbr-section-title,
 #header3-5k .mbr-section-subtitle {
   text-align: center;
@@ -2198,6 +2231,9 @@ section.form .container {
 }
 #msg-box5-5z P {
   text-align: center;
+}
+#msg-box5-5z I {
+  font-size: 19px;
 }
 #header3-61 .mbr-section-title,
 #header3-61 .mbr-section-subtitle {
@@ -2304,6 +2340,9 @@ section.form .container {
 #msg-box5-6p H3 {
   font-size: 24px;
   text-align: center;
+}
+#msg-box5-6p I {
+  font-size: 22px;
 }
 #header3-6r .mbr-section-title,
 #header3-6r .mbr-section-subtitle {
@@ -2418,6 +2457,9 @@ section.form .container {
   font-size: 24px;
   text-align: center;
 }
+#msg-box5-6d I {
+  font-size: 22px;
+}
 #header3-6f .mbr-section-title,
 #header3-6f .mbr-section-subtitle {
   text-align: center;
@@ -2530,6 +2572,9 @@ section.form .container {
 #msg-box5-71 H3 {
   font-size: 24px;
   text-align: center;
+}
+#msg-box5-71 I {
+  font-size: 22px;
 }
 #header3-73 .mbr-section-title,
 #header3-73 .mbr-section-subtitle {
@@ -2644,6 +2689,9 @@ section.form .container {
   font-size: 24px;
   text-align: center;
 }
+#msg-box5-7d I {
+  font-size: 22px;
+}
 #header3-7f .mbr-section-title,
 #header3-7f .mbr-section-subtitle {
   text-align: center;
@@ -2757,6 +2805,9 @@ section.form .container {
   font-size: 24px;
   text-align: center;
 }
+#msg-box5-7p I {
+  font-size: 22px;
+}
 #header3-7r .mbr-section-title,
 #header3-7r .mbr-section-subtitle {
   text-align: center;
@@ -2766,19 +2817,6 @@ section.form .container {
 }
 #header3-7r .mbr-section-title I {
   font-size: 30px;
-}
-#header3-7t .mbr-section-title,
-#header3-7t .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-7t .mbr-section-title I {
-  font-size: 23px;
-}
-#header3-7t .mbr-section-title SPAN {
-  font-size: 24px;
-}
-#header3-7t .mbr-section-title {
-  font-size: 24px;
 }
 #buttons1-7v .btn {
   font-size: 18px;
@@ -2869,6 +2907,9 @@ section.form .container {
 #msg-box5-81 H3 {
   font-size: 24px;
   text-align: center;
+}
+#msg-box5-81 I {
+  font-size: 22px;
 }
 #header3-83 .mbr-section-title,
 #header3-83 .mbr-section-subtitle {
@@ -2983,6 +3024,9 @@ section.form .container {
   font-size: 24px;
   text-align: center;
 }
+#msg-box5-8d I {
+  font-size: 22px;
+}
 #header3-8f .mbr-section-title,
 #header3-8f .mbr-section-subtitle {
   text-align: center;
@@ -3095,6 +3139,9 @@ section.form .container {
 #msg-box5-8p H3 {
   font-size: 24px;
   text-align: center;
+}
+#msg-box5-8p I {
+  font-size: 22px;
 }
 #header3-8r .mbr-section-title,
 #header3-8r .mbr-section-subtitle {
@@ -3209,6 +3256,9 @@ section.form .container {
   font-size: 24px;
   text-align: center;
 }
+#msg-box5-91 I {
+  font-size: 22px;
+}
 #header3-93 .mbr-section-title,
 #header3-93 .mbr-section-subtitle {
   text-align: center;
@@ -3321,6 +3371,9 @@ section.form .container {
 #msg-box5-9f H3 {
   font-size: 24px;
   text-align: center;
+}
+#msg-box5-9f I {
+  font-size: 22px;
 }
 #header3-9h .mbr-section-title,
 #header3-9h .mbr-section-subtitle {
@@ -3435,6 +3488,9 @@ section.form .container {
   font-size: 24px;
   text-align: center;
 }
+#msg-box5-9r I {
+  font-size: 22px;
+}
 #header3-9t .mbr-section-title,
 #header3-9t .mbr-section-subtitle {
   text-align: center;
@@ -3547,6 +3603,9 @@ section.form .container {
 #msg-box5-ae H3 {
   font-size: 24px;
   text-align: center;
+}
+#msg-box5-ae I {
+  font-size: 22px;
 }
 #header3-ag .mbr-section-title,
 #header3-ag .mbr-section-subtitle {
