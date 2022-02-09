@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "portre_fotozas.html",
+    "currentPage": "csaladifotozas_pecs_pipacsmezo.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -19498,7 +19498,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -19534,19 +19534,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a7887-csaladifotozas-pecs-familyphotography.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a7887-csaladifotozas-pecs-familyphotography-800x525.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ]
           },
@@ -19984,7 +19972,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -20044,19 +20032,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a7012-msolat-1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a7012-msolat-1-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Creative",
@@ -20638,7 +20614,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -20650,19 +20626,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/mg-7938-familyphoto-csaladifoto-balaton.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-7938-familyphoto-csaladifoto-balaton-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ]
           },
