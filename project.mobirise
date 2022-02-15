@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "csaladifotozas_pecs_familyphoto.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -10690,7 +10690,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-0578-portrefotos-portraitphotographer-1-600x900.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a2318-1-easterhphoto-childphoto-husvetiphoto-gyerekfoto-800x1200.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -10708,8 +10708,8 @@
               "size": 0
             }
           },
-          "title": "<i>VALENTIN NAPI PÁROS, PORTRÉ MŰTERMI ÉS SZABADTÉRI FOTÓZÁS PÉCSEN</i>",
-          "text": "<br><br><br>Sok szeretettel várlak Valentin napi fotózásra a saját pécsi pécsi stúdiómban, vagy szabadtéren.<br>Tarts velem és lepd meg párodat egy igazán gyönyörű és különleges fotósorozattal rólad, illetve kettőtökről, amely különleges ajándékul szolgál, valamint gazdagítsd magad és a párodat egy szép élménnyel. Ha még nincs ötleted, hogy mit ajándékoz szeretettednek Valentin napra, akkor ajándékozz fotózást, melyet ajándékutalvány formájában is átadhatsz. Várlak szeretettel, és remélem hamarosan találkozunk.&nbsp;<br>\n<br>&nbsp;&nbsp;",
+          "title": "<i>HÚSVÉTI BABA, GYERMEK, CSALÁDI MŰTERMI ÉS SZABADTÉRI FOTÓZÁS PÉCSEN</i>",
+          "text": "<br><br><br>Sok szeretettel várlak húsvéti fotózásra a saját pécsi stúdiómban, vagy szabadtéren.<br>Tarts velem és lepd meg a családod egy igazán gyönyörű és különleges fotósorozattal, amely különleges ajándékul szolgál a nagyszülőknek is, valamint gazdagítsátok magatokat egy szuper élménnyel. Ha még nincs ötleted, hogy mit ajándékoz szeretetteidnek húsvétra, akkor ajándékozz fotózást, melyet ajándékutalvány formájában is átadhatsz. Várlak szeretettel, és remélem hamarosan találkozunk.&nbsp;<br>\n<br>&nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
           "_tags": [
             "Theme"
@@ -10903,7 +10903,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/g85a8654-portrefotozas-pecs-portraitphoto.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-0578-portrefotos-portraitphotographer-1-600x900.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
