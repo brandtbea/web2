@@ -10648,6 +10648,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-title I": {
+              "font-size": "36px"
             }
           },
           "_params": {
@@ -10656,7 +10659,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "title": "<i>Valentin napi műtermi és szabadtéri fotózás Pécsen</i>",
+          "title": "<i>Húsvéti műtermi és szabadtéri fotózás Pécsen</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
