@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "csaladifotozas_pecs_levendulamezo.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -63,7 +63,7 @@
     },
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "imageResize": false,
-    "mbrsiteDomain": "gf1tjvyosm",
+    "mbrsiteDomain": "b2yjwnd7xs",
     "publishChangesOnly": true
   },
   "pages": {
@@ -16082,6 +16082,30 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a9073-msolat-2.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a9073-msolat-2-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8979-csaladifoto-pecs-levenudula-familyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8979-csaladifoto-pecs-levenudula-familyphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9042-csaladifoto-pecs-familyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9042-csaladifoto-pecs-familyphoto-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
