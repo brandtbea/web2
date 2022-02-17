@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "csaladifotozas_pecs_levendulamezo.html",
+    "currentPage": "varandos_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -8102,6 +8102,18 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/img-5629-varandosfotok-maternityphotoshoot.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-5629-varandosfotok-maternityphotoshoot-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0209-kismamafoto-pecs-varandosfoto-maternityphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0209-kismamafoto-pecs-varandosfoto-maternityphoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
