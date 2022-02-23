@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "portre_fotozas.html",
+    "currentPage": "csaladifotozas_Balaton.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 432,
+    "uniqCompNum": 433,
     "versionPublish": "5.3.10",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -10028,7 +10028,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Húsvéti fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_pipacsmezo.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"karacsonyifotozas_pecs_csaladifotozas.html\">Karácsonyi családi fotózás Pécsen stúdióban</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_buzamezo.html\">Családi fotózás búzamezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_levendulamezo.html\" aria-expanded=\"false\">Családi fotózás levendulamezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"portrefotozas_pecs_zsolnaynegyed.html\" aria-expanded=\"false\">Portré fotózás Pécsen a Zsolnay negyedben</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"potrefotozas_pecs.html\" aria-expanded=\"false\">Portré fotózás Pécsen a Dómtéren</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"potrefotozas_pecs.html\" aria-expanded=\"false\">Portré fotózás Pécsen a Tettye romoknál</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Portrefotozas_pecs_puspokszentlaszlo.html\" aria-expanded=\"false\">Portré fotózás a Püspökszentlászlói Arborétumban</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_napraforgomezo.html\" aria-expanded=\"false\">Családi fotózás napraforgómezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_familyphoto.html\" aria-expanded=\"false\">Családi fotózás a Malomvölgyi tónál Pécsen</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_repcemezo_familyphoto.html\" aria-expanded=\"false\">Családi fotózás repceföldön</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_Balaton.html\" aria-expanded=\"false\">Családi fotózás a Balatonnál</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"miert_engem_valassz_beata_brandt_photographer.html\">MIÉRT ÉN?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Húsvéti fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_pipacsmezo.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"karacsonyifotozas_pecs_csaladifotozas.html\">Karácsonyi családi fotózás Pécsen stúdióban</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_buzamezo.html\">Családi fotózás búzavirágmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_levendulamezo.html\" aria-expanded=\"false\">Családi fotózás levendulamezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"portrefotozas_pecs_zsolnaynegyed.html\" aria-expanded=\"false\">Portré fotózás Pécsen a Zsolnay negyedben</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"potrefotozas_pecs.html\" aria-expanded=\"false\">Portré fotózás Pécsen a Dómtéren</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"potrefotozas_pecs.html\" aria-expanded=\"false\">Portré fotózás Pécsen a Tettye romoknál</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Portrefotozas_pecs_puspokszentlaszlo.html\" aria-expanded=\"false\">Portré fotózás a Püspökszentlászlói Arborétumban</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_napraforgomezo.html\" aria-expanded=\"false\">Családi fotózás napraforgómezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_familyphoto.html\" aria-expanded=\"false\">Családi fotózás a Malomvölgyi tónál Pécsen</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_repcemezo_familyphoto.html\" aria-expanded=\"false\">Családi fotózás repceföldön</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_Balaton.html\" aria-expanded=\"false\">Családi fotózás a Balatonnál</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"miert_engem_valassz_beata_brandt_photographer.html\">MIÉRT ÉN?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Téma"
           ],
@@ -10161,7 +10161,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Húsvéti fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_pipacsmezo.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"karacsonyifotozas_pecs_csaladifotozas.html\">Karácsonyi családi fotózás Pécsen stúdióban</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_buzamezo.html\">Családi fotózás búzamezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_levendulamezo.html\" aria-expanded=\"false\">Családi fotózás levendulamezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"portrefotozas_pecs_zsolnaynegyed.html\" aria-expanded=\"false\">Portré fotózás Pécsen a Zsolnay negyedben</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"potrefotozas_pecs.html\" aria-expanded=\"false\">Portré fotózás Pécsen a Dómtéren</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"potrefotozas_pecs.html\" aria-expanded=\"false\">Portré fotózás Pécsen a Tettye romoknál</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Portrefotozas_pecs_puspokszentlaszlo.html\" aria-expanded=\"false\">Portré fotózás a Püspökszentlászlói Arborétumban</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_napraforgomezo.html\" aria-expanded=\"false\">Családi fotózás napraforgómezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_familyphoto.html\" aria-expanded=\"false\">Családi fotózás a Malomvölgyi tónál Pécsen</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_repcemezo_familyphoto.html\" aria-expanded=\"false\">Családi fotózás repceföldön</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_Balaton.html\" aria-expanded=\"false\">Családi fotózás a Balatonnál</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"miert_engem_valassz_beata_brandt_photographer.html\">MIÉRT ÉN?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Húsvéti fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_pipacsmezo.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"karacsonyifotozas_pecs_csaladifotozas.html\">Karácsonyi családi fotózás Pécsen stúdióban</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_buzamezo.html\">Családi fotózás búzavirágmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_levendulamezo.html\" aria-expanded=\"false\">Családi fotózás levendulamezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"portrefotozas_pecs_zsolnaynegyed.html\" aria-expanded=\"false\">Portré fotózás Pécsen a Zsolnay negyedben</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"potrefotozas_pecs.html\" aria-expanded=\"false\">Portré fotózás Pécsen a Dómtéren</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"potrefotozas_pecs.html\" aria-expanded=\"false\">Portré fotózás Pécsen a Tettye romoknál</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Portrefotozas_pecs_puspokszentlaszlo.html\" aria-expanded=\"false\">Portré fotózás a Püspökszentlászlói Arborétumban</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_napraforgomezo.html\" aria-expanded=\"false\">Családi fotózás napraforgómezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_familyphoto.html\" aria-expanded=\"false\">Családi fotózás a Malomvölgyi tónál Pécsen</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_repcemezo_familyphoto.html\" aria-expanded=\"false\">Családi fotózás repceföldön</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_Balaton.html\" aria-expanded=\"false\">Családi fotózás a Balatonnál</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"miert_engem_valassz_beata_brandt_photographer.html\">MIÉRT ÉN?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Téma"
           ],
@@ -15797,7 +15797,7 @@
               "size": 0
             }
           },
-          "title": "<i>CSALÁDI FOTÓZÁS LEVENDULAMEZŐN PÉCS KÖRNYÉKÉN</i>",
+          "title": "<i>&nbsp;KIS CSALÁDIOMMAL EGY LEVENDULAMEZŐN PÉCS KÖRNYÉKÉN</i>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -15862,7 +15862,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>...családi fotózás kis családommal egy gyönyörű levendulamezőn...</i>",
+          "title": "<i>...családi fotózás kis családommal egy gyönyörű levendulamezőn Pécs környékén...</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -16193,49 +16193,6 @@
           "_anchor": "gallery1-6s"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title I": {
-              "font-size": "23px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "24px"
-            },
-            ".mbr-section-title": {
-              "font-size": "24px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-6t"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "",
-          "text2": "<p><br></p><div><br></div><p></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_anchor": "content6-6u"
-        },
-        {
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
@@ -16269,7 +16226,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>Kérlek tekintsd meg a portré fotóimat is.</i>",
+          "title": "<i>Kérlek tekintsd meg a napraforgómezőn készült fotóimat is.</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -16283,7 +16240,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"portre_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a portré fotóimhoz</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"portre_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a napraforgómezőn készült fotóimhoz</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -16511,7 +16468,7 @@
               "size": 0
             }
           },
-          "title": "<i>CSALÁDI FOTÓZÁS KIS CSALÁDOMMAL EGY CSODÁLATOS PIPACSMEZŐN PÉCS&nbsp; KÖRNYÉKÉN</i>",
+          "title": "<i>KIS CSALÁDOMMAL EGY CSODÁLATOS PIPACSMEZŐN PÉCS&nbsp; KÖRNYÉKÉN</i>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -16576,7 +16533,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>...egy csodaszép pipacsmezőn kis családommal ...</i>",
+          "title": "<i>...egy csodaszép pipacsmezőn kis családommal Pécs környékén ...</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -16955,47 +16912,18 @@
           "_anchor": "gallery1-6g"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title I": {
-              "font-size": "23px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "24px"
-            },
-            ".mbr-section-title": {
-              "font-size": "24px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-6h"
-        },
-        {
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "",
-          "text2": "<p></p><p></p>",
+          "text1": "Pár éve Pécs mellett még virágba borulhatott egy csodálatos pipacsmező. Sajnos az azt következő évben már lepermetezték, és beépítésre került, így egyszer élvezhettük eme csodás látványt, melyet a naplemente tett igazán lenyűgözővé.&nbsp;<div>\n</div><div><br></div>",
+          "text2": "Abban az évben a Covidnak köszönhetően a kiscsaládom fényképezésére is jutott idő, amiért rendkívül hálás vagyok, hogy ezen a csodás mezőn rólunk is készülhettek képek, mivel csak egyszer adatott meg. Valóban a pillanatot, akkor kell megragadni, amikor adott, jövőre már hiába mentünk vissza, csak egyszer létezett ez a csodás hely. \r<div>\r</div><div><br></div>",
           "_tags": [
             "Theme"
           ],
           "_name": "content6",
-          "_anchor": "content6-6i"
+          "_anchor": "content6-c0"
         },
         {
           "_params": {
@@ -17031,7 +16959,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>Kérlek tekintsd meg a portré fotóimat is.</i>",
+          "title": "<i>Kérlek tekintsd meg a búzavirágmezőn készült fotóimat is.</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -17045,7 +16973,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"portre_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a portré fotóimhoz</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"portre_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a búzavirágmezőn készült fotóimhoz</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -17119,7 +17047,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Húsvéti fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_pipacsmezo.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"karacsonyifotozas_pecs_csaladifotozas.html\">Karácsonyi családi fotózás Pécsen stúdióban</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_buzamezo.html\">Családi fotózás búzamezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_levendulamezo.html\" aria-expanded=\"false\">Családi fotózás levendulamezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"portrefotozas_pecs_zsolnaynegyed.html\" aria-expanded=\"false\">Portré fotózás Pécsen a Zsolnay negyedben</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"potrefotozas_pecs.html\" aria-expanded=\"false\">Portré fotózás Pécsen a Dómtéren</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"potrefotozas_pecs.html\" aria-expanded=\"false\">Portré fotózás Pécsen a Tettye romoknál</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Portrefotozas_pecs_puspokszentlaszlo.html\" aria-expanded=\"false\">Portré fotózás a Püspökszentlászlói Arborétumban</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_napraforgomezo.html\" aria-expanded=\"false\">Családi fotózás napraforgómezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_familyphoto.html\" aria-expanded=\"false\">Családi fotózás a Malomvölgyi tónál Pécsen</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_repcemezo_familyphoto.html\" aria-expanded=\"false\">Családi fotózás repceföldön</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_Balaton.html\" aria-expanded=\"false\">Családi fotózás a Balatonnál</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"miert_engem_valassz_beata_brandt_photographer.html\">MIÉRT ÉN?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Húsvéti fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_pipacsmezo.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"karacsonyifotozas_pecs_csaladifotozas.html\">Karácsonyi családi fotózás Pécsen stúdióban</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_buzamezo.html\">Családi fotózás búzavirágmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_levendulamezo.html\" aria-expanded=\"false\">Családi fotózás levendulamezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"portrefotozas_pecs_zsolnaynegyed.html\" aria-expanded=\"false\">Portré fotózás Pécsen a Zsolnay negyedben</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"potrefotozas_pecs.html\" aria-expanded=\"false\">Portré fotózás Pécsen a Dómtéren</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"potrefotozas_pecs.html\" aria-expanded=\"false\">Portré fotózás Pécsen a Tettye romoknál</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Portrefotozas_pecs_puspokszentlaszlo.html\" aria-expanded=\"false\">Portré fotózás a Püspökszentlászlói Arborétumban</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_napraforgomezo.html\" aria-expanded=\"false\">Családi fotózás napraforgómezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_familyphoto.html\" aria-expanded=\"false\">Családi fotózás a Malomvölgyi tónál Pécsen</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_repcemezo_familyphoto.html\" aria-expanded=\"false\">Családi fotózás repceföldön</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_Balaton.html\" aria-expanded=\"false\">Családi fotózás a Balatonnál</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"miert_engem_valassz_beata_brandt_photographer.html\">MIÉRT ÉN?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Téma"
           ],
@@ -18263,7 +18191,7 @@
               "size": 0
             }
           },
-          "title": "<i>CSALÁDI FOTÓZÁS NAPRAFORGÓMEZŐN PÉCS KÖRNYÉKÉN</i>",
+          "title": "<i>KIS CSALÁDOMMAL EGY&nbsp; NAPRAFORGÓMEZŐN PÉCS KÖRNYÉKÉN</i>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -18328,7 +18256,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>...családi fotózás kis családommal egy gyönyörű napraforgómezőn...</i>",
+          "title": "<i>...családi fotózás kis családommal egy gyönyörű napraforgómezőn Pécs környékén...</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -18539,49 +18467,6 @@
           "_anchor": "gallery1-7g"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title I": {
-              "font-size": "23px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "24px"
-            },
-            ".mbr-section-title": {
-              "font-size": "24px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-7h"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "",
-          "text2": "<p><br></p><div><br></div><p></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_anchor": "content6-7i"
-        },
-        {
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
@@ -18615,7 +18500,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>Kérlek tekintsd meg a portré fotóimat is.</i>",
+          "title": "<i>Kérlek tekintsd meg a Malomvölgyi tónál készült fotóimat is.</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -18629,7 +18514,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"portre_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a portré fotóimhoz</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"portre_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a Malomvölgyi tónál készült fotóimhoz</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -19444,7 +19329,7 @@
               "size": 0
             }
           },
-          "title": "<i>CSALÁDI FOTÓZÁS REPCEFÖLDÖN PÉCS KÖRNYÉKÉN</i>",
+          "title": "<i>KIS CSALÁDOMMAL REPCEFÖLDÖN PÉCS KÖRNYÉKÉN</i>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -19509,7 +19394,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>...családi fotózás kis családommal egy gyönyörű repceföldön...</i>",
+          "title": "<i>...családi fotózás kis családommal egy gyönyörű repceföldön Pécs környékén...</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -19612,49 +19497,6 @@
           "_anchor": "gallery1-84"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title I": {
-              "font-size": "23px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "24px"
-            },
-            ".mbr-section-title": {
-              "font-size": "24px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-85"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "",
-          "text2": "<p><br></p><div><br></div><p></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_anchor": "content6-86"
-        },
-        {
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
@@ -19688,7 +19530,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>Kérlek tekintsd meg a portré fotóimat is.</i>",
+          "title": "<i>Kérlek tekintsd meg a Balatonon készült fotóimat is.</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -19702,7 +19544,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"portre_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a portré fotóimhoz</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"portre_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a Balatonon készült fotóimhoz</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -19930,7 +19772,7 @@
               "size": 0
             }
           },
-          "title": "<i>CSALÁDI FOTÓZÁS BÚZAVIRÁGMEZŐN PÉCS KÖRNYÉKÉN</i>",
+          "title": "<i>KIS CSALÁDOMMAL EGY CSODÁS BÚZAVIRÁGMEZŐN PÉCS KÖRNYÉKÉN</i>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -20179,7 +20021,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>Kérlek tekintsd meg a portré fotóimat is.</i>",
+          "title": "<i>Kérlek tekintsd meg a levendulamezőn készült fotóimat is.</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -20193,7 +20035,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"portre_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a portré fotóimhoz</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"portre_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a levendulamezőn készült fotóimhoz</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -20421,7 +20263,7 @@
               "size": 0
             }
           },
-          "title": "<i>CSALÁDI FOTÓZÁS A BALATONNÁL</i>",
+          "title": "<i>KIS CSALÁDOMMAL&nbsp; A BALATONNÁL</i>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -20685,49 +20527,6 @@
           "_anchor": "gallery1-8s"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title I": {
-              "font-size": "23px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "24px"
-            },
-            ".mbr-section-title": {
-              "font-size": "24px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-8t"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "",
-          "text2": "<p><br></p><div><br></div><p></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_anchor": "content6-8u"
-        },
-        {
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
@@ -20761,7 +20560,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>Kérlek tekintsd meg a portré fotóimat is.</i>",
+          "title": "<i>Kérlek tekintsd meg a pipacsmezőn készült fotóimat is.</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -20775,7 +20574,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"portre_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a portré fotóimhoz</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"portre_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a pipacsmezőn készült fotóimhoz</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -23805,7 +23604,7 @@
               "size": 0
             }
           },
-          "title": "<i>CSALÁDI FOTÓZÁS A MALOMVÖLGYI TÓNÁL PÉCSEN</i>",
+          "title": "<i>CSALÁDOMMAL A MALOMVÖLGYI TÓNÁL PÉCSEN</i>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -24042,7 +23841,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>Kérlek tekintsd meg a portré fotóimat is.</i>",
+          "title": "<i>Kérlek tekintsd meg a repceföldön készült fotóimat is.</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -24056,7 +23855,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"portre_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a portré fotóimhoz</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"portre_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a repceföldön készült fotóimhoz</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -24130,7 +23929,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Húsvéti fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_pipacsmezo.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"karacsonyifotozas_pecs_csaladifotozas.html\">Karácsonyi családi fotózás Pécsen stúdióban</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_buzamezo.html\">Családi fotózás búzamezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_levendulamezo.html\" aria-expanded=\"false\">Családi fotózás levendulamezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"portrefotozas_pecs_zsolnaynegyed.html\" aria-expanded=\"false\">Portré fotózás Pécsen a Zsolnay negyedben</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"potrefotozas_pecs.html\" aria-expanded=\"false\">Portré fotózás Pécsen a Dómtéren</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"potrefotozas_pecs.html\" aria-expanded=\"false\">Portré fotózás Pécsen a Tettye romoknál</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Portrefotozas_pecs_puspokszentlaszlo.html\" aria-expanded=\"false\">Portré fotózás a Püspökszentlászlói Arborétumban</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_napraforgomezo.html\" aria-expanded=\"false\">Családi fotózás napraforgómezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_familyphoto.html\" aria-expanded=\"false\">Családi fotózás a Malomvölgyi tónál Pécsen</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_repcemezo_familyphoto.html\" aria-expanded=\"false\">Családi fotózás repceföldön</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_Balaton.html\" aria-expanded=\"false\">Családi fotózás a Balatonnál</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"miert_engem_valassz_beata_brandt_photographer.html\">MIÉRT ÉN?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFÓLIÓ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"baba_gyermek_fotok.html\">Baba és gyermek fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"varandos_fotozas.html\">Kismama és páros fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"csaladifoto.html\">Családi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portre_fotozas.html\">Portré fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"szuletesnapi_fotozas.html\">Születésnapi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ujszulott_fotozas.html\">Újszülött és baba fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"unnepi_fotozas.html\">Ünnepi fotók</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paros_fotozas_pecs.html\">Páros fotózás&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Esküvő, keresztelő fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eskuvo_keresztelo_fenykepezes.html\">Húsvéti fotózás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"karacsonyi_fotozas_pecs.html\">Karácsonyi fotózás</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolam.html\">RÓLAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FOTÓSOROZATOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_pipacsmezo.html\">Családi fotózás pipacsmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"karacsonyifotozas_pecs_csaladifotozas.html\">Karácsonyi családi fotózás Pécsen stúdióban</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_buzamezo.html\">Családi fotózás búzavirágmezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_levendulamezo.html\" aria-expanded=\"false\">Családi fotózás levendulamezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"portrefotozas_pecs_zsolnaynegyed.html\" aria-expanded=\"false\">Portré fotózás Pécsen a Zsolnay negyedben</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"potrefotozas_pecs.html\" aria-expanded=\"false\">Portré fotózás Pécsen a Dómtéren</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"potrefotozas_pecs.html\" aria-expanded=\"false\">Portré fotózás Pécsen a Tettye romoknál</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Portrefotozas_pecs_puspokszentlaszlo.html\" aria-expanded=\"false\">Portré fotózás a Püspökszentlászlói Arborétumban</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_napraforgomezo.html\" aria-expanded=\"false\">Családi fotózás napraforgómezőn</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_familyphoto.html\" aria-expanded=\"false\">Családi fotózás a Malomvölgyi tónál Pécsen</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_pecs_repcemezo_familyphoto.html\" aria-expanded=\"false\">Családi fotózás repceföldön</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"csaladifotozas_Balaton.html\" aria-expanded=\"false\">Családi fotózás a Balatonnál</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"velemenyek.html\">VÉLEMÉNYEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kapcsolat.html\">KAPCSOLAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"miert_engem_valassz_beata_brandt_photographer.html\">MIÉRT ÉN?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Téma"
           ],
