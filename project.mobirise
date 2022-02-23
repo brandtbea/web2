@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "miert_engem_valassz_beata_brandt_photographer.html",
+    "currentPage": "portre_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 431,
+    "uniqCompNum": 432,
     "versionPublish": "5.3.10",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -8521,7 +8521,7 @@
               "text-align": "center"
             },
             "P": {
-              "text-align": "right",
+              "text-align": "center",
               "font-size": "19px"
             },
             "I": {
@@ -8576,7 +8576,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "title": "<i>Ha szeretnéd meglepni a párod vagy magad egy rólad készült, vagy közös sorozattal...&nbsp;</i>",
+          "title": "<i>Ha szeretnéd meglepni magad vagy a párod egy rólad készült sorozattal...&nbsp;</i>",
           "meta": "",
           "_tags": [
             "Theme"
@@ -11896,13 +11896,27 @@
         },
         {
           "_params": {
+            "paddingTop": "5",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "A nagy nap Rólatok szól, ahol kizárólag csak ti játsszátok a főszerepet, ezért a fotózás során minden pillanatban arra törekszem, hogy az egyéniségeteket, az egyediségeteket, az egymás iránti szeretetetek meghitt pillanatait is belecsempésszem a történetetekbe, és ezzel különlegessé és felejthetetlenné tegyem a közös életetek első pillanatait, amely majd a későbbiekben gyermekeitek legfőbb örökségévé is válik.",
+          "text2": "A kisesküvőknek, illetve azoknak is szeretnék kedvezni, akik nem egész napra szeretnének egy fotóst, hanem egy-egy számukra fontos eseménynek a megörökítését szeretnék csodás fotókon viszontlátni. A szívemhez a legközelebb a kreatív fotózás áll, így lehetőséged van például csak esküvő kreatív fotózást választani. Továbbá szívesen készítek nektek az előkészületekről, illetve a szertartásokról is életre szóló emlékeket.&nbsp;&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-bz"
+        },
+        {
+          "_params": {
             "showTitle": true,
             "showSubtitle": false,
             "showImages": true,
             "showName": true,
             "showBio": false,
             "count": "1",
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
