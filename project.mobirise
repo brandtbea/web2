@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "husveti_csalad_gyermek_fotozas_pecs.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -10952,13 +10952,14 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-5237-kismamifoto-motherhoodphoto-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a0228-kismamafoto-maternityphoto-pecs.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "varandos_fotozas.html",
               "alt": "Várandós és páros fotózás",
-              "title": "Kismama és páros fotózás"
+              "title": "Kismama és páros fotózás",
+              "linkInNewWindow": false
             }
           },
           "media3": {
