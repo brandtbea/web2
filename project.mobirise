@@ -10875,7 +10875,7 @@
             }
           },
           "title": "<br><i>Kedves Látogató!</i>",
-          "text": "<br>Szeretettel üdvözöllek és előre is köszönöm, hogy megtekinted a honlapomat!&nbsp;<br><br><i><b>Brandt Beáta vagyok</b> </i><b><i>édesanya, feleség, fotográfus, coach, mentál higiénés szakember..</i>.</b> <br>\n<br>A fotózás számomra egyszerre szenvedély, kihívás, alkotás és kiteljesedés.&nbsp;<br><br><b>A</b> <b>fényképezés szeretetét már generációkon keresztül a családomból hozom</b>. Már gyerekkorom óta igazán érdekelt a fotózás és a szívem mélyén mindig szerettem volna hivatásos fotós lenni. Sikerült a világ számos csodálatos helyére eljutnom, és a fényképezés iránti szenvedélyemet rengeteg gyönyörű kép készítésében kiélnem.<br><br>Az életembe a csodás fordulatot a várandósságom hozta. <b>Édesanyaként kezdtem el az élet legcsodálatosabb pillanatait megörökíteni, </b><i>mint a babavárást, az újszülöttek első mosolyát, a babák, gyerekek őszinte világát, és a családokban az egymás iránti szeretet meghitt pillanatait.&nbsp;</i><br><br><i>Számomra minden ember egy történet. Szeretem meglátni és kifejezni a bennük lévő egyediséget és szépséget olyan képekben, melyek örök emlékek maradnak az utódoknak is.</i><br><br><b><i>Szeretettel várlak, ha szeretnél magadról, illetve a családodról gyönyörű szép képeket és egy jó élményt, vagy&nbsp; ha esetleg szeretetted szeretnéd meglepni egy örök emlékkel.</i> \n</b><br>&nbsp;<br>",
+          "text": "<br>Szeretettel üdvözöllek és előre is köszönöm, hogy megtekinted a honlapomat!&nbsp;<br><br><i><b>Brandt Beáta vagyok</b> </i><b><i>édesanya, feleség, fotográfus, coach, mentál higiénés szakember..</i>.</b> <br>\n<br>A fotózás számomra egyszerre szenvedély, kihívás, alkotás és kiteljesedés.&nbsp;<br><br><b>A</b> <b>fényképezés szeretetét már generációkon keresztül a családomból hozom</b>. Már gyerekkorom óta igazán érdekelt a fotózás és a szívem mélyén mindig szerettem volna hivatásos fotós lenni. Sikerült a világ számos csodálatos helyére eljutnom, és a fényképezés iránti szenvedélyemet rengeteg gyönyörű kép készítésében kiélnem.<br><br>Az életembe a csodás fordulatot a várandósságom hozta. <b>Édesanyaként kezdtem el az élet legcsodálatosabb pillanatait megörökíteni, </b><i>mint a babavárást, az újszülöttek első mosolyát, a babák, gyerekek őszinte világát, és a családokban az egymás iránti szeretet meghitt pillanatait.&nbsp;</i><br><br><i>Számomra minden ember egy történet. Szeretem meglátni és kifejezni a bennük lévő egyediséget és szépséget olyan időtálló képekben, melyek örök emlékek maradnak az utódoknak is.</i><br><br><i style=\"\"><b>Szeretettel várlak, ha szeretnél magadról, illetve a családodról gyönyörű szép képeket és egy szuper élményt, vagy&nbsp; ha esetleg </b><span style=\"font-size: 17.12px;\"><b>szereteteid</b></span><b>&nbsp;szeretnéd meglepni egy örök emlékkel.</b></i> \n<br>&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"rolam.html\" data-toolbar=\"-mbrBtnMove\">OLVASS BŐVEBBEN RÓLAM</a>",
           "_tags": [
             "Téma"
@@ -11080,13 +11080,14 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/g85a0294-gyerekfoto-karacsonyifoto-christmasphoto-pecs-600x900.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a2318-1-easterhphoto-childphoto-husvetiphoto-gyerekfoto-800x1200.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "unnepi_fotozas.html",
               "alt": "Karácsonyi fotók",
-              "title": "Karácsonyi fotózás"
+              "title": "Karácsonyi fotózás",
+              "linkInNewWindow": false
             }
           },
           "media4": {
@@ -11122,7 +11123,7 @@
           "title2": "Újszülött fotózás<br>",
           "subtitle2": "",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Karácsonyi fotózás<br>",
+          "title3": "Húsvéti fotózás<br>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Esküvő, jegyes és keresztelő fotózás<br>",
@@ -11136,7 +11137,7 @@
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"szuletesnapi_fotozas.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM</a>",
           "button2": "<a data-app-btn=\"true\" href=\"ujszulott_fotozas.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"karacsonyi_fotozas_pecs.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"husveti_csalad_gyermek_fotozas_pecs.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM</a>",
           "button4": "<a data-app-btn=\"true\" href=\"eskuvo_keresztelo_fenykepezes.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
