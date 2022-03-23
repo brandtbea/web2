@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "szuletesnapi_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -14831,6 +14831,18 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a2308.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a2308-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a2318-1-easterhphoto-childphoto-husvetiphoto-gyerekfoto.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a2318-1-easterhphoto-childphoto-husvetiphoto-gyerekfoto-800x1200.jpg",
                 "alt": "",
@@ -14857,18 +14869,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a2640-husvetifoto-easterphoto.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a2640-husvetifoto-easterphoto-800x1200.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a2308.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a2308-800x1200.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
