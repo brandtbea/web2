@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "szuletesnapi_fotozas.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -10798,7 +10798,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/g85a2318-1-easterhphoto-childphoto-husvetiphoto-gyerekfoto-800x1200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/hsvti-montzs-husvetifotozas-pecs.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -10817,7 +10817,7 @@
             }
           },
           "title": "<i>TAVASZI, HÚSVÉTI, ANYÁKNAPI BABA, GYERMEK, CSALÁDI, KISMAMA, PÁROS, PORTRÉ MŰTERMI ÉS SZABADTÉRI FOTÓZÁS PÉCSEN</i>",
-          "text": "<br><br><br>Sok szeretettel várlak húsvéti fotózásra a saját pécsi stúdiómban, vagy szabadtéren.<br>Tarts velem és lepd meg a családod egy igazán gyönyörű és különleges fotósorozattal, amely különleges ajándékul szolgál a nagyszülőknek is, valamint gazdagítsátok magatokat egy szuper élménnyel. Ha még nincs ötleted, hogy mit ajándékoz szeretetteidnek húsvétra, akkor ajándékozz fotózást, melyet ajándékutalvány formájában is átadhatsz. Várlak szeretettel, és remélem hamarosan találkozunk.&nbsp;<br>\n<br>&nbsp;&nbsp;",
+          "text": "<br><br><br>Sok szeretettel várlak húsvéti fotózásra a saját pécsi stúdiómban gyönyörű szép tavaszi, virágos enteriőrrel, vagy szabadtéren.<br>Tarts velem és lepd meg a családod egy igazán gyönyörű és különleges fotósorozattal, amely különleges ajándékul szolgál a nagyszülőknek is, valamint gazdagítsátok magatokat egy szuper élménnyel. Ha még nincs ötleted, hogy mit ajándékoz szeretetteidnek húsvétra, akkor ajándékozz fotózást, melyet ajándékutalvány formájában is átadhatsz. Várlak szeretettel, és remélem hamarosan találkozunk.&nbsp;<br>\n<br>&nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
           "_tags": [
             "Theme"
@@ -14685,10 +14685,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/hsvti-fotzs-pcs-1400x1052.jpg",
+              "src": "@PROJECT_PATH@/assets/images/hsvti-montzs-husvetifotozas-pecs.jpg",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
