@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "baba_gyermek_fotok.html",
+    "currentPage": "portre_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -8888,7 +8888,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "title": "<i>Ha szeretnéd meglepni magad vagy a párod egy rólad készült sorozattal...&nbsp;</i>",
+          "title": "<i>Általános portré, üzleti portré, portré fotózás önéletrajzhoz, Linkedin-hez, társkereséshez, személyes márkához, vállalkozáshoz, céges brandinghez, modell portré...&nbsp;</i>",
           "meta": "",
           "_tags": [
             "Theme"
