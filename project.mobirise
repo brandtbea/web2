@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "baba_gyermek_fotok.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -689,8 +689,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a9374-csaladifoto-pecs-familyphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a9374-csaladifoto-pecs-familyphoto-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a9422-babyphoto-pecs-babafoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9422-babyphoto-pecs-babafoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -701,8 +701,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a9422-babyphoto-pecs-babafoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a9422-babyphoto-pecs-babafoto-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a9374-csaladifoto-pecs-familyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9374-csaladifoto-pecs-familyphoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
