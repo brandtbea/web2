@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "baba_gyermek_fotok.html",
+    "currentPage": "varandos_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -7510,10 +7510,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-5351-varandosfotozas-pregnantphoto-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a0232-kismamafotozas-pecs-maternityphotoshoot.jpg",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -10723,7 +10724,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-1981-edit-3a-1-2000x1333.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -10828,7 +10829,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/g85a9870-msolat-2.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -19674,7 +19675,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/g85a8041-msolat-csaladifoto-repce-pecs-familyphoto-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a1327-msolat-gyerekfoto-kidphoto-pecs-repce.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -19794,8 +19795,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a7876-gyerekfoto-kidphoto-pecs.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a7876-gyerekfoto-kidphoto-pecs-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a1582-csaladifoto-pecs-repce-familyphoto-raps.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1582-csaladifoto-pecs-repce-familyphoto-raps-626x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -19830,8 +19831,20 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a7477-msolat-gyerekfoto-pecs-repce-kidphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a7477-msolat-gyerekfoto-pecs-repce-kidphoto-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a8041-msolat-csaladifoto-repce-pecs-familyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8041-msolat-csaladifoto-repce-pecs-familyphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1450-csaladifoto-familyphoto-pecs-repce.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1450-csaladifoto-familyphoto-pecs-repce-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -19842,12 +19855,120 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a8041-msolat-csaladifoto-repce-pecs-familyphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a8041-msolat-csaladifoto-repce-pecs-familyphoto-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a1229-portrefoto-pecs-portraitphoto-repce.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1229-portrefoto-pecs-portraitphoto-repce-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1327-msolat-gyerekfoto-kidphoto-pecs-repce.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1327-msolat-gyerekfoto-kidphoto-pecs-repce-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a7876-gyerekfoto-kidphoto-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a7876-gyerekfoto-kidphoto-pecs-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1247-portrefoto-pecs-portraitphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1247-portrefoto-pecs-portraitphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1334-msolat-gyermekphoto-childphoto-pecs-repce.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1334-msolat-gyermekphoto-childphoto-pecs-repce-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1642-portrefotozas-pecs-portraitphoto-repce.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1642-portrefotozas-pecs-portraitphoto-repce-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1477-csaladifotozas-pecs-familyphotography-repce.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1477-csaladifotozas-pecs-familyphotography-repce-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1674-csaladifoto-pecs-familyphoto-repce.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1674-csaladifoto-pecs-familyphoto-repce-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1672-csaladifotozas-pecs-familyphoto-repce.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1672-csaladifotozas-pecs-familyphoto-repce-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a7477-msolat-gyerekfoto-pecs-repce-kidphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a7477-msolat-gyerekfoto-pecs-repce-kidphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
