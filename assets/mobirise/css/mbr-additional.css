@@ -3942,3 +3942,106 @@ section.form .container {
 #footer1-ca P {
   text-align: center;
 }
+
+
+#msg-box5-cb H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-cb I {
+  font-size: 22px;
+}
+#header3-cd .mbr-section-title,
+#header3-cd .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-cd .mbr-section-title {
+  font-size: 24px;
+}
+#header3-cd .mbr-section-title I {
+  font-size: 30px;
+}
+#buttons1-ch .btn {
+  font-size: 18px;
+}
+#header3-ci .mbr-section-title,
+#header3-ci .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-ci .mbr-section-title {
+  font-size: 32px;
+  text-align: center;
+}
+#buttons1-cj .btn {
+  font-size: 18px;
+}
+#contacts1-ck P {
+  color: #acacac;
+  font-size: 13px;
+}
+#ext_menu-cl .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-cl .navbar-caption {
+  color: #ffffff;
+  font-family: 'Titillium Web', sans-serif;
+}
+#ext_menu-cl .navbar-toggler {
+  color: #000000;
+}
+#ext_menu-cl .close-icon::before,
+#ext_menu-cl .close-icon::after {
+  background-color: #000000;
+}
+#ext_menu-cl .link,
+#ext_menu-cl .dropdown-item {
+  color: #000000;
+  font-family: 'Raleway', sans-serif;
+}
+#ext_menu-cl .link {
+  font-size: 1rem;
+}
+#ext_menu-cl .dropdown-item,
+#ext_menu-cl .nav-dropdown-sm .link {
+  font-size: 1.083rem;
+}
+#ext_menu-cl .link:hover,
+#ext_menu-cl .dropdown-item:hover,
+#ext_menu-cl .link:focus,
+#ext_menu-cl .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-cl .link[aria-expanded="true"],
+#ext_menu-cl .dropdown-menu {
+  background: #e6e6e6;
+}
+#ext_menu-cl .nav-dropdown-sm .link:focus,
+#ext_menu-cl .nav-dropdown-sm .link:hover,
+#ext_menu-cl .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-cl .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#ext_menu-cl .navbar,
+#ext_menu-cl .nav-dropdown-sm,
+#ext_menu-cl .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-cl .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#ext_menu-cl .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#ext_menu-cl .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-cl .bg-color.transparent.opened .link:hover,
+#ext_menu-cl .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-cl .link[aria-expanded="true"],
+#ext_menu-cl .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#footer1-cm P {
+  text-align: center;
+}
