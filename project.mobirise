@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "portre_fotozas.html",
+    "currentPage": "szuletesnapi_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -6168,6 +6168,42 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a8994-msolat.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a8994-msolat-800x538.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9883-szuletesnapifotozas-pecs-birthdayphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9883-szuletesnapifotozas-pecs-birthdayphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0124-szuletesnapitorta-fotozaspecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0124-szuletesnapitorta-fotozaspecs-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9892-szuletesnapifoto-pecs-birthdayphotoshoot.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9892-szuletesnapifoto-pecs-birthdayphotoshoot-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
