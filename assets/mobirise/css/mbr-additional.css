@@ -1724,6 +1724,13 @@ section.form .container {
 #header3-47 .mbr-section-title I {
   font-family: 'Lora', serif;
 }
+#msg-box5-co H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-co P {
+  text-align: left;
+}
 #msg-box5-d P {
   text-align: left;
 }
