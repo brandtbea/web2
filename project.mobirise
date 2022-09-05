@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "page32.html",
+    "currentPage": "portre_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -10402,7 +10402,7 @@
             "bgColor": "#efefef"
           },
           "text1": "<p>Számomra minden ember egy történet. Szeretem meglátni és kifejezni a bennük lévő egyediséget és szépséget, a szemükben a lélek tükrének a ragyogását, olyan képekben, melyek örök emlékek maradnak az utódoknak is.</p><p>\n</p><div>Folyamatosan fejlesztem és képzem magamat, minden fotózásba újdonságot viszek bele, és az egyediség varázsára törekszem.\n</div><div>\n</div><div>Minden nő életében eljön az a pillanat, amikor úgy érzi, hogy szeretné magát, illetve a párját meglepni egy szép fotósorozattal, illetve szeretnének egy szép páros sorozatot.&nbsp;</div><div><br></div><p></p>",
-          "text2": "A portré <b>fotózás helyszínéül választhatod a saját műtermemet Pécsen, bérelt stúdiót vagy a természetet</b>, a gyönyörű virágos udvarunkat, erdőt, mezőt, tópartot stb.. <b>Stúdiós és kültéri fotózásra is lehetőség van egyszerre a saját udvarunkban.\n</b><div>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra. A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető. </b>A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készíttethetsz. \n</div><div>Keress bizalommal, várlak szeretettel!</div>",
+          "text2": "A portré <b>fotózás helyszínéül választhatod a saját műtermemet Pécsen, bérelt stúdiót vagy a természetet</b>, a gyönyörű virágos udvarunkat, erdőt, mezőt, tópartot stb..&nbsp;<b>Stúdiós és kültéri fotózásra is lehetőség van egyszerre a saját udvarunkban.\n</b><div>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra. A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető. </b>A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készíttethetsz. \n</div><div>Keress bizalommal, várlak szeretettel!</div>",
           "_tags": [
             "Theme"
           ],
@@ -11272,7 +11272,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "title": "<i>Nyári műtermi és szabadtéri újszülött, baba, gyermek, családi, kismama, páros és portré fotózás Pécsen</i>",
+          "title": "<i>Őszi műtermi és szabadtéri újszülött, baba, gyermek, családi, kismama, páros és portré fotózás Pécsen</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -11285,7 +11285,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "inverse": false,
+            "inverse": true,
             "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -11306,7 +11306,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/g85a9042-csaladifoto-pecs-familyphoto.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a9003-msolat-1.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -11324,8 +11324,8 @@
               "size": 0
             }
           },
-          "title": "<i>NYÁRI ÚJSZÜLÖTT, BABA, GYERMEK, CSALÁDI, KISMAMA, PÁROS, PORTRÉ MŰTERMI ÉS SZABADTÉRI FOTÓZÁS PÉCSEN</i>",
-          "text": "<br><br><br>Sok szeretettel várlak nyári fotózásra a saját pécsi stúdiómban gyönyörű szép nyári, virágos enteriőrrel, vagy szabadtéren.<br>Tarts velem és lepd meg a családod egy szuper élménnyel, és gazdagítsátok magatokat egy igazán gyönyörű és különleges fotósorozattal, <br>Várlak szeretettel, és remélem hamarosan találkozunk.&nbsp;<br>\n<br>&nbsp;&nbsp;",
+          "title": "<i>ŐSZI ÚJSZÜLÖTT, BABA, GYERMEK, CSALÁDI, KISMAMA, PÁROS, PORTRÉ MŰTERMI ÉS SZABADTÉRI FOTÓZÁS PÉCSEN</i>",
+          "text": "<br><br><br>Sok szeretettel várlak őszi fotózásra a saját pécsi stúdiómban gyönyörű szép enteriőrrel, vagy szabadtéren.<br>Tarts velem és lepd meg a családod egy szuper élménnyel, és gazdagítsátok magatokat egy igazán gyönyörű és különleges fotósorozattal, <br>Várlak szeretettel, és remélem hamarosan találkozunk.&nbsp;<br>\n<br>&nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
           "_tags": [
             "Theme"
