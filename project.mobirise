@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "rolam.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 457,
+    "uniqCompNum": 462,
     "versionPublish": "5.3.10",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -11275,6 +11275,91 @@
               "text-align": "center"
             },
             ".mbr-section-title I": {
+              "font-size": "46px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "title": "<i>Karácsonyi műtermi családi, gyermek, baba, újszülött, kismama, páros, portré fotózás Pécsen</i>",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-ct"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/karacsonyifotozas-christmasphoto-pecs-gyerekfoto.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<i>KARÁCSONYI CSALÁDI, GYERMEK, BABA, ÚJSZÜLÖTT, KISMAMA, PÁROS, PORTRÉ MŰTERMI FÉNYKÉPEZÉS PÉCSEN</i>",
+          "text": "November elejétől várlak sok szeretettel karácsonyi fotózásra a gyönyörű karácsonyi enteriőrrel berendezett pécsi stúdiómban, rengeteg kellékkel.&nbsp;<br>Tarts velem és lepd meg magad és szeretteidet egy igazán gyönyörű és egyedi fotósorozattal, mely különleges ajándékul is szolgál, valamint gazdagítsd magad és a családodat egy szuper élménnyel. Ha még nincs ötleted, hogy mit ajándékoz szeretteidnek karácsonyra, akkor ajándékozz fotózást, melyet ajándékutalvány formájában a karácsonyfa alá is tehetsz. Családi, gyermek, baba, újszülött, kismama, páros, portré témában várlak szeretettel. \n<br>\n<br>&nbsp;&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "24px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box5-co"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title I": {
               "font-size": "36px"
             }
           },
@@ -11386,68 +11471,6 @@
           ],
           "_name": "header3",
           "_anchor": "header3-47"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/karacsonyifotozas-christmasphoto-pecs-gyerekfoto.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<i>KARÁCSONYI CSALÁDI, GYERMEK, BABA, ÚJSZÜLÖTT, KISMAMA, PÁROS, PORTRÉ MŰTERMI FOTÓZÁS PÉCSEN</i>",
-          "text": "November elejétől várlak sok szeretettel karácsonyi fotózásra a gyönyörű karácsonyi enteriőrrel berendezett pécsi stúdiómban, rengeteg kellékkel.&nbsp;<br>Tarts velem és lepd meg szeretteidet egy igazán gyönyörű és különleges fotósorozattal, mely különleges ajándékul is szolgál, valamint gazdagítsd magad és a családodat egy szuper élménnyel. Ha még nincs ötleted, hogy mit ajándékoz szeretteidnek karácsonyra, akkor ajándékozz fotózást, melyet ajándékutalvány formájában a karácsonyfa alá is tehetsz. Családi, gyermek, baba, újszülött, kismama, páros, portré témában várlak szeretettel. \n<br>\n<br>&nbsp;&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "font-size": "24px",
-              "text-align": "center"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "msg-box5-co"
         },
         {
           "_params": {
@@ -11959,7 +11982,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Keress bizalommal! Remélem, hamarosan találkozunk.&nbsp;",
+          "title": "Keress bizalommal! Várlak szeretettel. Remélem, hamarosan találkozunk.&nbsp;",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -12133,6 +12156,19 @@
             }
           },
           "_anchor": "footer1-y"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"velemenyek.html\" data-toolbar=\"-mbrBtnMove\">OLVASS TOVÁBBI VÉLEMÉNYEKET</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-cq"
         }
       ]
     },
