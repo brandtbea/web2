@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "karacsonyi_fotozas_pecs.html",
+    "currentPage": "eskuvo_keresztelo_fenykepezes.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -922,7 +922,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -982,15 +982,15 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Creative",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a0369-babafotozas-pecs-babyphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a0369-babafotozas-pecs-babyphoto-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a0466-babafoto-pecs-babyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0466-babafoto-pecs-babyphoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -1001,8 +1001,116 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a0466-babafoto-pecs-babyphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a0466-babafoto-pecs-babyphoto-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a9980-csaladifoto-kutya-pecs-familyphoto-dog.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9980-csaladifoto-kutya-pecs-familyphoto-dog-607x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9652-babafenykep-fenykepesz-pecs-photographer.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9652-babafenykep-fenykepesz-pecs-photographer-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9657-csaladi-fenykepezes-pecs-photography.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9657-csaladi-fenykepezes-pecs-photography-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9705-fenykepesz-pecs-photography.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9705-fenykepesz-pecs-photography-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9879-csaladifotozas-pecs-fenykepesz.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9879-csaladifotozas-pecs-fenykepesz-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9752-babafotozas-pecs-babyphotography.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9752-babafotozas-pecs-babyphotography-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9857-fenykepesz-pecs-babafoto-babyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9857-fenykepesz-pecs-babafoto-babyphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9970-kutyafotozas-pecs-dogphotography.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9970-kutyafotozas-pecs-dogphotography-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9954-csaladifoto-kutyafoto-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9954-csaladifoto-kutyafoto-pecs-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9823-babafotozas-pecs-fenykepesz.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9823-babafotozas-pecs-fenykepesz-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -11605,7 +11713,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/g85a6250-csaladifoto-pecs-familyphoto.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a9657-csaladi-fenykepezes-pecs-photography.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -11710,13 +11818,14 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mg-0540-ujszulottfoto-newbornphoto-1-600x900.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a0382-ujszulottfoto-csaladifoto-pecs-newbornphoto.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "ujszulott_fotozas.html",
               "alt": "Újszülött fotózás",
-              "title": "Újszülött fotózás"
+              "title": "Újszülött fotózás",
+              "linkInNewWindow": false
             }
           },
           "media3": {
@@ -11762,7 +11871,7 @@
           "title1": "Születésnapi fotózás<br>",
           "subtitle1": "",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Újszülött fotózás<br>",
+          "title2": "Újszülött és baba fotózás<br>",
           "subtitle2": "",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "title3": "Karácsonyi fotózás<br>",
@@ -12487,6 +12596,30 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a1765-keresztelofotozas-pecs.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a1765-keresztelofotozas-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a3280-keresztelofotozas-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a3280-keresztelofotozas-pecs-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a3288-keresztelofotozas-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a3288-keresztelofotozas-pecs-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
