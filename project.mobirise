@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "eskuvo_keresztelo_fenykepezes.html",
+    "currentPage": "baba_gyermek_fotok.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -3510,7 +3510,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -4086,19 +4086,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a6443-gyerekfotozas-pecs-kidphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a6443-gyerekfotozas-pecs-kidphoto-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Creative",
@@ -4155,6 +4143,30 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a0524-gyerekfoto-pecs-childphoto.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a0524-gyerekfoto-pecs-childphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0452-gyerekfotozas-pecs-childphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0452-gyerekfotozas-pecs-childphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0420-gyerekfoto-pecs-fenykepesz-kidphotography.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0420-gyerekfoto-pecs-fenykepesz-kidphotography-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -8659,6 +8671,66 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0446-kismamafotozas-pecs-maternityphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0446-kismamafotozas-pecs-maternityphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0475-varandosfotozas-pecs-fenykepesz.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0475-varandosfotozas-pecs-fenykepesz-608x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0662-pocakfotozas-pecs-bellyshooting.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0662-pocakfotozas-pecs-bellyshooting-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0665-kismamafotozas-pecs-fenykepesz-photography.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0665-kismamafotozas-pecs-fenykepesz-photography-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0624-terhesfoto-pecs-pregnancy.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0624-terhesfoto-pecs-pregnancy-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -11701,7 +11773,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/g85a0228-kismamafoto-maternityphoto-pecs.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a0111-pocakfoto-bellyphoto-pecs.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -16275,6 +16347,18 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a1773-pairphoto-dogphoto-pecs-kutyafoto-parosfoto.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a1773-pairphoto-dogphoto-pecs-kutyafoto-parosfoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9611-parosfoto-pecs-pairphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9611-parosfoto-pecs-pairphoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
