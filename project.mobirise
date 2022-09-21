@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "szuletesnapi_fotozas.html",
+    "currentPage": "csaladifotozas_pecs_pipacsmezo.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -6384,7 +6384,7 @@
             "showImages": true,
             "showName": true,
             "showBio": false,
-            "count": "1",
+            "count": "2",
             "paddingTop": 3,
             "paddingBottom": "0",
             "bgImageRadio": false,
@@ -6406,6 +6406,23 @@
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/img-6761-edit-csaldifotozas-familiefoto-1-800x533.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "linkInNewWindow": false
+                }
+              }
+            },
+            {
+              "authorName": "Agour Eszter",
+              "authorBio": "User",
+              "text": "\"Tündéri,nagyon kedves,közvetlen,nagyon szép studió,ezer millió ötlet a képekhez! Csak ajànlani tudom!! Profi,gyönyörű képek! :) ❤️\"",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/g85a0252-msolat-2.jpeg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -17702,7 +17719,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -17783,6 +17800,66 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a6467-pipacsfoto-poppy-pecs.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a6467-pipacsfoto-poppy-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1871-csaladifenykep-fenykepesz-pecs-familyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1871-csaladifenykep-fenykepesz-pecs-familyphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1902-msolat.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1902-msolat-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1961-gyermekfotozas-pecs-fenykepesz.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1961-gyermekfotozas-pecs-fenykepesz-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a2096-csaladifotozas-pecs-fenykepesz.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a2096-csaladifotozas-pecs-fenykepesz-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a2156-gyerkocfoto-pecs-fenykepesz.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a2156-gyerkocfoto-pecs-fenykepesz-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
