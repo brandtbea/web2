@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "varandos_fotozas.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -11827,7 +11827,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/karacsonyifotozas-christmasphoto-pecs-gyerekfoto.jpg",
+              "src": "@PROJECT_PATH@/assets/images/karcsonyi-montzs-2022.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -11846,7 +11846,7 @@
             }
           },
           "title": "<i>KARÁCSONYI CSALÁDI, GYERMEK, BABA, ÚJSZÜLÖTT, KISMAMA, PÁROS, PORTRÉ MŰTERMI FÉNYKÉPEZÉS PÉCSEN</i>",
-          "text": "November elejétől várlak sok szeretettel karácsonyi fotózásra a gyönyörű karácsonyi enteriőrrel berendezett pécsi stúdiómban, rengeteg kellékkel.&nbsp;<br>Tarts velem és lepd meg magad és szeretteidet egy igazán gyönyörű és egyedi fotósorozattal, mely különleges ajándékul is szolgál, valamint gazdagítsd magad és a családodat egy szuper élménnyel. Ha még nincs ötleted, hogy mit ajándékoz szeretteidnek karácsonyra, akkor ajándékozz fotózást, melyet ajándékutalvány formájában a karácsonyfa alá is tehetsz. Családi, gyermek, baba, újszülött, kismama, páros, portré témában várlak szeretettel. \n<br>\n<br>&nbsp;&nbsp;",
+          "text": "Novembertől&nbsp; január első hetéig várlak sok szeretettel karácsonyi fotózásra a gyönyörű karácsonyi enteriőrrel berendezett pécsi stúdiómban, rengeteg szép kellékkel.&nbsp;<br><br>Ha karácsonyra szeretnéd a képeket, akkor kérlek, december elejéig gyertek, hogy karácsonyra elő tudjátok hívatni őket.<br> Hétköznap és szombaton is tudtok jönni 10-18 óra között a szabad időpontokra.&nbsp;<br><br>Tarts velem, és lepd meg magad, és szeretteidet egy igazán gyönyörű és egyedi fotósorozattal, mely különleges ajándékul is szolgál, valamint gazdagítsd magad és a családodat egy szuper élménnyel, és örök emlékkel. <br>Ha még nincs ötleted, hogy mit ajándékoz karácsonyra, akkor ajándékozz fotózást, melyet ajándékutalvány formájában a karácsonyfa alá is tehetsz. Családi, gyermek, baba, újszülött, kismama, páros, portré témában várlak szeretettel. \n<br>\n<br>&nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
           "_tags": [
             "Theme"
