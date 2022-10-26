@@ -13707,7 +13707,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/karacsonyifotozas-christmasphoto-pecs-gyerekfoto.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a7077-gyerekfoto-karacsonyifoto-pecs-christmasphoto.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -13808,8 +13808,8 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "4",
+            "paddingBottom": "0",
             "bgColor": "#fff"
           },
           "text1": "<b><i>A karácsonyi fotózás kiváló alkalmat ad arra, hogy ajándékként fotósorozattal kedveskedjetek a nagyszülőknek, a rokonoknak.\n</i></b><div>\n</div><div>A családi fotók számomra mindig nagyon fontos részei a fotózásnak, hiszen <i>ezek lesznek később gyermekeitek legnagyobb kincsei, melyek generációkon keresztül öröklődni fognak</i>. A családfotózás összehozza a családot, amikor mindenki együtt van, és, ahol mindenki rajta van képen. Egy maradandó élmény, ahol az egymás iránti szeretet meghitt pillanatai egymás szemében tükröződik, a közös nevetések, a viccelődések mind élvezetessé teszik a családi fotózást.</div><div><br></div><div><br></div><div>Novembertől január első hetéig várlak sok szeretettel karácsonyi fotózásra a gyönyörű karácsonyi enteriőrrel berendezett pécsi stúdiómban, rengeteg szép kellékkel.\r</div><div>Ha karácsonyra szeretnéd a képeket, akkor kérlek, december elejéig gyertek, hogy karácsonyra elő tudjátok hívatni őket.\r</div><div>Hétköznap és szombaton is tudtok jönni 10-18 óra között a szabad időpontokra.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
