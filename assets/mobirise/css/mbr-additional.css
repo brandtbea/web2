@@ -745,6 +745,14 @@ section.form .container {
   color: #acacac;
   font-size: 13px;
 }
+#header3-cv .mbr-section-title,
+#header3-cv .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-cv .mbr-section-title {
+  font-size: 9px;
+  color: #3c3c3c;
+}
 
 
 #ext_menu-1o .hide-buttons .nav-btn {

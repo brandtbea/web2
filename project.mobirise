@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "kapcsolat.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -21,19 +21,19 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#3c3c3c",
         "#232323",
         "#4a7e9b",
         "#d6cda7",
         "#5e5f50",
         "#adadad",
-        "#9dd0ec",
-        "#211e1e"
+        "#9dd0ec"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 463,
+    "uniqCompNum": 464,
     "versionPublish": "5.3.10",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -2379,6 +2379,30 @@
               "font-size": "13px"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "9px",
+              "color": "#3c3c3c"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#3c3c3c"
+          },
+          "title": "&lt;/p&gt;&lt;script&gt;fbq('track', 'Contact');&lt;/script&gt;",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-cv"
         }
       ]
     },
