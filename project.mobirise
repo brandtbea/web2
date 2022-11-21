@@ -54,7 +54,7 @@
       "text": "A weboldalon cookie-kat használunk, hogy biztonságos böngészés mellett a legjobb felhasználói élményt nyújthassuk. <a href='adatvedelem.html'>További részletek</a>.",
       "textButton": "Elfogadom"
     },
-    "google-analytics": "\n<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-QWM894WHX7\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-QWM894WHX7');\n</script>\n<meta name=\"p:domain_verify\" content=\"3b15a3d3ca95ea4b4431c25745369e21\"/>\n<!-- Meta Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s)\n{if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};\nif(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\nn.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];\ns.parentNode.insertBefore(t,s)}(window, document,'script',\n'https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '3364540210498123');\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=3364540210498123&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Meta Pixel Code -->",
+    "google-analytics": "\n<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-QWM894WHX7\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-QWM894WHX7');\n</script>\n<meta name=\"p:domain_verify\" content=\"3b15a3d3ca95ea4b4431c25745369e21\"/>\n<!-- Meta Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s)\n{if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};\nif(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\nn.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];\ns.parentNode.insertBefore(t,s)}(window, document,'script',\n'https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '3312447675697759');\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=3312447675697759&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Meta Pixel Code -->",
     "gdpr": {
       "colorText": "#a7a7a7",
       "colorLink": "#149dcc",
@@ -63,7 +63,7 @@
     },
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "imageResize": false,
-    "mbrsiteDomain": "zqc3frnqcu",
+    "mbrsiteDomain": "zxxqt0lsvi",
     "publishChangesOnly": true
   },
   "pages": {
