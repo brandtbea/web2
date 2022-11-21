@@ -2396,7 +2396,7 @@
             "paddingBottom": "0",
             "bgColor": "#3c3c3c"
           },
-          "title": "&lt;/h3&gt;&lt;script&gt;fbq('track', 'Contact');&lt;/script&gt;",
+          "title": "&lt;/h3&gt;&lt;script&gt;fbq('track', 'Contact');&lt;/script&gt;&lt;h3&gt;",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
