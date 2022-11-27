@@ -675,6 +675,9 @@ section.form .container {
 #form1-1x .mbr-section-title SPAN {
   font-family: 'Lora', serif;
 }
+#form1-1x .mbr-section-subtitle {
+  color: #000000;
+}
 #ext_menu-1m .hide-buttons .nav-btn {
   display: none !important;
 }
