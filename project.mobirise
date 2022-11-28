@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "karacsonyi_fotozas_pecs.html",
+    "currentPage": "szuletesnapi_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 464,
+    "uniqCompNum": 465,
     "versionPublish": "5.3.10",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -10932,6 +10932,30 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0668-portrefotos-pecs-portraitphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0668-portrefotos-pecs-portraitphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0651-portrefotozas-pecs-headshoot.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0651-portrefotozas-pecs-headshoot-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -10964,7 +10988,7 @@
             "showImages": true,
             "showName": true,
             "showBio": false,
-            "count": 3,
+            "count": "6",
             "paddingTop": 3,
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -11020,6 +11044,57 @@
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/img-1034-modellfotozas-modellphotoshoot.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "linkInNewWindow": false
+                }
+              }
+            },
+            {
+              "authorName": "Dr. Brozovics Márton",
+              "authorBio": "Developer",
+              "text": "\"A fotózás nagyon jó hangulatban telt. Végig felszabadultnak éreztem magam, ami a fotókon is tükröződik. Beának nagyon jó érzéke van ahhoz, hogy elkapja a legjobb, természetes pillanatokat. Csak ajánlani tudom mindenkinek!\"",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/g85a3446-ferfi-portefoto-pecs-portraitphoto.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "linkInNewWindow": false
+                }
+              }
+            },
+            {
+              "authorName": "Hűbér Veronika",
+              "authorBio": "Developer",
+              "text": "\"Szívből ajánlom mindenkinek! ❤\r<div>Bea rendkívül örömteli, felszabadult hangulatot teremtett, és különös érzékkel varázsolt elő olyan természetes pillanatokat, amelyekből csodálatos fotók születtek! \"❤</div>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/g85a0668-portrefotos-pecs-portraitphoto.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "linkInNewWindow": false
+                }
+              }
+            },
+            {
+              "authorName": "Horváth Barbara",
+              "authorBio": "Developer",
+              "text": "\"Mindenkinek csak ajánlani tudom! Kedves, közvetlen, precíz. Amellett, hogy szuper képek készülnek a fotózás is nagyon jó hangulatban telik.\"😊",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/img-0530-portrefotos-portraitphotographer-1-800x1200.jpeg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -13942,6 +14017,18 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a3219-karacsonyifotozas-christmasphoto-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a3219-karacsonyifotozas-christmasphoto-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a0294-gyerekfoto-karacsonyifoto-christmasphoto-pecs-2000x3000.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a0294-gyerekfoto-karacsonyifoto-christmasphoto-pecs-2000x3000-800x1200.jpg",
                 "alt": "",
@@ -15346,6 +15433,18 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/karacsonyifotozas-pecs-csaladifoto-christmasphoto-g85a2161.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/karacsonyifotozas-pecs-csaladifoto-christmasphoto-g85a2161-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a1741-csaladifoto-pecs-familyphoto.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a1741-csaladifoto-pecs-familyphoto-800x533.jpg",
                 "alt": "",
@@ -15372,30 +15471,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a1735-portrefoto-pecs-portaitphoto-1.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a1735-portrefoto-pecs-portaitphoto-1-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a3219-karacsonyifotozas-christmasphoto-pecs.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a3219-karacsonyifotozas-christmasphoto-pecs-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/karacsonyifotozas-pecs-csaladifoto-christmasphoto-g85a2161.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/karacsonyifotozas-pecs-csaladifoto-christmasphoto-g85a2161-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -15428,6 +15503,86 @@
             }
           },
           "_anchor": "buttons1-59"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": true,
+            "showName": true,
+            "showBio": false,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "A fotózásomon résztvevők ajánlásai",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Kovács Klarissza",
+              "authorBio": "User",
+              "text": "\"Bea személyében profi, felkészült és kezéből jó minőségű munkát kiadó szakembert ismertünk meg. Volt bőven kihívás a két vizslával a családi fotózasban, de sikerült megoldani simán és gyönyörű képek születtek. Köszönet érte!\"&nbsp;",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/g85a1716-portrefoto-pecs-kutyafoto-portraitphoto-dogphoto.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "linkInNewWindow": false
+                }
+              }
+            },
+            {
+              "authorName": "Márton Szibilla",
+              "authorBio": "User",
+              "text": "\"Nagyon kedves, felkészült, profi fotózás volt csodás díszlettel és kiegészítőkkel. Örök emlék marad, biztosan megyünk még!\"",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/g85a3338.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "linkInNewWindow": false
+                }
+              }
+            },
+            {
+              "authorName": "Pető Alexandra",
+              "authorBio": "User",
+              "text": "\"A legszebb pillanatok természetes, hangulatos és profi fotókon köszöntek vissza. Köszönjük szépen. :)\"&nbsp;",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/g85a6486-msolat-2.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "linkInNewWindow": false
+                }
+              }
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-cw"
         },
         {
           "_inherit": "msg-box5",
