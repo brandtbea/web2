@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "ujszulott_fotozas.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -12098,107 +12098,6 @@
           "_anchor": "msg-box5-co"
         },
         {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a> <a data-app-btn=\"true\" class=\"btn btn-secondary-outline btn-secondary\" href=\"karacsonyi_fotozas_pecs.html\" data-toolbar=\"-mbrBtnMove\">Karácsonyi fotóim</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-cu"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title I": {
-              "font-size": "36px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "title": "<i>Őszi műtermi és szabadtéri újszülött, baba, gyermek, családi, kismama, páros és portré fotózás Pécsen</i>",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-9e"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/g85a9003-msolat-1.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<i>ŐSZI ÚJSZÜLÖTT, BABA, GYERMEK, CSALÁDI, KISMAMA, PÁROS, PORTRÉ MŰTERMI ÉS SZABADTÉRI FÉNYKÉPEZÉS PÉCSEN</i>",
-          "text": "<br><br><br>Sok szeretettel várlak őszi fotózásra a saját pécsi stúdiómban gyönyörű szép enteriőrrel, vagy szabadtéren.<br>Tarts velem és lepd meg a családod egy szuper élménnyel, és gazdagítsátok magatokat egy igazán gyönyörű és különleges fotósorozattal, <br>Várlak szeretettel, és remélem hamarosan találkozunk.&nbsp;<br>\n<br>&nbsp;&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "font-size": "24px",
-              "text-align": "center"
-            },
-            "P": {
-              "text-align": "left"
-            },
-            "I": {
-              "font-size": "25px"
-            }
-          },
-          "_anchor": "msg-box5-9d"
-        },
-        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -12784,7 +12683,7 @@
             "overlayOpacity": "0.2"
           },
           "title": "<span style=\"font-weight: normal;\">KAPCSOLAT</span>",
-          "subtitle": "Szeretettel várlak, ha szeretnél magadról, illetve a családodról szép képeket, vagy, ha esetleg szeretetted szeretnéd meglepni egy fotózással. <br>Ha szeretnél akcióimról értesülni, illetve, ha kérdésed lenne a fotózással kapcsolatban, kérlek írj e-mail-t vagy írj itt üzenetet.<br>E-mail:&nbsp;brandtbea12 @ gmail.com<br>Mobil: +36 (30) 416 7606<br>Pécs",
+          "subtitle": "<br>Szeretettel várlak, ha szeretnél magadról, illetve a családodról szép képeket, vagy, ha esetleg szeretetted szeretnéd meglepni egy fotózással. <br><br>Kérlek írd meg, hogy milyen témában szeretnél fotózást, mikor és hányan jönnétek. Ha esetleg a beérkezett mappában nem találod a válasz email-emet, kérlek nézd meg a spam mappában is.<br><br>E-mail:&nbsp;brandtbea12 @ gmail.com<br>Mobil: +36 (30) 416 7606<br>Pécs",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">KÜLDÉS</a>",
           "form": {
             "action": "brandtbea12@gmail.com",
