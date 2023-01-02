@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "varandos_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -11088,6 +11088,66 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a4413-pecsifotos-photographer-portrait.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a4413-pecsifotos-photographer-portrait-614x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a4332-porte-fotozas-pecs-portrait-photography.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a4332-porte-fotozas-pecs-portrait-photography-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a4597-modellfoto-portfoliofoto-photogrphy-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a4597-modellfoto-portfoliofoto-photogrphy-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a4696-fotozas-pecs-photographer.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a4696-fotozas-pecs-photographer-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a4877-fotos-pecs-photography-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a4877-fotos-pecs-photography-2-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -11974,7 +12034,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/g85a9232-noiportrefoto-pecs-portraitphoto-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ajndkutalvny-fotozas-pecs-giftcard-photography.jpg",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
@@ -11991,7 +12051,7 @@
               "size": 0
             }
           },
-          "title": "<i style=\"\"><br></i><br><br><br><i style=\"\">AJÁNDÉKUTALVÁNY FOTÓZÁSRA<br></i><br><br><br><br><span style=\"font-weight: normal;\"><i>Ha szeretnéd a szeretteid meglepni egy szuper élménnyel, és örök emlékkel, akkor ajándékozz fotózást ajándékutalvány formájában a saját igényeid szerint.&nbsp;<br></i></span><br><br><br><br><i style=\"\"><br></i>",
+          "title": "<i style=\"\"><br></i><br><br><br><i style=\"\">AJÁNDÉKUTALVÁNY FOTÓZÁSRA<br></i><br><br><br><br><span style=\"font-weight: normal;\"><i>Ha szeretnéd a szeretteid meglepni egy szuper élménnyel, és örök emlékkel, akkor ajándékozz fotózást névre szóló ajándékkártya formájában a saját igényeid szerint.&nbsp;<br></i></span><br><br><br><br><i style=\"\"><br></i>",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
           "_tags": [
@@ -12034,68 +12094,6 @@
           ],
           "_name": "header3",
           "_anchor": "header3-ct"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/karcsonyi-montzs-2022.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<i>KARÁCSONYI CSALÁDI, GYERMEK, BABA, ÚJSZÜLÖTT, KISMAMA, PÁROS, PORTRÉ </i><br><i>STÚDIÓS FÉNYKÉPEZÉS PÉCSEN</i>",
-          "text": "Szia!<br><br>Novembertől december végéig várlak sok szeretettel karácsonyi fotózásra a gyönyörű karácsonyi enteriőrrel berendezett pécsi stúdiómban, rengeteg szép kellékkel. Még lehet jelentkezni a szabad helyekre.<br><br>Ha karácsonyra szeretnéd a képeket, akkor kérlek, december elejéig gyertek, hogy karácsonyra elő tudjátok hívatni őket.<br> Hétköznap és szombaton is tudtok jönni 10-18 óra között a szabad időpontokra.&nbsp;<br><br>Tarts velem, és lepd meg magad, és szeretteidet egy igazán gyönyörű és egyedi fotósorozattal, mely különleges ajándékul is szolgál, valamint gazdagítsd magad és a családodat egy szuper élménnyel, és örök emlékkel. <br>Ha még nincs ötleted, hogy mit ajándékoz karácsonyra, akkor ajándékozz fotózást, melyet ajándékutalvány formájában a karácsonyfa alá is tehetsz. Családi, gyermek, baba, újszülött, kismama, páros, portré témában várlak szeretettel. \n<br>\n<br>&nbsp;&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "font-size": "24px",
-              "text-align": "center"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "msg-box5-co"
         },
         {
           "_styles": {
