@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "varandos_fotozas.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -12053,7 +12053,7 @@
           },
           "title": "<i style=\"\"><br></i><br><br><br><i style=\"\">AJÁNDÉKUTALVÁNY FOTÓZÁSRA<br></i><br><br><br><br><span style=\"font-weight: normal;\"><i>Ha szeretnéd a szeretteid meglepni egy szuper élménnyel, és örök emlékkel, akkor ajándékozz fotózást névre szóló ajándékkártya formájában a saját igényeid szerint.&nbsp;<br></i></span><br><br><br><br><i style=\"\"><br></i>",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
           "_tags": [
             "Theme"
           ],
