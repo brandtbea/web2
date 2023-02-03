@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "miert_engem_valassz_beata_brandt_photographer.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -12174,7 +12174,7 @@
             "paddingBottom": "3",
             "bgColor": "#ffffff"
           },
-          "text": "<p><b>Szeretnéd az élet legcsodálatosabb pillanatait megörökíteni,</b> mint a babavárást, az újszülöttek első mosolyát, a babák, gyerekek őszinte kacaját, az egymás iránti szeretet meghitt pillanatait,<b> egyedi, érzelemmel teli csodás fotókon? </b></p><p><b><i>Kismama, baba, gyermek, újszülött, családi, portré, keresztelő és esküvői fotógráfus vagyok.</i> </b>A fényképezés élményét egy kellemes program keretében a saját műterműnkben, és szabadtéren is megtapasztalhatod velünk Pécsen és környékén. Előre is köszönöm, hogy megtekinted a honlapomat. Keress bizalommal! Várlak szeretettel.</p>",
+          "text": "<p><b>Szeretnéd az élet legcsodálatosabb pillanatait megörökíteni,</b> mint a babavárást, az újszülöttek első mosolyát, a babák, gyerekek őszinte kacaját, az egymás iránti szeretet meghitt pillanatait,<b> egyedi, érzelemmel teli csodás fotókon? </b></p><p><b><i>Kismama, baba, gyermek, újszülött, családi, portré, páros, keresztelő és esküvői fotógráfus vagyok.</i> </b>A fényképezés élményét egy kellemes program keretében a saját műterműnkben, és szabadtéren is megtapasztalhatod velünk Pécsen és környékén. Előre is köszönöm, hogy megtekinted a honlapomat. Keress bizalommal! Várlak szeretettel.</p>",
           "_tags": [
             "Theme"
           ],
@@ -12251,29 +12251,6 @@
               "text-align": "center"
             }
           }
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title I": {
-              "font-size": "46px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
-          },
-          "title": "<i>Karácsonyi műtermi családi, gyermek, baba, újszülött, kismama, páros, portré stúdiós fotózás Pécsen</i>",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-ct"
         },
         {
           "_styles": {
@@ -25136,7 +25113,7 @@
             }
           },
           "title": "",
-          "text": "A döntéseddel nemcsak fotókat vásárolsz, hanem generációknak szóló örök emlékeket, soha vissza nem térő pillanatokat, csodás élményeket. Ebben szeretnék neked segíteni, hogy egy értékteremtő szolgáltatást nyújtsak, hogy egy szuper élménnyel, és gyönyörű szép fotókkal térjél haza. \n<br>\n<br><i>Miért engem válassz?\n<br></i>\n<br><b>Saját Stúdióm van Pécsen</b><br>\n<br>A fotózás helyszínéül választhatod Pécsen a saját jól felszerelt stúdiómat, ahol otthonos környezetben több fajta háttér, kellék közül választhatsz, illetve szépen berendezve is választhatod a műtermemet, ingyenes parkolási lehetőséggel, vagy a természetet, a szép rózsás, levendulás udvarunkat, mezőt, tópartot, erdőt, szőlőültetvényt, pécsi szabadtéri helyszíneket stb. Egyéb helyszínt is választhatsz megegyezés szerint.\n<br>Saját stúdiós és kültéri fotózást a saját udvarunkban kombinálhatod egyszerre.<br><br>",
+          "text": "A döntéseddel nemcsak fotókat vásárolsz, hanem generációknak szóló örök emlékeket, soha vissza nem térő pillanatokat, csodás élményeket. Ebben szeretnék neked segíteni, hogy egy értékteremtő szolgáltatást nyújtsak, hogy egy szuper élménnyel, és gyönyörű szép fotókkal térjél haza. \n<br>\n<br><i>Miért engem válassz?\n<br></i>\n<br><b>Saját stúdióm van Pécsen</b><br>\n<br>A fotózás helyszínéül választhatod Pécsen a saját jól felszerelt stúdiómat, ahol otthonos környezetben több fajta háttér, kellék közül választhatsz, illetve szépen berendezve is választhatod a műtermemet, ingyenes parkolási lehetőséggel, vagy a természetet, a szép rózsás, levendulás udvarunkat, mezőt, tópartot, erdőt, szőlőültetvényt, pécsi szabadtéri helyszíneket stb. Egyéb helyszínt is választhatsz megegyezés szerint.\n<br>Saját stúdiós és kültéri fotózást a saját műtermünkben és&nbsp; udvarunkban kombinálhatod egyszerre.<br><br>",
           "_tags": [
             "Theme"
           ],
@@ -25294,7 +25271,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/ajndkutalvny-google.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ajndkutalvny-fotozas-pecs-giftcard-photography.jpg",
               "link": "",
               "alt": "",
               "title": "",
