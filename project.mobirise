@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "ujszulott_fotozas.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -12214,7 +12214,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/g85a9611.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a9611-parosfoto-pecs-pairphoto.jpg",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
