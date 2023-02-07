@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "kapcsolat.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -2253,7 +2253,7 @@
             "overlayOpacity": "0.3"
           },
           "title": "<span style=\"font-weight: normal;\">KAPCSOLAT</span><br><span style=\"font-weight: normal;\"><br></span>",
-          "subtitle": "<b>Szeretettel várlak, ha szeretnél magadról, illetve a családodról szép képeket, vagy, ha esetleg szeretetted szeretnéd meglepni egy fotózással. \n<br>Ha szeretnél akcióimról értesülni, illetve, ha kérdésed lenne a fotózással kapcsolatban, kérlek írj e-mail-t vagy írj itt üzenetet. <br><br>Kérlek írd meg, hogy milyen témában szeretnél fotózást, mikor, hol, és hányan jönnétek. Ha esetleg a beérkezett mappában nem találod a válasz email-emet, kérlek nézd meg a spam/promóció mappában is.<br><br>E-mail: brandtbea12 @ gmail.com\n<br>Mobil: +36 (30) 416 7606<br>Pécs</b>",
+          "subtitle": "<b>Szeretettel várlak, ha szeretnél magadról, illetve a családodról csodás képeket, vagy, ha esetleg szeretetted szeretnéd meglepni egy fotózással. \n<br>Ha szeretnél árajánlatot kérni, illetve, ha kérdésed lenne a fotózással kapcsolatban, kérlek írj e-mail-t, vagy írj itt üzenetet. <br><br>Kérlek írd meg, hogy milyen témában szeretnél fotózást, mikor, hol, és hányan jönnétek. Ha esetleg a beérkezett mappában nem találod a válasz email-emet, kérlek nézd meg a spam/promóció mappában is.<br><br>E-mail: brandtbea12 @ gmail.com\n<br>Mobil: +36 (30) 416 7606<br>Pécs</b>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">KÜLDÉS</a>",
           "form": {
             "action": "brandtbea12@gmail.com",
