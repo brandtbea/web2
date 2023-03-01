@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "paros_fotozas_pecs.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -11985,7 +11985,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/hsvti-montzs-husvetifotozas-pecs.jpg",
+              "src": "@PROJECT_PATH@/assets/images/hsvti-montzs3-msolat.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -16104,7 +16104,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/hsvti-montzs-husvetifotozas-pecs.jpg",
+              "src": "@PROJECT_PATH@/assets/images/hsvti-montzs3-msolat.jpg",
               "link": "",
               "alt": "",
               "title": "",
