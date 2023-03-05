@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "paros_fotozas_pecs.html",
+    "currentPage": "kutya_macska_cica_haziallat_fotozas_pecs.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -27566,6 +27566,30 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a9585-gyerekfotozas-karacsonyifotozas-christmasphoto-pecs-2000x3000.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a9585-gyerekfotozas-karacsonyifotozas-christmasphoto-pecs-2000x3000-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9371-kismamafoto-kutyafoto-pecs-dogphoto-maternityphotoshoot-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9371-kismamafoto-kutyafoto-pecs-dogphoto-maternityphotoshoot-1-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mg-1623-macska-cicafotozas-pecs-catphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-1623-macska-cicafotozas-pecs-catphoto-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
