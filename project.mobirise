@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "kutya_macska_cica_haziallat_fotozas_pecs.html",
+    "currentPage": "portre_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -11908,7 +11908,7 @@
             "paddingBottom": "1",
             "bgColor": "#fff"
           },
-          "title": "<i>Kismama, újszülött, baba, gyermek, családi, portré, páros, születésnap, keresztelő, esküvői fotózás Pécsen és környékén, szabadtéren és műteremben a saját igényeid szerint\n</i><div><br></div>",
+          "title": "<i>Kismama, újszülött, baba, gyermek, családi, portré, páros, születésnap, keresztelő, háziállat, esküvői fotózás Pécsen és környékén, szabadtéren és műteremben a saját igényeid szerint\n</i><div><br></div>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -12003,8 +12003,8 @@
               "size": 0
             }
           },
-          "title": "<i>HÚSVÉTI/TAVASZI CSALÁDI, GYERMEK, BABA, ÚJSZÜLÖTT, KISMAMA, PÁROS, PORTRÉ MŰTERMI VAGY SZABADTÉRI FOTÓZÁS PÉCSEN</i>",
-          "text": "Sok szeretettel várlak húsvéti/tavaszi fotózásra a gyönyörű tavaszi enteriőrrel berendezett pécsi stúdiómban, rengeteg kellékkel.&nbsp;<br>Tarts velem és lepd meg szeretteidet egy igazán gyönyörű és különleges fotósorozattal, mely a nagyszülőknek is különleges ajándékul szolgál, valamint gazdagítsd magad és a családodat egy szuper élménnyel. Ha még nincs ötleted, hogy mit ajándékoz szeretteidnek húsvétra, akkor ajándékozz fotózást, melyet ajándékutalvány formájában is átadhatsz. Családi, gyermek, baba, újszülött, kismama, páros, portré témában várlak szeretettel. \n<br>\n<br>&nbsp;&nbsp;",
+          "title": "<i>HÚSVÉTI/TAVASZI /ANYÁKNAPI CSALÁDI, GYERMEK, BABA, ÚJSZÜLÖTT, KISMAMA, PÁROS, PORTRÉ MŰTERMI VAGY SZABADTÉRI FOTÓZÁS PÉCSEN</i>",
+          "text": "Sok szeretettel várlak húsvéti/tavaszi/anyáknapi fotózásra a gyönyörű tavaszi enteriőrrel berendezett pécsi stúdiómban, rengeteg kellékkel.&nbsp;<br>Tarts velem és lepd meg szeretteidet egy igazán gyönyörű és különleges fotósorozattal, mely a nagyszülőknek is különleges ajándékul szolgál, valamint gazdagítsd magad és a családodat egy szuper élménnyel. Ha még nincs ötleted, hogy mit ajándékoz szeretteidnek húsvétra, akkor ajándékozz fotózást, melyet ajándékutalvány formájában is átadhatsz. Családi, gyermek, baba, újszülött, kismama, páros, portré témában várlak szeretettel. \n<br>\n<br>&nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
           "_tags": [
             "Theme"
@@ -12236,7 +12236,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/g85a9414-kutyafotozas-pecs-kismama-fenykepesz-photographer-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a9404-kutyafotos-pecs-parosfotos-dogphotography-maternity.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -12353,7 +12353,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/g85a0382-ujszulottfoto-csaladifoto-pecs-newbornphoto.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a0542-ujszulottfoto-csaladifoto-pecs-newbornphoto.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
