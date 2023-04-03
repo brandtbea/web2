@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "ujszulott_fotozas.html",
+    "currentPage": "portre_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -9387,10 +9387,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mg-4730-1-noiportre-womanprotrait-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a9214-portrefoto-portraitphoto-pecs-pecsifotos.jpg",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -12329,7 +12330,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/g85a0542-ujszulottfoto-csaladifoto-pecs-newbornphoto.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a1422-csaladifotozas-pecsifotos-1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
