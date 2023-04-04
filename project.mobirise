@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "szuletesnapi_fotozas.html",
+    "currentPage": "portre_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -9522,7 +9522,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "title": "<i>Ha szeretnéd meglepni magad vagy a párod egy rólad készült sorozattal...&nbsp;</i>",
+          "title": "<i>Ha szeretnéd meglepni magad vagy a párod egy rólad készült portré sorozattal...&nbsp;</i>",
           "meta": "",
           "_tags": [
             "Theme"
@@ -11181,6 +11181,30 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a9529-fotografus-pecs-portrefotozas.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a9529-fotografus-pecs-portrefotozas-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9162-portrefotozas-pecs-portraitphotoshoot.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9162-portrefotozas-pecs-portraitphotoshoot-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a4565-portrefotozas-pecs-portraitphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a4565-portrefotozas-pecs-portraitphoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -16566,6 +16590,102 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a646-gyerekfoto-pecs-childphoto.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a646-gyerekfoto-pecs-childphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8673-babafotozas-pecs-anyaknapifoto-pecsifotos.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8673-babafotozas-pecs-anyaknapifoto-pecsifotos-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8588-husveti-babafotozas-pecs-easterphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8588-husveti-babafotozas-pecs-easterphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8599-easterphoto-pecs-pecsfotozas-babyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8599-easterphoto-pecs-pecsfotozas-babyphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8770-tavaszifotozas-pecs-pecsifotos-springphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8770-tavaszifotozas-pecs-pecsifotos-springphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8711-csaladifoto-pecs-familyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8711-csaladifoto-pecs-familyphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8729-fotozaspecs-csaladifoto-photography.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8729-fotozaspecs-csaladifoto-photography-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8761-babafotozas-pecs-pecsifotos.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8761-babafotozas-pecs-pecsifotos-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8781-csaladifotozas-pecs-familyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8781-csaladifotozas-pecs-familyphoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
