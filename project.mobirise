@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "kutya_macska_cica_haziallat_fotozas_pecs.html",
+    "currentPage": "babafotozas_pecs_csaladifotozas_babyphoto.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -9047,6 +9047,18 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a4988-msolat.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a4988-msolat-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a2451-kismamafotozas-kutyafoto-pecs-dogphoto-maternityphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a2451-kismamafotozas-kutyafoto-pecs-dogphoto-maternityphoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -27968,6 +27980,30 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a2419-kutyafotozas-pecs-parosfoto-dogphoto-pairedphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a2419-kutyafotozas-pecs-parosfoto-dogphoto-pairedphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a2426-kutyafoto-pecs-parosfoto-dogphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a2426-kutyafoto-pecs-parosfoto-dogphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -28584,7 +28620,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -28761,6 +28797,78 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a9954-csaladifoto-kutyafoto-pecs.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a9954-csaladifoto-kutyafoto-pecs-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a7074-gyermekfotozas-babafoto-babyphoto-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a7074-gyermekfotozas-babafoto-babyphoto-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a7220-csaladifoto-pecs-familyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a7220-csaladifoto-pecs-familyphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a7239-csaladifotozas-pecs-familyphotography.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a7239-csaladifotozas-pecs-familyphotography-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a7423-csaladifotozas-pecs-familyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a7423-csaladifotozas-pecs-familyphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a7053-baba-gyermekfotozas-pecs-pecsifotos.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a7053-baba-gyermekfotozas-pecs-pecsifotos-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a7112-testverfoto-babafotozas-gyermekfotozas-pecs-baby-childphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a7112-testverfoto-babafotozas-gyermekfotozas-pecs-baby-childphoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
