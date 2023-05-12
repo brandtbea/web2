@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "business_uzleti_portre_fotozas_oneletrajz_cv_pecs.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -11209,6 +11209,42 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1374-wboldalra-foto-homepagephoto-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1374-wboldalra-foto-homepagephoto-pecs-619x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1492-businessportre-pecs-pecs-fotos.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1492-businessportre-pecs-pecs-fotos-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1571-uzletiportre-szemelyesmarka-brandphoto-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1571-uzletiportre-szemelyesmarka-brandphoto-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -12084,7 +12120,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "title": "<i>Tavaszi /anyáknapi műtermi vagy szabadtéri családi, gyermek, baba, újszülött, kismama, páros, portré fotózás Pécsen</i>",
+          "title": "<i>Tavaszi műtermi vagy szabadtéri családi, gyermek, baba, újszülött, kismama, páros, portré fotózás Pécsen</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -12136,7 +12172,7 @@
               "size": 0
             }
           },
-          "title": "<i>TAVASZI /ANYÁKNAPI CSALÁDI, GYERMEK, BABA, ÚJSZÜLÖTT, KISMAMA, PÁROS, PORTRÉ MŰTERMI VAGY SZABADTÉRI FOTÓZÁS PÉCSEN</i>",
+          "title": "<i>TAVASZI&nbsp; CSALÁDI, GYERMEK, BABA, ÚJSZÜLÖTT, KISMAMA, PÁROS, PORTRÉ MŰTERMI VAGY SZABADTÉRI FOTÓZÁS PÉCSEN</i>",
           "text": "Sok szeretettel várlak húsvéti/tavaszi/anyáknapi fotózásra a gyönyörű tavaszi enteriőrrel berendezett pécsi stúdiómban, rengeteg kellékkel.&nbsp;<br>Tarts velem és lepd meg szeretteidet egy igazán gyönyörű és különleges fotósorozattal, mely a nagyszülőknek is különleges ajándékul szolgál, valamint gazdagítsd magad és a családodat egy szuper élménnyel. Ha még nincs ötleted, hogy mit ajándékoz szeretteidnek húsvétra, akkor ajándékozz fotózást, melyet ajándékutalvány formájában is átadhatsz. Családi, gyermek, baba, újszülött, kismama, páros, portré témában várlak szeretettel. \n<br>\n<br>&nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
           "_tags": [
@@ -29292,7 +29328,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -29419,8 +29455,92 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1322-oneletrajzfoto-pecs-cvphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1322-oneletrajzfoto-pecs-cvphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1361-uzletiportreftoto-pecs-businessportrait.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1361-uzletiportreftoto-pecs-businessportrait-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a5410-uzletiportrefotozas-fotozaspecs-businessportrait.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a5410-uzletiportrefotozas-fotozaspecs-businessportrait-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1418-msolat.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1418-msolat-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1477-oneletrajzfoto-pecs-cvphotography.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1477-oneletrajzfoto-pecs-cvphotography-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1557-ugyved-portrefoto-pecs-lawyerportrait.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1557-ugyved-portrefoto-pecs-lawyerportrait-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1488-noi-uzleti-portrefoto-businessphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1488-noi-uzleti-portrefoto-businessphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1533-ugyvedfoto-business-portrait-photography-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1533-ugyvedfoto-business-portrait-photography-pecs-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
