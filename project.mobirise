@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "csaladifoto.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -7392,6 +7392,18 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a0665-kismamafotozas-pecs-fenykepesz-photography.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a0665-kismamafotozas-pecs-fenykepesz-photography-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a6390-csaladifotozas-pecs-familyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a6390-csaladifotozas-pecs-familyphoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
