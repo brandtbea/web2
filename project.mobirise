@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "varandos_fotozas.html",
+    "currentPage": "portre_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -11005,6 +11005,18 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a2704-portrefotozas-pecs-photography-pecsifotos.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a2704-portrefotozas-pecs-photography-pecsifotos-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -11895,7 +11907,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "title": "<i>Tavaszi műtermi vagy szabadtéri családi, gyermek, baba, újszülött, kismama, páros, portré fotózás Pécsen</i>",
+          "title": "<i>Nyári műtermi vagy szabadtéri családi, gyermek, baba, újszülött, kismama, páros, portré fotózás Pécsen</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -11929,7 +11941,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/g85a9214-portrefoto-portraitphoto-pecs-pecsifotos.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a7846-glamour-photo-pecs-fotospecs-.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -11947,8 +11959,8 @@
               "size": 0
             }
           },
-          "title": "<i>TAVASZI&nbsp; CSALÁDI, GYERMEK, BABA, ÚJSZÜLÖTT, KISMAMA, PÁROS, PORTRÉ MŰTERMI VAGY SZABADTÉRI FOTÓZÁS PÉCSEN</i>",
-          "text": "Sok szeretettel várlak húsvéti/tavaszi/anyáknapi fotózásra a gyönyörű tavaszi enteriőrrel berendezett pécsi stúdiómban, rengeteg kellékkel.&nbsp;<br>Tarts velem és lepd meg szeretteidet egy igazán gyönyörű és különleges fotósorozattal, mely a nagyszülőknek is különleges ajándékul szolgál, valamint gazdagítsd magad és a családodat egy szuper élménnyel. Ha még nincs ötleted, hogy mit ajándékoz szeretteidnek húsvétra, akkor ajándékozz fotózást, melyet ajándékutalvány formájában is átadhatsz. Családi, gyermek, baba, újszülött, kismama, páros, portré témában várlak szeretettel. \n<br>\n<br>&nbsp;&nbsp;",
+          "title": "<i>NYÁRI&nbsp; CSALÁDI, GYERMEK, BABA, ÚJSZÜLÖTT, KISMAMA, PÁROS, PORTRÉ MŰTERMI VAGY SZABADTÉRI FOTÓZÁS PÉCSEN</i>",
+          "text": "Sok szeretettel várlak szabadtéri vagy stúdiós fotózásra a gyönyörű enteriőrrel berendezett pécsi stúdiómban, rengeteg kellékkel.&nbsp;<br>Tarts velem és lepd meg szeretteidet egy igazán gyönyörű és különleges fotósorozattal, mely különleges ajándékul is szolgál, valamint gazdagítsd magad és a családodat egy szuper élménnyel. Alkalmakra ajándékozz szeretteidnek fotózást, melyet ajándékutalvány formájában is átadhatsz. <br>Családi, gyermek, baba, újszülött, kismama, páros, portré, háziállat, keresztelő, esküvő&nbsp; témában várlak szeretettel. \n<br>\n<br>&nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
           "_tags": [
             "Theme"
@@ -12463,13 +12475,13 @@
           "title1": "Páros, jegyes fotózás",
           "subtitle1": "",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Kutya, macska fotózás",
+          "title2": "Kutya, macska, háziállat fotózás",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "title3": "Baba fotózás&nbsp;",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Üzleti/Business portré, önéletrajz/CV fotózás",
+          "title4": "Üzleti/Business portré, headshot fotó/önéletrajz/CV, LinkedIn",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "title5": "Trendy Website Blocks",
@@ -29020,7 +29032,7 @@
               "size": 0
             }
           },
-          "title": "<i>ÜZLETI /BUSINESS PORTRÉ, ÖNÉLETRAJZ /CV , LINKEDIN, PORTFÓLIÓ FOTÓZÁS PÉCSEN MŰTEREMBEN ÉS SZABADTÉREN</i>",
+          "title": "<i>ÜZLETI /BUSINESS PORTRÉ, HEADSHOT FOTÓ, ÖNÉLETRAJZ /CV , LINKEDIN, WEBLAP, PORTFÓLIÓ , ARCULAT FOTÓZÁS PÉCSEN MŰTEREMBEN ÉS SZABADTÉREN</i>",
           "text": "<i>...minden ember egy történet</i>..<br>...bizalom....<br>....elismertség...<br>...siker...<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -29089,7 +29101,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "title": "<i>Üzleti/business, önéletrajz/CV, LinkedIn portfólió fotózás Pécsen&nbsp;</i>",
+          "title": "<i>Üzleti/business portré, headshot fotó, önéletrajz/CV, LinkedIn, weblap, portfólió fotózás Pécsen&nbsp;</i>",
           "meta": "",
           "_tags": [
             "Theme"
@@ -29109,6 +29121,18 @@
             "showText": false,
             "filter": false,
             "images": [
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a2688-msolat.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a2688-msolat-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
               {
                 "tags": "Creative",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -29150,8 +29174,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a2647-tuzoltofoto-firemanphoto-pecs-portrefoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a2647-tuzoltofoto-firemanphoto-pecs-portrefoto-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a1322-oneletrajzfoto-pecs-cvphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1322-oneletrajzfoto-pecs-cvphoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -29186,6 +29210,42 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a2647-tuzoltofoto-firemanphoto-pecs-portrefoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a2647-tuzoltofoto-firemanphoto-pecs-portrefoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a2718-headshotphoto-oneletrajz-cv-linkedin-photo-pecs-businessportrait.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a2718-headshotphoto-oneletrajz-cv-linkedin-photo-pecs-businessportrait-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1488-noi-uzleti-portrefoto-businessphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1488-noi-uzleti-portrefoto-businessphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a0132-portrefotozas-pecs.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a0132-portrefotozas-pecs-613x920.jpg",
                 "alt": "",
@@ -29210,8 +29270,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a3446-ferfi-portefoto-pecs-portraitphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a3446-ferfi-portefoto-pecs-portraitphoto-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a3449-ferfi-portrefotozas-pecs-photography.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a3449-ferfi-portrefotozas-pecs-photography-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -29234,8 +29294,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a0083-ferfiportrefoto-pecs.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a0083-ferfiportrefoto-pecs-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a3446-ferfi-portefoto-pecs-portraitphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a3446-ferfi-portefoto-pecs-portraitphoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -29246,8 +29306,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a3449-ferfi-portrefotozas-pecs-photography.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a3449-ferfi-portrefotozas-pecs-photography-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a0083-ferfiportrefoto-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0083-ferfiportrefoto-pecs-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -29270,18 +29330,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a0068-portfoliofotozas-businessphoto-fotospecs.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a0068-portfoliofotozas-businessphoto-fotospecs-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a3625-orvosfoto-uzleti-business-portre-pecs.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a3625-orvosfoto-uzleti-business-portre-pecs-613x920.jpg",
                 "alt": "",
@@ -29294,8 +29342,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a2199-ferfiportrefoto-pecs-manportraitphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a2199-ferfiportrefoto-pecs-manportraitphoto-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a0068-portfoliofotozas-businessphoto-fotospecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0068-portfoliofotozas-businessphoto-fotospecs-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -29306,20 +29354,20 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a1322-oneletrajzfoto-pecs-cvphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a1322-oneletrajzfoto-pecs-cvphoto-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a1361-uzletiportreftoto-pecs-businessportrait.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1361-uzletiportreftoto-pecs-businessportrait-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a1361-uzletiportreftoto-pecs-businessportrait.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a1361-uzletiportreftoto-pecs-businessportrait-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a1477-oneletrajzfoto-pecs-cvphotography.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1477-oneletrajzfoto-pecs-cvphotography-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -29354,18 +29402,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a1477-oneletrajzfoto-pecs-cvphotography.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a1477-oneletrajzfoto-pecs-cvphotography-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a1557-ugyved-portrefoto-pecs-lawyerportrait.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a1557-ugyved-portrefoto-pecs-lawyerportrait-613x920.jpg",
                 "alt": "",
@@ -29378,8 +29414,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a1488-noi-uzleti-portrefoto-businessphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a1488-noi-uzleti-portrefoto-businessphoto-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a2199-ferfiportrefoto-pecs-manportraitphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a2199-ferfiportrefoto-pecs-manportraitphoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -29395,7 +29431,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ]
           },
