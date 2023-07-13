@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "ujszulott_fotozas.html",
+    "currentPage": "portre_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 520,
+    "uniqCompNum": 522,
     "versionPublish": "5.3.10",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -868,8 +868,8 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text1": "<div><i><b>…egy új élet kezdete... az első mosoly... egy csöpp kis test... apró kis kezek és talpak.... babaillat...</b></i></div><div><br></div><div> \n</div><div>Egy újszülött baba érkezése a családba az egyik legcsodálatosabb dolog a világon, egy hamar elillanó és soha vissza nem térő pár nap. Ezért az újszülött fotózás különösen hálás és megtisztelő feladat a számomra.</div><div><b>A fényképezésre a</b> <b>legideálisabb időszak a 4-14 nap</b>. Ilyenkor a babák még aluszékonyak, és nem mozognak annyit. <b>A fotózást a kicsi hangulatához, kényelméhez és biztonságához igazítom. Csak biztonságos beállításokkal dolgozom. Végig ott lehettek mindketten a baba mellett, segíthettek</b> az öltöztetésben, a beállításokban, bármikor megetetheted, felveheted, folyamatosan figyelek a baba igényeire. </div><div><b>Puha pamut és kötött ruhákat és sapkákat, hajpántokat használok</b>, amelyek nem allergizálnak. Ha általad hozott babaruhában szeretnéd a fényképezést, az is természetesen lehetséges. </div><div><br></div><div><br></div>",
-          "text2": "<div><br></div><div><br></div><div><br></div><div><b>A fotózás helyszínéül </b>választhatod<b> Pécsen a stúdiómat,</b> ahol <b>otthonos, meleg, tiszta környezetben több fajta kellék közül választhatsz</b>.\n</div><div><i>Egyedi, letisztult fotókat készítek, amelynek a középpontjában a pici babátok szépsége és egyedisége áll.\n</i></div><div><b>Természetesen családi és testvér képeket is szívesen készítek rólatok.</b> A családi fotók számomra mindig nagyon fontos részei az újszülöttfotózásnak, hiszen ezek lesznek később gyermekeitek legnagyobb kincsei.\n</div><div>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra. A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető. A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készítetthetsz .&nbsp;</b></div><div>Ha szeretnéd ezt a gyorsan múló különlegesen törékeny időszakot megörökíttetni, akkor kérlek szépen, <b>ha lehet már a várható születés időpontja előtt egyeztessünk</b>, illetve a szülést követően is.\n</div><div>Várlak Benneteket szeretettel!\n</div><div><br></div><div>\n</div><div><br></div>",
+          "text1": "<div><i><b>…egy új élet kezdete... az első mosoly... egy csöpp kis test... apró kis kezek és talpak.... babaillat...</b></i></div><div><br></div><div> \n</div><div>Egy újszülött baba érkezése a családba az egyik legcsodálatosabb dolog a világon, egy hamar elillanó és soha vissza nem térő pár nap. Ezért az újszülött fotózás különösen hálás és megtisztelő feladat a számomra.</div><div><b><br></b></div><div><b>A fényképezésre a</b> <b>legideálisabb időszak a 4-14 nap</b>. Ilyenkor a babák még aluszékonyak, és nem mozognak annyit. </div><div><b><br></b></div><div><b>A fotózást a kicsi hangulatához, kényelméhez és biztonságához igazítom. Csak biztonságos beállításokkal dolgozom. Végig ott lehettek mindketten a baba mellett, segíthettek</b> az öltöztetésben, a beállításokban, bármikor megetetheted, felveheted, folyamatosan figyelek a baba igényeire. </div><div><b><br></b></div><div><b>Puha pamut és kötött ruhákat és sapkákat, hajpántokat használok</b>, amelyek nem allergizálnak. Ha általad hozott babaruhában szeretnéd a fényképezést, az is természetesen lehetséges. </div><div><br></div><div>A fotózás helyszínéül választhatod <b>Pécsen a stúdiómat, </b>ahol otthonos, meleg, tiszta környezetben több fajta kellék közül választhatsz.</div><div><br></div>",
+          "text2": "<div><br></div><div><br></div><div><br></div><div><i>Egyedi, letisztult fotókat készítek, amelynek a középpontjában a pici babátok szépsége és egyedisége áll.</i><br></div><div><i><br></i></div><div><i>\n</i></div><div><b>Természetesen családi és testvér képeket is szívesen készítek rólatok.</b> A családi fotók számomra mindig nagyon fontos részei az újszülöttfotózásnak, hiszen ezek lesznek később gyermekeitek legnagyobb kincsei.\n</div><div><b><br></b></div><div><b>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra.</b> </div><div><br></div><div>A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető. </b></div><div><b><br></b></div><div><b>A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készítetthetsz .&nbsp;</b></div><div><br></div><div>Ha szeretnéd ezt a gyorsan múló különlegesen törékeny időszakot megörökítettni, akkor kérlek szépen, <b>ha lehet már a várható születés időpontja előtt egyeztessünk</b>, illetve a szülést követően is.\n</div><div><br></div><div>Várlak Benneteket szeretettel, keress bizalommal!\n</div><div><br></div><div>\n</div><div><br></div>",
           "_tags": [
             "Theme"
           ],
@@ -1140,6 +1140,19 @@
               "font-size": "18px"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "Az újszülött fotózás csomagára a pécsi saját stúdiómban 34,900,-Ft-tól kezdődik, mely családi és testvér fotókat is tartalmaz. Kérlek írd le, hogy mikor és hányan jönnétek és elküldöm a csomagajánlataimat.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-eg"
         },
         {
           "_params": {
@@ -28789,8 +28802,8 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text1": "<div><i><b>… az első mosoly... csillogó szemek.....kis kezek és talpak....</b></i></div><div><br></div><div> \n</div><div>A babafotózásra a legalkalmasabb időszak a 3-4 hónapos kortól kezdődik, amikor a babád már szépen hason ki tudja tartani magát, és már mosolyogni is tud, és különféle érzelmeket megjeleníteni az arcán. Ilyenkor különösen aranyosak, és a szülőkkel együtt is jól fotózhatóak. Az újszülött fotózás után ez az időszak a legkedvezőbb a babák életében.&nbsp;</div><div><br></div><div>A fotózás helyszínéül választhatod Pécsen a stúdiómat, ahol otthonos, meleg, tiszta környezetben több fajta kellék közül választhatsz, illetve szabadteret.&nbsp;</div><div><br></div>",
-          "text2": "<div><br></div><div><br></div><div>Egyedi, letisztult fotókat készítek, amelynek a középpontjában a pici babátok szépsége és egyedisége áll.<br></div><div>Természetesen családi és testvér képeket is szívesen készítek rólatok. A családi fotók számomra mindig nagyon fontos részei a babafotózásnak, hiszen ezek lesznek később gyermekeitek legnagyobb kincsei.</div><div>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra. A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető. A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készítetthetsz .&nbsp;</b></div><div><br></div><div>Várlak Benneteket szeretettel!\n</div><div><br></div><div>\n</div><div><br></div>",
+          "text1": "<div><i><b>… az első mosoly... csillogó szemek.....kis kezek és talpak....</b></i></div><div><br></div><div> \n</div><div><b>A babafotózásra a legalkalmasabb időszak a 3-4 hónapos kortól kezdődik</b>, amikor a babád már szépen hason ki tudja tartani magát, és már mosolyogni is tud, és különféle érzelmeket megjeleníteni az arcán. Ilyenkor különösen aranyosak, és a szülőkkel együtt is jól fotózhatóak. Az újszülött fotózás után ez az időszak a legkedvezőbb a babák fotózására.&nbsp;</div><div><br></div><div>A <b>fotózás helyszínéül választhatod Pécsen a stúdiómat,</b> ahol otthonos, meleg, tiszta környezetben több fajta kellék közül választhatsz, <b>illetve szabadteret, saját udvarunkat</b>.&nbsp;</div><div><br></div>",
+          "text2": "<div><br></div><div><br></div><div>Egyedi, letisztult fotókat készítek, amelynek a középpontjában a pici babátok szépsége és egyedisége áll.<br></div><div>Természetesen <b>családi és testvér képeket is szívesen készítek</b> rólatok. A családi fotók számomra mindig nagyon fontos részei a babafotózásnak, hiszen ezek lesznek később gyermekeitek legnagyobb kincsei.</div><div><b>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra.</b> </div><div>A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető. A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készíttethetsz .&nbsp;</b></div><div><br></div><div>Várlak Benneteket szeretettel, keress bizalommal egy fantasztikus hangulatú fotózásra !\n</div><div><br></div><div>\n</div><div><br></div>",
           "_tags": [
             "Theme"
           ],
@@ -29061,6 +29074,19 @@
             }
           },
           "_anchor": "buttons1-dm"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "A baba fotózás csomagára a pécsi saját stúdiómban 34,900,-Ft-tól kezdődik, mely családi és testvér fotókat is tartalmaz. Kérlek írd le, hogy mikor és hányan jönnétek, hol szeretnétek a fotózást, és elküldöm a csomagajánlataimat.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-eh"
         },
         {
           "_params": {
