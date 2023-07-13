@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "kutya_macska_cica_haziallat_fotozas_pecs.html",
+    "currentPage": "ujszulott_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -209,8 +209,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a1422-csaladifotozas-pecsifotos.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a1422-csaladifotozas-pecsifotos-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a1458-csaladifoto-pecsfotozas.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1458-csaladifoto-pecsfotozas-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -251,6 +251,18 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1422-csaladifotozas-pecsifotos.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1422-csaladifotozas-pecsifotos-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Creative",
@@ -305,6 +317,18 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1470-ujszulottfoto-pecs-babyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1470-ujszulottfoto-pecs-babyphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/mg-7445-2-ujszulottkep-newbornpicutre-1-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-7445-2-ujszulottkep-newbornpicutre-1-2000x1333-800x533.jpg",
                 "alt": "",
@@ -319,18 +343,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/mg-7394-2000x3000.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-7394-2000x3000-800x1200.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a1470-ujszulottfoto-pecs-babyphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a1470-ujszulottfoto-pecs-babyphoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -367,18 +379,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a1413-csaladifenykep-fenykepesz-pecs.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a1413-csaladifenykep-fenykepesz-pecs-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a1458-csaladifoto-pecsfotozas.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a1458-csaladifoto-pecsfotozas-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -641,6 +641,18 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mg-0556-ujszulottfotos-newbornphotographer-1-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-0556-ujszulottfotos-newbornphotographer-1-2000x2000-800x800.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a4015-ujszulottfoto-pecs-newbornphoto.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a4015-ujszulottfoto-pecs-newbornphoto-613x920.jpg",
                 "alt": "",
@@ -727,18 +739,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a3731-babyphoto-childphoto-gyerekfoto-babafoto-pecs-1.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a3731-babyphoto-childphoto-gyerekfoto-babafoto-pecs-1-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/mg-0556-ujszulottfotos-newbornphotographer-1-2000x2000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-0556-ujszulottfotos-newbornphotographer-1-2000x2000-800x800.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -850,7 +850,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           },
