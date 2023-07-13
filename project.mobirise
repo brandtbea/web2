@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "glamour_boudoir_fotozas_photography_pecspage36.html",
+    "currentPage": "kutya_macska_cica_haziallat_fotozas_pecs.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -27919,6 +27919,30 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a2426-kutyafoto-pecs-parosfoto-dogphoto.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a2426-kutyafoto-pecs-parosfoto-dogphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9847-cicafoto-macska-catphoto-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9847-cicafoto-macska-catphoto-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mg-7748-1-cicafoto-catphoto-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-7748-1-cicafoto-catphoto-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
