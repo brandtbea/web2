@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "szuletesnapi_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 522,
+    "uniqCompNum": 523,
     "versionPublish": "5.3.10",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -6419,6 +6419,19 @@
             }
           },
           "_anchor": "buttons1-4h"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "A születésnapi fotózás csomagára a pécsi saját stúdiómban 34,900,-Ft-tól kezdődik, mely családi és testvér fotókat is tartalmaz. Kérlek írd le, hogy mikor és hányan jönnétek és elküldöm a csomagajánlataimat.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-ei"
         },
         {
           "_styles": {
