@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "szuletesnapi_fotozas.html",
+    "currentPage": "baba_gyermek_fotok.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 523,
+    "uniqCompNum": 527,
     "versionPublish": "5.3.10",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -4171,6 +4171,19 @@
         },
         {
           "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "A baba és gyermek fotózás csomagára a pécsi saját stúdiómban 34,900,-Ft-tól kezdődik, mely családi és testvér fotókat is tartalmaz. Kérlek írd le, hogy mikor és hányan jönnétek, hol szeretnétek a fotózást, és elküldöm a csomagajánlataimat.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-em"
+        },
+        {
+          "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
             "bgColor": "#fff"
@@ -4217,7 +4230,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"varandos_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a születésnapi fotóimhoz</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"szuletesnapi_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a születésnapi fotóimhoz</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -6311,6 +6324,19 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "A születésnapi fotózás csomagára a pécsi saját stúdiómban 34,900,-Ft-tól kezdődik, mely családi és testvér fotókat is tartalmaz. Kérlek írd le, hogy mikor és hányan jönnétek és elküldöm a csomagajánlataimat.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-ei"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
             "bgColor": "#efefef"
           },
           "text1": "Igazi örömmel tölt el, amikor egy család többször tér vissza hozzám,   hogy megörökítsem, hogyan változik, cseperedik gyermekük az évek alatt. Boldoggá tesz, hogy én is részese lehetek ennek a csodának, és változásnak, és ennek a gyorsan múló időnek a pillanatait én örökíthetem meg, amelyek majd később a legértékesebb családi emlékek lesznek az albumokban.\n<div>A születésnapi esemény kiváló alkalmat ad arra, hogy <i><b>ajándékként</b> fotósorozattal kedveskedjetek a nagyszülőknek, a rokonoknak.\n</i></div><div>A fotózáshoz<b> rengeteg kellék és díszlet közül választhatsz</b>.&nbsp;</div>",
@@ -6421,19 +6447,6 @@
           "_anchor": "buttons1-4h"
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "A születésnapi fotózás csomagára a pécsi saját stúdiómban 34,900,-Ft-tól kezdődik, mely családi és testvér fotókat is tartalmaz. Kérlek írd le, hogy mikor és hányan jönnétek és elküldöm a csomagajánlataimat.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-ei"
-        },
-        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -6463,7 +6476,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"ujszulott_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Tovább a baba és gyermek fotóimhoz</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"baba_gyermek_fotok.html\" data-toolbar=\"-mbrBtnMove\">Tovább a baba és gyermek fotóimhoz</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -7528,8 +7541,8 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text1": "A<b> családi fotók </b>számomra mindig nagyon fontos részei a fotózásnak, hiszen ezek <b>lesznek később gyermekeitek legnagyobb kincsei,</b> melyek <b>generációkon keresztül öröklődni fognak</b>. A családfotózás összehozza a családot, amikor mindenki együtt van, és, ahol mindenki rajta van képen. Egy maradandó élmény, ahol az egymás iránti szeretet meghitt pillanatai egymás szemében tükröződik, a közös nevetések, a viccelődések mind élvezetessé teszik a családi fotózást.<div><b>A fotózás helyszínéül választhatod Pécsen a műtermemet,</b> ahol szépen berendezett környezetben több fajta kellék közül választhatsz vagy a <b>természetet</b>, a szép rózsás, levendulás udvarunkat, mezőt, parkot, tópartot, erdőt, szőlőültetvényt stb. Természetesen <b>házi kedvenceitekkel együtt</b> is szívesen fényképezlek Benneteket.&nbsp;</div>",
-          "text2": "<p>Egyedi, letisztult fényképeket készítek, melynek a középpontjában a szépségetek, személyiségetek és egyediségetek áll. \n</p><p><span style=\"font-size: 1.07rem;\">A fotózás alatt teljes mértékben </span><b style=\"font-size: 1.07rem;\">figyelek a gyermeketek igényeire és a fotózást hozzájuk igazítom</b><span style=\"font-size: 1.07rem;\">. <b>V</b></span><b style=\"font-size: 1.07rem;\">idám hangulatot, </b><span style=\"font-size: 1.07rem;\">é</span><span style=\"font-size: 1.07rem;\">s</span><b style=\"font-size: 1.07rem;\">&nbsp;</b><span style=\"font-size: 1.07rem;\">&nbsp;</span><b style=\"font-size: 1.07rem;\">élvezetes családi fotózást </b><span style=\"font-size: 1.07rem;\">szeretnék ajándékozni nektek</span><span style=\"font-size: 1.07rem;\">.</span><br></p><div>Az elkészült képekből te választhatod ki, hogy melyek kerüljenek retusálásra. A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető. A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készítetthetsz .&nbsp;</b></div><div>Mindig nagy öröm számomra a visszatérő családok, hisz a gyerekek olyan gyorsan változnak és felnőnek, és igazán megtisztelő a számomra, hogy részese lehetek ennek a csodás folyamatnak, és a családi albumukat az általam készített képek gazdagítják, amiket majd generációkon keresztül fognak visszanézni.</div><div>\n</div><div>Várlak Benneteket szeretettel!\n</div><div><br></div><p></p>",
+          "text1": "A<b> családi fotók </b>számomra mindig nagyon fontos részei a fotózásnak, hiszen ezek <b>lesznek később gyermekeitek legnagyobb kincsei,</b> melyek <b>generációkon keresztül öröklődni fognak</b>. A családfotózás összehozza a családot, amikor mindenki együtt van, és, ahol mindenki rajta van képen. Egy <b>maradandó élmény</b>, ahol az egymás iránti szeretet meghitt pillanatai egymás szemében tükröződik, a közös nevetések, a viccelődések mind élvezetessé teszik a családi fotózást.<div><b><br></b></div><div><b>A fotózás helyszínéül választhatod Pécsen a műtermemet,</b> ahol szépen berendezett környezetben több fajta kellék közül választhatsz vagy a <b>természetet</b>, a szép rózsás, levendulás udvarunkat, mezőt, parkot, tópartot, erdőt, szőlőültetvényt stb. Természetesen <b>házi kedvenceitekkel együtt</b> is szívesen fényképezlek Benneteket.&nbsp;</div><div><br></div><div>Egyedi, letisztult fényképeket készítek, melynek a középpontjában a szépségetek, személyiségetek és egyediségetek áll.\r</div><div><br></div><div>\r</div>",
+          "text2": "<p><span style=\"font-size: 1.07rem;\">A fotózás alatt teljes mértékben </span><b style=\"font-size: 1.07rem;\">figyelek a gyermeketek igényeire és a fotózást hozzájuk igazítom</b><span style=\"font-size: 1.07rem;\">. <b>V</b></span><b style=\"font-size: 1.07rem;\">idám hangulatot, </b><span style=\"font-size: 1.07rem;\">é</span><span style=\"font-size: 1.07rem;\">s</span><b style=\"font-size: 1.07rem;\">&nbsp;</b><span style=\"font-size: 1.07rem;\">&nbsp;</span><b style=\"font-size: 1.07rem;\">élvezetes családi fotózást </b><span style=\"font-size: 1.07rem;\">szeretnék ajándékozni nektek</span><span style=\"font-size: 1.07rem;\">.</span><br></p><div><br></div><div>Az elkészült képekből <b>te választhatod k</b>i, hogy melyek kerüljenek retusálásra. </div><div>A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető. </b></div><div><b><br></b></div><div><b>A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készíttethetsz .&nbsp;</b></div><div><br></div><div>Mindig nagy öröm számomra a visszatérő családok, hisz a gyerekek olyan gyorsan változnak és felnőnek, és igazán megtisztelő a számomra, hogy részese lehetek ennek a csodás folyamatnak, és a családi albumukat az általam készített képek gazdagítják, amiket majd generációkon keresztül fognak visszanézni.</div><div>\n</div><div><br></div><div>Várlak Benneteket szeretettel!\n</div><div><br></div><p></p>",
           "_tags": [
             "Theme"
           ],
@@ -7636,6 +7649,19 @@
         },
         {
           "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "A családi fotózás csomagára a pécsi saját stúdiómban/pécsi szabadtéri helyszínen 34,900,-Ft-tól kezdődik. Kérlek írd le, hogy mikor és hol szeretnétek a fotózást, valamint, hogy hányan jönnétek, és elküldöm a csomagajánlataimat.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-el"
+        },
+        {
+          "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
             "bgColor": "#efefef"
@@ -7682,7 +7708,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"portre_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a családi fotósorozataimhoz</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"csaladifotozas_pecs_buzamezo.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a családi fotósorozataimhoz</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -8260,7 +8286,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -9143,8 +9169,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a2451-kismamafotozas-kutyafoto-pecs-dogphoto-maternityphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a2451-kismamafotozas-kutyafoto-pecs-dogphoto-maternityphoto-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a3054-kismamafotozas-parosfotozas-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a3054-kismamafotozas-parosfotozas-pecs-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -9191,12 +9217,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a3054-kismamafotozas-parosfotozas-pecs.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a3054-kismamafotozas-parosfotozas-pecs-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a2451-kismamafotozas-kutyafoto-pecs-dogphoto-maternityphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a2451-kismamafotozas-kutyafoto-pecs-dogphoto-maternityphoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ]
           },
@@ -9325,6 +9351,19 @@
         },
         {
           "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "A kismama és páros fotózás csomagára a pécsi saját stúdiómban/pécsi szabadtéri helyszínen 34,900,-Ft-tól kezdődik. Kérlek írd le, hogy mikor és hol szeretnétek a fotózást, és elküldöm a csomagajánlataimat.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-ek"
+        },
+        {
+          "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
             "bgColor": "#fff"
@@ -9371,7 +9410,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"csaladifoto.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide az újszülött és baba fotóimhoz</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"ujszulott_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide az újszülött és baba fotóimhoz</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -11385,7 +11424,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"szuletesnapi_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a portré fotósorozataimhoz</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"portrefotozas_pecs_zsolnaynegyed.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a portré fotósorozataimhoz</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -13545,7 +13584,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>Kérlek tekintsd meg a baba és gyermek fotóimat is.</i>",
+          "title": "<i>Kérlek tekintsd meg a jegyes és a páros fotóimat is.</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -13559,7 +13598,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"baba_gyermek_fotok.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a baba és gyermek fotóimhoz</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"baba_gyermek_fotok.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a páros és jegyes fotóimhoz</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -16732,7 +16771,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"eskuvo_keresztelo_fenykepezes.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a karácsonyi fotóimhoz</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"karacsonyi_fotozas_pecs.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a karácsonyi fotóimhoz</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -17067,8 +17106,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a0053-2000x3304.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a0053-2000x3304-800x1322.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a9890-2000x3038.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9890-2000x3038-800x1215.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -17091,8 +17130,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a9890-2000x3038.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a9890-2000x3038-800x1215.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a0053-2000x3304.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0053-2000x3304-800x1322.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -17103,8 +17142,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a9406-jegyesfotozas-pecs.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a9406-jegyesfotozas-pecs-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a9282-pecsifotos-parosfotozas.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9282-pecsifotos-parosfotozas-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -17127,8 +17166,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a9282-pecsifotos-parosfotozas.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a9282-pecsifotos-parosfotozas-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a9406-jegyesfotozas-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9406-jegyesfotozas-pecs-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -17235,8 +17274,20 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a9893-prosfoto-pecs-pairphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a9893-prosfoto-pecs-pairphoto-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a9933-msolat-1-parosfoto-pecs-karacsony-christmasphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9933-msolat-1-parosfoto-pecs-karacsony-christmasphoto-800x800.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9246-prosfoto-engagedphoto-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9246-prosfoto-engagedphoto-pecs-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -17247,8 +17298,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a9933-msolat-1-parosfoto-pecs-karacsony-christmasphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a9933-msolat-1-parosfoto-pecs-karacsony-christmasphoto-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a9893-prosfoto-pecs-pairphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9893-prosfoto-pecs-pairphoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -17319,30 +17370,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a1677-parosfoto-pecs-pairphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a1677-parosfoto-pecs-pairphoto-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a9472-parosfoto-jegyesfoto-pecs.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a9472-parosfoto-jegyesfoto-pecs-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a9055-photography-pecs-pairedphoto.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a9055-photography-pecs-pairedphoto-613x920.jpg",
                 "alt": "",
@@ -17355,8 +17382,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a1532-parosfoto-pecs-pairphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a1532-parosfoto-pecs-pairphoto-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a1677-parosfoto-pecs-pairphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1677-parosfoto-pecs-pairphoto-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -17379,8 +17406,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a1721-parosfoto-kutyafoto-pecs-dogphoto-pairphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a1721-parosfoto-kutyafoto-pecs-dogphoto-pairphoto-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a1532-parosfoto-pecs-pairphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1532-parosfoto-pecs-pairphoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -17403,8 +17430,44 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9472-parosfoto-jegyesfoto-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9472-parosfoto-jegyesfoto-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a9366-pros-jegyes-fotozas-pecs-e-session.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a9366-pros-jegyes-fotozas-pecs-e-session-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9194-parosfotozas-pecs-pairedphotoshoot.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9194-parosfotozas-pecs-pairedphotoshoot-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1721-parosfoto-kutyafoto-pecs-dogphoto-pairphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1721-parosfoto-kutyafoto-pecs-dogphoto-pairphoto-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -17451,32 +17514,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a9246-prosfoto-engagedphoto-pecs.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a9246-prosfoto-engagedphoto-pecs-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a8957-parosfoto-jegyesfoto-pecs.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a8957-parosfoto-jegyesfoto-pecs-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a1773-pairphoto-dogphoto-pecs-kutyafoto-parosfoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a1773-pairphoto-dogphoto-pecs-kutyafoto-parosfoto-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -17499,8 +17538,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a7518-paros-karacsonyi-fotozas-pecs.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a7518-paros-karacsonyi-fotozas-pecs-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a9257-msolat.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9257-msolat-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -17511,8 +17550,32 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a9257-msolat.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a9257-msolat-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a1773-pairphoto-dogphoto-pecs-kutyafoto-parosfoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1773-pairphoto-dogphoto-pecs-kutyafoto-parosfoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9114-pecsifotos-jegyesfotozas-pairedphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9114-pecsifotos-jegyesfotozas-pairedphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a7518-paros-karacsonyi-fotozas-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a7518-paros-karacsonyi-fotozas-pecs-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -17547,32 +17610,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a9114-pecsifotos-jegyesfotozas-pairedphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a9114-pecsifotos-jegyesfotozas-pairedphoto-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a7559-jegyesfotozas-pecs.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a7559-jegyesfotozas-pecs-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a9100-fenykepesz-pecs-parosfotozas.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a9100-fenykepesz-pecs-parosfotozas-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -17595,8 +17634,44 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9187-jegyesfotozas-pecs-e-sessionphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9187-jegyesfotozas-pecs-e-sessionphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a9128-fotozas-pecs-photography.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a9128-fotozas-pecs-photography-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9100-fenykepesz-pecs-parosfotozas.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9100-fenykepesz-pecs-parosfotozas-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9176-fenykepesz-pecs-jegyesfoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9176-fenykepesz-pecs-jegyesfoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -17621,42 +17696,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a9218-parosfotozas-pecs-pecsifotos.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a9218-parosfotozas-pecs-pecsifotos-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a9194-parosfotozas-pecs-pairedphotoshoot.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a9194-parosfotozas-pecs-pairedphotoshoot-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a9176-fenykepesz-pecs-jegyesfoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a9176-fenykepesz-pecs-jegyesfoto-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a9187-jegyesfotozas-pecs-e-sessionphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a9187-jegyesfotozas-pecs-e-sessionphoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -17696,6 +17735,19 @@
         },
         {
           "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "A páros fotózás csomagára a pécsi saját stúdiómban/pécsi szabadtéri helyszínen 34,900,-Ft-tól kezdődik. Kérlek írd le, hogy mikor és hol szeretnétek a fotózást, és elküldöm a csomagajánlataimat.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-ej"
+        },
+        {
+          "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
             "bgColor": "#fff"
@@ -17728,7 +17780,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>Kérlek tekintsd meg a családi fotóimat is.</i>",
+          "title": "<i>Kérlek tekintsd meg az esküvői fotóimat is.</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -17742,7 +17794,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"csaladifoto.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide az esküvői, keresztelő fotóimhoz</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"eskuvo_keresztelo_fenykepezes.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide az esküvői, keresztelő fotóimhoz</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -31011,7 +31063,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"szuletesnapi_fotozas.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a portré fotósorozataimhoz</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"portrefoto_pecs.html\" data-toolbar=\"-mbrBtnMove\">Kattints ide a portré fotósorozataimhoz</a>           ",
           "_tags": [
             "Theme"
           ],
