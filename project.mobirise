@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "szuletesnapi_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -6320,7 +6320,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -6381,6 +6381,42 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8242-szuletesnapi-fotozas-pecs-birthdayphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8242-szuletesnapi-fotozas-pecs-birthdayphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8273-szuletesnapifoto-pecs-geburtstagsfoto-fotospecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8273-szuletesnapifoto-pecs-geburtstagsfoto-fotospecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8366-szuletesnapifotozas-pecs-fotos-birthdayphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8366-szuletesnapifotozas-pecs-fotos-birthdayphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
               }
             ]
           },
@@ -6396,19 +6432,6 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "A születésnapi fotózás csomagára a pécsi saját stúdiómban 34,900,-Ft-tól kezdődik, mely családi és testvér fotókat is tartalmaz. Kérlek írd le, hogy mikor és hányan jönnétek és elküldöm a csomagajánlataimat.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-ei"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
             "bgColor": "#efefef"
           },
           "text1": "Igazi örömmel tölt el, amikor egy család többször tér vissza hozzám,   hogy megörökítsem, hogyan változik, cseperedik gyermekük az évek alatt. Boldoggá tesz, hogy én is részese lehetek ennek a csodának, és változásnak, és ennek a gyorsan múló időnek a pillanatait én örökíthetem meg, amelyek majd később a legértékesebb családi emlékek lesznek az albumokban.\n<div>A születésnapi esemény kiváló alkalmat ad arra, hogy <i><b>ajándékként</b> fotósorozattal kedveskedjetek a nagyszülőknek, a rokonoknak.\n</i></div><div>A fotózáshoz<b> rengeteg kellék és díszlet közül választhatsz</b>.&nbsp;</div>",
@@ -6418,6 +6441,19 @@
           ],
           "_name": "content6",
           "_anchor": "content6-4s"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "A születésnapi fotózás csomagára a pécsi saját stúdiómban 34,900,-Ft-tól kezdődik, mely családi és testvér fotókat is tartalmaz. Kérlek írd le, hogy mikor és hányan jönnétek és elküldöm a csomagajánlataimat.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-ei"
         },
         {
           "_params": {
