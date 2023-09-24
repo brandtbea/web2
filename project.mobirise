@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "miert_engem_valassz_beata_brandt_photographer.html",
+    "currentPage": "baba_gyermek_fotok.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -2896,7 +2896,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>Örökítsd meg gyermeked őszinte mosolyát, kacaját, szépségét, egyéniségét!</i>",
+          "title": "<i>Örökítsd meg gyermeked őszinte mosolyát, kacaját, szépségét, egyéniségét csodaszép fotókon!</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -4090,7 +4090,115 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8249-gyerekfotozas-pecs-kidphoto-photographer.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8249-gyerekfotozas-pecs-kidphoto-photographer-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8320-gyerek-fotozas-pecs-fotos.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8320-gyerek-fotozas-pecs-fotos-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8254-gyerekfoto-pecs-fotos-kid-photography.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8254-gyerekfoto-pecs-fotos-kid-photography-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8314-gyermekfoto-pecs-childphoto-fotozas.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8314-gyermekfoto-pecs-childphoto-fotozas-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8377-gyerek-fotozas-pecs-kidphotography.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8377-gyerek-fotozas-pecs-kidphotography-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6h5a0040-gyerekportre-pecs-fotos-photograpy-child-msolat-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6h5a0040-gyerekportre-pecs-fotos-photograpy-child-msolat-1-614x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a4566-gyerekftotozas-pecs-kid-photographer-msolat.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a4566-gyerekftotozas-pecs-kid-photographer-msolat-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mg-0270-gyerekfoto-fotos-pecs-childphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-0270-gyerekfoto-fotos-pecs-childphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mg-2413-gyerekfotozas-pecs-kidphotographer.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2413-gyerekfotozas-pecs-kidphotographer-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -6399,6 +6507,18 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8236-szuletesnapi-foto-pecsifotos-birthdayphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8236-szuletesnapi-foto-pecsifotos-birthdayphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a8273-szuletesnapifoto-pecs-geburtstagsfoto-fotospecs.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a8273-szuletesnapifoto-pecs-geburtstagsfoto-fotospecs-613x920.jpg",
                 "alt": "",
@@ -6416,7 +6536,91 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8346-szuletesnapi-foto-pecs-birthdayphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8346-szuletesnapi-foto-pecs-birthdayphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8199-szuletesnapi-fotozas-pecs-birhdayphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8199-szuletesnapi-fotozas-pecs-birhdayphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8254-szuletesnapi-fotozas-pecs-geburtstagsfoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8254-szuletesnapi-fotozas-pecs-geburtstagsfoto-727x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8422-csaladi-fotozas-pecs-szuletesnapi-foto-birthdayphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8422-csaladi-fotozas-pecs-szuletesnapi-foto-birthdayphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8316-szuletesnapi-fotozas-pecs-birthdayphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8316-szuletesnapi-fotozas-pecs-birthdayphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1215-szuletesnapifotozas-pecs-birthdayphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1215-szuletesnapifotozas-pecs-birthdayphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1250-szuletesnapi-fotozas-pecs-birthdayphoto-fotos.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1250-szuletesnapi-fotozas-pecs-birthdayphoto-fotos-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -7603,6 +7807,30 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8174-csaldadi-fotozas-pecs-familyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8174-csaldadi-fotozas-pecs-familyphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8517-csaladifoto-pecs-fotos-familiefoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8517-csaladifoto-pecs-fotos-familiefoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -9875,7 +10103,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "title": "<i>Ha szeretnéd meglepni magad vagy a párod egy rólad készült portré sorozattal...&nbsp;</i>",
+          "title": "<i>Ha szeretnéd meglepni magad vagy a párod egy rólad készült csodás portrésorozattal...&nbsp;</i>",
           "meta": "",
           "_tags": [
             "Theme"
@@ -10565,7 +10793,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -11366,6 +11594,66 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a2771-businessportefoto-headshotphoto-linkedin-pecs.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a2771-businessportefoto-headshotphoto-linkedin-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/1-g85a4401-portrefotozas-pecs-portaitphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-g85a4401-portrefotozas-pecs-portaitphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2-6h5a9928-berta-aniko-portrefoto-pecs-fotos-portrait.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-6h5a9928-berta-aniko-portrefoto-pecs-fotos-portrait-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/3-g85a4387-portrefotozas-pecsifotos-portraitphotography.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-g85a4387-portrefotozas-pecsifotos-portraitphotography-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6-g85a4506-portrefotos-pecsphotographer.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6-g85a4506-portrefotos-pecsphotographer-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/4-6h5a0012-noiportrefoto-pecsifotos-potraitphotography.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-6h5a0012-noiportrefoto-pecsifotos-potraitphotography-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -12373,8 +12661,8 @@
               "size": 0
             }
           },
-          "title": "<i>NYÁRI&nbsp; CSALÁDI, GYERMEK, BABA, ÚJSZÜLÖTT, KISMAMA, PÁROS, PORTRÉ MŰTERMI VAGY SZABADTÉRI FOTÓZÁS PÉCSEN</i>",
-          "text": "Sok szeretettel várlak szabadtéri vagy stúdiós fotózásra a gyönyörű enteriőrrel berendezett pécsi stúdiómban, rengeteg kellékkel.&nbsp;<br>Tarts velem és lepd meg szeretteidet egy igazán gyönyörű és különleges fotósorozattal, mely különleges ajándékul is szolgál, valamint gazdagítsd magad és a családodat egy szuper élménnyel. Alkalmakra ajándékozz szeretteidnek fotózást, melyet ajándékutalvány formájában is átadhatsz. <br>Családi, gyermek, baba, újszülött, kismama, páros, portré, háziállat, keresztelő, esküvő&nbsp; témában várlak szeretettel. \n<br>\n<br>&nbsp;&nbsp;",
+          "title": "<i>ŐSZI &nbsp;CSALÁDI, GYERMEK, BABA, ÚJSZÜLÖTT, KISMAMA, PÁROS, PORTRÉ MŰTERMI VAGY SZABADTÉRI FOTÓZÁS PÉCSEN</i>",
+          "text": "Sok szeretettel várlak csodás őszi hangulatú szabadtéri vagy stúdiós fotózásra a gyönyörű enteriőrrel berendezett pécsi stúdiómban, rengeteg kellékkel.&nbsp;<br>Tarts velem és lepd meg szeretteidet egy igazán gyönyörű és különleges fotósorozattal, mely különleges ajándékul is szolgál, valamint gazdagítsd magad és a családodat egy szuper élménnyel. Alkalmakra ajándékozz szeretteidnek fotózást, melyet ajándékutalvány formájában is átadhatsz. <br>Családi, gyermek, baba, újszülött, kismama, páros, portré, háziállat, glamour, boudior, keresztelő, esküvő&nbsp; témában várlak szeretettel. \n<br>\n<br>&nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
           "_tags": [
             "Theme"
