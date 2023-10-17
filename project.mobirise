@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "karacsonyi_fotozas_pecs.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -12643,7 +12643,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/g85a7077-gyerekfoto-karacsonyifoto-pecs-christmasphoto-800x533.jpg",
+              "src": "@PROJECT_PATH@/assets/images/karcsonyi-montzs-2023-hirdets-fekv-msolat-2.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -14891,11 +14891,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/g85a7077-gyerekfoto-karacsonyifoto-pecs-christmasphoto.jpg",
+              "src": "@PROJECT_PATH@/assets/images/karcsonyi-montzs-2023-hirdets-fekv-msolat-2.jpg",
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
