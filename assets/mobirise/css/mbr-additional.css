@@ -1699,6 +1699,13 @@ section.form .container {
   font-size: 18px;
   font-family: 'Raleway', sans-serif;
 }
+#header3-f9 .mbr-section-title,
+#header3-f9 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-f9 .mbr-section-title I {
+  font-size: 36px;
+}
 #msg-box5-eo H3 {
   font-size: 24px;
   text-align: center;
