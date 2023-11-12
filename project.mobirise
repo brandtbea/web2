@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 550,
+    "uniqCompNum": 551,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -15178,7 +15178,7 @@
               "text-align": "center"
             },
             ".mbr-section-title I": {
-              "font-size": "25px"
+              "font-size": "24px"
             }
           },
           "_params": {
@@ -15201,8 +15201,8 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text1": "<p><b><i>Tedd igazán emlékezetessé a karácsonyt és szerezz egy csodás élményt!</i></b></p><p><b><i><br></i></b></p><p><i>A karácsonyi fotózás kiváló alkalmat ad arra, hogy összehozza a családot egy csodás élmény keretében és ajándékként fotósorozattal kedveskedjetek a nagyszülőknek, a rokonoknak, barátoknak, magatoknak, a párotoknak.\n</i></p><div>\n</div><div><br></div><div><b>Még tudsz jelentkezni a szabad helyekre.</b></div><div><b><br></b></div><div><b>Novembertől január első hetéig várlak</b> sok szeretettel karácsonyi fotózásra a <b>gyönyörű szép karácsonyi enteriőrrel berendezett pécsi stúdiómban.&nbsp;</b>A fotózáshoz rengeteg szép kellék és díszlet közül választhatsz, így garantáltan egyedi és megismételhetetlen fotókat készíthetünk.&nbsp;A stúdióm tavaly óta nemcsak kibűvült, hanem újabb bútorok és kellékek is találhatók benne..<b>Hétköznap és szombaton is tudtok jönni 10-18 óra között </b>a szabad időpontokra.&nbsp;</div><div>Ha karácsonyra szeretnéd a képeket, akkor kérlek, december elejéig gyertek, hogy karácsonyra elő tudjátok hívatni őket.</div><div><br></div><div>\n</div><div>A karácsonyi fotózás helyszínéül választhatod a saját műtermemet Pécsen, vagy szabadteret.&nbsp;</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><p></p>",
-          "text2": "<p><i style=\"font-size: 1.07rem;\">Az elkészült fotókból <b>te választhatod ki, hogy melyek kerüljenek retusálásra</b>. </i><span style=\"font-size: 1.07rem;\">A kiválasztott képekből </span><b style=\"font-size: 1.07rem;\">egyedi zenés digitális slideshow is kérhető</b><span style=\"font-size: 1.07rem;\">. A retusált képeket nagy felbontásban adom át, melyekből </span><i style=\"font-size: 1.07rem;\"><b>jó minőségű fali képeket is készítetthetsz</b></i><span style=\"font-size: 1.07rem;\">. </span><b style=\"font-size: 1.07rem;\">A nyers képek megvásárolhatóak. Több csomagajánlatból tudsz választani</b><span style=\"font-size: 1.07rem;\">, a <i>csomagajánlat <b>34.990,-Ft-tól kezdődik</b></i>.</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">Keress bizalommal, várlak Benneteket szeretettel!</span><br></p><p><br></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">Tarts velem, és lepd meg magad, és szeretteidet egy igazán gyönyörű és egyedi fotósorozattal, mely különleges ajándékul is szolgál, valamint gazdagítsd magad és a családodat egy fantasztikus élménnyel, és örök emlékkel.</span><br></p><p>Ha még nincs ötleted, hogy mit ajándékoz karácsonyra, akkor <b>ajándékozz fotózást, így egy igazán személyes és emlékezetes ajándékkal lepheted meg szeretteidet, melyet ajándékutalvány formájában a karácsonyfa alá is tehetsz</b>. Családi, gyermek, baba, újszülött, kismama, páros, portré témában várlak szeretettel.\n</p><p><br></p><p><br></p><p><br></p><p><br></p>",
+          "text1": "<p><b style=\"font-size: 1.07rem;\"><i>Még tudsz jelentkezni a szabad helyekre.</i></b></p><p><br></p><p><b><i>Tedd igazán emlékezetessé a karácsonyt és szerezz egy csodás élményt!</i></b></p><p><b><i><br></i></b></p><p><i>A karácsonyi fotózás kiváló alkalmat ad arra, hogy összehozza a családot egy csodás élmény keretében és ajándékként fotósorozattal kedveskedjetek a nagyszülőknek, a rokonoknak, barátoknak, magatoknak, a párotoknak.\n</i></p><div>\n</div><div><br></div><div><b>Novembertől január első hetéig várlak</b> sok szeretettel karácsonyi fotózásra a <b>gyönyörű szép karácsonyi enteriőrrel berendezett pécsi stúdiómban.&nbsp;</b>A fotózáshoz rengeteg szép kellék és díszlet közül választhatsz, így garantáltan egyedi és megismételhetetlen fotókat készíthetünk.&nbsp;A stúdióm tavaly óta nemcsak kibűvült, hanem újabb bútorok és kellékek is találhatók benne..<b>Hétköznap és szombaton is tudtok jönni 10-18 óra között </b>a szabad időpontokra.&nbsp;</div><div>Ha karácsonyra szeretnéd a képeket, akkor kérlek, december elejéig gyertek, hogy karácsonyra elő tudjátok hívatni őket.</div><div><br></div><div>\n</div><div>A karácsonyi fotózás helyszínéül választhatod a saját műtermemet Pécsen, vagy szabadteret.&nbsp;</div><div><br></div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><p></p>",
+          "text2": "<p><i style=\"font-size: 1.07rem;\">Az elkészült fotókból <b>te választhatod ki, hogy melyek kerüljenek retusálásra</b>. </i><span style=\"font-size: 1.07rem;\">A kiválasztott képekből </span><b style=\"font-size: 1.07rem;\">egyedi zenés digitális slideshow is kérhető</b><span style=\"font-size: 1.07rem;\">. A retusált képeket nagy felbontásban adom át, melyekből </span><i style=\"font-size: 1.07rem;\"><b>jó minőségű fali képeket is készítetthetsz</b></i><span style=\"font-size: 1.07rem;\">. </span><b style=\"font-size: 1.07rem;\">A nyers képek megvásárolhatóak. Több csomagajánlatból tudsz választani</b><span style=\"font-size: 1.07rem;\">, a <i>csomagajánlat <b>34.990,-Ft-tól kezdődik</b></i>.</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">Keress bizalommal, várlak Benneteket szeretettel!</span><br></p><p><br></p><p><span style=\"font-size: 1.07rem;\">Tarts velem, és lepd meg magad, és szeretteidet egy igazán gyönyörű és egyedi fotósorozattal, mely különleges ajándékul is szolgál, valamint gazdagítsd magad és a családodat egy fantasztikus élménnyel, és örök emlékkel.</span><br></p><p>Ha még nincs ötleted, hogy mit ajándékoz karácsonyra, akkor <b>ajándékozz fotózást, így egy igazán személyes és emlékezetes ajándékkal lepheted meg szeretteidet, melyet ajándékutalvány formájában a karácsonyfa alá is tehetsz</b>. Családi, gyermek, baba, újszülött, kismama, páros, portré témában várlak szeretettel.\n</p><p><br></p><p><br></p><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -15211,16 +15211,73 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": 0,
+            "paddingBottom": "1",
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9296-karacsonyi-fotostudio-christmas-photostudio.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9296-karacsonyi-fotostudio-christmas-photostudio-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9238-karacsonyi-fotostudio-pecs-photostudio-photographer.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9238-karacsonyi-fotostudio-pecs-photostudio-photographer-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9278-karacsonyi-fotostudio-pecs-photostudio-christmas.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9278-karacsonyi-fotostudio-pecs-photostudio-christmas-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9253-karacsonyi-muterem-pecs-photostudio-christmas-photography.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9253-karacsonyi-muterem-pecs-photostudio-christmas-photography-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
           },
-          "text": "A karácsonyi fotózás csomagajánlata a pécsi saját stúdiómban 34,990,-Ft-tól kezdődik.. Kérlek írd le, hogy mikor és hányan jönnétek és milyen témában szeretnétek karácsonyi fotózást, és elküldöm a csomagajánlataimat.",
+          "articleLayout": false,
+          "allItem": "All",
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_anchor": "content1-f2"
+          "_name": "gallery1",
+          "_anchor": "gallery1-fa"
         },
         {
           "_inherit": "testimonials1",
@@ -15391,7 +15448,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><br></p><p>A fotózás alatt több száz nyers kép készül, melyekből te válaszhatod ki, hogy melyek kerüljenek retusálásra. A nyers képek nem képezik az ajánlat részét, azok megvásárolhatók. Az fotózás időtartama minden esetben tartalmazza az átöltözési, etetési időket. Ha esetleg 6 főnél többen jönnétek, akkor kérlek szépen kérj egyedi árajánlatot.</p>",
+          "text": "<p><br></p><p>A fotózás alatt több száz nyers kép készül, melyekből te válaszhatod ki, hogy melyek kerüljenek retusálásra. A nyers képek nem képezik az ajánlat részét, azok megvásárolhatók. Az fotózás időtartama minden esetben tartalmazza az átöltözési, etetési stb. időket. Ha esetleg 6 főnél többen jönnétek, akkor kérlek szépen kérj egyedi árajánlatot. Kérlek írd le, hogy mikor és hányan jönnétek és milyen témában szeretnétek karácsonyi fotózást, és elküldöm a csomagajánlataimat.</p>",
           "_tags": [
             "Theme"
           ],
@@ -15541,44 +15598,20 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a0294-gyerekfoto-karacsonyifoto-christmasphoto-pecs-2000x3000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a0294-gyerekfoto-karacsonyifoto-christmasphoto-pecs-2000x3000-800x1200.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-1990-edita-gyerkocfoto-childphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-1990-edita-gyerkocfoto-childphoto-800x1200.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-1981-edit-3a-macskafoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-1981-edit-3a-macskafoto-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a9216-karacsonyi-babafoto-christmas-babyphoto-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a9216-karacsonyi-babafoto-christmas-babyphoto-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0294-gyerekfoto-karacsonyifoto-christmasphoto-pecs-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0294-gyerekfoto-karacsonyifoto-christmasphoto-pecs-2000x3000-800x1200.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -15615,6 +15648,30 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a8083-csaladifoto-pecs-familyphoto.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a8083-csaladifoto-pecs-familyphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-1990-edita-gyerkocfoto-childphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1990-edita-gyerkocfoto-childphoto-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-1981-edit-3a-macskafoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1981-edit-3a-macskafoto-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
