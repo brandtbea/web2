@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "karacsonyi_fotozas_pecs.html",
+    "currentPage": "eskuvo_keresztelo_fenykepezes.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -14431,18 +14431,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/mg-1072-keresztelofoto-christeningphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-1072-keresztelofoto-christeningphoto-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/mg-1085-keresztelo-christeningphoto.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-1085-keresztelo-christeningphoto-800x533.jpg",
                 "alt": "",
@@ -14457,6 +14445,30 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/mg-1050-edit-keresztelo-christening.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-1050-edit-keresztelo-christening-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1798-keresztelo-fotozas-pecs-christeningphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1798-keresztelo-fotozas-pecs-christeningphoto-614x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mg-1072-keresztelofoto-christeningphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-1072-keresztelofoto-christeningphoto-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -14496,7 +14508,19 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1765-keresztelofotozas-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1765-keresztelofotozas-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -14527,6 +14551,18 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1917-keresztelo-fotozas-christeningphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1917-keresztelo-fotozas-christeningphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/mg-2630-eskuvofoto-weddingphoto.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-2630-eskuvofoto-weddingphoto-800x533.jpg",
                 "alt": "",
@@ -14541,30 +14577,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/img-1864-eskuvofoto-eskuvoicsokor-marriagephoto-pecs-2000x3000.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-1864-eskuvofoto-eskuvoicsokor-marriagephoto-pecs-2000x3000-800x1200.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a1765-keresztelofotozas-pecs.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a1765-keresztelofotozas-pecs-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a3280-keresztelofotozas-pecs.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a3280-keresztelofotozas-pecs-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -14611,6 +14623,30 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1752-kersztelofoto-pecsifotos-christenig-photo.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1752-kersztelofoto-pecsifotos-christenig-photo-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1771-keresztelo-fotozas-pecs-christeningphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1771-keresztelo-fotozas-pecs-christeningphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a0231-keresztelofotozas-pecs-christening.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a0231-keresztelofotozas-pecs-christening-800x533.jpg",
                 "alt": "",
@@ -14623,8 +14659,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a1752-kersztelofoto-pecsifotos-christenig-photo.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a1752-kersztelofoto-pecsifotos-christenig-photo-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a3280-keresztelofotozas-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a3280-keresztelofotozas-pecs-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -14689,6 +14725,30 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1927-keresztelo-fotozas-pecs-christeningphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1927-keresztelo-fotozas-pecs-christeningphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1761-keresztelo-fotozas-pecs-christeningphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1761-keresztelo-fotozas-pecs-christeningphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
               }
             ]
           },
@@ -14767,8 +14827,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "A nagy nap Rólatok szól, ahol kizárólag csak ti játsszátok a főszerepet, ezért a fotózás során minden pillanatban arra törekszem, hogy az egyéniségeteket, az egyediségeteket, az egymás iránti szeretetetek meghitt pillanatait is belecsempésszem a történetetekbe, és ezzel különlegessé és felejthetetlenné tegyem a közös életetek első pillanatait, amely majd a későbbiekben gyermekeitek legfőbb örökségévé is válik.",
-          "text2": "A kisesküvőknek, illetve azoknak is szeretnék kedvezni, akik nem egész napra szeretnének egy fotóst, hanem egy-egy számukra fontos eseménynek a megörökítését szeretnék csodás fotókon viszontlátni. A szívemhez a legközelebb a kreatív fotózás áll, így lehetőséged van például csak esküvő kreatív fotózást választani. Továbbá szívesen készítek nektek az előkészületekről, illetve a szertartásokról is életre szóló emlékeket.&nbsp;&nbsp;",
+          "text1": "<p><b>Esküvő fotózás</b></p><p><b><br></b></p><p>A nagy nap Rólatok szól, ahol kizárólag csak ti játsszátok a főszerepet, ezért a fotózás során minden pillanatban arra törekszem, hogy az egyéniségeteket, az egyediségeteket, az egymás iránti szeretetetek meghitt pillanatait is belecsempésszem a történetetekbe, és ezzel különlegessé és felejthetetlenné tegyem a közös életetek első pillanatait, amely majd a későbbiekben gyermekeitek legfőbb örökségévé is válik.</p><p><br></p><p><br></p><p><b>Keresztelő fotózás\n</b></p><p>\n</p><p><br></p><p>A keresztelő egy fontos esemény a keresztény családok életében, amely összehozza a családot. Így a keresztelő fotózás egy emlékezetes módja annak, hogy megörökítsük ezt a különleges napot, és biztosan olyan fényképeket kapsz, amelyeket a családod és a rokonaid évtizedekig őriznek majd. \n</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+          "text2": "<p><br></p><p><br></p><p>A kisesküvőknek, illetve azoknak is szeretnék kedvezni, akik nem egész napra szeretnének egy fotóst, hanem egy-egy számukra fontos eseménynek a megörökítését szeretnék csodás fotókon viszontlátni. A szívemhez a legközelebb a kreatív fotózás áll, így lehetőséged van például csak esküvő kreatív fotózást választani. Továbbá szívesen készítek nektek az előkészületekről, illetve a szertartásokról is életre szóló emlékeket.&nbsp;&nbsp;</p><p><br></p><p><br></p><p><br></p><p><br></p><p>A keresztelő fotózás során dokumentálom a szertartás minden fontos pillanatát. A fényképek megmutatják a gyermeket, a szülőket, a keresztszülőket és a többi résztvevőt. A szertartás végén csoportképek, és a rokonokkal közös képek is készülnek a helyszínen.</p><p><br></p><p>Keress bizalommal!</p><p><br></p><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
