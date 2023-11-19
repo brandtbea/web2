@@ -15724,6 +15724,102 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9155-karacsonyi-fotozas-csaladi-pecs-christmasphoto-family.jpg.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9155-karacsonyi-fotozas-csaladi-pecs-christmasphoto-family.jpg-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9220-karacsonyi-fotozas-pecs-christmasphoto-msolat.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9220-karacsonyi-fotozas-pecs-christmasphoto-msolat-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8908-karacsonyi-fotozas-pecs-christmasphotoshoot.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8908-karacsonyi-fotozas-pecs-christmasphotoshoot-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9027-karacsonyi-fotozas-pecs-csaladi-christmasphoto-msolat.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9027-karacsonyi-fotozas-pecs-csaladi-christmasphoto-msolat-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8977-karacsonyi-fotozas-pecs-christmas-photo.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8977-karacsonyi-fotozas-pecs-christmas-photo-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9151-karacsonyi-fotos-pecs-photographer-christmas.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9151-karacsonyi-fotos-pecs-photographer-christmas-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8951-karacsonyi-fotozas-pecs-christmasphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8951-karacsonyi-fotozas-pecs-christmasphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9104-karacsonyi-csaladi-fotozas-pecs-christmas-familyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9104-karacsonyi-csaladi-fotozas-pecs-christmas-familyphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
