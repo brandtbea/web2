@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "glamour_boudoir_fotozas_photography_pecspage36.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 552,
+    "uniqCompNum": 554,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -1276,7 +1276,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text1": "<div><i><b>…egy új élet kezdete... az első mosoly... egy csöpp kis test... apró kis kezek és talpak.... babaillat...</b></i></div><div><br></div><div> \n</div><div>Egy újszülött baba érkezése a családba az egyik legcsodálatosabb dolog a világon, egy hamar elillanó és soha vissza nem térő pár nap. Ezért az újszülött fotózás különösen hálás és megtisztelő feladat a számomra.</div><div><b><br></b></div><div><b>A fényképezésre a</b> <b>legideálisabb időszak a 4-14 nap</b>. Ilyenkor a babák még aluszékonyak, és nem mozognak annyit. </div><div><b><br></b></div><div><b>A fotózást a kicsi hangulatához, kényelméhez és biztonságához igazítom. Csak biztonságos beállításokkal dolgozom. Végig ott lehettek mindketten a baba mellett, segíthettek</b> az öltöztetésben, a beállításokban, bármikor megetetheted, felveheted, folyamatosan figyelek a baba igényeire. </div><div><b><br></b></div><div><b>Puha pamut és kötött ruhákat és sapkákat, hajpántokat használok</b>, amelyek nem allergizálnak. Ha általad hozott babaruhában szeretnéd a fényképezést, az is természetesen lehetséges. </div><div><br></div><div>A fotózás helyszínéül választhatod <b>Pécsen a stúdiómat, </b>ahol otthonos, meleg, tiszta környezetben több fajta kellék közül választhatsz.</div><div><br></div>",
+          "text1": "<div><i><b>…egy új élet kezdete... az első mosoly... egy csöpp kis test... apró kis kezek és talpak.... babaillat...</b></i></div><div><br></div><div> \n</div><div>Egy újszülött baba érkezése a családba az egyik legcsodálatosabb dolog a világon, egy hamar elillanó és soha vissza nem térő pár nap. Ezért az újszülött fotózás különösen hálás és megtisztelő feladat a számomra.</div><div><b><br></b></div><div><b>A fényképezésre a</b> <b>legideálisabb időszak a 4-14 nap</b>. Ilyenkor a babák még aluszékonyak, és nem mozognak annyit. </div><div><b><br></b></div><div><b>A fotózást a kicsi hangulatához, kényelméhez és biztonságához igazítom. Csak biztonságos beállításokkal dolgozom. Végig ott lehettek mindketten a baba mellett, segíthettek</b> az öltöztetésben, a beállításokban, bármikor megetetheted, felveheted, folyamatosan figyelek a baba igényeire. </div><div><b><br></b></div><div><b>Puha pamut és kötött ruhákat és sapkákat, hajpántokat használok</b>, amelyek nem allergizálnak. Ha általad hozott babaruhában szeretnéd a fényképezést, az is természetesen lehetséges. </div><div><br></div><div>A fotózás helyszínéül választhatod <b>Pécsen a fotóstúdiómat, </b>ahol otthonos, meleg, tiszta környezetben több fajta kellék közül választhatsz.</div><div><br></div>",
           "text2": "<div><br></div><div><br></div><div><br></div><div><i>Egyedi, letisztult fotókat készítek, amelynek a középpontjában a pici babátok szépsége és egyedisége áll.</i><br></div><div><i><br></i></div><div><i>\n</i></div><div><b>Természetesen családi és testvér képeket is szívesen készítek rólatok.</b> A családi fotók számomra mindig nagyon fontos részei az újszülöttfotózásnak, hiszen ezek lesznek később gyermekeitek legnagyobb kincsei.\n</div><div><b><br></b></div><div><b>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra.</b> </div><div><br></div><div>A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető. </b></div><div><b><br></b></div><div><b>A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készítetthetsz .&nbsp;</b></div><div><br></div><div>Ha szeretnéd ezt a gyorsan múló különlegesen törékeny időszakot megörökítettni, akkor kérlek szépen, <b>ha lehet már a várható születés időpontja előtt egyeztessünk</b>, illetve a szülést követően is.\n</div><div><br></div><div>Várlak Benneteket szeretettel, keress bizalommal!\n</div><div><br></div><div>\n</div><div><br></div>",
           "_tags": [
             "Theme"
@@ -1288,6 +1288,37 @@
               "font-size": "19px"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "Az újszülött fotózás csomagajánlata a pécsi saját stúdiómban 34,900,-Ft-tól kezdődik, mely családi és testvér fotókat is tartalmaz. Kérlek írd le, hogy mikor és hányan jönnétek és elküldöm a csomagajánlataimat.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-eg"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgColor": "#efefef"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni</a>           ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "buttons1-4e"
         },
         {
           "_inherit": "menu",
@@ -1551,37 +1582,6 @@
               "font-size": "18px"
             }
           }
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "Az újszülött fotózás csomagajánlata a pécsi saját stúdiómban 34,900,-Ft-tól kezdődik, mely családi és testvér fotókat is tartalmaz. Kérlek írd le, hogy mikor és hányan jönnétek és elküldöm a csomagajánlataimat.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-eg"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni</a>           ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "18px"
-            }
-          },
-          "_anchor": "buttons1-4e"
         },
         {
           "_params": {
@@ -5208,19 +5208,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-1857a-csaladifoto-familyphtot.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-1857a-csaladifoto-familyphtot-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Creative",
@@ -5253,18 +5241,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/img-1973-edita-karacsonyi-gyerekfoto.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-1973-edita-karacsonyi-gyerekfoto-800x1200.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-1882a-apa-lanya-foto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-1882a-apa-lanya-foto-800x1200.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -5436,7 +5412,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -13023,7 +12999,7 @@
             "paddingBottom": "3",
             "bgColor": "#ffffff"
           },
-          "text": "<p><b>Szeretnéd az élet legcsodálatosabb pillanatait megörökíteni,</b> mint a babavárást, az újszülöttek első mosolyát, a babák, gyerekek őszinte kacaját, az egymás iránti szeretet meghitt pillanatait,<b> egyedi, érzelemmel teli csodás fotókon? </b></p><p><b><i>Kismama, baba, gyermek, újszülött, családi, portré, páros, glamour, boudoir, keresztelő, jegyes, esküvői, háziállat enteriőr és ingatlan fotógráfus vagyok.</i> </b>A fényképezés élményét egy kellemes program keretében a saját műterműnkben, és szabadtéren is megtapasztalhatod velünk Pécsen és környékén. Előre is köszönöm, hogy megtekinted a honlapomat. Keress bizalommal! Várlak szeretettel.</p>",
+          "text": "<p><b>Szeretnéd az élet legcsodálatosabb pillanatait megörökíteni,</b> mint a babavárást, az újszülöttek első mosolyát, a babák, gyerekek őszinte kacaját, az egymás iránti szeretet meghitt pillanatait,<b> egyedi, érzelemmel teli csodás fotókon? </b></p><p><b><i>Kismama, baba, gyermek, újszülött, családi, portré, páros, glamour, boudoir, keresztelő, jegyes, esküvői, háziállat enteriőr és ingatlan fotógráfus vagyok.</i> </b>A fényképezés élményét egy kellemes program keretében a saját műterműnkben, és szabadtéren is megtapasztalhatod velünk Pécsen, Szekszárdon és környékén. Előre is köszönöm, hogy megtekinted a honlapomat. Keress bizalommal! Várlak szeretettel.</p>",
           "_tags": [
             "Theme"
           ],
@@ -13036,6 +13012,70 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/g85a4565-portrefotozas-pecs-portraitphoto-1.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<i>VALENTIN NAPI PÁROS, PORTRÉ, GLAMOUR, BOUDOIR MŰTERMI ÉS SZABADTÉRI FOTÓZÁS PÉCSEN</i>",
+          "text": "<br>Sok szeretettel várlak Valentin napi fotózásra a saját pécsi pécsi stúdiómban, vagy szabadtéren.<br>Tarts velem és lepd meg párodat egy igazán gyönyörű és különleges fotósorozattal rólad, illetve kettőtökről, amely különleges ajándékul szolgál, valamint gazdagítsd magad és a párodat egy szép élménnyel. Ha még nincs ötleted, hogy mit ajándékoz szeretettednek Valentin napra, akkor ajándékozz fotózást, melyet ajándékutalvány formájában is átadhatsz. Várlak szeretettel, és remélem hamarosan találkozunk.&nbsp;<br>\n<br>&nbsp;&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "24px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            "I": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "msg-box5-fd"
         },
         {
           "_params": {
@@ -13587,7 +13627,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/g85a0324-karacsonyifotozas-gyerekfotozas-pecs-christmas-childphoto-2000x3000.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a7053-baba-gyermekfotozas-pecs-pecsifotos-613x920.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -13645,7 +13685,7 @@
               "active": true
             }
           },
-          "title1": "Karácsonyi fotózás",
+          "title1": "Húsvéti, anyáknapi fotózás",
           "subtitle1": "",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title2": "Ingatlan/enteriőr/épület fotózás",
@@ -13663,7 +13703,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"karacsonyi_fotozas_pecs.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"husveti_csalad_gyermek_fotozas_pecs.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM</a>",
           "button2": "<a data-app-btn=\"true\" href=\"ingatlan_enterior_epuletfotozas_pecs_propertyphoto.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM</a>",
           "button3": "<a data-app-btn=\"true\" href=\"babafotozas_pecs_csaladifotozas_babyphoto.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM</a>",
           "button4": "<a data-app-btn=\"true\" href=\"business_uzleti_portre_fotozas_oneletrajz_cv_pecs.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM</a>",
@@ -14042,6 +14082,70 @@
             }
           },
           "_anchor": "footer1-y"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/g85a4565-portrefotozas-pecs-portraitphoto-1.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<i>VALENTIN NAPI PÁROS, PORTRÉ MŰTERMI ÉS SZABADTÉRI FOTÓZÁS PÉCSEN</i>",
+          "text": "<br><br><br>Sok szeretettel várlak Valentin napi fotózásra a saját pécsi pécsi stúdiómban, vagy szabadtéren.<br>Tarts velem és lepd meg párodat egy igazán gyönyörű és különleges fotósorozattal rólad, illetve kettőtökről, amely különleges ajándékul szolgál, valamint gazdagítsd magad és a párodat egy szép élménnyel. Ha még nincs ötleted, hogy mit ajándékoz szeretettednek Valentin napra, akkor ajándékozz fotózást, melyet ajándékutalvány formájában is átadhatsz. Várlak szeretettel, és remélem hamarosan találkozunk.&nbsp;<br>\n<br>&nbsp;&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "24px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            "I": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "msg-box5-fc"
         }
       ]
     },
@@ -17897,7 +18001,7 @@
               "text-align": "center"
             },
             ".mbr-section-title I": {
-              "font-size": "22px"
+              "font-size": "21px"
             }
           },
           "_params": {
@@ -17906,7 +18010,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "title": "<i>HÚSVÉTI/ANYÁKNAPI CSALÁDI, BABA, GYERMEK,&nbsp; ÚJSZÜLÖTT, KISMAMA, PÁROS, PORTRÉ MŰTERMI ÉS SZABADTÉRI</i><br><i>FOTÓZÁS PÉCSEN! </i><br><i>&nbsp;<span style=\"font-weight: normal;\">Lepd meg magad és szeretteidet egy csodálatos sorozattal!</span></i>",
+          "title": "<i>HÚSVÉTI/ANYÁKNAPI CSALÁDI, BABA, GYERMEK,&nbsp; ÚJSZÜLÖTT, KISMAMA, PÁROS, PORTRÉ MŰTERMI ÉS SZABADTÉRI&nbsp;</i><i>FOTÓZÁS PÉCSEN és SZEKSZÁRDON! </i><br><i><br></i><br><i>&nbsp;<span style=\"font-weight: normal;\">Lepd meg magad és szeretteidet egy csodálatos sorozattal!</span></i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -18579,7 +18683,7 @@
               "size": 0
             }
           },
-          "title": "<i>PÁROS ÉS JEGYES MŰTERMI ÉS SZABADTÉRI FOTÓZÁS PÉCSEN</i>",
+          "title": "<i>PÁROS és JEGYES MŰTERMI ÉS SZABADTÉRI FOTÓZÁS PÉCSEN és SZEKSZÁRD &nbsp;KÖRNYÉKÉN</i>",
           "text": "<i>…az egymás iránti szeretet meghitt pillanatai.</i>..&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -27445,7 +27549,7 @@
             }
           },
           "title": "",
-          "text": "A döntéseddel nemcsak fotókat vásárolsz, hanem generációknak szóló örök emlékeket, soha vissza nem térő pillanatokat, csodás élményeket. Ebben szeretnék neked segíteni, hogy egy értékteremtő szolgáltatást nyújtsak, hogy egy szuper élménnyel, és gyönyörű szép fotókkal térjél haza. \n<br>\n<br><i>Miért engem válassz?\n<br></i>\n<br><b>Saját fotóstúdióm van Pécsen</b><br>\n<br>A fotózás helyszínéül választhatod Pécsen a saját jól felszerelt stúdiómat, ahol otthonos környezetben több fajta háttér, kellék közül választhatsz, illetve szépen berendezve is választhatod a műtermemet, ingyenes parkolási lehetőséggel, vagy a természetet, a szép rózsás, levendulás udvarunkat, mezőt, tópartot, erdőt, szőlőültetvényt, pécsi szabadtéri helyszíneket stb. Egyéb helyszínt is választhatsz megegyezés szerint.\n<br>Saját stúdiós és kültéri fotózást a saját műtermünkben és&nbsp; udvarunkban kombinálhatod egyszerre.<br><br>",
+          "text": "A döntéseddel nemcsak fotókat vásárolsz, hanem generációknak szóló örök emlékeket, soha vissza nem térő pillanatokat, csodás élményeket. Ebben szeretnék neked segíteni, hogy egy értékteremtő szolgáltatást nyújtsak, hogy egy szuper élménnyel, és gyönyörű szép fotókkal térjél haza. \n<br>\n<br><i>Miért engem válassz?\n<br></i>\n<br><b>Saját fotóstúdióm van Pécsen</b><br>\n<br>A fotózás helyszínéül választhatod Pécsen a saját jól felszerelt stúdiómat, ahol otthonos környezetben több fajta háttér, kellék közül választhatsz, illetve szépen berendezve is választhatod a műtermemet, ingyenes parkolási lehetőséggel, vagy a természetet, a szép rózsás, levendulás udvarunkat, mezőt, tópartot, erdőt, szőlőültetvényt, pécsi, szekszárdi szabadtéri helyszíneket stb. Egyéb helyszínt is választhatsz megegyezés szerint.\n<br>Saját stúdiós és kültéri fotózást a saját műtermünkben és&nbsp; udvarunkban kombinálhatod egyszerre.<br><br>",
           "_tags": [
             "Theme"
           ],
@@ -27622,7 +27726,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<i><b>Ügyfélbarát rugalmasság</b></i><br><i><b>\n</b></i><br>Az <i>időt rugalmasan kezelem</i>, így biztos lehetsz benne, hogy rólad, a gyermekeidről, rólatok, valóban őszinte, természetes, érzelem teli mosolygós képek készülnek.\n<br><i>Hétköznap és szombaton is, napközben, és munkaidő után is tudsz hozzám jönni fotózásra.\n</i><br>Egy fotózás alkalmával t<i>öbb száz nyersképet készítek,</i> amiből <i>te választhatod ki,</i> hogy melyek kerüljenek retusálásra. \n<br>A nyers képek egyben megvásárolhatóak.<br><br><b><i>Ajándékutalvány\n<br></i></b>\n<br>Egyénre szabott egyedi ajándékutalványt tudsz vásárolni szeretteidnek. \n<br><br><i><b>Biztonság\n</b><br></i>\n<br>Az elsődleges szempont a biztonság, így csak biztonságos beállításokkal dolgozom.\n<br><br>\n<br>Előre is köszönöm, hogy megtekinted a honlapomat, ha szeretnél több fotót látni, és az aktuális akciókról, nyereményjátékokról értesülni, akkor, kérlek szépen iratkozz fel a hírlevelemre, kövess a Facebook és Instagram oldalamon is!<br><i>Keress bizalommal! Remélem, hamarosan találkozunk.&nbsp;&nbsp;</i>",
+          "text": "<i><b>Ügyfélbarát rugalmasság</b></i><br><i><b>\n</b></i><br>Az <i>időt rugalmasan kezelem</i>, így biztos lehetsz benne, hogy rólad, a gyermekeidről, rólatok, valóban őszinte, természetes, érzelem teli mosolygós képek készülnek.\n<br><i>Hétköznap és szombaton is, napközben, és munkaidő után is tudsz hozzám jönni fotózásra.\n</i><br>Egy fotózás alkalmával t<i>öbb száz nyersképet készítek,</i> amiből <i>te választhatod ki,</i> hogy melyek kerüljenek retusálásra. \n<br>A nyers képek egyben megvásárolhatóak.<br><br><b><i>Ajándékutalvány\n<br></i></b>\n<br>Egyénre szabott egyedi ajándékutalványt tudsz vásárolni szeretteidnek. \n<br><br><i><b>Biztonság\n</b><br></i>\n<br>Az elsődleges szempont a biztonság, így csak biztonságos beállításokkal dolgozom.\n<br><br>\n<br>Előre is köszönöm, hogy megtekinted a honlapomat, ha szeretnél több fotót látni, és az aktuális akciókról, nyereményjátékokról értesülni, akkor, kérlek szépen iratkozz fel a hírlevelemre, kövess a Facebook, Instagram és Pinterest oldalamon is!<br><br><i>Keress bizalommal! Remélem, hamarosan találkozunk.&nbsp;&nbsp;</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -28689,7 +28793,7 @@
               "size": 0
             }
           },
-          "title": "<i>KUTYA, MACSKA, HÁZIÁLLAT FOTÓZÁS PÉCSEN</i>",
+          "title": "<i>KUTYA, MACSKA, HÁZIÁLLAT FOTÓZÁS PÉCSEN és SZEKSZÁRDON</i>",
           "text": "<i>...kedvenceiddel egy fotón...</i><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -28748,7 +28852,7 @@
               "text-align": "center"
             },
             ".mbr-section-title I": {
-              "font-size": "22px"
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -28757,7 +28861,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "title": "<i>KUTYA, CICA ÉS HÁZIÁLLAT MŰTERMI ÉS SZABADTÉRI</i><br><i>FOTÓZÁSA PÉCSEN! </i><br><i>&nbsp;<span style=\"font-weight: normal;\">Lepd meg magad a háziállatodról egy csodálatos sorozattal!</span></i>",
+          "title": "<i>KUTYA, CICA és HÁZIÁLLAT MŰTERMI és SZABADTÉRI&nbsp;</i><i>FOTÓZÁSA PÉCSEN és SZEKSZÁRDON! </i><br><br><i>&nbsp;<span style=\"font-weight: normal;\">Lepd meg magad a háziállatodról egy csodálatos sorozattal!</span></i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -29285,8 +29389,8 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text1": "<p><b style=\"font-size: 1.07rem;\">A kutyus, cica fotózása</b><span style=\"font-size: 1.07rem;\">&nbsp;kiváló alkalmat ad arra, hogy közös képeitek is készüljenek kedvenceitekkel, mind az újszülött, baba, gyermek, családi, kismama, páros, portré</span><i style=\"font-size: 1.07rem;\">&nbsp;</i><span style=\"font-size: 1.07rem;\">fotózások során is.</span><br></p><div><br></div><div>A fotózáshoz rengeteg kellék és díszlet közül választhatsz.\n</div><div>A fotózás helyszínéül választhatod a saját műtermemet Pécsen, bérelt stúdiót vagy szabadteret, a gyönyörű virágos udvarunkat, mezőt, erdőt, tópartot stb.. Saját stúdiós és saját stúdiónkban történő fotózásra is lehetőség van egyszerre. \n</div><div><br></div><div>\n</div><p></p>",
-          "text2": "<p><br></p><div>Az elkészült fotókból <b>te választhatod ki, hogy melyek kerüljenek retusálásra.</b> </div><div>A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető.</b> A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készítetthetsz . </div><div> </div><div><br></div><div>Várlak Benneteket szeretettel!</div><p></p>",
+          "text1": "<p><b style=\"font-size: 1.07rem;\">A kutyus, cica fotózása</b><span style=\"font-size: 1.07rem;\">&nbsp;kiváló alkalmat ad arra, hogy közös képeitek is készüljenek kedvenceitekkel, mind az újszülött, baba, gyermek, családi, kismama, páros, portré</span><i style=\"font-size: 1.07rem;\">&nbsp;</i><span style=\"font-size: 1.07rem;\">fotózások során is.</span><br></p><div><br></div><div>A fotózáshoz rengeteg kellék és díszlet közül választhatsz.\n</div><div>A fotózás helyszínéül választhatod a saját műtermemet Pécsen, bérelt stúdiót vagy szabadteret, a gyönyörű virágos udvarunkat, mezőt, erdőt, tópartot stb.. Saját stúdiós és saját udvarunkban történő fotózásra is lehetőség van egyszerre. \n</div><div><br></div><div>\n</div><p></p>",
+          "text2": "<p><span style=\"font-size: 1.07rem;\">Az elkészült fotókból </span><b style=\"font-size: 1.07rem;\">te választhatod ki, hogy melyek kerüljenek retusálásra.</b><br></p><div>A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető.</b> </div><div><br></div><div>A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készítetthetsz . </div><div> </div><div><br></div><div>Keress bizalommal! Várlak Benneteket szeretettel!</div><p></p>",
           "_tags": [
             "Theme"
           ],
@@ -30127,6 +30231,37 @@
           "_anchor": "content6-dg"
         },
         {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "A baba fotózás csomagára a pécsi saját stúdiómban 34,900,-Ft-tól kezdődik, mely családi és testvér fotókat is tartalmaz. Kérlek írd le, hogy mikor és hányan jönnétek, hol szeretnétek a fotózást, és elküldöm a csomagajánlataimat.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-eh"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgColor": "#efefef"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni</a>           ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "buttons1-dn"
+        },
+        {
           "_inherit": "menu",
           "_params": {
             "logo": true,
@@ -30391,37 +30526,6 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "A baba fotózás csomagára a pécsi saját stúdiómban 34,900,-Ft-tól kezdődik, mely családi és testvér fotókat is tartalmaz. Kérlek írd le, hogy mikor és hányan jönnétek, hol szeretnétek a fotózást, és elküldöm a csomagajánlataimat.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-eh"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni</a>           ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "18px"
-            }
-          },
-          "_anchor": "buttons1-dn"
-        },
-        {
-          "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -30517,7 +30621,7 @@
             }
           },
           "title": "<i>ÜZLETI /BUSINESS PORTRÉ, HEADSHOT FOTÓ, ÖNÉLETRAJZ /CV , LINKEDIN, WEBLAP, PORTFÓLIÓ , ARCULAT FOTÓZÁS PÉCSEN MŰTEREMBEN ÉS SZABADTÉREN</i>",
-          "text": "<i>...minden ember egy történet</i>..<br>...bizalom....<br>....elismertség...<br>...siker...<br><br>",
+          "text": "<i>...Be unique.</i>..<br>...<i>Be different...<br>...Be authentic...<br>....Be yourself....<br>...Be successful.</i>..<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -32231,7 +32335,7 @@
             "bgColor": "#efefef"
           },
           "text1": "<p>A glamour ragyogást, varázslatos szépséget jelent. Számomra minden ember egy történet. Szeretem meglátni és kifejezni a nőben lévő egyediséget, a belső sugárzó szépségét, valamint a szemében a lélek tükrének a ragyogását csodás fotókon.</p><p>A boudoir jelentése női hálószoba, szalon öltöző. A boudoir fotózás bepillantást enged a nő bájába, szépségébe, csábításába, titokzatosságába, sejtelmességébe, varázslatába.&nbsp;&nbsp;</p><p>\n</p><div><br></div><div>\n</div><div>Minden nő életében eljön az a pillanat, amikor úgy érzi, hogy szeretné magát, illetve a párját meglepni egy gyönyörű szép fotósorozattal.</div><div><br></div><p></p>",
-          "text2": "A portré <b>fotózás helyszínéül választhatod a saját műtermemet Pécsen, bérelt stúdiót vagy a természetet</b>, a gyönyörű virágos udvarunkat, erdőt, mezőt, tópartot stb..&nbsp;<b>Stúdiós és kültéri fotózásra is lehetőség van egyszerre a saját udvarunkban.\n</b><div>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra. A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető. </b>A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készíttethetsz.</div><div>Minden fotózásba újdonságot viszek bele, és az egyediség varázsára törekszem.</div><div> \n</div><div>Keress bizalommal, várlak szeretettel!</div>",
+          "text2": "A glamour/boudoir&nbsp;<b>fotózás helyszínéül választhatod a saját műtermemet Pécsen, bérelt stúdiót vagy a természetet</b>, a gyönyörű virágos udvarunkat, erdőt, mezőt, tópartot stb..&nbsp;<b>Stúdiós és kültéri fotózásra is lehetőség van egyszerre a saját udvarunkban.\n</b><div>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra. A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető. </b>A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készíttethetsz.</div><div>Minden fotózásba újdonságot viszek bele, és az egyediség varázsára törekszem.</div><div> \n</div><div>Keress bizalommal, várlak szeretettel!</div>",
           "_tags": [
             "Theme"
           ],

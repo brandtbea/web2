@@ -490,6 +490,9 @@ section.form .container {
 #content6-45 .lead DIV {
   font-size: 19px;
 }
+#buttons1-4e .btn {
+  font-size: 18px;
+}
 #ext_menu-f .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -571,9 +574,6 @@ section.form .container {
   text-align: center;
 }
 #buttons1-s .btn {
-  font-size: 18px;
-}
-#buttons1-4e .btn {
   font-size: 18px;
 }
 #contacts1-1w P {
@@ -1735,6 +1735,16 @@ section.form .container {
   font-size: 18px;
   font-family: 'Raleway', sans-serif;
 }
+#msg-box5-fd H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-fd P {
+  text-align: left;
+}
+#msg-box5-fd I {
+  font-size: 25px;
+}
 #msg-box5-as SPAN {
   font-size: 36px;
 }
@@ -1837,6 +1847,16 @@ section.form .container {
 }
 #footer1-y P {
   text-align: center;
+}
+#msg-box5-fc H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-fc P {
+  text-align: left;
+}
+#msg-box5-fc I {
+  font-size: 25px;
 }
 
 
@@ -2103,7 +2123,7 @@ section.form .container {
   text-align: center;
 }
 #header3-5k .mbr-section-title I {
-  font-size: 22px;
+  font-size: 21px;
 }
 #buttons1-5n .btn {
   font-size: 18px;
@@ -3977,7 +3997,7 @@ section.form .container {
   text-align: center;
 }
 #header3-d3 .mbr-section-title I {
-  font-size: 22px;
+  font-size: 20px;
 }
 #buttons1-d6 .btn {
   font-size: 18px;
@@ -4079,6 +4099,9 @@ section.form .container {
 #content6-dg .lead DIV {
   font-size: 19px;
 }
+#buttons1-dn .btn {
+  font-size: 18px;
+}
 #ext_menu-dh .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4160,9 +4183,6 @@ section.form .container {
   text-align: center;
 }
 #buttons1-dm .btn {
-  font-size: 18px;
-}
-#buttons1-dn .btn {
   font-size: 18px;
 }
 #contacts1-do P {
