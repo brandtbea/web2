@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "babafotozas_pecs_csaladifotozas_babyphoto.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -13039,7 +13039,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/g85a4565-portrefotozas-pecs-portraitphoto-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a9257-msolat-1.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -13421,14 +13421,13 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/g85a4332-porte-fotozas-pecs-portrait-photography-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a4565-portrefotozas-pecs-portraitphoto-1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "unnepi_fotozas.html",
               "alt": "Karácsonyi fotók",
-              "title": "Karácsonyi fotózás",
-              "linkInNewWindow": false
+              "title": "Karácsonyi fotózás"
             }
           },
           "media4": {
@@ -29634,7 +29633,7 @@
               "size": 0
             }
           },
-          "title": "<i>BABA FOTÓZÁS PÉCSEN</i>",
+          "title": "<i>BABA FOTÓZÁS PÉCSEN és SZEKSZÁRDON</i>",
           "text": "<i>...az első mosoly...</i><br><i>...csillógó szemek...<br></i><i>... kis kezek és talpak..</i><br><i>....vidám pillanatok.....</i><br><i>.</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -30200,6 +30199,18 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mg-3789-2-babafotozas-pecs-szekszard-babyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-3789-2-babafotozas-pecs-szekszard-babyphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -30217,8 +30228,8 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text1": "<div><i><b>… az első mosoly... csillogó szemek.....kis kezek és talpak....</b></i></div><div><br></div><div> \n</div><div><b>A babafotózásra a legalkalmasabb időszak a 3-4 hónapos kortól kezdődik</b>, amikor a babád már szépen hason ki tudja tartani magát, és már mosolyogni is tud, és különféle érzelmeket megjeleníteni az arcán. Ilyenkor különösen aranyosak, és a szülőkkel együtt is jól fotózhatóak. Az újszülött fotózás után ez az időszak a legkedvezőbb a babák fotózására.&nbsp;</div><div><br></div><div>A <b>fotózás helyszínéül választhatod Pécsen a stúdiómat,</b> ahol otthonos, meleg, tiszta környezetben több fajta kellék közül választhatsz, <b>illetve szabadteret, saját udvarunkat</b>.&nbsp;</div><div><br></div>",
-          "text2": "<div><br></div><div><br></div><div>Egyedi, letisztult fotókat készítek, amelynek a középpontjában a pici babátok szépsége és egyedisége áll.<br></div><div>Természetesen <b>családi és testvér képeket is szívesen készítek</b> rólatok. A családi fotók számomra mindig nagyon fontos részei a babafotózásnak, hiszen ezek lesznek később gyermekeitek legnagyobb kincsei.</div><div><b>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra.</b> </div><div>A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető. A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készíttethetsz .&nbsp;</b></div><div><br></div><div>Várlak Benneteket szeretettel, keress bizalommal egy fantasztikus hangulatú fotózásra !\n</div><div><br></div><div>\n</div><div><br></div>",
+          "text1": "<div><i><b>… az első mosoly... csillogó szemek.....kis kezek és talpak....</b></i></div><div><br></div><div> \n</div><div><b>A babafotózásra a legalkalmasabb időszak a 3-4 hónapos kortól kezdődik</b>, amikor a babád már szépen hason ki tudja tartani magát, és már mosolyogni is tud, és különféle érzelmeket megjeleníteni az arcán. Ilyenkor különösen aranyosak, és a szülőkkel együtt is jól fotózhatóak. </div><div>Az újszülött fotózás után ez az időszak a legkedvezőbb a babák fotózására. Természetesen nyugodt babákat egy-két hónapos korban is nagyon jól lehet fotózni.</div><div><br></div><div>A <b>fotózás helyszínéül választhatod Pécsen a stúdiómat,</b> ahol otthonos, meleg, tiszta környezetben több fajta kellék közül választhatsz, <b>illetve szabadteret, saját udvarunkat</b>.&nbsp;</div><div><br></div><div>Egyedi, letisztult fotókat készítek, amelynek a középpontjában a pici babátok szépsége és egyedisége áll.</div><div><br></div>",
+          "text2": "<div><br></div><div><br></div><div>Természetesen <b>családi és testvér képeket is szívesen készítek</b> rólatok. A családi fotók számomra mindig nagyon fontos részei a babafotózásnak, hiszen ezek lesznek később gyermekeitek legnagyobb kincsei.<br></div><div><b><br></b></div><div><b>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra.</b> </div><div><br></div><div>A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető. A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készíttethetsz .&nbsp;</b></div><div><br></div><div>Várlak Benneteket szeretettel, keress bizalommal egy fantasztikus hangulatú fotózásra !\n</div><div><br></div><div>\n</div><div><br></div>",
           "_tags": [
             "Theme"
           ],
