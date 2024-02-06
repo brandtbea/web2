@@ -1745,6 +1745,16 @@ section.form .container {
 #msg-box5-fd I {
   font-size: 25px;
 }
+#msg-box5-ff H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-ff P {
+  text-align: left;
+}
+#msg-box5-ff I {
+  font-size: 25px;
+}
 #msg-box5-as SPAN {
   font-size: 36px;
 }
