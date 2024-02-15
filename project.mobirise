@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "baba_gyermek_fotok.html",
+    "currentPage": "rolam.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -2042,7 +2042,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/g85a4802-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a7980-msolat-2.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -4630,6 +4630,66 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a5559-baba-gyermek-fotozas-pecs-szekszard-baby-childphotot.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a5559-baba-gyermek-fotozas-pecs-szekszard-baby-childphotot-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8565-gyermekfotozas-pecs-szekszard-levendula-kidphotoshoot-levandel.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8565-gyermekfotozas-pecs-szekszard-levendula-kidphotoshoot-levandel-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0582-gyerekfoto-pecs-szekszard-tavasz-husvet-easter-childphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0582-gyerekfoto-pecs-szekszard-tavasz-husvet-easter-childphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8870-gyermekfotozas-pecs-szekszard-pellerd-childphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8870-gyermekfotozas-pecs-szekszard-pellerd-childphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mg-9706-gyerekfotozas-pecs-szekszard-balaton-childphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-9706-gyerekfotozas-pecs-szekszard-balaton-childphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mg-9708-gyerekfotozas-pecs-szekszard-balaton-kidphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-9708-gyerekfotozas-pecs-szekszard-balaton-kidphoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -13178,70 +13238,6 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/g85a9257-msolat-1.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<i>VALENTIN NAPI PÁROS, PORTRÉ, GLAMOUR, BOUDOIR MŰTERMI ÉS SZABADTÉRI FOTÓZÁS PÉCSEN</i>",
-          "text": "<br>Sok szeretettel várlak Valentin napi fotózásra a saját pécsi pécsi stúdiómban, vagy szabadtéren.<br>Tarts velem és lepd meg párodat egy igazán gyönyörű és különleges fotósorozattal rólad, illetve kettőtökről, amely különleges ajándékul szolgál, valamint gazdagítsd magad és a párodat egy szép élménnyel. Ha még nincs ötleted, hogy mit ajándékoz szeretettednek Valentin napra, akkor ajándékozz fotózást, melyet ajándékutalvány formájában is átadhatsz. Várlak szeretettel, és remélem hamarosan találkozunk.&nbsp;<br>\n<br>&nbsp;&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "font-size": "24px",
-              "text-align": "center"
-            },
-            "P": {
-              "text-align": "left"
-            },
-            "I": {
-              "font-size": "25px"
-            }
-          },
-          "_anchor": "msg-box5-fd"
         },
         {
           "_params": {
