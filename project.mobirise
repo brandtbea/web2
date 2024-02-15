@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "baba_gyermek_fotok.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -4622,6 +4622,18 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a5559-baba-gyermek-fotozas-pecs-szekszard-baby-childphotot.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a5559-baba-gyermek-fotozas-pecs-szekszard-baby-childphotot-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -6977,7 +6989,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -7022,6 +7034,102 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a1250-szuletesnapi-fotozas-pecs-birthdayphoto-fotos.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a1250-szuletesnapi-fotozas-pecs-birthdayphoto-fotos-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a5522-elsoszuletesnapifoto-pecs-birthdayphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a5522-elsoszuletesnapifoto-pecs-birthdayphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a5836-szuletesnapi-fotozas-pecs-szekszard-birthdayphotoshoot.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a5836-szuletesnapi-fotozas-pecs-szekszard-birthdayphotoshoot-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a5785-szuletesnapi-csaladi-fotozas-pecs-szekszard-photographer-birthday.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a5785-szuletesnapi-csaladi-fotozas-pecs-szekszard-photographer-birthday-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a5794-szuletesnapi-csaladifotozas-pecs-szekszard-pecsifotos.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a5794-szuletesnapi-csaladifotozas-pecs-szekszard-pecsifotos-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a5661-elso-szuletesnapifoto-pecs-szekszard-birthday-familyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a5661-elso-szuletesnapifoto-pecs-szekszard-birthday-familyphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a5528-szuletesnapifotozas-pecs-szekszard-photographer-birthdayphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a5528-szuletesnapifotozas-pecs-szekszard-photographer-birthdayphoto-800x517.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a5610-msolat.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a5610-msolat-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a6020-szuletesnapi-csaladifoto-pecs-szekszard-family-birthdayphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a6020-szuletesnapi-csaladifoto-pecs-szekszard-family-birthdayphoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
