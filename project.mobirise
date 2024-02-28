@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "uzletiportrefoto_brand_weblap_fotozas_pecs_szekszard.html",
+    "currentPage": "glamour_boudoir_fotozas_photography_pecspage36.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -18603,6 +18603,30 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8295-husveti-anyaknapifotozas-pecs-szekszard-easterphoto.jpg.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8295-husveti-anyaknapifotozas-pecs-szekszard-easterphoto.jpg-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8344-husvetifotozas-pecs-anyaknapifoto-motherdayphoto.jpg.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8344-husvetifotozas-pecs-anyaknapifoto-motherdayphoto.jpg-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -31844,7 +31868,7 @@
             }
           },
           "title": "<i>GLAMOUR/BOUDOIR FOTÓZÁS PÉCSEN és SZEKSZÁRDON MŰTEREMBEN ÉS SZABADTÉREN</i>",
-          "text": "<i>...varázslatos szépség, ragyogás, tündöklés</i>..<br><i>... belső sugárzó szépség ....<br></i><br>",
+          "text": "<i>...varázslatos szépség, ragyogás, tündöklés</i>..<br><i>... belső sugárzó szépség ....<br></i><br>\"Minden ember szép, ha igazán önmaga.\" (Anselm Grün)",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
