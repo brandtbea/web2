@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "glamour_boudoir_fotozas_photography_pecspage36.html",
+    "currentPage": "husveti_csalad_gyermek_fotozas_pecs.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -18621,8 +18621,68 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a5528-szuletesnapifotozas-pecs-szekszard-photographer-birthdayphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a5528-szuletesnapifotozas-pecs-szekszard-photographer-birthdayphoto-800x517.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a8344-husvetifotozas-pecs-anyaknapifoto-motherdayphoto.jpg.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a8344-husvetifotozas-pecs-anyaknapifoto-motherdayphoto.jpg-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a5794-szuletesnapi-csaladifotozas-pecs-szekszard-pecsifotos.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a5794-szuletesnapi-csaladifotozas-pecs-szekszard-pecsifotos-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8364-msolat-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8364-msolat-2-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9809-husveti-tavaszi-anyaknapifotozas-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9809-husveti-tavaszi-anyaknapifotozas-pecs-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8433-husvetifotozas-gyerekfotozas-pecs-easterphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8433-husvetifotozas-gyerekfotozas-pecs-easterphoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
