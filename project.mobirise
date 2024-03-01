@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "husveti_csalad_gyermek_fotozas_pecs.html",
+    "currentPage": "ujszulott_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 569,
+    "uniqCompNum": 572,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -181,7 +181,7 @@
           "_params": {
             "showMeta": false,
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "bgColor": "#efefef"
           },
           "title": "<i>Örökítsd meg újszülöttbabád első mosolyát csodás fotókon!</i>",
@@ -191,6 +191,196 @@
           ],
           "_name": "header3",
           "_anchor": "header3-3z"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "1",
+            "paddingTop": 4,
+            "paddingBottom": "0",
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a7194-ujszulottfotozas-babafoto-pecs-szekszardnewbornphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a7194-ujszulottfotozas-babafoto-pecs-szekszardnewbornphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a6993-ujszulottfoto-babafoto-pecs-szekszard-newborn-baby-photographer.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a6993-ujszulottfoto-babafoto-pecs-szekszard-newborn-baby-photographer-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a6918-ujszulottfotozas-babafotozas-pecs-szekszard-newborn-babyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a6918-ujszulottfotozas-babafotozas-pecs-szekszard-newborn-babyphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a6889-ujszulottfotozas-babafoto-pecs-szekszard-newborn-baby-photography.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a6889-ujszulottfotozas-babafoto-pecs-szekszard-newborn-baby-photography-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a6980-ujszulottfotozas-babafoto-pecs-szekszard-newborn-babyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a6980-ujszulottfotozas-babafoto-pecs-szekszard-newborn-babyphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a6803-ujszolottfoto-babafotozas-pecs-szekszard-newborn-babyphotoshoot.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a6803-ujszolottfoto-babafotozas-pecs-szekszard-newborn-babyphotoshoot-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a7167-newborn-familyphoto-ujszulott-csaladifoto-pecs-szekszard-ujszulott-csaladifoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a7167-newborn-familyphoto-ujszulott-csaladifoto-pecs-szekszard-ujszulott-csaladifoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a6909-ujszulottfotozas-babafotozas-pecs-szekszard-newbornphoto-babyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a6909-ujszulottfotozas-babafotozas-pecs-szekszard-newbornphoto-babyphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-fu"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "1",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a7108-ujszulottfotozas-babafoto-pecs-szekszard-neugeborenefoto-babyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a7108-ujszulottfotozas-babafoto-pecs-szekszard-neugeborenefoto-babyphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a7060-ujszulott-csaladifoto-newborn-familyphoto-pecs-szekszard.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a7060-ujszulott-csaladifoto-newborn-familyphoto-pecs-szekszard-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a6824-ujszulottfotozas-babafoto-newbornphoto-babyphoto-pecs-szekszard.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a6824-ujszulottfotozas-babafoto-newbornphoto-babyphoto-pecs-szekszard-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a6797-ujszulottfotozas-babafoto-newbornphoto-babaphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a6797-ujszulottfotozas-babafoto-newbornphoto-babaphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-fv"
         },
         {
           "_params": {
@@ -958,7 +1148,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -1258,7 +1448,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ]
           },
