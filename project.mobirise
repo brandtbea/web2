@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "varandos_fotozas.html",
+    "currentPage": "husveti_csalad_gyermek_fotozas_pecs.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -13476,7 +13476,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/hsvti-montzs3-husveti-anyaknapi-fotozas-fotospecs-szekszard-easterphoto.jpg",
+              "src": "@PROJECT_PATH@/assets/images/husveti-tavasz-anyaknapi-fotozas-pecs-szekszard.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -18360,11 +18360,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/hsvti-montzs3-msolat.jpg",
+              "src": "@PROJECT_PATH@/assets/images/husveti-tavaszi-anyaknapi-fotozas-easter-motherday-spring-photo.jpg",
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -18378,7 +18377,7 @@
               "size": 0
             }
           },
-          "title": "<i>HÚSVÉTI /ANYÁKNAPI CSALÁDI, PÁROS, PORTRÉ, KISMAMA, BABA, GYERMEK, ÚJSZÜLÖTT FOTÓZÁS </i><br><br><i>PÉCSEN és SZEKSZÁRDON</i>",
+          "title": "<i>HÚSVÉTI /ANYÁKNAPI /TAVASZI CSALÁDI, PÁROS, PORTRÉ, KISMAMA, BABA, GYERMEK, ÚJSZÜLÖTT FOTÓZÁS </i><br><br><i>PÉCSEN és SZEKSZÁRDON</i>",
           "text": "<i>...ünnepi hangulatok...</i><br><i>...családi pillanatok...</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -18894,6 +18893,78 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a8433-husvetifotozas-gyerekfotozas-pecs-easterphoto.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a8433-husvetifotozas-gyerekfotozas-pecs-easterphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8974-tavaszi-husveti-fotozas-pecs-photography-easter.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8974-tavaszi-husveti-fotozas-pecs-photography-easter-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8872-husveti-anyaknapi-fotozas-pecs-szekszard-easterphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8872-husveti-anyaknapi-fotozas-pecs-szekszard-easterphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8966-husveti-tavaszi-fotozas-pecs-szekszard-spring-mothedayphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8966-husveti-tavaszi-fotozas-pecs-szekszard-spring-mothedayphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9123-husveti-tavaszi-fotozas-pecs-szekszard-easterphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9123-husveti-tavaszi-fotozas-pecs-szekszard-easterphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9197-husveti-anyaknapi-fotozas-pecs-motherday-photo.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9197-husveti-anyaknapi-fotozas-pecs-motherday-photo-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g859150-husveti-fotozas-pecs-szekszard-photographer.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g859150-husveti-fotozas-pecs-szekszard-photographer-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
