@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "ujszulott_fotozas.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -7646,6 +7646,114 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/8101-szuletesnapifotozas-pecs-szekszard-birthdayphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8101-szuletesnapifotozas-pecs-szekszard-birthdayphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/8202-szuletesnapifoto-pecs-birthday-photography.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8202-szuletesnapifoto-pecs-birthday-photography-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/8362-szuletesnapi-fotozas-pecs-birthdayphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8362-szuletesnapi-fotozas-pecs-birthdayphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/9591-szuletesnapifotozas-pecs-szekszard-birthdayphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9591-szuletesnapifotozas-pecs-szekszard-birthdayphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/8347-szuletesnapi-fotozas-pecs-szekszard-birthdayphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8347-szuletesnapi-fotozas-pecs-szekszard-birthdayphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/9808-szuletesnapi-fotozas-pecs-szekszard-birthdayphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9808-szuletesnapi-fotozas-pecs-szekszard-birthdayphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/9740-szuletesnapi-fotozas-pecs-szekszard-birthdayphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9740-szuletesnapi-fotozas-pecs-szekszard-birthdayphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/9576-szuletesnapitorta-pecs-birthdaycake-mischlercake-cukraszda.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9576-szuletesnapitorta-pecs-birthdaycake-mischlercake-cukraszda-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/9598-szuletesnapifotozas-pecs-szekszard-birthdayphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9598-szuletesnapifotozas-pecs-szekszard-birthdayphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -13827,7 +13935,7 @@
               "size": 0
             }
           },
-          "title": "<i>TAVASZI/ANYÁKNAPI ÚJSZÜLÖTT, BABA, GYERMEK, CSALÁDI, KISMAMA, PÁROS, PORTRÉ/GLAMOUR MŰTERMI ÉS SZABADTÉRI FOTÓZÁS PÉCSEN ÉS SZEKSZÁRDON</i>",
+          "title": "<i>TAVASZI ÚJSZÜLÖTT, BABA, GYERMEK, CSALÁDI, KISMAMA, PÁROS, PORTRÉ/GLAMOUR/ MŰTERMI ÉS SZABADTÉRI FOTÓZÁS PÉCSEN ÉS SZEKSZÁRDON</i>",
           "text": "<br><br><br>Sok szeretettel várlak benneteket tavaszi/anyáknapi fotózásra a saját pécsi gyönyörű szépen berendezett stúdiómban, a virágos udvarunkban vagy szabadtéren Pécsen és Szekszárdon.<br><br>Tarts velem és lepd meg magadat, a családodat, a párodat egy fantasztikus élménnyel, egy igazán gyönyörű és különleges fotósorozattal, amely különleges ajándékul szolgál, <br>Ha még nincs ötleted, hogy mit ajándékoz szeretetteidnek húsvétra/anyáknapjára, akkor ajándékozz fotózást, melyet ajándékutalvány formájában is átadhatsz. <br><br>Várlak szeretettel, és remélem hamarosan találkozunk.&nbsp;<br>\n<br>&nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
           "_tags": [
@@ -14455,7 +14563,7 @@
               "active": true
             }
           },
-          "title1": "Anyáknapi fotózás",
+          "title1": "Tavaszi fotózás",
           "subtitle1": "",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title2": "Ingatlan/enteriőr/épület fotózás",
@@ -14852,70 +14960,6 @@
             }
           },
           "_anchor": "footer1-y"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/g85a4565-portrefotozas-pecs-portraitphoto-1.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<i>VALENTIN NAPI PÁROS, PORTRÉ MŰTERMI ÉS SZABADTÉRI FOTÓZÁS PÉCSEN</i>",
-          "text": "<br><br><br>Sok szeretettel várlak Valentin napi fotózásra a saját pécsi pécsi stúdiómban, vagy szabadtéren.<br>Tarts velem és lepd meg párodat egy igazán gyönyörű és különleges fotósorozattal rólad, illetve kettőtökről, amely különleges ajándékul szolgál, valamint gazdagítsd magad és a párodat egy szép élménnyel. Ha még nincs ötleted, hogy mit ajándékoz szeretettednek Valentin napra, akkor ajándékozz fotózást, melyet ajándékutalvány formájában is átadhatsz. Várlak szeretettel, és remélem hamarosan találkozunk.&nbsp;<br>\n<br>&nbsp;&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "font-size": "24px",
-              "text-align": "center"
-            },
-            "P": {
-              "text-align": "left"
-            },
-            "I": {
-              "font-size": "25px"
-            }
-          },
-          "_anchor": "msg-box5-fc"
         }
       ]
     },
