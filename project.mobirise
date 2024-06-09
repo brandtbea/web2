@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "baba_gyermek_fotok.html",
+    "currentPage": "uzletiportrefoto_brand_weblap_fotozas_pecs_szekszard.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 584,
+    "uniqCompNum": 589,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -11451,6 +11451,76 @@
           ],
           "_name": "header3",
           "_anchor": "header3-46"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/boudoirphoto-glamourfoto-pecs-portraitphoto-portrfoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/boudoirphoto-glamourfoto-pecs-portraitphoto-portrfoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/pipacs-naplemente-glamour-portrefotozas-pecs-portraitsession.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pipacs-naplemente-glamour-portrefotozas-pecs-portraitsession-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/portre-glamourfotozas-pecs-szekszard-portraitphtoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/portre-glamourfotozas-pecs-szekszard-portraitphtoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mkmezo-portre-glamour-fotozas-pecs-portraitphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mkmezo-portre-glamour-fotozas-pecs-portraitphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-g8"
         },
         {
           "_params": {
@@ -32725,6 +32795,76 @@
         },
         {
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/fenykepesz-pecs-szekszard-piapcs-portraitphoto-glamour-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fenykepesz-pecs-szekszard-piapcs-portraitphoto-glamour-1-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/pipacsmezo-pecsifotos-portre-glamour-portraitphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pipacsmezo-pecsifotos-portre-glamour-portraitphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/poppyfield-glamourphoto-pecs-portrefotozas-photographer.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/poppyfield-glamourphoto-pecs-portrefotozas-photographer-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/fenykepesz-pecs-portrefoto-glamourphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fenykepesz-pecs-portrefoto-glamourphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-gc"
+        },
+        {
+          "_params": {
             "showBullets": false,
             "fullWidth": false,
             "spacing": "1",
@@ -33453,7 +33593,103 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/fotos-pecs-glamour-portrefotozas-photographer.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fotos-pecs-glamour-portrefotozas-photographer-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0291-glamour-portrefotozas-pecs-portait-photographer.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0291-glamour-portrefotozas-pecs-portait-photographer-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/glamour-pipacs-portrefotos-pecs-portraitphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/glamour-pipacs-portrefotos-pecs-portraitphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/glamourphoto-portraitphoto-pecs-fotografus-fotos.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/glamourphoto-portraitphoto-pecs-fotografus-fotos-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/kulterifotozas-pecs-portraitphoto-glamour.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kulterifotozas-pecs-portraitphoto-glamour-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/portrefotozas-pecs-glamourphoto-poppy.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/portrefotozas-pecs-glamourphoto-poppy-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mkvirg-pipacs-glamour-portrefoto-portraitphoto-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mkvirg-pipacs-glamour-portrefoto-portraitphoto-pecs-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/pipacsfoto-glamourphoto-portrefotozas-fenykepesz-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pipacsfoto-glamourphoto-portrefotozas-fenykepesz-pecs-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -33471,7 +33707,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text1": "<p>A glamour ragyogást, varázslatos szépséget jelent. Számomra minden ember egy történet. Szeretem meglátni és kifejezni a nőben lévő egyediséget, a belső sugárzó szépségét, valamint a szemében a lélek tükrének a ragyogását csodás fotókon.</p><p>A boudoir jelentése női hálószoba, szalon öltöző. A boudoir fotózás bepillantást enged a nő bájába, szépségébe, csábításába, titokzatosságába, sejtelmességébe, varázslatába.&nbsp;&nbsp;</p><p>\n</p><div><br></div><div>\n</div><div>Minden nő életében eljön az a pillanat, amikor úgy érzi, hogy szeretné magát, illetve a párját meglepni egy gyönyörű szép fotósorozattal.</div><div><br></div><p></p>",
+          "text1": "<p>A <b>glamour</b> ragyogást, varázslatos szépséget jelent. Számomra minden ember egy történet. Szeretem meglátni és kifejezni a nőben lévő egyediséget, a belső sugárzó szépségét, valamint a szemében a lélek tükrének a ragyogását csodás fotókon.</p><p><br></p><p>A <b>boudoir</b> jelentése női hálószoba, szalon öltöző. A boudoir fotózás bepillantást enged a nő bájába, szépségébe, csábításába, titokzatosságába, sejtelmességébe, varázslatába.&nbsp;&nbsp;</p><p>\n</p><div><br></div><div>\n</div><div>Minden nő életében eljön az a pillanat, amikor úgy érzi, hogy szeretné magát, illetve a párját meglepni egy gyönyörű szép fotósorozattal.</div><div><br></div><p></p>",
           "text2": "A glamour/boudoir&nbsp;<b>fotózás helyszínéül választhatod a saját műtermemet Pécsen, bérelt stúdiót vagy a természetet</b>, a gyönyörű virágos udvarunkat, erdőt, mezőt, tópartot stb..&nbsp;<b>Stúdiós és kültéri fotózásra is lehetőség van egyszerre a saját udvarunkban.\n</b><div>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra. A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető. </b>A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készíttethetsz.</div><div>Minden fotózásba újdonságot viszek bele, és az egyediség varázsára törekszem.</div><div> \n</div><div>Keress bizalommal, várlak szeretettel!</div>",
           "_tags": [
             "Theme"
