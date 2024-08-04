@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "csaladifotozas_pecs_napraforgomezo.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -14574,7 +14574,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/g85a1959-anyaknapifotozas-pecs-szekszard-motherdayphoto.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a9155-karacsonyi-fotozas-csaladi-pecs-christmasphoto-family.jpg.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -14632,7 +14632,7 @@
               "active": true
             }
           },
-          "title1": "Tavaszi fotózás",
+          "title1": "Karácsonyi fotózás",
           "subtitle1": "",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title2": "Ingatlan/enteriőr/épület fotózás",
@@ -14650,7 +14650,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"husveti_csalad_gyermek_fotozas_pecs.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"karacsonyi_fotozas_pecs.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM</a>",
           "button2": "<a data-app-btn=\"true\" href=\"ingatlan_enterior_epuletfotozas_pecs_propertyphoto.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM</a>",
           "button3": "<a data-app-btn=\"true\" href=\"babafotozas_pecs_csaladifotozas_babyphoto.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM</a>",
           "button4": "<a data-app-btn=\"true\" href=\"business_uzleti_portre_fotozas_oneletrajz_cv_pecs.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM</a>",
