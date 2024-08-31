@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "ingatlan_enterior_epuletfotozas_pecs_propertyphoto.html",
+    "currentPage": "baba_gyermek_fotok.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 599,
+    "uniqCompNum": 602,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -455,10 +455,80 @@
           "_anchor": "gallery1-g7"
         },
         {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/0.0585-babafotos-pecs-szekszard-babyphotographer.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0.0585-babafotos-pecs-szekszard-babyphotographer-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/0646-babafotozas-csaladifoto-pecs-szekszard-baby-familyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0646-babafotozas-csaladifoto-pecs-szekszard-baby-familyphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/0606-babafotozas-pecs-babyphotojpg.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0606-babafotozas-pecs-babyphotojpg-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/0585-babafotozas-pecs-szekszard-babyphotoshoot.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0585-babafotozas-pecs-szekszard-babyphotoshoot-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-gn"
+        },
+        {
           "_inherit": "gallery1",
           "_params": {
             "showBullets": true,
-            "fullWidth": true,
+            "fullWidth": false,
             "spacing": "1",
             "paddingTop": "0",
             "paddingBottom": "0",
@@ -577,7 +647,7 @@
           "_inherit": "gallery1",
           "_params": {
             "showBullets": true,
-            "fullWidth": true,
+            "fullWidth": false,
             "spacing": "1",
             "paddingTop": "0",
             "paddingBottom": "0",
@@ -643,6 +713,146 @@
           "allItem": "All",
           "_name": "gallery2",
           "_anchor": "gallery2-fv"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/ujszulott-fotozas-babafoto-pecs-szekszard-newborn-babyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ujszulott-fotozas-babafoto-pecs-szekszard-newborn-babyphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/ujszulott-fotozas-pecs-szekszard-babafoto-babyphoto-newbornphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ujszulott-fotozas-pecs-szekszard-babafoto-babyphoto-newbornphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/ujszulottfoto-babafotozas-pecs-szekszard-newborn-babyphotoshoot.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ujszulottfoto-babafotozas-pecs-szekszard-newborn-babyphotoshoot-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/ujszulottfotozas-babafoto-pecs-szekszard-pecsifotos-newborn-babyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ujszulottfotozas-babafoto-pecs-szekszard-pecsifotos-newborn-babyphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-go"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/4011-newbornphoto-pecs-szekszard-ujszulottfotos.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4011-newbornphoto-pecs-szekszard-ujszulottfotos-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/4084-ujszulott-fotozas-pecs-szekszard-newborn-photography.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4084-ujszulott-fotozas-pecs-szekszard-newborn-photography-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/4028-ujszulott-fotozas-pecs-szeksazrd-newborn-photographer.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4028-ujszulott-fotozas-pecs-szeksazrd-newborn-photographer-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/0749-babafoto-pecs-szekszard-pecsifotos-babyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0749-babafoto-pecs-szekszard-pecsifotos-babyphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-gp"
         },
         {
           "_params": {
@@ -5001,7 +5211,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -5142,6 +5352,30 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/mg-9708-gyerekfotozas-pecs-szekszard-balaton-kidphoto.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-9708-gyerekfotozas-pecs-szekszard-balaton-kidphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/1564-gyerekfotozas-pecs-szekszard-kidphotography.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1564-gyerekfotozas-pecs-szekszard-kidphotography-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/webre.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/webre-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -7750,6 +7984,54 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/9598-szuletesnapifotozas-pecs-szekszard-birthdayphoto.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/9598-szuletesnapifotozas-pecs-szekszard-birthdayphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/1547-szuletesnapifotozas-pecsifotos-kid-birthdayphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1547-szuletesnapifotozas-pecsifotos-kid-birthdayphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/1575-szuletesnapi-foto-pecs-gyerekfoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1575-szuletesnapi-foto-pecs-gyerekfoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/1733-egyeves-szuletesnapi-fotozas-pecs-birthdayphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1733-egyeves-szuletesnapi-fotozas-pecs-birthdayphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/1874-szuletesnapi-fotozas-pecs-szekszard-birthdayphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1874-szuletesnapi-fotozas-pecs-szekszard-birthdayphoto-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -14358,7 +14640,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/0930-ujszulott-fotozas-pecs-szekszard-newbornphoto.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1037-ujszulott-babafotozas-pecs-szekszard-newborn-babyphoto.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -35956,6 +36238,66 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a5097-cranio-photo-manualterapia-uzletifoto-pecs-szekszard.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a5097-cranio-photo-manualterapia-uzletifoto-pecs-szekszard-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/5108-fitness-edzo-fotozas-pecs-cangoo.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5108-fitness-edzo-fotozas-pecs-cangoo-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/5149-fitness-coach-aerobic-cangoo-photo.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5149-fitness-coach-aerobic-cangoo-photo-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/5194-fitness-edzo-kangoo-photo-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5194-fitness-edzo-kangoo-photo-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/5248-fitness-cangoo-photo-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5248-fitness-cangoo-photo-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/5335-fitness-edzo-fotozas-pecs-fitness-coach-photo.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5335-fitness-edzo-fotozas-pecs-fitness-coach-photo-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
