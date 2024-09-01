@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "baba_gyermek_fotok.html",
+    "currentPage": "kutya_macska_cica_haziallat_fotozas_pecs.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -30928,6 +30928,54 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a8195-ujszulottfoto-kutyafoto-pecs-newbornbaby-photo-dog.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a8195-ujszulottfoto-kutyafoto-pecs-newbornbaby-photo-dog-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7557-kutya-gazdi-fotozas-pecs-dog-photography.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7557-kutya-gazdi-fotozas-pecs-dog-photography-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7595-kutya-gazdi-foto-pecs-dog-photographer.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7595-kutya-gazdi-foto-pecs-dog-photographer-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7643-kutya-gazdifoto-dogphoto-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7643-kutya-gazdifoto-dogphoto-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/3371-kutyafotozas-pecs-szekszard-dogphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3371-kutyafotozas-pecs-szekszard-dogphoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
