@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "kutya_macska_cica_haziallat_fotozas_pecs.html",
+    "currentPage": "karacsonyi_fotozas_pecs.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 602,
+    "uniqCompNum": 605,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -14247,12 +14247,12 @@
         {
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": true,
-            "inverse": false,
+            "inverse": true,
             "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "0",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -14270,7 +14270,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/gyerek-fotozas-pecs-szekszard-napraforgo-kidphoto-sunflower.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a9003-msolat.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -14287,9 +14287,9 @@
               "size": 0
             }
           },
-          "title": "<i>NYÁRI ÚJSZÜLÖTT, BABA, GYERMEK, CSALÁDI, KISMAMA, PÁROS, PORTRÉ/GLAMOUR/ MŰTERMI ÉS SZABADTÉRI FOTÓZÁS PÉCSEN ÉS SZEKSZÁRDON</i>",
-          "text": "<br><br><br>Sok szeretettel várlak benneteket tavaszi fotózásra a saját pécsi gyönyörű szépen berendezett stúdiómban, a virágos udvarunkban vagy szabadtéren Pécsen és Szekszárdon.<br><br>Tarts velem és lepd meg magadat, a családodat, a párodat egy fantasztikus élménnyel, egy igazán gyönyörű és különleges fotósorozattal, amely különleges ajándékul szolgál, <br>Ha még nincs ötleted, hogy mit ajándékoz szeretetteidnek húsvétra/anyáknapjára, akkor ajándékozz fotózást, melyet ajándékutalvány formájában is átadhatsz. <br><br>Várlak szeretettel, és remélem hamarosan találkozunk.&nbsp;<br>\n<br>&nbsp;&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot!</a>",
+          "title": "<i>ŐSZI CSALÁDI, GYERMEK, BABA, ÚJSZÜLÖTT, KISMAMA, PÁROS, PORTRÉ, JEGYES, HÁZIÁLLAT, BOUDOIR MŰTERMI ÉS SZABADTÉRI FOTÓZÁS PÉCSEN és SZEKSZÁRDON</i><br><br><i style=\"font-weight: normal;\">Sok szeretettel várlak benneteket őszi fotózásra a saját pécsi gyönyörű szépen berendezett stúdiómban, a virágos udvarunkban vagy szabadtéren Pécsen és Szekszárdon.\n</i><div><i style=\"font-weight: normal;\">\n</i></div><div><i style=\"font-weight: normal;\">Tarts velem és lepd meg magadat, a családodat, a párodat egy fantasztikus élménnyel, egy igazán gyönyörű és különleges fotósorozattal, amely különleges ajándékul szolgál.</i></div><span style=\"font-weight: normal;\"><br></span><div><i style=\"font-weight: normal;\"><br></i></div><div><i style=\"font-weight: normal;\">Ha még nincs ötleted, hogy mit ajándékoz szeretetteidnek születésnapra, akkor ajándékozz fotózást, melyet ajándékutalvány formájában is átadhatsz. \n</i></div><div><i style=\"font-weight: normal;\">\n</i></div><div><i style=\"font-weight: normal;\">Várlak szeretettel, és remélem hamarosan találkozunk.&nbsp;</i></div>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot most!</a>",
           "_tags": [
             "Theme"
           ],
@@ -14298,15 +14298,9 @@
             "H3": {
               "font-size": "24px",
               "text-align": "center"
-            },
-            "P": {
-              "text-align": "left"
-            },
-            "I": {
-              "font-size": "25px"
             }
           },
-          "_anchor": "msg-box5-ff"
+          "_anchor": "msg-box5-gq"
         },
         {
           "_params": {
@@ -16326,7 +16320,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "title": "<i style=\"\">KARÁCSONYI CSALÁDI, BABA, GYERMEK, ÚJSZÜLÖTT, KISMAMA, PÁROS, PORTRÉ FOTÓZÁS PÉCSEN</i>",
+          "title": "<i style=\"\">KARÁCSONYI CSALÁDI, BABA, GYERMEK, ÚJSZÜLÖTT, KISMAMA, PÁROS, PORTRÉ, GLAMOUR FOTÓZÁS PÉCSEN</i>",
           "meta": "Lepd meg szeretteidet gyönyörű családi és gyerek fotókkal!&nbsp;",
           "_tags": [
             "Theme"
@@ -16340,8 +16334,8 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text1": "<p><b style=\"font-size: 1.07rem;\"><i>Még tudsz jelentkezni a szabad helyekre.</i></b></p><p><br></p><p><b><i>Tedd igazán emlékezetessé a karácsonyt és szerezz egy csodás élményt!</i></b></p><p><b><i><br></i></b></p><p><i>A karácsonyi fotózás kiváló alkalmat ad arra, hogy összehozza a családot egy csodás élmény keretében és ajándékként fotósorozattal kedveskedjetek a nagyszülőknek, a rokonoknak, barátoknak, magatoknak, a párotoknak.\n</i></p><div>\n</div><div><br></div><div><b>Novembertől január első hetéig várlak</b> sok szeretettel karácsonyi fotózásra a <b>gyönyörű szép karácsonyi enteriőrrel berendezett pécsi stúdiómban.&nbsp;</b>A fotózáshoz rengeteg szép kellék és díszlet közül választhatsz, így garantáltan egyedi és megismételhetetlen fotókat készíthetünk.&nbsp;A stúdióm tavaly óta nemcsak kibűvült, hanem újabb bútorok és kellékek is találhatók benne..<b>Hétköznap és szombaton is tudtok jönni 10-18 óra között </b>a szabad időpontokra.&nbsp;</div><div>Ha karácsonyra szeretnéd a képeket, akkor kérlek, december elejéig gyertek, hogy karácsonyra elő tudjátok hívatni őket.</div><div><br></div><div>\n</div><div>A karácsonyi fotózás helyszínéül választhatod a saját műtermemet Pécsen, vagy szabadteret.&nbsp;</div><div><br></div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><p></p>",
-          "text2": "<p><i style=\"font-size: 1.07rem;\">Az elkészült fotókból <b>te választhatod ki, hogy melyek kerüljenek retusálásra</b>. </i><span style=\"font-size: 1.07rem;\">A kiválasztott képekből </span><b style=\"font-size: 1.07rem;\">egyedi zenés digitális slideshow is kérhető</b><span style=\"font-size: 1.07rem;\">. A retusált képeket nagy felbontásban adom át, melyekből </span><i style=\"font-size: 1.07rem;\"><b>jó minőségű fali képeket is készítetthetsz</b></i><span style=\"font-size: 1.07rem;\">. </span><b style=\"font-size: 1.07rem;\">A nyers képek megvásárolhatóak. Több csomagajánlatból tudsz választani</b><span style=\"font-size: 1.07rem;\">, a <i>csomagajánlat <b>34.990,-Ft-tól kezdődik</b></i>.</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">Keress bizalommal, várlak Benneteket szeretettel!</span><br></p><p><br></p><p><span style=\"font-size: 1.07rem;\">Tarts velem, és lepd meg magad, és szeretteidet egy igazán gyönyörű és egyedi fotósorozattal, mely különleges ajándékul is szolgál, valamint gazdagítsd magad és a családodat egy fantasztikus élménnyel, és örök emlékkel.</span><br></p><p>Ha még nincs ötleted, hogy mit ajándékoz karácsonyra, akkor <b>ajándékozz fotózást, így egy igazán személyes és emlékezetes ajándékkal lepheted meg szeretteidet, melyet ajándékutalvány formájában a karácsonyfa alá is tehetsz</b>. Családi, gyermek, baba, újszülött, kismama, páros, portré témában várlak szeretettel.\n</p><p><br></p><p><br></p><p><br></p><p><br></p>",
+          "text1": "<p><b style=\"font-size: 1.07rem;\"><i>MÁR tudsz jelentkezni a szabad helyekre.</i></b></p><p><br></p><p><b><i>Tedd igazán emlékezetessé a karácsonyt és szerezz egy csodás élményt!</i></b></p><p><b><i><br></i></b></p><p><i>A karácsonyi fotózás kiváló alkalmat ad arra, hogy összehozza a családot egy csodás élmény keretében és ajándékként fotósorozattal kedveskedjetek a nagyszülőknek, a rokonoknak, barátoknak, magatoknak, a párotoknak.\n</i></p><div>\n</div><div><br></div><div><b>Novembertől január első hetéig várlak</b> sok szeretettel karácsonyi fotózásra a <b>gyönyörű szép karácsonyi enteriőrrel berendezett pécsi stúdiómban.&nbsp;</b>A fotózáshoz rengeteg szép kellék és díszlet közül választhatsz, így garantáltan egyedi és megismételhetetlen fotókat készíthetünk.&nbsp;A stúdióm tavaly óta újabb bútorok és kellékek is találhatók benne..<b>Hétköznap és szombaton is tudtok jönni 10-18 óra között </b>a szabad időpontokra.&nbsp;</div><div>Ha karácsonyra szeretnéd a képeket, akkor kérlek, december elejéig gyertek, hogy karácsonyra elő tudjátok hívatni őket.</div><div><br></div><div>\n</div><div>A karácsonyi fotózás helyszínéül választhatod a saját műtermemet Pécsen, vagy szabadteret.&nbsp;</div><div><br></div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><p></p>",
+          "text2": "<p><i style=\"font-size: 1.07rem;\">Az elkészült fotókból <b>te választhatod ki, hogy melyek kerüljenek retusálásra</b>. </i><span style=\"font-size: 1.07rem;\">A kiválasztott képekből </span><b style=\"font-size: 1.07rem;\">egyedi zenés digitális slideshow is kérhető</b><span style=\"font-size: 1.07rem;\">. A retusált képeket nagy felbontásban adom át, melyekből </span><i style=\"font-size: 1.07rem;\"><b>jó minőségű fali képeket is készítetthetsz</b></i><span style=\"font-size: 1.07rem;\">. </span><b style=\"font-size: 1.07rem;\">A nyers képek megvásárolhatóak. Több csomagajánlatból tudsz választani</b><span style=\"font-size: 1.07rem;\">, a <i>csomagajánlat <b>34.990,-Ft-tól kezdődik</b></i>.</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">Keress bizalommal, várlak Benneteket szeretettel!</span><br></p><p><br></p><p><span style=\"font-size: 1.07rem;\">Tarts velem, és lepd meg magad, és szeretteidet egy igazán gyönyörű és egyedi fotósorozattal, mely különleges ajándékul is szolgál, valamint gazdagítsd magad és a családodat egy fantasztikus élménnyel, és örök emlékkel.</span><br></p><p>Ha még nincs ötleted, hogy mit ajándékoz karácsonyra, akkor <b>ajándékozz fotózást, így egy igazán személyes és emlékezetes ajándékkal lepheted meg szeretteidet, melyet ajándékutalvány formájában a karácsonyfa alá is tehetsz</b>. Családi, gyermek, baba, újszülött, kismama, páros, jegyes, portré, glamour témában várlak szeretettel.\n</p><p><br></p><p><br></p><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
