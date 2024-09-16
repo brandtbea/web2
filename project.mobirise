@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "karacsonyi_fotozas_pecs.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 605,
+    "uniqCompNum": 608,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -14245,6 +14245,113 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title I": {
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "title": "<i>Karácsonyi műtermi újszülött, baba, gyermek, családi, kismama, páros, portré, háziállat, glamour, boudoir fotózás Pécsen&nbsp;</i>",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-gu"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "56",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/karcsonyi-montzs-2023-hirdets-fekv-msolat-2.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<br><i>Tedd igazán emlékezetessé a karácsonyt és szerezz egy csodás élményt!</i>",
+          "text": "<b>Már tudsz jelentkezni a szabad időpontokra.</b><br><b><br></b><br>Sok szeretettel várlak <b>november elejétől január első hetéig</b> <b>karácsonyi fotózásra</b> a megújult és kibővült <b>gyönyörű szép karácsonyi enteriőrrel berendezett pécsi fotóstúdiómban, rengeteg kellékkel.&nbsp;</b><br><br>Tarts velem és lepd meg szeretteidet egy igazán gyönyörű és különleges fotósorozattal, mely <b>különleges ajándékul szolgál</b>, valamint gazdagítsd magad és a családodat <b>egy fantasztikus élménnyel. </b>Ha még nincs ötleted, hogy mit ajándékoz szeretteidnek karácsonyra, akkor <b>ajándékozz fotózást, melyet ajándékutalvány formájában a karácsonyfa alá is tehetsz</b>. Családi, gyermek, baba, újszülött, kismama, páros, portré, háziállat, glamour, boudoir témában várlak szeretettel. Keress bizalommal!&nbsp;&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Időpontot foglalni</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "24px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box5-gv"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title I": {
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "title": "<i>Őszi műtermi és szabadtéri újszülött, baba, gyermek, családi, kismama, portré, páros, jegyes, háziállat, boudoir, portré fotózás Pécsen és Szekszárdon</i>",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-gt"
+        },
+        {
           "_params": {
             "showTitle": true,
             "showText": false,
@@ -14257,7 +14364,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -14287,7 +14394,7 @@
               "size": 0
             }
           },
-          "title": "<i>ŐSZI CSALÁDI, GYERMEK, BABA, ÚJSZÜLÖTT, KISMAMA, PÁROS, PORTRÉ, JEGYES, HÁZIÁLLAT, BOUDOIR MŰTERMI ÉS SZABADTÉRI FOTÓZÁS PÉCSEN és SZEKSZÁRDON</i><br><br><i style=\"font-weight: normal;\">Sok szeretettel várlak benneteket őszi fotózásra a saját pécsi gyönyörű szépen berendezett stúdiómban, a virágos udvarunkban vagy szabadtéren Pécsen és Szekszárdon.\n</i><div><i style=\"font-weight: normal;\">\n</i></div><div><i style=\"font-weight: normal;\">Tarts velem és lepd meg magadat, a családodat, a párodat egy fantasztikus élménnyel, egy igazán gyönyörű és különleges fotósorozattal, amely különleges ajándékul szolgál.</i></div><span style=\"font-weight: normal;\"><br></span><div><i style=\"font-weight: normal;\"><br></i></div><div><i style=\"font-weight: normal;\">Ha még nincs ötleted, hogy mit ajándékoz szeretetteidnek születésnapra, akkor ajándékozz fotózást, melyet ajándékutalvány formájában is átadhatsz. \n</i></div><div><i style=\"font-weight: normal;\">\n</i></div><div><i style=\"font-weight: normal;\">Várlak szeretettel, és remélem hamarosan találkozunk.&nbsp;</i></div>",
+          "title": "<i style=\"font-weight: normal;\">Sok szeretettel várlak benneteket őszi fotózásra a saját pécsi gyönyörű szépen berendezett stúdiómban, a virágos udvarunkban vagy szabadtéren Pécsen és Szekszárdon.\n</i><div><i style=\"font-weight: normal;\">\n</i></div><div><i style=\"font-weight: normal;\"><br></i></div><br><div><i style=\"font-weight: normal;\">Tarts velem és lepd meg magadat, a családodat, a párodat egy fantasztikus élménnyel, egy igazán gyönyörű és különleges fotósorozattal, amely különleges ajándékul szolgál.</i></div><span style=\"font-weight: normal;\"><br></span><div><i style=\"font-weight: normal;\"><br></i></div><div><i style=\"font-weight: normal;\">Ha még nincs ötleted, hogy mit ajándékoz szeretetteidnek, akkor ajándékozz fotózást, melyet ajándékutalvány formájában is átadhatsz.</i></div><br><div><i style=\"font-weight: normal;\"> \n</i></div><div><i style=\"font-weight: normal;\">\n</i></div><div><i style=\"font-weight: normal;\">Várlak szeretettel, és remélem hamarosan találkozunk.&nbsp;</i></div>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot most!</a>",
           "_tags": [

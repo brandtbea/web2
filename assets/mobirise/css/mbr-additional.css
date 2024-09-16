@@ -1735,6 +1735,27 @@ section.form .container {
   font-size: 18px;
   font-family: 'Raleway', sans-serif;
 }
+#header3-gu .mbr-section-title,
+#header3-gu .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-gu .mbr-section-title I {
+  font-size: 36px;
+}
+#msg-box5-gv H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-gv P {
+  text-align: left;
+}
+#header3-gt .mbr-section-title,
+#header3-gt .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-gt .mbr-section-title I {
+  font-size: 36px;
+}
 #msg-box5-gq H3 {
   font-size: 24px;
   text-align: center;
