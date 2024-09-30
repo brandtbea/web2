@@ -1735,6 +1735,12 @@ section.form .container {
   font-size: 18px;
   font-family: 'Raleway', sans-serif;
 }
+#content1-hf DIV {
+  text-align: center;
+}
+#content1-hf I {
+  font-size: 32px;
+}
 #header3-gu .mbr-section-title,
 #header3-gu .mbr-section-subtitle {
   text-align: center;
