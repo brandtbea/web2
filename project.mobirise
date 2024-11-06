@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "karacsonyi_fotozas_pecs.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 634,
+    "uniqCompNum": 637,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -806,7 +806,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -830,15 +830,15 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/0749-babafoto-pecs-szekszard-pecsifotos-babyphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/0749-babafoto-pecs-szekszard-pecsifotos-babyphoto-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/9877-jszlttfotozas-pecs-newborn-photography.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9877-jszlttfotozas-pecs-newborn-photography-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -1921,6 +1921,18 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/9740-ujszulott-fotozas-pecs-newbornphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9740-ujszulott-fotozas-pecs-newbornphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -5392,6 +5404,18 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/3475-szuletesnapi-fotozas-pecs-birtday-photography.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3475-szuletesnapi-fotozas-pecs-birtday-photography-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -5548,7 +5572,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "A baba és gyermek fotózás csomagára a pécsi saját stúdiómban 34,900,-Ft-tól kezdődik, mely családi és testvér fotókat is tartalmaz. Kérlek írd le, hogy mikor és hányan jönnétek, hol szeretnétek a fotózást, és elküldöm a csomagajánlataimat.",
+          "text": "A baba és gyermek fotózás csomagára a pécsi saját stúdiómban 34,990,-Ft-tól kezdődik, mely családi és testvér fotókat is tartalmaz. Kérlek írd le, hogy mikor és hányan jönnétek, hol szeretnétek a fotózást, és elküldöm a csomagajánlataimat.",
           "_tags": [
             "Theme"
           ],
@@ -8273,6 +8297,54 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/1874-szuletesnapi-fotozas-pecs-szekszard-birthdayphoto.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/1874-szuletesnapi-fotozas-pecs-szekszard-birthdayphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/3396-szuletesnapi-fotozas-pecs-birthday-photographer.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3396-szuletesnapi-fotozas-pecs-birthday-photographer-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/3439-szuletesnapi-csaladi-fotozas-pecs-birthdayphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3439-szuletesnapi-csaladi-fotozas-pecs-birthdayphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/3449-szuletesnapi-fotozas-pecs-birtday-photographer.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3449-szuletesnapi-fotozas-pecs-birtday-photographer-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/3605-paros-fotozas-pecs-couplephoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3605-paros-fotozas-pecs-couplephoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -14899,7 +14971,7 @@
           "title2": "Ingatlan/enteriőr/épület, szálláshely fotózás",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Baba fotózás&nbsp;",
+          "title3": "Fotók a stúdiómról&nbsp;",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Üzleti/Business portré, headshot fotó/önéletrajz/CV, LinkedIn",
@@ -16344,6 +16416,268 @@
             }
           },
           "_anchor": "buttons1-58"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": 0,
+            "paddingBottom": "1",
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9269-karacsonyi-fotostudio-pecs-photostudio-christmas.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9269-karacsonyi-fotostudio-pecs-photostudio-christmas-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1218-studiofoto-karacsonyi-pecs-christmas-studiophoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1218-studiofoto-karacsonyi-pecs-christmas-studiophoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9284-karacsonyi-muterem-pecs-photostudio-christmas.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9284-karacsonyi-muterem-pecs-photostudio-christmas-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1229-karacsonyi-studiofoto-pecs-christmas-studiophoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1229-karacsonyi-studiofoto-pecs-christmas-studiophoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7062-karacsonyi-mutermi-fotozas-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7062-karacsonyi-mutermi-fotozas-pecs-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7122-karacsonyi-mutermi-fotozas-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7122-karacsonyi-mutermi-fotozas-pecs-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7253-photographer-pecs-christmas.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7253-photographer-pecs-christmas-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7557-karacsonyi-fotostudio-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7557-karacsonyi-fotostudio-pecs-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7057-karacsonyi-studios-fotozas-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7057-karacsonyi-studios-fotozas-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7634-karacsonyi-fenykepesz-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7634-karacsonyi-fenykepesz-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7053-karacsonyi-mutermi-fotozas-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7053-karacsonyi-mutermi-fotozas-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7592-karacsonyi-mutermi-fotos-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7592-karacsonyi-mutermi-fotos-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7602-chirstmas-photostudio-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7602-chirstmas-photostudio-pecs-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7549-karacsonyi-fenykepesz-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7549-karacsonyi-fenykepesz-pecs-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7601-karacsonyi-fenykepesz-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7601-karacsonyi-fenykepesz-pecs-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7513-christmas-photostudio-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7513-christmas-photostudio-pecs-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7525-karacsonyi-fotos-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7525-karacsonyi-fotos-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7290-karacsonyi-fotografus-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7290-karacsonyi-fotografus-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7084-karacsonyi-fotostudio-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7084-karacsonyi-fotostudio-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7596-christmas-photoshoot-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7596-christmas-photoshoot-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-ho"
         },
         {
           "_params": {
@@ -20299,6 +20633,57 @@
           "_anchor": "buttons1-5n"
         },
         {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": true,
+            "showName": true,
+            "showBio": false,
+            "count": "1",
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "A fotózásomon résztvevők ajánlásai",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Kasper-Kovács-Szabina",
+              "authorBio": "User",
+              "text": "Húsvéti fotózáson voltunk a 10 hónapos kisfiammal. Bea nagyon kedves, türelmes, közvetlen :)\r<div>A képek csodaszépek lettek. Mindenkinek ajánlom :)</div>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/g85a8781-msolat-4.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "testimonials1-hn"
+        },
+        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -20702,18 +21087,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a9282-pecsifotos-parosfotozas.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a9282-pecsifotos-parosfotozas-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a8992-pecsifotos-fotozas-pecs.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a8992-pecsifotos-fotozas-pecs-613x920.jpg",
                 "alt": "",
@@ -20728,6 +21101,18 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a9406-jegyesfotozas-pecs.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a9406-jegyesfotozas-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a9282-pecsifotos-parosfotozas.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9282-pecsifotos-parosfotozas-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -21280,6 +21665,42 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a2385-prosfotozas-pecs-szekszard-pairedphoto.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a2385-prosfotozas-pecs-szekszard-pairedphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/3671-paros-fotozas-pecs-pairedphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3671-paros-fotozas-pecs-pairedphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1099-msolat-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1099-msolat-2-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/1091-karacsonyi-csaladi-fotozas-pecs-christmas-familyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1091-karacsonyi-csaladi-fotozas-pecs-christmas-familyphoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -31477,6 +31898,54 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/0904-karacsonyi-kutyafotozas-pecs-christmas-dogphoto-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0904-karacsonyi-kutyafotozas-pecs-christmas-dogphoto-1-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/1091-karacsonyi-csaladi-fotozas-pecs-christmas-familyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1091-karacsonyi-csaladi-fotozas-pecs-christmas-familyphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a0937-msolat-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a0937-msolat-2-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1020-msolat-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1020-msolat-2-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -32365,7 +32834,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "A baba fotózás csomagára a pécsi saját stúdiómban 34,900,-Ft-tól kezdődik, mely családi és testvér fotókat is tartalmaz. Kérlek írd le, hogy mikor és hányan jönnétek, hol szeretnétek a fotózást, és elküldöm a csomagajánlataimat.",
+          "text": "A baba fotózás csomagára a pécsi saját stúdiómban 34,990,-Ft-tól kezdődik (kb. egy óra fotózás és 10 db professzionálisan retusált digitális fotó), mely családi és testvér fotókat is tartalmaz. Kérlek írd le, hogy mikor és hányan jönnétek, hol szeretnétek a fotózást, és elküldöm a csomagajánlataimat.",
           "_tags": [
             "Theme"
           ],
@@ -32570,12 +33039,12 @@
               }
             },
             {
-              "authorName": "Kasper-Kovács-Szabina",
+              "authorName": "Mórvai Dóra",
               "authorBio": "User",
-              "text": "Húsvéti fotózáson voltunk a 10 hónapos kisfiammal. Bea nagyon kedves, türelmes, közvetlen :)\r<div>A képek csodaszépek lettek. Mindenkinek ajánlom :)\r</div><div><br></div>",
+              "text": "Bea csodálatos fotós hihetetlen odaadással, szívvel-lélekkel dolgozik és ez árad a képeiről is.\n<div></div><div>Életünk LEGSZEBB fotóit készítette el, őszintén remélem még sokszor lesz ebben az élményben részünk. Mindenkinek tiszta szívvel ajánlom, aki természetes, elkapott pillanatokkal és érzelmekkel teli fotókkal szeretne gazdagabb lenni!&nbsp;</div>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/g85a8781-msolat-3.jpeg",
+                  "src": "@PROJECT_PATH@/assets/images/morvai-dra.jpeg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
