@@ -2012,6 +2012,16 @@ section.form .container {
 #buttons1-58 .btn {
   font-size: 18px;
 }
+#msg-box5-hr SPAN {
+  font-size: 22px;
+}
+#msg-box5-hr I {
+  font-size: 30px;
+}
+#msg-box5-hr H3 {
+  font-size: 30px;
+  text-align: center;
+}
 #content1-f3 B {
   font-size: 19px;
 }
