@@ -16651,6 +16651,54 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2729-paros-fotozas-pecs-karacsonyi-foto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2729-paros-fotozas-pecs-karacsonyi-foto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2581-paros-fotozas-kutyafoto-pecs-pairedphoto-dogphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2581-paros-fotozas-kutyafoto-pecs-pairedphoto-dogphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2710-paros-fotozas-pecs-pairedphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2710-paros-fotozas-pecs-pairedphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2609-karacsonyi-paros-fotozas-pecs-christmas-pairedphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2609-karacsonyi-paros-fotozas-pecs-christmas-pairedphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
