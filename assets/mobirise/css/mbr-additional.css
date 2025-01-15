@@ -5183,6 +5183,13 @@ section.form .container {
 #header3-hu .mbr-section-title I {
   font-size: 25px;
 }
+#header3-i3 .mbr-section-title,
+#header3-i3 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-i3 .mbr-section-title I {
+  font-size: 32px;
+}
 #buttons1-hx .btn {
   font-size: 18px;
 }
