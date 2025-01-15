@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "termek_etelfotozas_pecs_szekszard.html",
+    "currentPage": "paros_fotozas_pecs.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -2492,7 +2492,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/coworkers42.jpg",
+              "src": "@PROJECT_PATH@/assets/images/coworkers10.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -2500,7 +2500,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/code-man41.jpg",
+              "src": "@PROJECT_PATH@/assets/images/code-man9.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -2508,7 +2508,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/windows-books46.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books14.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -2516,7 +2516,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop44.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop12.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -14445,7 +14445,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/windows-books46.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books14.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -14453,7 +14453,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop44.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop12.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -14560,7 +14560,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/windows-books46.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books14.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -14568,7 +14568,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop44.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop12.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -14877,7 +14877,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/coworkers42.jpg"
+              "src": "@PROJECT_PATH@/assets/images/coworkers10.jpg"
             },
             "video": {
               "active": true,
@@ -15747,7 +15747,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/desktop43.jpg"
+              "src": "@PROJECT_PATH@/assets/images/desktop11.jpg"
             },
             "video": {
               "src": "https://youtu.be/Pq2VGIs-k4s",
@@ -22174,6 +22174,114 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/4616-jegyesfotozas-pecs-szekszard-photographer.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/4616-jegyesfotozas-pecs-szekszard-photographer-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7837-parosfoto-pecs-szekszard-couplephoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7837-parosfoto-pecs-szekszard-couplephoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7848-parosfotozas-pecs-szekszard-couples-photo.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7848-parosfotozas-pecs-szekszard-couples-photo-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7868-parosfotozas-pecs-szekszard-couplephoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7868-parosfotozas-pecs-szekszard-couplephoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7920-jegyesfotozas-pecs-karacsonyifoto-christmas-couple-photo.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7920-jegyesfotozas-pecs-karacsonyifoto-christmas-couple-photo-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7929-parosfotozas-pecs-szekszard-couplephotojpg.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7929-parosfotozas-pecs-szekszard-couplephotojpg-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7961-jegyesfotozas-pecs-szekszard-e-session-photo.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7961-jegyesfotozas-pecs-szekszard-e-session-photo-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7966-parosfotozas-pecs-szekszard-couplesphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7966-parosfotozas-pecs-szekszard-couplesphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/8068-parosfoto-pecs-szekszard-e-session-photo.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8068-parosfoto-pecs-szekszard-e-session-photo-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/8144-jegyesfotozas-pecs-szekszard-couple-photo.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8144-jegyesfotozas-pecs-szekszard-couple-photo-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -30371,7 +30479,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/coworkers42.jpg",
+              "src": "@PROJECT_PATH@/assets/images/coworkers10.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -30379,7 +30487,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/code-man41.jpg",
+              "src": "@PROJECT_PATH@/assets/images/code-man9.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -30387,7 +30495,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/windows-books46.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books14.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -30395,7 +30503,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop44.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop12.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -37423,8 +37531,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/bike40.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bike-small32.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bike8.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bike-small0.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -37435,8 +37543,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/code-man41.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/code-man-small33.jpg",
+                "image": "@PROJECT_PATH@/assets/images/code-man9.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/code-man-small1.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
@@ -37446,8 +37554,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/coworkers42.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coworkers-small34.jpg",
+                "image": "@PROJECT_PATH@/assets/images/coworkers10.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/coworkers-small2.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
@@ -37457,8 +37565,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/desktop43.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/desktop-small35.jpg",
+                "image": "@PROJECT_PATH@/assets/images/desktop11.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/desktop-small3.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
@@ -37468,8 +37576,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/room-laptop44.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/room-laptop-small36.jpg",
+                "image": "@PROJECT_PATH@/assets/images/room-laptop12.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/room-laptop-small4.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
@@ -37479,8 +37587,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/table45.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/table-small37.jpg",
+                "image": "@PROJECT_PATH@/assets/images/table13.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/table-small5.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
@@ -37490,8 +37598,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/windows-books46.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/windows-books-small38.jpg",
+                "image": "@PROJECT_PATH@/assets/images/windows-books14.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/windows-books-small6.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
@@ -37501,8 +37609,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/working-area47.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/working-area-small39.jpg",
+                "image": "@PROJECT_PATH@/assets/images/working-area15.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/working-area-small7.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
@@ -40456,7 +40564,7 @@
               "font-size": "15px"
             },
             "I": {
-              "font-size": "15px"
+              "font-size": "14px"
             }
           },
           "_anchor": "msg-box5-hs"
