@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "eskuvo_keresztelo_fenykepezes.html",
+    "currentPage": "termek_etelfotozas_pecs_szekszard.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -15710,127 +15710,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/9976-eskuvo-fotozas-pecs-szekszard-wedding-photography.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/9976-eskuvo-fotozas-pecs-szekszard-wedding-photography-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/0006-eskuvo-fotozas-keszulodes-weddingphoto-pecs-szekszard.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/0006-eskuvo-fotozas-keszulodes-weddingphoto-pecs-szekszard-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/0007-eskuvo-fotozas-pecs-szekszard-fenykepesz-wedding-photographer.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/0007-eskuvo-fotozas-pecs-szekszard-fenykepesz-wedding-photographer-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/9979-eskuvo-fotos-pecs-szekszard-wedding-photographer-1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/9979-eskuvo-fotos-pecs-szekszard-wedding-photographer-1-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/0249-eskvofotozas-pecs-szekszard-weddingphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/0249-eskvofotozas-pecs-szekszard-weddingphoto-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/1096-mennyassonyi-csokor-pecs-szekszard-weddingphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1096-mennyassonyi-csokor-pecs-szekszard-weddingphoto-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/1080-eskuvo-fotos-pecs-szekszard-weddingphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1080-eskuvo-fotos-pecs-szekszard-weddingphoto-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/1077-eskuvo-fotozas-pecs-szekszard-weddingphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1077-eskuvo-fotozas-pecs-szekszard-weddingphoto-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/9979-eksuvo-fotozas-pecs-szekszard-weddingphoto-1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/9979-eksuvo-fotozas-pecs-szekszard-weddingphoto-1-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/1103-eskuvo-fotozas-fenykepesz-pecs-szekszard.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1103-eskuvo-fotozas-fenykepesz-pecs-szekszard-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
               }
             ]
           },
