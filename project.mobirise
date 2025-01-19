@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "csaladifotozas_familyphotography_pecs_szekszard.html",
+    "currentPage": "baba_gyermek_fotok.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -23192,7 +23192,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni/Foglalj időpontot most!</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -24945,55 +24945,12 @@
           "_anchor": "gallery1-74"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title I": {
-              "font-size": "23px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "24px"
-            },
-            ".mbr-section-title": {
-              "font-size": "24px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-75"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "",
-          "text2": "<p><br></p><div><br></div><p></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_anchor": "content6-76"
-        },
-        {
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni/Foglalj időpontot most!</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -25702,7 +25659,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni/Foglalj időpontot most!</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -26292,7 +26249,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni/Foglalj időpontot most!</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -26870,7 +26827,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni/Foglalj időpontot most!</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -27364,7 +27321,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni/Foglalj időpontot most!</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -27906,7 +27863,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni/Foglalj időpontot most!</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -28347,55 +28304,12 @@
           "_anchor": "gallery1-94"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title I": {
-              "font-size": "23px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "24px"
-            },
-            ".mbr-section-title": {
-              "font-size": "24px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-95"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "",
-          "text2": "<p><br></p><div><br></div><p></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_anchor": "content6-96"
-        },
-        {
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni/Foglalj időpontot most!</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -28944,55 +28858,12 @@
           "_anchor": "gallery1-9i"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title I": {
-              "font-size": "23px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "24px"
-            },
-            ".mbr-section-title": {
-              "font-size": "24px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-9j"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "",
-          "text2": "<p><br></p><div><br></div><p></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_anchor": "content6-9k"
-        },
-        {
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni/Foglalj időpontot most!</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -29510,7 +29381,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni/Foglalj időpontot most!</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -30107,55 +29978,12 @@
           "_anchor": "gallery1-ah"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title I": {
-              "font-size": "23px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "24px"
-            },
-            ".mbr-section-title": {
-              "font-size": "24px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-ai"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "",
-          "text2": "<p><br></p><div><br></div><p></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_anchor": "content6-aj"
-        },
-        {
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni/Foglalj időpontot most!</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -31210,7 +31038,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni/Foglalj időpontot most!</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -31668,7 +31496,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni/Foglalj időpontot most!</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -37230,7 +37058,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni/Foglalj időpontot most!</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -38935,7 +38763,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni/Foglalj időponto most!</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -39368,7 +39196,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Ajánlatot szeretnék kérni/Foglalj időpontot most!</a>           ",
           "_tags": [
             "Theme"
           ],
