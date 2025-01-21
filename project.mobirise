@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "kutya_macska_cica_haziallat_fotozas_pecs.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -64,9 +64,7 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "imageResize": false,
     "mbrsiteDomain": "w7otjnoplx",
-    "publishChangesOnly": false,
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "publishChangesOnly": false
   },
   "pages": {
     "ujszulott_fotozas.html": {
@@ -32482,6 +32480,18 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7190-macskafotozas-pecs-szekszard-catphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7190-macskafotozas-pecs-szekszard-catphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -34862,7 +34872,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -34874,7 +34884,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ]
           },
@@ -35676,7 +35686,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -35709,6 +35719,102 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/pipacsfoto-glamourphoto-portrefotozas-fenykepesz-pecs.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/pipacsfoto-glamourphoto-portrefotozas-fenykepesz-pecs-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6127-glamour-portrefotozas-pecs-szekszard-boudoir.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6127-glamour-portrefotozas-pecs-szekszard-boudoir-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6552-boudoir-glamour-fenykepesz-pecs-szekszard.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6552-boudoir-glamour-fenykepesz-pecs-szekszard-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6115-glamourphoto-boudoirphoto-pecs-szekszard-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6115-glamourphoto-boudoirphoto-pecs-szekszard-1-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6629-glamour-boudoir-fotozas-pecs-photostudio.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6629-glamour-boudoir-fotozas-pecs-photostudio-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6718-glamour-fotozas-pecs-fotostudio-szekszard.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6718-glamour-fotozas-pecs-fotostudio-szekszard-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6666-karacsonyi-glamour-fotozas-pecs-szekszard-photography.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6666-karacsonyi-glamour-fotozas-pecs-szekszard-photography-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7136-glamour-fotos-pecs-fenykepesz.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7136-glamour-fotos-pecs-fenykepesz-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7067-karacsonyi-glamour-fotozas-pecs-boudoirphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7067-karacsonyi-glamour-fotozas-pecs-boudoirphoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
