@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "csaladifotozas_pecs_makviragmezo.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -64,7 +64,9 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "imageResize": false,
     "mbrsiteDomain": "w7otjnoplx",
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "ujszulott_fotozas.html": {
@@ -15260,7 +15262,7 @@
             "overlayOpacity": "0.2"
           },
           "title": "<span style=\"font-weight: normal;\">KAPCSOLAT</span>",
-          "subtitle": "<br>Szeretettel várlak, ha szeretnél magadról, illetve a családodról szép képeket, vagy, ha esetleg szeretetted szeretnéd meglepni egy fotózással. <br><br>Kérlek írd meg, hogy <b>milyen témában szeretnél fotózást, mikor, hol, és hányan jönnétek.</b> Ha esetleg a beérkezett mappában nem találod a válasz email-emet,<b> kérlek nézd meg a spam/promóció mappában is.<br></b><br>E-mail:&nbsp;brandtbea12@gmail.com<br>Mobil: +36 (30) 416 7606<br>Pécs",
+          "subtitle": "<br>Szeretettel várlak, ha szeretnél magadról, illetve a családodról szép képeket, vagy, ha esetleg szeretetted szeretnéd meglepni egy fotózással. <br><br>Kérlek írd meg, hogy <b>milyen témában szeretnél fotózást, mikor, hol, és hányan jönnétek.</b> Ha esetleg a beérkezett mappában nem találod a válasz email-emet,<b> kérlek nézd meg a spam/promóció mappában is.<br></b><br>E-mail:&nbsp;brandtbea12 @ gmail.com<br>Mobil: +36 (30) 416 7606<br>Pécs",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">KÜLDÉS</a>",
           "form": {
             "action": "brandtbea12@gmail.com",
