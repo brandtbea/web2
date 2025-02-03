@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "paros_fotozas_pecs.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -22630,6 +22630,19 @@
             }
           },
           "_anchor": "content6-63"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "A páros fotózás csomagára a pécsi saját stúdiómban/pécsi szabadtéri helyszínen 34,990,-Ft-tól kezdődik, amely kb. egy óra fotózást és 10 darab digitális retusált fotót tartalmaz. További digitális retusált képek ára 1.990,-Ft/db. Kérlek írd le, hogy mikor és hol szeretnétek a fotózást, és elküldöm a csomagajánlataimat.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-ej"
         },
         {
           "_params": {
