@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "kutya_macska_cica_haziallat_fotozas_pecs.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -32055,7 +32055,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Creative",
@@ -32616,114 +32616,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/4940-csaladi-fotozas-kutyafoto-pecs-family-dogphoto.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/4940-csaladi-fotozas-kutyafoto-pecs-family-dogphoto-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/0709-bicon-havanese-dogphoto-kutyafotozas-pecs-szekszard.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/0709-bicon-havanese-dogphoto-kutyafotozas-pecs-szekszard-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/0633-kutyafotozas-pecs-szekszard-dog-photographer.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/0633-kutyafotozas-pecs-szekszard-dog-photographer-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/9622-kutyafotos-pecs-szekszard-dogpoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/9622-kutyafotos-pecs-szekszard-dogpoto-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/0658-kutyafotos-pecs-szekszard-dog-photographer.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/0658-kutyafotos-pecs-szekszard-dog-photographer-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/0685-kutyafoto-pecs-szekszard-dogphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/0685-kutyafoto-pecs-szekszard-dogphoto-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/0700-kutyafotozas-pecs-szekszard-dogphotography.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/0700-kutyafotozas-pecs-szekszard-dogphotography-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/9532-kutyafotozas-pecs-szekszard-1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/9532-kutyafotozas-pecs-szekszard-1-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/9548-kutyafot-pecs-szekszard-dogphoto-2.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/9548-kutyafot-pecs-szekszard-dogphoto-2-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/9580-havanese-dog-photography-pecs-1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/9580-havanese-dog-photography-pecs-1-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
