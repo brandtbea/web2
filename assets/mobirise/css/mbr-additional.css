@@ -1741,6 +1741,30 @@ section.form .container {
 #content1-hf I {
   font-size: 32px;
 }
+#header3-ig .mbr-section-title,
+#header3-ig .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-ig .mbr-section-title I {
+  font-size: 36px;
+}
+#msg-box5-if H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-if P {
+  text-align: left;
+}
+#msg-box5-if I {
+  font-size: 25px;
+}
+#header3-ii .mbr-section-title,
+#header3-ii .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-ii .mbr-section-title I {
+  font-size: 36px;
+}
 #msg-box5-as SPAN {
   font-size: 36px;
 }
@@ -2010,21 +2034,6 @@ section.form .container {
 }
 #content1-f3 B {
   font-size: 19px;
-}
-#testimonials3-gx .mbr-section-title {
-  color: #efefef;
-}
-#testimonials3-gx .mbr-author-name {
-  color: #ccc;
-}
-#testimonials3-gx .card-block {
-  text-align: center;
-}
-#testimonials3-gw .mbr-section-title {
-  color: #efefef;
-}
-#testimonials3-gw .mbr-author-name {
-  color: #ccc;
 }
 #buttons1-gy .btn {
   font-size: 18px;
