@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "glamour_boudoir_fotozas_photography_pecspage36.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -64,7 +64,9 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "imageResize": false,
     "mbrsiteDomain": "w7otjnoplx",
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "ujszulott_fotozas.html": {
@@ -14401,7 +14403,7 @@
             "paddingBottom": "2",
             "bgColor": "#efefef"
           },
-          "title": "<i>Tavaszi, anyák napi műtermi és szabadtéri újszülött, baba, gyermek, családi, kismama, páros, portré, glamour , boudoir, háziállat fotózás Pécsen és Szekszárdon</i>",
+          "title": "<i>Tavaszi, anyák napi műtermi és szabadtéri újszülött, baba, gyermek, családi, kismama, páros, portré, glamour , háziállat fotózás Pécsen és Szekszárdon</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -14435,7 +14437,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/poppyfield-glamourphoto-pecs-portrefotozas-photographer.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a1959-anyaknapifotozas-pecs-szekszard-motherdayphoto.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -14452,7 +14454,7 @@
               "size": 0
             }
           },
-          "title": "<i>TAVASZI/ANYÁK NAPI ÚJSZÜLÖTT, BABA, GYERMEK, CSALÁDI, KISMAMA, PÁROS, PORTRÉ, GLAMOUR, BOUDOIR, HÁZIÁLLAT MŰTERMI ÉS SZABADTÉRI FOTÓZÁS PÉCSEN ÉS SZEKSZÁRDON</i>",
+          "title": "<i>TAVASZI/ANYÁK NAPI ÚJSZÜLÖTT, BABA, GYERMEK, CSALÁDI, KISMAMA, PÁROS, PORTRÉ, GLAMOUR, HÁZIÁLLAT MŰTERMI ÉS SZABADTÉRI FOTÓZÁS PÉCSEN ÉS SZEKSZÁRDON</i>",
           "text": "<br><br><br>Sok szeretettel várlak benneteket tavaszi/húsvéti/anyák napi fotózásra a saját pécsi gyönyörű szépen berendezett stúdiómban, a virágos udvarunkban vagy szabadtéren Pécsen és Szekszárdon.<br><br>Tarts velem és lepd meg magadat, a családodat, a párodat egy fantasztikus élménnyel, egy igazán gyönyörű és különleges fotósorozattal, amely különleges ajándékul szolgál, <br>Ha még nincs ötleted, hogy mit ajándékoz szeretetteidnek húsvétra/anyáknapjára, akkor ajándékozz fotózást, melyet ajándékutalvány formájában is átadhatsz. <br><br>Várlak szeretettel, és remélem hamarosan találkozunk.&nbsp;<br>\n<br>&nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot!</a>",
           "_tags": [
