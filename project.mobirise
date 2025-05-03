@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "paros_fotozas_pecs.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 677,
+    "uniqCompNum": 685,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -8429,7 +8429,7 @@
             "showImages": true,
             "showName": true,
             "showBio": false,
-            "count": "2",
+            "count": "3",
             "paddingTop": 3,
             "paddingBottom": "0",
             "bgImageRadio": false,
@@ -8475,6 +8475,23 @@
                   "link": "",
                   "alt": "",
                   "linkInNewWindow": false
+                }
+              }
+            },
+            {
+              "authorName": "Hóborné Kálmán Anita",
+              "authorBio": "User",
+              "text": "Ajánlom Brandt Beát minden ismerősömnek és annak aki felejthetetlen élményt szeretne! Nagyom jó fotókat készít! A gyerekeimről rengeteg képet készített! Imádom őket! ❤",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/hbor-anita-arckp-1.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
                 }
               }
             }
@@ -9867,6 +9884,77 @@
               "font-size": "36px"
             }
           }
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSubtitle": false,
+            "showImages": true,
+            "showName": true,
+            "showBio": false,
+            "count": 3,
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "WHAT OUR FANTASTIC USERS SAY",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Hóborné Kálmán Anita",
+              "authorBio": "User",
+              "text": "Ajánlom Brandt Beá-t minden ismerősömnek és annak aki felejthetetlen élményt szeretne! Nagyom jó fotókat készít! A gyerekeimről rengeteg képet készített! Imádom őket! ❤",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Müller Hanna",
+              "authorBio": "User",
+              "text": "Nagyon vicces hangulatú fotózás után csodás eredmények születtek!\n<div>Csak ajánlani tudom! :)</div>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Kárpáti-Végh Krisztina",
+              "authorBio": "User",
+              "text": "Bea rendkívül kedves és barátságos. Munkájával elégedett vagyok, bátran ajánlom. 🥰",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-iy"
         },
         {
           "_params": {
@@ -12559,7 +12647,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -13484,6 +13572,54 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/0211-glamour-portrefoto-pecs-mkvirgmez-poppyfield.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0211-glamour-portrefoto-pecs-mkvirgmez-poppyfield-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/9771-portre-glamour-fotos-pecs-szekszard-photographer.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9771-portre-glamour-fotos-pecs-szekszard-photographer-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/9772.-portre-glamour-fenykepesz-pecs-szekszard-photographyjpg-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9772.-portre-glamour-fenykepesz-pecs-szekszard-photographyjpg-1-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/0160-portre-glamour-photo-pecs-szekszard-makmezo-poppyfield-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0160-portre-glamour-photo-pecs-szekszard-makmezo-poppyfield-1-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -13583,12 +13719,12 @@
               }
             },
             {
-              "authorName": "Tamicza András",
+              "authorName": "Solymár Mercédesz<br><br>",
               "authorBio": "Developer",
-              "text": "\"Különleges Nő, különleges emberismerettel - és fotózási tehetséggel, bátran ajánlom mindenkinek, aki szeretné magát igazán látni!\"",
+              "text": "Kedves, vidám természetű fotós, a legjobbat hozza ki az \"alapanyagból\". Csak ajánlani tudom, csodálatos fotókat kaptunk tőle a barátnőkkel!",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/g85a1284-msolat.jpg-1-msolat-1.jpeg",
+                  "src": "@PROJECT_PATH@/assets/images/g85a1645-msolat-5.jpeg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -20058,6 +20194,83 @@
         },
         {
           "_params": {
+            "showTitle": false,
+            "showSubtitle": false,
+            "showImages": true,
+            "showName": true,
+            "showBio": false,
+            "count": 3,
+            "paddingTop": "0",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "A fotózásomon résztvevők ajánlásai",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Müller Hanna",
+              "authorBio": "User",
+              "text": "Nagyon vicces hangulatú fotózás után csodás eredmények születtek!\r<div>Csak ajánlani tudom! :)</div>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Kárpáti-Végh Krisztina",
+              "authorBio": "User",
+              "text": "Bea rendkívül kedves és barátságos. Munkájával elégedett vagyok, bátran ajánlom. 🥰",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/krpti-krisztina-arckp.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "Auer Vivien",
+              "authorBio": "User",
+              "text": "Nagyon kellemes hangulatban telt a fotózás,nagyon kedves és türelmes volt végig!\r<div>\r</div><div>Biztosan vissza járó vendégek leszünk!☺️\r</div><div>\r</div><div>Tiszta szívből ajánlom Beát!🥰</div>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/auer-vivien-arckp-1.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-iw"
+        },
+        {
+          "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
             "bgColor": "#fff"
@@ -21608,7 +21821,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -22556,7 +22769,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ]
           },
@@ -22589,6 +22802,69 @@
             }
           },
           "_anchor": "content6-63"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": true,
+            "showName": true,
+            "showBio": false,
+            "count": "2",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "A fotózásomon résztvevők ajánlásai",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Birics Liliána",
+              "authorBio": "User",
+              "text": "Bea végtelenül barátságos és kedves. Párommal és két kutyusunkkal mentünk. A kutyáknak is készült játékkal, hogy mindenképp jó hangulatban teljen nekik is a fotózás. Csodálatos képek születtek. A retusált képeket még így ünnepek előtt is nagyon gyorsan megkaptuk. Mindenkinek szívből ajánlom.❤️",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/birics-lili-arckp-2.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "Auer Vivien",
+              "authorBio": "User",
+              "text": "Nagyon kellemes hangulatban telt a fotózás,nagyon kedves és türelmes volt végig!\n<div>\n</div><div>Biztosan vissza járó vendégek leszünk!☺️\n</div><div>\n</div><div>Tiszta szívből ajánlom Beát!🥰</div>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/auer-vivien-arckp-2.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-ix"
         },
         {
           "_params": {
@@ -32765,6 +33041,86 @@
         },
         {
           "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": true,
+            "showName": true,
+            "showBio": false,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "A fotózásomon résztvevők ajánlatai",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Auer Vivien",
+              "authorBio": "User",
+              "text": "Nagyon kellemes hangulatban telt a fotózás,nagyon kedves és türelmes volt végig!\r<div>Biztosan vissza járó vendégek leszünk!☺️\r</div><div>Tiszta szívből ajánlom Beát!🥰</div>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/auer-vivien-arckp.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "Birics Liliána",
+              "authorBio": "User",
+              "text": "Bea végtelenül barátságos és kedves. Párommal és két kutyusunkkal mentünk. A kutyáknak is készült játékkal, hogy mindenképp jó hangulatban teljen nekik is a fotózás. Csodálatos képek születtek. A retusált képeket még így ünnepek előtt is nagyon gyorsan megkaptuk. Mindenkinek szívből ajánlom.❤️",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/birics-lili-arckp.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "Somogyi-Kanyó Barbara",
+              "authorBio": "User",
+              "text": "Bea nagyon kedvesen és segítőkészen, türelmesen és elfogadóan fotózott bennünket! Pedig kiskutyánk nem egy szobor beállítottságú, de Bea mindent megtett hogy megörökítse családunkat! Bárkinek ajánlom fenntartások nélkül!",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/g85a2419-msolat-4.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-j0"
+        },
+        {
+          "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
             "bgColor": "#fff"
@@ -35323,6 +35679,18 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/9836-glamourphoto-pecs-portrefoto-fenykepesz-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9836-glamourphoto-pecs-portrefoto-fenykepesz-1-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -36203,18 +36571,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/6629-glamour-boudoir-fotozas-pecs-photostudio.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/6629-glamour-boudoir-fotozas-pecs-photostudio-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/6718-glamour-fotozas-pecs-fotostudio-szekszard.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/6718-glamour-fotozas-pecs-fotostudio-szekszard-613x920.jpg",
                 "alt": "",
@@ -36227,8 +36583,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/6666-karacsonyi-glamour-fotozas-pecs-szekszard-photography.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/6666-karacsonyi-glamour-fotozas-pecs-szekszard-photography-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/6629-glamour-boudoir-fotozas-pecs-photostudio.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6629-glamour-boudoir-fotozas-pecs-photostudio-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -36251,6 +36607,18 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6666-karacsonyi-glamour-fotozas-pecs-szekszard-photography.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6666-karacsonyi-glamour-fotozas-pecs-szekszard-photography-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/7067-karacsonyi-glamour-fotozas-pecs-boudoirphoto.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/7067-karacsonyi-glamour-fotozas-pecs-boudoirphoto-613x920.jpg",
                 "alt": "",
@@ -36265,6 +36633,18 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/4803-portrefotozas-pecs-szekszard-portraitphoto.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/4803-portrefotozas-pecs-szekszard-portraitphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/5676glamour-fotozas-pecs-szekszard.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5676glamour-fotozas-pecs-szekszard-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -36368,19 +36748,19 @@
               }
             },
             {
-              "authorName": "Dr. Brozovics Márton",
+              "authorName": "Balogh Anikó",
               "authorBio": "Developer",
-              "text": "\"A fotózás nagyon jó hangulatban telt. Végig felszabadultnak éreztem magam, ami a fotókon is tükröződik. Beának nagyon jó érzéke van ahhoz, hogy elkapja a legjobb, természetes pillanatokat. Csak ajánlani tudom mindenkinek!\"",
+              "text": "Bea, végtelen kedves, barátságos, nagyon szép képeket készít, csak ajánlani tudom!😊",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/g85a3446-ferfi-portefoto-pecs-portraitphoto.jpeg",
+                  "src": "@PROJECT_PATH@/assets/images/siksi-anik-3.jpeg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
                   "active": true,
                   "link": "",
                   "alt": "",
-                  "linkInNewWindow": false
+                  "title": ""
                 }
               }
             },
@@ -36442,6 +36822,169 @@
           ],
           "_name": "buttons1",
           "_anchor": "buttons1-e9"
+        },
+        {
+          "_inherit": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#efefef"
+            },
+            ".mbr-author-name": {
+              "color": "#ccc"
+            },
+            ".card-block": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": false,
+            "showName": false,
+            "showBio": false,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fotos-pecs-glamour-portrefotozas-photographer-1.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.2"
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "title": "Glamour/boudoir csomagajánlatok",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "",
+              "authorBio": "User",
+              "text": "<p><b>Minimál csomag\n</b></p><p><span style=\"font-size: 1.125rem;\">A saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban a minimál csomag ára 39.990,-Ft, mely kb. 45 perc fotózást és 6 db digitális, professzionálisan retusált fotót tartalmaz (ha fotózás munkanap nap történik, esetleg szombaton, ha hétköznap nem megoldható).&nbsp;</span><br></p><p>\n</p><p>A csomagár egy helyszínre vonatkozik. A fotózás időtartama az átöltözési és konzultációs időket is tartalmazza.&nbsp;</p><p><b>\n</b></p><p>A 6 db feletti digitális retusált képek ára 2.690,-Ft/db.&nbsp;</p><p><b><br></b></p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "",
+              "authorBio": "User",
+              "text": "<p><b>Standard csomag</b>\n</p><p><span style=\"font-size: 1.125rem;\">A standard csomag ára a saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban 44.990,-Ft, mely kb. egy óra fotózást és 9 db digitális, professzionálisan retusált fotót tartalmaz (ha fotózás munkanap történik, nem ünnepnapokon, esetleg szombaton, ha hétköznap nem megoldható).&nbsp;</span><br></p><p>\n</p><p>A csomagár egy helyszínre vonatkozik.&nbsp;</p><div><br></div><p></p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "",
+              "authorBio": "User",
+              "text": "<p><b>Médium csomag</b>\n</p><p><span style=\"font-size: 1.125rem;\">A Médium csomag ára saját pécsi stúdiómban/ pécsi szabadtéri&nbsp;</span><br></p><p><span style=\"font-size: 1.125rem;\">helyszínen/saját udvarunkban 49.990,-Ft, mely kb. 60-75 perc fotózást, 12 db digitális professzionálisan retusált képet tartalmaz (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).</span><br></p><div>Ettől a csomagártól már lehet a saját stúdiómat és saját udvarunkat kombinálni.</div><p></p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            }
+          ],
+          "_name": "testimonials3",
+          "_anchor": "testimonials3-it"
+        },
+        {
+          "_inherit": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#efefef"
+            },
+            ".mbr-author-name": {
+              "color": "#ccc"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showSubtitle": false,
+            "showImages": false,
+            "showName": false,
+            "showBio": false,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/pipacsfoto-glamourphoto-portrefotozas-fenykepesz-pecs-2.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.2"
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "title": "",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Abanoub S.",
+              "authorBio": "User",
+              "text": "<p><b>VIP csomag</b>\n</p><p><span style=\"font-size: 1.125rem;\">A VIP csomag ára a saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban &nbsp;54.990,-Ft, mely kb. egy-másfél óra fotózást, 15 db digitális professzionálisan retusált képet tartalmaz (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).</span><br></p><div><br></div><p></p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Suffian A.",
+              "authorBio": "User",
+              "text": "<b>Prémium csomag\n</b><div>\n</div><div><br></div><div>A Prémium csomag ára a saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban &nbsp;59.990,-Ft, mely kb. egy-másfél óra fotózást, 18 db digitális professzionális retusált képet tartalmaz (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).\n</div><div>\n</div><div><br></div>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Jhollman C.",
+              "authorBio": "User",
+              "text": "<b>Maxi csomag\n</b><div><br></div><div>A Maxi csomag ára a saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban &nbsp;64.990,-Ft, mely kb. egy-másfél-két óra fotózást, 21 db digitális professzionális retusált képet tartalmaz (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).\n</div><div>\n</div><div>A 21 db feletti digitális retusált képek ára 2.290,-Ft/db.&nbsp;</div>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            }
+          ],
+          "_name": "testimonials3",
+          "_anchor": "testimonials3-iv"
         },
         {
           "_params": {
@@ -40686,36 +41229,36 @@
               }
             },
             {
-              "authorName": "Hűbér Veronika",
+              "authorName": "Dr. Brozovics Márton",
               "authorBio": "Developer",
-              "text": "\"Szívből ajánlom mindenkinek! ❤\r<div>Bea rendkívül örömteli, felszabadult hangulatot teremtett, és különös érzékkel varázsolt elő olyan természetes pillanatokat, amelyekből csodálatos fotók születtek! \"❤</div>",
+              "text": "\"A fotózás nagyon jó hangulatban telt. Végig felszabadultnak éreztem magam, ami a fotókon is tükröződik. Beának nagyon jó érzéke van ahhoz, hogy elkapja a legjobb, természetes pillanatokat. Csak ajánlani tudom mindenkinek!\"",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/g85a0668-portrefotos-pecs-portraitphoto.jpeg",
+                  "src": "@PROJECT_PATH@/assets/images/brozovics-mrton-1.jpeg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
                   "active": true,
                   "link": "",
                   "alt": "",
-                  "linkInNewWindow": false
+                  "title": ""
                 }
               }
             },
             {
-              "authorName": "Horváth Barbara",
+              "authorName": "dr. Barkó Tamás",
               "authorBio": "Developer",
-              "text": "\"Mindenkinek csak ajánlani tudom! Kedves, közvetlen, precíz. Amellett, hogy szuper képek készülnek a fotózás is nagyon jó hangulatban telik.\"😊",
+              "text": "Bea professzionális szolgáltatást nyújtott az első kapcsolatvelvételtől a képek átadásáig. Csak ajánlani tudom, mert lelkiismeretesen, a lehető legjobb beállításokat keresve, igazán jó fotók készültek.",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/img-0530-portrefotos-portraitphotographer-1-800x1200.jpeg",
+                  "src": "@PROJECT_PATH@/assets/images/g85a1548-uzletiportrefoto-headshotportraitphoto-pecs.jpeg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
                   "active": true,
                   "link": "",
                   "alt": "",
-                  "linkInNewWindow": false
+                  "title": ""
                 }
               }
             }

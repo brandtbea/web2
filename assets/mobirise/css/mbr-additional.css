@@ -4299,6 +4299,21 @@ section.form .container {
 #testimonials1-e8 .mbr-section-title {
   font-size: 36px;
 }
+#testimonials3-it .mbr-section-title {
+  color: #efefef;
+}
+#testimonials3-it .mbr-author-name {
+  color: #ccc;
+}
+#testimonials3-it .card-block {
+  text-align: center;
+}
+#testimonials3-iv .mbr-section-title {
+  color: #efefef;
+}
+#testimonials3-iv .mbr-author-name {
+  color: #ccc;
+}
 #buttons1-ea .btn {
   font-size: 18px;
 }
