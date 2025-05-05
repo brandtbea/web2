@@ -64,7 +64,9 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "imageResize": false,
     "mbrsiteDomain": "w7otjnoplx",
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "ujszulott_fotozas.html": {
@@ -2791,7 +2793,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Előre is köszönöm, hogy megtekinted a honlapomat, ha szeretnél több fotót látni és az aktuális akciókról értesülni, akkor, kérlek szépen, kövess a Facebook és Instagram oldalamon is. Remélem, hamarosan találkozunk.&nbsp;&nbsp;",
+          "text": "Előre is köszönöm, hogy megtekinted a honlapomat, ha szeretnél több fotót látni és az aktuális akciókról, nyereményjátékokról értesülni, akkor, kérlek szépen, kövess a Facebook és Instagram oldalamon is. Remélem, hamarosan találkozunk.&nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -2805,7 +2807,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/időpontot szeretnék foglalni<br></a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -9913,7 +9915,7 @@
               "text": "Ajánlom Brandt Beá-t minden ismerősömnek és annak aki felejthetetlen élményt szeretne! Nagyom jó fotókat készít! A gyerekeimről rengeteg képet készített! Imádom őket! ❤",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face3.jpg",
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -9927,7 +9929,7 @@
               "text": "Nagyon vicces hangulatú fotózás után csodás eredmények születtek!\n<div>Csak ajánlani tudom! :)</div>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face1.jpg",
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -9941,7 +9943,7 @@
               "text": "Bea rendkívül kedves és barátságos. Munkájával elégedett vagyok, bátran ajánlom. 🥰",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face2.jpg",
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -14537,7 +14539,7 @@
             "paddingBottom": "2",
             "bgColor": "#efefef"
           },
-          "title": "<i>Tavaszi műtermi és szabadtéri újszülött, baba, gyermek, családi, kismama, páros, portré, glamour , boudoir, háziállat fotózás Pécsen és Szekszárdon</i>",
+          "title": "<i>Tavaszi, anyák napi műtermi és szabadtéri újszülött, baba, gyermek, családi, kismama, páros, portré, glamour , boudoir, háziállat fotózás Pécsen és Szekszárdon</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -14588,7 +14590,7 @@
               "size": 0
             }
           },
-          "title": "<i>TAVASZI ÚJSZÜLÖTT, BABA, GYERMEK, CSALÁDI, KISMAMA, PÁROS, PORTRÉ, GLAMOUR, BOUDOIR, HÁZIÁLLAT MŰTERMI ÉS SZABADTÉRI FOTÓZÁS PÉCSEN ÉS SZEKSZÁRDON</i>",
+          "title": "<i>TAVASZI/ANYÁK NAPI ÚJSZÜLÖTT, BABA, GYERMEK, CSALÁDI, KISMAMA, PÁROS, PORTRÉ, GLAMOUR, BOUDOIR, HÁZIÁLLAT MŰTERMI ÉS SZABADTÉRI FOTÓZÁS PÉCSEN ÉS SZEKSZÁRDON</i>",
           "text": "<br><br><br>Sok szeretettel várlak benneteket tavaszi/húsvéti/anyák napi fotózásra a saját pécsi gyönyörű szépen berendezett stúdiómban, a virágos udvarunkban vagy szabadtéren Pécsen és Szekszárdon.<br><br>Tarts velem és lepd meg magadat, a családodat, a párodat egy fantasztikus élménnyel, egy igazán gyönyörű és különleges fotósorozattal, amely különleges ajándékul szolgál, <br>Ha még nincs ötleted, hogy mit ajándékoz szeretetteidnek húsvétra/anyáknapjára, akkor ajándékozz fotózást, melyet ajándékutalvány formájában is átadhatsz. <br><br>Várlak szeretettel, és remélem hamarosan találkozunk.&nbsp;<br>\n<br>&nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot!</a>",
           "_tags": [
@@ -20220,7 +20222,7 @@
               "text": "Nagyon vicces hangulatú fotózás után csodás eredmények születtek!\r<div>Csak ajánlani tudom! :)</div>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face3.jpg",
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -31104,7 +31106,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<i><b>Ügyfélbarát rugalmasság</b></i><br><i><b>\n</b></i><br>Az <i>időt rugalmasan kezelem</i>, így biztos lehetsz benne, hogy rólad, a gyermekeidről, rólatok, valóban őszinte, természetes, érzelem teli mosolygós képek készülnek.\n<br><i>Hétköznap és szombaton is, napközben, és munkaidő után is tudsz hozzám jönni fotózásra.\n</i><br>Egy fotózás alkalmával t<i>öbb száz nyersképet készítek,</i> amiből <i>te választhatod ki,</i> hogy melyek kerüljenek retusálásra. \n<br>A nyers képek egyben megvásárolhatóak.<br><br><b><i>Ajándékutalvány\n<br></i></b>\n<br>Egyénre szabott egyedi ajándékutalványt tudsz vásárolni szeretteidnek. \n<br><br><i><b>Biztonság\n</b><br></i>\n<br>Az elsődleges szempont a biztonság, így csak biztonságos beállításokkal dolgozom.\n<br><br><br><b>Cégeknek is tudok számlát adni.</b><br><b><br></b>Előre is köszönöm, hogy megtekinted a honlapomat, ha szeretnél több fotót látni, és az aktuális akciókról, nyereményjátékokról értesülni, akkor, kérlek szépen iratkozz fel a hírlevelemre, kövess a Facebook, Instagram és Pinterest oldalamon is!\n<br><br><b>Beszélek németül, angolul is. <br></b><br>Így ha küldföldi vagy, bátran keress!<br><br><i>Keress bizalommal! Remélem, hamarosan találkozunk.&nbsp;&nbsp;</i>",
+          "text": "<i><b>Ügyfélbarát rugalmasság</b></i><br><i><b>\n</b></i><br>Az <i>időt rugalmasan kezelem</i>, így biztos lehetsz benne, hogy rólad, a gyermekeidről, rólatok, valóban őszinte, természetes, érzelem teli mosolygós képek készülnek.\n<br><i>Hétköznap és szombaton is, napközben, és munkaidő után is tudsz hozzám jönni fotózásra.\n</i><br>Egy fotózás alkalmával t<i>öbb száz nyersképet készítek,</i> amiből <i>te választhatod ki,</i> hogy melyek kerüljenek retusálásra. \n<br>A nyers képek egyben megvásárolhatóak.<br><br><b><i>Ajándékutalvány\n<br></i></b>\n<br>Egyénre szabott egyedi ajándékutalványt tudsz vásárolni szeretteidnek. \n<br><br><i><b>Biztonság\n</b><br></i>\n<br>Az elsődleges szempont a biztonság, így csak biztonságos beállításokkal dolgozom.\n<br><br><br><b>Cégeknek is tudok számlát adni.</b><br><b><br></b>Előre is köszönöm, hogy megtekinted a honlapomat, ha szeretnél több fotót látni, és az aktuális akciókról, nyereményjátékokról értesülni, akkor, kérlek szépen iratkozz fel a hírlevelemre, kövess a Facebook, Instagram és Pinterest oldalamon is!\n<br><br><i>Keress bizalommal! Remélem, hamarosan találkozunk.&nbsp;&nbsp;</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -36667,7 +36669,7 @@
             "bgColor": "#efefef"
           },
           "text1": "<p>A <b>glamour</b> ragyogást, varázslatos szépséget jelent. Számomra minden ember egy történet. Szeretem meglátni és kifejezni a nőben lévő egyediséget, a belső sugárzó szépségét, valamint a szemében a lélek tükrének a ragyogását csodás fotókon.</p><p><br></p><p>A <b>boudoir</b> jelentése női hálószoba, szalon öltöző. A boudoir fotózás bepillantást enged a nő bájába, szépségébe, csábításába, titokzatosságába, sejtelmességébe, varázslatába.&nbsp;&nbsp;</p><p>\n</p><div><br></div><div>\n</div><div>Minden nő életében eljön az a pillanat, amikor úgy érzi, hogy szeretné magát, illetve a párját meglepni egy gyönyörű szép fotósorozattal.</div><div><br></div><p></p>",
-          "text2": "A glamour/boudoir&nbsp;<b>fotózás helyszínéül választhatod a saját műtermemet Pécsen, bérelt stúdiót vagy a természetet</b>, a gyönyörű virágos udvarunkat, erdőt, mezőt, tópartot stb..&nbsp;<b>Stúdiós és kültéri fotózásra is lehetőség van egyszerre a saját udvarunkban.\n</b><div>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra. A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető. </b>A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készíttethetsz.</div><div>Minden fotózásba újdonságot viszek bele, és az egyediség varázsára törekszem.</div><div>Többféle csomagajánlatból tudsz választani, melyet a vélemények alatt találsz.</div><div><br></div><div> \n</div><div>Keress bizalommal, várlak szeretettel!</div>",
+          "text2": "A glamour/boudoir&nbsp;<b>fotózás helyszínéül választhatod a saját műtermemet Pécsen, bérelt stúdiót vagy a természetet</b>, a gyönyörű virágos udvarunkat, erdőt, mezőt, tópartot stb..&nbsp;<b>Stúdiós és kültéri fotózásra is lehetőség van egyszerre a saját udvarunkban.\n</b><div>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra. A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető. </b>A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készíttethetsz.</div><div>Minden fotózásba újdonságot viszek bele, és az egyediség varázsára törekszem.</div><div> \n</div><div>Keress bizalommal, várlak szeretettel!</div>",
           "_tags": [
             "Theme"
           ],
@@ -36866,7 +36868,7 @@
               "text": "<p><b>Minimál csomag\n</b></p><p><span style=\"font-size: 1.125rem;\">A saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban a minimál csomag ára 39.990,-Ft, mely kb. 45 perc fotózást és 6 db digitális, professzionálisan retusált fotót tartalmaz (ha fotózás munkanap nap történik, esetleg szombaton, ha hétköznap nem megoldható).&nbsp;</span><br></p><p>\n</p><p>A csomagár egy helyszínre vonatkozik. A fotózás időtartama az átöltözési és konzultációs időket is tartalmazza.&nbsp;</p><p><b>\n</b></p><p>A 6 db feletti digitális retusált képek ára 2.690,-Ft/db.&nbsp;</p><p><b><br></b></p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face3.jpg",
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -36880,7 +36882,7 @@
               "text": "<p><b>Standard csomag</b>\n</p><p><span style=\"font-size: 1.125rem;\">A standard csomag ára a saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban 44.990,-Ft, mely kb. egy óra fotózást és 9 db digitális, professzionálisan retusált fotót tartalmaz (ha fotózás munkanap történik, nem ünnepnapokon, esetleg szombaton, ha hétköznap nem megoldható).&nbsp;</span><br></p><p>\n</p><p>A csomagár egy helyszínre vonatkozik.&nbsp;</p><div><br></div><p></p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face1.jpg",
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -36894,7 +36896,7 @@
               "text": "<p><b>Médium csomag</b>\n</p><p><span style=\"font-size: 1.125rem;\">A Médium csomag ára saját pécsi stúdiómban/ pécsi szabadtéri&nbsp;</span><br></p><p><span style=\"font-size: 1.125rem;\">helyszínen/saját udvarunkban 49.990,-Ft, mely kb. 60-75 perc fotózást, 12 db digitális professzionálisan retusált képet tartalmaz (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).</span><br></p><div>Ettől a csomagártól már lehet a saját stúdiómat és saját udvarunkat kombinálni.</div><p></p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face2.jpg",
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -36946,7 +36948,7 @@
               "text": "<p><b>VIP csomag</b>\n</p><p><span style=\"font-size: 1.125rem;\">A VIP csomag ára a saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban &nbsp;54.990,-Ft, mely kb. egy-másfél óra fotózást, 15 db digitális professzionálisan retusált képet tartalmaz (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).</span><br></p><div><br></div><p></p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face3.jpg",
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -36960,7 +36962,7 @@
               "text": "<b>Prémium csomag\n</b><div>\n</div><div><br></div><div>A Prémium csomag ára a saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban &nbsp;59.990,-Ft, mely kb. egy-másfél óra fotózást, 18 db digitális professzionális retusált képet tartalmaz (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).\n</div><div>\n</div><div><br></div>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face1.jpg",
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -36974,7 +36976,7 @@
               "text": "<b>Maxi csomag\n</b><div><br></div><div>A Maxi csomag ára a saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban &nbsp;64.990,-Ft, mely kb. egy-másfél-két óra fotózást, 21 db digitális professzionális retusált képet tartalmaz (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).\n</div><div>\n</div><div>A 21 db feletti digitális retusált képek ára 2.290,-Ft/db.&nbsp;</div>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face2.jpg",
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
