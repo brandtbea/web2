@@ -1427,6 +1427,21 @@ section.form .container {
 #content6-41 .lead DIV {
   text-align: left;
 }
+#testimonials3-j2 .mbr-section-title {
+  color: #efefef;
+}
+#testimonials3-j2 .mbr-author-name {
+  color: #ccc;
+}
+#testimonials3-j2 .card-block {
+  text-align: center;
+}
+#testimonials3-j1 .mbr-section-title {
+  color: #efefef;
+}
+#testimonials3-j1 .mbr-author-name {
+  color: #ccc;
+}
 #buttons1-4d .btn {
   font-size: 18px;
 }
