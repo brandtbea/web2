@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "csaladifotozas_pecs_makviragmezo.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 688,
+    "uniqCompNum": 690,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -24768,8 +24768,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/6679-fenykepesz-pecs-szekszard-photography.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/6679-fenykepesz-pecs-szekszard-photography-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/6703-pipacs-poppy-gyerekfotozas-pecs-szekszard.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6703-pipacs-poppy-gyerekfotozas-pecs-szekszard-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -24780,8 +24780,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/6703-pipacs-poppy-gyerekfotozas-pecs-szekszard.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/6703-pipacs-poppy-gyerekfotozas-pecs-szekszard-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/6679-fenykepesz-pecs-szekszard-photography.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6679-fenykepesz-pecs-szekszard-photography-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -24827,8 +24827,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<div>\n</div><div>A pipacsmező… </div><div>Az ember azt hiszi, látja már mindazt, amit a természet tartogat, aztán egyszerre csak ott terem előtte a vöröslő csoda. Néhány éve, mondhatni, minden évben megajándékoz az élet egy ilyen fénylő tájjal. Nem is egy helyszín ez, inkább egy állapot, egy belső rend, mely engedi, hogy a szem, és a lélek befogadja a tiszta szépséget.</div><div><br></div><div><br></div>",
-          "text2": "És aztán ott vannak ők is. Azok, akikkel megosztom az életem útját. A családom. A pillanat, melyben a pipacsok között állunk, nem csupán egy fénykép emlékét adja. Sokkal inkább egy mélyebb, megfoghatatlan bizonyosságot arról, hogy az időnek, mely könyörtelenül rohan, vannak ilyen megállíthatatlan, örökkévaló pillanatai. A pillanat mindig most van, s ebben a mostban rejlik a lét igazi, puszta értelme.<br><div>\n</div><div><br></div>",
+          "text1": "<div>\n</div><div>A pipacsmező… </div><div>Az ember azt hiszi, látta már mindazt, amit a természet tartogat, aztán egyszerre csak ott terem előtte a vöröslő csoda. Néhány éve, mondhatni, minden évben megajándékoz az élet egy ilyen mesebeli tájjal. Nem is egy helyszín ez, inkább egy állapot, egy belső rend, mely engedi, hogy a szem, és a lélek befogadja a tiszta szépséget.</div><div><br></div><div><br></div>",
+          "text2": "És aztán ott vannak ők is. Azok, akikkel megosztom az életem útját. A családom. A pillanat, melyben a pipacsok között állunk, nem csupán egy fénykép emlékét adja. Sokkal inkább egy mélyebb, megfoghatatlan bizonyosságot arról, hogy az időnek, mely könyörtelenül rohan, vannak ilyen megállíthatatlan, örökkévaló pillanatai. A pillanat mindig most van, s ebben a mostban rejlik a lét igazi puszta értelme.<br><div>\n</div><div><br></div>",
           "_tags": [
             "Theme"
           ],
@@ -43242,20 +43242,6 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "Tavaly bukanntunk először Harkány mellett erre a hatalmas és gyönyörű szép mákvirágmező, mely a legcsodálatosabb mező volt, amit valaha láttam. Naplementében is sikerült e csodás látványt megörökítenünk, melyet a naplemente még lenyűgözőbbé tett.&nbsp;<div>\n</div><div><br></div>",
-          "text2": "Rendkívül hálás vagyok a sorsnak, hogy &nbsp;pont akkor jártunk arra, amikor virágzott, és ezen a csodás mezőn rólunk is készülhettek képek, A pillanatot, akkor kell megragadni, amikor adott,&nbsp;<div>\n</div><div><br></div>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_anchor": "content6-i8"
-        },
-        {
-          "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
             "bgColor": "#fff"
@@ -43271,6 +43257,20 @@
             }
           },
           "_anchor": "buttons1-i9"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>A mákvirágmező… Tavaly bukkantunk rá, Harkány mellett, egy lágyan hullámzó lankán terült el, mint valami hatalmas, lila selyemlepel. Soha, de soha életemben nem láttam még olyat. Nem csupán egy mező volt, hanem egy jelenség, egy éteri tünemény, melyben a természet a legfelsőbb fokon mutatta meg magát.</p><p><br></p><p>És aztán jött a naplemente. Az a bizonyos, aranyló fény, mely úgy omlott rá a mákvirágokra, mint valami égi áldás. A lila még mélyebbé vált, a levelek táncot jártak a szélben, s az egész látvány oly fenséges volt, hogy az ember lélegzete is elakadt. A mákvirágok szépsége megsokszorozódott a bíbor ég alatt, és minden egyes virág egy apró csoda volt a maga nemében. Nem csupán egy festői kép volt, hanem egy felkiáltójel az élet nagy könyvében.</p><p><br></p>",
+          "text2": "Hálás vagyok, igen, kimondhatatlanul hálás a sorsnak, hogy pont akkor, pont ott jártunk. Hogy a mákszirom éppen kibomlott, és a maga teljes pompájában fogadott minket, és a fénykép megörökíthette létezésünket ebben a pillanatnyi örökkévalóságban. Mert a pillanatot, amikor megmutatja magát, meg kell ragadni, az nem vár. Meg kell ragadni, mint egy ritka kincset, mert csak akkor válik valósággá, csak akkor lesz belőle emlék, melyet még évek múltán is szívesen elővesz az ember a lelke mélyéről. A pillanat sosem ismétli magát, csak az örök visszhangja marad meg bennünk. Ne hagyd elszállni!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-j5"
         },
         {
           "_styles": {
