@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "ujszulott_fotozas.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -64,9 +64,7 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "imageResize": false,
     "mbrsiteDomain": "w7otjnoplx",
-    "publishChangesOnly": false,
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "publishChangesOnly": false
   },
   "pages": {
     "ujszulott_fotozas.html": {
@@ -9915,7 +9913,7 @@
               "text": "Ajánlom Brandt Beá-t minden ismerősömnek és annak aki felejthetetlen élményt szeretne! Nagyom jó fotókat készít! A gyerekeimről rengeteg képet készített! Imádom őket! ❤",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/face3.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -9929,7 +9927,7 @@
               "text": "Nagyon vicces hangulatú fotózás után csodás eredmények születtek!\n<div>Csak ajánlani tudom! :)</div>",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/face1.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -9943,7 +9941,7 @@
               "text": "Bea rendkívül kedves és barátságos. Munkájával elégedett vagyok, bátran ajánlom. 🥰",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/face2.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -12003,7 +12001,7 @@
               "text": "<p><b>Minimál csomag\n</b></p><p><span style=\"font-size: 1.125rem;\">A saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban a minimál csomag ára 35.990,-Ft, mely kb. 45 perc fotózást és 8 db digitális, professzionálisan retusált fotót tartalmaz (ha fotózás munkanap nap történik, esetleg szombaton, ha hétköznap nem megoldható).&nbsp;</span><br></p><p>\n</p><p>A csomagár egy helyszínre vonatkozik. A fotózás időtartama az átöltözési és konzultációs időket is tartalmazza.&nbsp;</p><p><b>\n</b></p><p>A 8 db feletti digitális retusált képek ára 2.590,-Ft/db.&nbsp;</p><p><b><br></b></p>",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/face3.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -12017,7 +12015,7 @@
               "text": "<p><b>Standard csomag</b>\n</p><p><span style=\"font-size: 1.125rem;\">A standard csomag ára a saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban 39.990,-Ft, mely kb. egy óra fotózást és 10 db digitális, professzionálisan retusált fotót, &nbsp;és egy 1 kismama ruhám használatát tartalmazza (ha fotózás munkanap vagy szomabti napon történik, nem ünnepnapokon).&nbsp;</span><br></p><p>\n</p><p>A csomagár egy helyszínre vonatkozik.&nbsp;</p><div><br></div><p></p>",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/face1.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -12031,7 +12029,7 @@
               "text": "<p><b>Médium csomag</b>\n</p><p><span style=\"font-size: 1.125rem;\">A Médium csomag ára saját pécsi stúdiómban/ pécsi szabadtéri&nbsp;</span><br></p><p><span style=\"font-size: 1.125rem;\">helyszínen/saját udvarunkban 44.990,-Ft, mely kb. 60-75 perc fotózást és 13 db digitális professzionálisan retusált képet, és 2 db kismama ruhám használatát tartalmazza (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).</span><br></p><div>Ettől a csomagártól már lehet a saját stúdiómat és saját udvarunkat kombinálni.</div><p></p>",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/face2.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -12083,7 +12081,7 @@
               "text": "<p><b>VIP csomag</b>\n</p><p><span style=\"font-size: 1.125rem;\">A VIP csomag ára a saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban &nbsp;49.990,-Ft, mely kb. egy-másfél óra fotózást és 16 db digitális professzionálisan retusált képet, és 3 db kismama ruhám használatát tartalmazza (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).</span><br></p><div><br></div><p></p>",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/face3.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -12097,7 +12095,7 @@
               "text": "<b>Prémium csomag\n</b><div>\n</div><div><br></div><div>A Prémium csomag ára a saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban &nbsp;54.990,-Ft, mely kb. egy-másfél óra fotózást és 19 db digitális professzionális retusált képet, és 4 db kismama ruhám használatát tartalmazza (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).\n</div><div>\n</div><div><br></div>",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/face1.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -12111,7 +12109,7 @@
               "text": "<b>Maxi csomag\n</b><div><br></div><div>A Maxi csomag ára a saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban &nbsp;59.990,-Ft, mely kb. egy-másfél-két óra fotózást és 22 db digitális professzionális retusált képet, és 5 db kismama ruhám használatát tartalmazza (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).\n</div><div>\n</div><div>A 22 db feletti digitális retusált képek ára 2.290,-Ft/db.&nbsp;</div>",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/face2.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -14702,7 +14700,7 @@
             "paddingBottom": "2",
             "bgColor": "#efefef"
           },
-          "title": "<i>Tavaszi műtermi és szabadtéri újszülött, baba, gyermek, családi, kismama, páros, portré, glamour, boudoir, háziállat fotózás Pécsen és Szekszárdon</i>",
+          "title": "<i>Nyári műtermi és szabadtéri újszülött, baba, gyermek, családi, kismama, páros, portré, glamour, boudoir, háziállat fotózás Pécsen és Szekszárdon</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -14753,8 +14751,8 @@
               "size": 0
             }
           },
-          "title": "<i>TAVASZI ÚJSZÜLÖTT, BABA, GYERMEK, CSALÁDI, KISMAMA, PÁROS, PORTRÉ, GLAMOUR, BOUDOIR, HÁZIÁLLAT MŰTERMI ÉS SZABADTÉRI FOTÓZÁS PÉCSEN ÉS SZEKSZÁRDON</i>",
-          "text": "<br><br><br>Sok szeretettel várlak benneteket tavaszi/húsvéti/anyák napi fotózásra a saját pécsi gyönyörű szépen berendezett stúdiómban, a virágos udvarunkban vagy szabadtéren Pécsen és Szekszárdon.<br><br>Tarts velem és lepd meg magadat, a családodat, a párodat egy fantasztikus élménnyel, egy igazán gyönyörű és különleges fotósorozattal, amely különleges ajándékul szolgál, <br>Ha még nincs ötleted, hogy mit ajándékoz szeretetteidnek húsvétra/anyáknapjára, akkor ajándékozz fotózást, melyet ajándékutalvány formájában is átadhatsz. <br><br>Várlak szeretettel, és remélem hamarosan találkozunk.&nbsp;<br>\n<br>&nbsp;&nbsp;",
+          "title": "<i>NYÁRI ÚJSZÜLÖTT, BABA, GYERMEK, CSALÁDI, KISMAMA, PÁROS, PORTRÉ, GLAMOUR, BOUDOIR, HÁZIÁLLAT MŰTERMI ÉS SZABADTÉRI FOTÓZÁS PÉCSEN ÉS SZEKSZÁRDON</i>",
+          "text": "<br><br><br>Sok szeretettel várlak benneteket nyári fotózásra a saját pécsi gyönyörű szépen berendezett stúdiómban, a virágos udvarunkban vagy szabadtéren Pécsen és Szekszárdon.<br><br>Tarts velem és lepd meg magadat, a családodat, a párodat egy fantasztikus élménnyel, egy igazán gyönyörű és különleges fotósorozattal, amely különleges ajándékul is szolgál, <br><br>Várlak szeretettel, és remélem hamarosan találkozunk.&nbsp;<br>\n<br>&nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot!</a>",
           "_tags": [
             "Theme"
@@ -20385,7 +20383,7 @@
               "text": "Nagyon vicces hangulatú fotózás után csodás eredmények születtek!\r<div>Csak ajánlani tudom! :)</div>",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/face3.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -24704,6 +24702,114 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2719-csaladifotozas-pecs-szekszard-photographer-poppy.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2719-csaladifotozas-pecs-szekszard-photographer-poppy-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2734-csaladifotozas-pecs-szekszard-familyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2734-csaladifotozas-pecs-szekszard-familyphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2805-csaladi-fotozas-pipacsmezo-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2805-csaladi-fotozas-pipacsmezo-pecs-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6562-fotos-pecs-szekszard-familyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6562-fotos-pecs-szekszard-familyphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6667-csaladifotozas-pipacsmezo-pecs-szekszard.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6667-csaladifotozas-pipacsmezo-pecs-szekszard-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6679-fenykepesz-pecs-szekszard-photography.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6679-fenykepesz-pecs-szekszard-photography-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6703-pipacs-poppy-gyerekfotozas-pecs-szekszard.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6703-pipacs-poppy-gyerekfotozas-pecs-szekszard-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6764-fenykepesz-pecs-szekszard-familyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6764-fenykepesz-pecs-szekszard-familyphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6833-portrefotozas-pecs-szekszard-portraitphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6833-portrefotozas-pecs-szekszard-portraitphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -24721,8 +24827,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "Pár éve Pécs mellett még virágba borulhatott egy csodálatos pipacsmező. Sajnos az azt következő évben már lepermetezték, és beépítésre került, így egyszer élvezhettük eme csodás látványt, melyet a naplemente tett igazán lenyűgözővé.&nbsp;<div>\n</div><div><br></div>",
-          "text2": "Abban az évben a Covidnak köszönhetően a kiscsaládom fényképezésére is jutott idő, amiért rendkívül hálás vagyok, hogy ezen a csodás mezőn rólunk is készülhettek képek, mivel csak egyszer adatott meg. Valóban a pillanatot, akkor kell megragadni, amikor adott, jövőre már hiába mentünk vissza, csak egyszer létezett ez a csodás hely. \r<div>\r</div><div><br></div>",
+          "text1": "<div>\n</div><div>A pipacsmező… </div><div>Az ember azt hiszi, látja már mindazt, amit a természet tartogat, aztán egyszerre csak ott terem előtte a vöröslő csoda. Néhány éve, mondhatni, minden évben megajándékoz az élet egy ilyen fénylő tájjal. Nem is egy helyszín ez, inkább egy állapot, egy belső rend, mely engedi, hogy a szem, és a lélek befogadja a tiszta szépséget.</div><div><br></div><div><br></div>",
+          "text2": "És aztán ott vannak ők is. Azok, akikkel megosztom az életem útját. A családom. A pillanat, melyben a pipacsok között állunk, nem csupán egy fénykép emlékét adja. Sokkal inkább egy mélyebb, megfoghatatlan bizonyosságot arról, hogy az időnek, mely könyörtelenül rohan, vannak ilyen megállíthatatlan, örökkévaló pillanatai. A pillanat mindig most van, s ebben a mostban rejlik a lét igazi, puszta értelme.<br><div>\n</div><div><br></div>",
           "_tags": [
             "Theme"
           ],
@@ -37235,7 +37341,7 @@
               "text": "<p><b>Minimál csomag\n</b></p><p><span style=\"font-size: 1.125rem;\">A saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban a minimál csomag ára 39.990,-Ft, mely kb. 45 perc fotózást és 6 db digitális, professzionálisan retusált fotót tartalmaz (ha fotózás munkanap nap történik, esetleg szombaton, ha hétköznap nem megoldható).&nbsp;</span><br></p><p>\n</p><p>A csomagár egy helyszínre vonatkozik. A fotózás időtartama az átöltözési és konzultációs időket is tartalmazza.&nbsp;</p><p><b>\n</b></p><p>A 6 db feletti digitális retusált képek ára 2.690,-Ft/db.&nbsp;</p><p><b><br></b></p>",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/face3.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -37249,7 +37355,7 @@
               "text": "<p><b>Standard csomag</b>\n</p><p><span style=\"font-size: 1.125rem;\">A standard csomag ára a saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban 44.990,-Ft, mely kb. egy óra fotózást és 9 db digitális, professzionálisan retusált fotót tartalmaz (ha fotózás munkanap, szombati nap történik, nem ünnepnapokon).&nbsp;</span><br></p><p>\n</p><p>A csomagár egy helyszínre vonatkozik.&nbsp;</p><div><br></div><p></p>",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/face1.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -37263,7 +37369,7 @@
               "text": "<p><b>Médium csomag</b>\n</p><p><span style=\"font-size: 1.125rem;\">A Médium csomag ára saját pécsi stúdiómban/ pécsi szabadtéri&nbsp;</span><br></p><p><span style=\"font-size: 1.125rem;\">helyszínen/saját udvarunkban 49.990,-Ft, mely kb. 60-75 perc fotózást, 12 db digitális professzionálisan retusált képet tartalmaz (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).</span><br></p><div>Ettől a csomagártól már lehet a saját stúdiómat és saját udvarunkat kombinálni.</div><p></p>",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/face2.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -37315,7 +37421,7 @@
               "text": "<p><b>VIP csomag</b>\n</p><p><span style=\"font-size: 1.125rem;\">A VIP csomag ára a saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban &nbsp;54.990,-Ft, mely kb. egy-másfél óra fotózást, 15 db digitális professzionálisan retusált képet tartalmaz (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).</span><br></p><div><br></div><p></p>",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/face3.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -37329,7 +37435,7 @@
               "text": "<b>Prémium csomag\n</b><div>\n</div><div><br></div><div>A Prémium csomag ára a saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban &nbsp;59.990,-Ft, mely kb. egy-másfél óra fotózást, 18 db digitális professzionális retusált képet tartalmaz (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).\n</div><div>\n</div><div><br></div>",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/face1.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -37343,7 +37449,7 @@
               "text": "<b>Maxi csomag\n</b><div><br></div><div>A Maxi csomag ára a saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban &nbsp;64.990,-Ft, mely kb. egy-másfél-két óra fotózást, 21 db digitális professzionális retusált képet tartalmaz (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).\n</div><div>\n</div><div>A 21 db feletti digitális retusált képek ára 2.290,-Ft/db.&nbsp;</div>",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/face2.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -43023,6 +43129,102 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/1560-pipacs-makmezo-fenykepesz-pecs.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/1560-pipacs-makmezo-fenykepesz-pecs-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/9639-gyerek-fotozas-pecs-szekszard-makviragmezo.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9639-gyerek-fotozas-pecs-szekszard-makviragmezo-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/9663-makviragmezo-pecsifotos-poppyfield.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9663-makviragmezo-pecsifotos-poppyfield-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/9681-gyerek-fotozas-pecs-szekszard-pipacs-makmezo.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9681-gyerek-fotozas-pecs-szekszard-pipacs-makmezo-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/9718-csaladifotozas-pecs-szekszard-makmezo-kidphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9718-csaladifotozas-pecs-szekszard-makmezo-kidphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/9770-fenykepesz-pecs-szekszard-pipacs-makmezo.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9770-fenykepesz-pecs-szekszard-pipacs-makmezo-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/9792-gyerekfoto-pecs-szekszard-kidphoto-poppyfield.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9792-gyerekfoto-pecs-szekszard-kidphoto-poppyfield-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/9862-fotos-pecs-szekszard-makmezo-pipacs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9862-fotos-pecs-szekszard-makmezo-pipacs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/9873-csaladifotozas-pecs-szekszard-poppyfield.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9873-csaladifotozas-pecs-szekszard-poppyfield-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
