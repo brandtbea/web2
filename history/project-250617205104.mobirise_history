@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "csaladifotozas_pecs_makviragmezo.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -14691,7 +14691,7 @@
               "text-align": "center"
             },
             ".mbr-section-title I": {
-              "font-size": "30px"
+              "font-size": "36px"
             }
           },
           "_params": {
@@ -14767,7 +14767,7 @@
               "text-align": "left"
             },
             "I": {
-              "font-size": "22px"
+              "font-size": "25px"
             }
           },
           "_anchor": "msg-box5-if"
