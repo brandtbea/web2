@@ -15343,7 +15343,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/6384-karacsonyi-fotozas-pecs-christmas-photography.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a9197-husveti-anyaknapi-fotozas-pecs-motherday-photo-1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -15401,7 +15401,7 @@
               "active": true
             }
           },
-          "title1": "Karácsonyi fotózás",
+          "title1": "Húsvéti, anyáknapi fotózás",
           "subtitle1": "",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title2": "Ingatlan/enteriőr/épület, szálláshely fotózás",
@@ -15419,7 +15419,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"karacsonyi_fotozas_pecs.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"husveti_csalad_gyermek_fotozas_pecs.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM</a>",
           "button2": "<a data-app-btn=\"true\" href=\"ingatlan_enterior_epuletfotozas_pecs_propertyphoto.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM</a>",
           "button3": "<a data-app-btn=\"true\" href=\"termek_etelfotozas_pecs_szekszard.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM</a>",
           "button4": "<a data-app-btn=\"true\" href=\"business_uzleti_portre_fotozas_oneletrajz_cv_pecs.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TOVÁBBI KÉPEIM</a>",
