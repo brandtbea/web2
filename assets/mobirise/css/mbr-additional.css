@@ -5452,3 +5452,102 @@ section.form .container {
 #footer1-is P {
   text-align: center;
 }
+
+
+#msg-box5-j6 H3 {
+  font-size: 30px;
+  text-align: center;
+}
+#msg-box5-j6 P {
+  text-align: center;
+  font-size: 19px;
+}
+#msg-box5-j6 I {
+  font-size: 19px;
+}
+#header3-j8 .mbr-section-title,
+#header3-j8 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-j8 .mbr-section-title {
+  font-size: 25px;
+}
+#header3-j8 .mbr-section-title I {
+  font-size: 25px;
+}
+#buttons1-jb .btn {
+  font-size: 18px;
+}
+#contacts1-jc P {
+  color: #acacac;
+  font-size: 13px;
+}
+#ext_menu-jd .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-jd .navbar-caption {
+  color: #ffffff;
+  font-family: 'Titillium Web', sans-serif;
+}
+#ext_menu-jd .navbar-toggler {
+  color: #000000;
+}
+#ext_menu-jd .close-icon::before,
+#ext_menu-jd .close-icon::after {
+  background-color: #000000;
+}
+#ext_menu-jd .link,
+#ext_menu-jd .dropdown-item {
+  color: #000000;
+  font-family: 'Raleway', sans-serif;
+}
+#ext_menu-jd .link {
+  font-size: 1rem;
+}
+#ext_menu-jd .dropdown-item,
+#ext_menu-jd .nav-dropdown-sm .link {
+  font-size: 1.083rem;
+}
+#ext_menu-jd .link:hover,
+#ext_menu-jd .dropdown-item:hover,
+#ext_menu-jd .link:focus,
+#ext_menu-jd .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-jd .link[aria-expanded="true"],
+#ext_menu-jd .dropdown-menu {
+  background: #e6e6e6;
+}
+#ext_menu-jd .nav-dropdown-sm .link:focus,
+#ext_menu-jd .nav-dropdown-sm .link:hover,
+#ext_menu-jd .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-jd .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#ext_menu-jd .navbar,
+#ext_menu-jd .nav-dropdown-sm,
+#ext_menu-jd .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-jd .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#ext_menu-jd .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#ext_menu-jd .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-jd .bg-color.transparent.opened .link:hover,
+#ext_menu-jd .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-jd .link[aria-expanded="true"],
+#ext_menu-jd .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#ext_menu-jd A {
+  font-size: 14px;
+}
+#footer1-je P {
+  text-align: center;
+}
