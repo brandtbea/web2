@@ -1773,6 +1773,13 @@ section.form .container {
 #msg-box5-if I {
   font-size: 22px;
 }
+#msg-box5-jj H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-jj P {
+  text-align: left;
+}
 #header3-ii .mbr-section-title,
 #header3-ii .mbr-section-subtitle {
   text-align: center;
@@ -2047,8 +2054,20 @@ section.form .container {
   font-size: 30px;
   text-align: center;
 }
-#content1-f3 B {
-  font-size: 19px;
+#testimonials3-jf .mbr-section-title {
+  color: #efefef;
+}
+#testimonials3-jf .mbr-author-name {
+  color: #ccc;
+}
+#testimonials3-jf .card-block {
+  text-align: center;
+}
+#testimonials3-jg .mbr-section-title {
+  color: #efefef;
+}
+#testimonials3-jg .mbr-author-name {
+  color: #ccc;
 }
 #buttons1-gy .btn {
   font-size: 18px;
