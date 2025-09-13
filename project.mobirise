@@ -64,7 +64,9 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "imageResize": false,
     "mbrsiteDomain": "w7otjnoplx",
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "ujszulott_fotozas.html": {
@@ -5446,8 +5448,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/3459-gyerek-fotozas-pecs-fenykepesz-photographer.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/3459-gyerek-fotozas-pecs-fenykepesz-photographer-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/4434-gyerekfotozas-pecs-szekszard-kidphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4434-gyerekfotozas-pecs-szekszard-kidphoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -5458,8 +5460,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/4434-gyerekfotozas-pecs-szekszard-kidphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/4434-gyerekfotozas-pecs-szekszard-kidphoto-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3459-gyerek-fotozas-pecs-fenykepesz-photographer.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3459-gyerek-fotozas-pecs-fenykepesz-photographer-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
