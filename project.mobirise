@@ -17102,7 +17102,7 @@
           "_params": {
             "showBullets": true,
             "fullWidth": false,
-            "spacing": 0,
+            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
             "filterBgColor": false,
