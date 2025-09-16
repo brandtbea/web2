@@ -1756,6 +1756,23 @@ section.form .container {
 #content1-hf I {
   font-size: 32px;
 }
+#header3-js .mbr-section-title,
+#header3-js .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-js .mbr-section-title I {
+  font-size: 36px;
+}
+#msg-box5-jj H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-jj P {
+  text-align: left;
+}
+#buttons1-ju .btn {
+  font-size: 18px;
+}
 #header3-ig .mbr-section-title,
 #header3-ig .mbr-section-subtitle {
   text-align: center;
@@ -1772,13 +1789,6 @@ section.form .container {
 }
 #msg-box5-if I {
   font-size: 22px;
-}
-#msg-box5-jj H3 {
-  font-size: 24px;
-  text-align: center;
-}
-#msg-box5-jj P {
-  text-align: left;
 }
 #header3-ii .mbr-section-title,
 #header3-ii .mbr-section-subtitle {
