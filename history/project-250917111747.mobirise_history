@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "baba_gyermek_fotok.html",
+    "currentPage": "csaladifoto.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 751,
+    "uniqCompNum": 734,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -2132,7 +2132,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<b>Az újszülött fotózás csomagajánlata a pécsi saját stúdiómban családi és testvér fotókat is tartalmaz. A retusálandó képeket Te választhatod ki az általam átküldött kisfelbontású képekből. A nyers képek átadása nem képezi az ajánlat részét, azokat csak egyben lehet megvásárolni. Kérlek írd le, hogy mikor és hányan jönnétek, és elküldöm a csomagajánlataimat. A honlapon feltüntett árak tájékoztató jellegűek. Ha 6 főnél többen jönnétek, kérlek szépen kérj egyedi árajánlatot.&nbsp;</b>",
+          "text": "Az újszülött fotózás csomagajánlata a pécsi saját stúdiómban családi és testvér fotókat is tartalmaz. Ha 6 főnél többen jönnétek, akkor kérlek kérj egyedi ajánlatot! Kérlek írd le, hogy mikor és hányan jönnétek és elküldöm a csomagajánlataimat.",
           "_tags": [
             "Theme"
           ],
@@ -5704,200 +5704,6 @@
           "_anchor": "content6-48"
         },
         {
-          "_inherit": "testimonials1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#efefef"
-            },
-            ".mbr-author-name": {
-              "color": "#ccc"
-            },
-            ".card-block": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "showImages": false,
-            "showName": false,
-            "showBio": false,
-            "count": 3,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/gyerek-fotozas-pecs-fenykepesz-napraforgo-childphoto.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0.2"
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "title": "Baba és gyermek fotózási csomagajánlatok",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "testimonial": [
-            {
-              "authorName": "",
-              "authorBio": "User",
-              "text": "<p><b>Minimál csomag\n</b></p><p><span style=\"font-size: 1.125rem;\">A saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban a minimál csomag ára 35.990,-Ft, mely kb. 45 perc fotózást és 8 db digitális, professzionálisan retusált fotót tartalmaz (ha fotózás munkanap nap történik, esetleg szombaton, ha hétköznap nem megoldható).&nbsp;</span><br></p><p>\n</p><p>A csomagár egy helyszínre vonatkozik. A fotózás időtartama az átöltözési és konzultációs időket is tartalmazza.&nbsp;</p><p><b>\n</b></p><p>A 8 db feletti digitális retusált képek ára 2.490,-Ft/db.&nbsp;</p><p><b><br></b></p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face3.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            },
-            {
-              "authorName": "",
-              "authorBio": "User",
-              "text": "<p><b>Standard csomag</b>\n</p><p><span style=\"font-size: 1.125rem;\">A standard csomag ára a saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban 39.990,-Ft, mely kb. egy óra fotózást és 10 db digitális, professzionálisan retusált fotót tartalmaz (ha fotózás munkanap történik, nem ünnepnapokon, esetleg szombaton, ha hétköznap nem megoldható).&nbsp;</span><br></p><p>\n</p><p>A csomagár egy helyszínre vonatkozik.&nbsp;</p><div><br></div><p></p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            },
-            {
-              "authorName": "",
-              "authorBio": "User",
-              "text": "<p><b>Médium csomag</b>\n</p><p><span style=\"font-size: 1.125rem;\">A Médium csomag ára saját pécsi stúdiómban/ pécsi szabadtéri&nbsp;</span><br></p><p><span style=\"font-size: 1.125rem;\">helyszínen/saját udvarunkban 44.990,-Ft, mely kb. 60-75 perc fotózást, 13 db digitális professzionálisan retusált képet tartalmaz (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).</span><br></p><div>Ettől a csomagártól már lehet a saját stúdiómat és saját udvarunkat kombinálni.</div><p></p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            }
-          ],
-          "_name": "testimonials3",
-          "_anchor": "testimonials3-kr"
-        },
-        {
-          "_inherit": "testimonials1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#efefef"
-            },
-            ".mbr-author-name": {
-              "color": "#ccc"
-            }
-          },
-          "_params": {
-            "showTitle": false,
-            "showSubtitle": false,
-            "showImages": false,
-            "showName": false,
-            "showBio": false,
-            "count": 3,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/g85a8242-szuletesnapi-fotozas-pecs-birthdayphoto-1.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0.3"
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "title": "",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "testimonial": [
-            {
-              "authorName": "Abanoub S.",
-              "authorBio": "User",
-              "text": "<p><b>VIP csomag</b>\n</p><p><span style=\"font-size: 1.125rem;\">A VIP csomag ára a saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban 49.990,-Ft, mely kb. egy-másfél óra fotózást, 16 db digitális professzionálisan retusált képet tartalmaz (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).</span><br></p><div><br></div><p></p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face3.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            },
-            {
-              "authorName": "Suffian A.",
-              "authorBio": "User",
-              "text": "<b>Prémium csomag\n</b><div>\n</div><div><br></div><div>A Prémium csomag ára a saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban &nbsp;54.990,-Ft, mely kb. egy-másfél óra fotózást, 19 db digitális professzionális retusált képet tartalmaz (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).\n</div><div>\n</div><div><br></div>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            },
-            {
-              "authorName": "Jhollman C.",
-              "authorBio": "User",
-              "text": "<b>Maxi csomag\n</b><div><br></div><div>A Maxi csomag ára a saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban &nbsp;59.990,-Ft, mely kb. egy-másfél-két óra fotózást, 22 db digitális professzionális retusált képet tartalmaz (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).\n</div><div>\n</div><div>A 22 db feletti digitális retusált képek ára 1.990,-Ft/db.&nbsp;</div>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            }
-          ],
-          "_name": "testimonials3",
-          "_anchor": "testimonials3-ks"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<b>A baba és gyermek fotózás csomagajánlata a pécsi saját stúdiómban családi és testvér fotókat is tartalmaz. A retusálandó képeket Te választhatod ki az általam átküldött kisfelbontású képekből. A nyers képek átadása nem képezi az ajánlat részét, azokat csak egyben lehet megvásárolni. Kérlek írd le, hogy mikor és hányan jönnétek, és elküldöm a csomagajánlataimat. A honlapon feltüntett árak tájékoztató jellegűek. Ha 6 főnél többen jönnétek, kérlek szépen kérj egyedi árajánlatot.&nbsp;</b>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-kt"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot most!</a>           ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "18px"
-            }
-          },
-          "_anchor": "buttons1-ku"
-        },
-        {
           "_params": {
             "showTitle": true,
             "showSubtitle": false,
@@ -5994,6 +5800,19 @@
           ],
           "_name": "buttons1",
           "_anchor": "buttons1-bd"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "A baba és gyermek fotózás csomagára a pécsi saját stúdiómban 35,990,-Ft-tól kezdődik, mely családi és testvér fotókat is tartalmaz. Kérlek írd le, hogy mikor és hányan jönnétek, hol szeretnétek a fotózást, és elküldöm a csomagajánlataimat.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-em"
         },
         {
           "_params": {
@@ -9027,19 +8846,6 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<b>A születésnapi fotózás csomagajánlata a pécsi saját stúdiómban családi és testvér fotókat is tartalmaz. A retusálandó képeket Te választhatod ki az általam átküldött kisfelbontású képekből. A nyers képek átadása nem képezi az ajánlat részét, azokat csak egyben lehet megvásárolni. Kérlek írd le, hogy mikor és hányan jönnétek, és elküldöm a csomagajánlataimat. A honlapon feltüntett árak tájékoztató jellegűek. Ha 6 főnél többen jönnétek, kérlek szépen kérj egyedi árajánlatot.&nbsp;</b>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-kn"
-        },
-        {
-          "_params": {
             "showTitle": true,
             "showSubtitle": false,
             "showImages": true,
@@ -10519,7 +10325,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/9277-karacsonyi-csaladi-fotozas-christmas-familyphoto-1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/9877-jszlttfotozas-pecs-newborn-photography.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -10578,37 +10384,6 @@
           ],
           "_name": "testimonials3",
           "_anchor": "testimonials3-kd"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<b>A retusálandó képeket Te választhatod ki az általam átküldött kisfelbontású képekből. A nyers képek átadása nem képezi az ajánlat részét, azokat csak egyben lehet megvásárolni. Kérlek írd le, hogy mikor és hányan jönnétek, és elküldöm a csomagajánlataimat. A honlapon feltüntett árak tájékoztató jellegűek. Ha 6 főnél többen jönnétek, kérlek szépen kérj egyedi árajánlatot.&nbsp;</b>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-kp"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot most!</a>           ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "18px"
-            }
-          },
-          "_anchor": "buttons1-kq"
         },
         {
           "_params": {
@@ -10778,6 +10553,19 @@
           ],
           "_name": "buttons1",
           "_anchor": "buttons1-bi"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "A családi fotózás csomagára a pécsi saját stúdiómban/pécsi szabadtéri helyszínen 34,900,-Ft-tól kezdődik. Kérlek írd le, hogy mikor és hol szeretnétek a fotózást, valamint, hogy hányan jönnétek, és elküldöm a csomagajánlataimat.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-el"
         },
         {
           "_params": {
@@ -14755,19 +14543,6 @@
           ],
           "_name": "testimonials3",
           "_anchor": "testimonials3-k5"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<b>A retusálandó képeket Te választhatod ki az általam átküldött kisfelbontású képekből. A nyers képek átadása nem képezi az ajánlat részét, azokat csak egyben lehet megvásárolni.&nbsp;</b>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-ki"
         },
         {
           "_params": {
@@ -18979,7 +18754,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -19063,7 +18838,19 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/8162-karacsonyi-gyerek-fotozas-pecs-chirstmasphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8162-karacsonyi-gyerek-fotozas-pecs-chirstmasphoto-619x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -19144,18 +18931,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a7534-karacsonyi-gyerek-fotozas-pecs-christmas-kidphoto-1.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a7534-karacsonyi-gyerek-fotozas-pecs-christmas-kidphoto-1-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/86666-karacsonyi-fotozas-pecs-christmasphotojpg.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/86666-karacsonyi-fotozas-pecs-christmasphotojpg-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -19537,7 +19312,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -19724,12 +19499,36 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8977-karacsonyi-fotozas-pecs-christmas-photo.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8977-karacsonyi-fotozas-pecs-christmas-photo-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a9151-karacsonyi-fotos-pecs-photographer-christmas.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a9151-karacsonyi-fotos-pecs-photographer-christmas-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8951-karacsonyi-fotozas-pecs-christmasphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8951-karacsonyi-fotozas-pecs-christmasphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -19750,30 +19549,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/1665-karacsonyi-csaladi-fotozas-pecs-chirstmas-familyphoto-1.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/1665-karacsonyi-csaladi-fotozas-pecs-chirstmas-familyphoto-1-800x585.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/5922-karacsonyi-gyermekfotozas-pecs-christmas-photographer.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/5922-karacsonyi-gyermekfotozas-pecs-christmas-photographer-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/karacsonyi-gyerekfotozas-pecs-chirstmas-kidphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/karacsonyi-gyerekfotozas-pecs-chirstmas-kidphoto-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -19958,7 +19733,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<b>A retusálandó képeket Te választhatod ki az általam átküldött kisfelbontású képekből. A nyers képek átadása nem képezi az ajánlat részét, azokat csak egyben lehet megvásárolni. Kérlek írd le, hogy mikor és hányan jönnétek és milyen témában szeretnétek karácsonyi fotózást, és elküldöm a csomagajánlataimat. A honlapon feltüntett  árak tájékoztató jellegűek. Ha 6 főnél többen jönnétek, kérlek szépen kérj egyedi árajánlatot.&nbsp;</b>",
+          "text": "<b>Kérlek írd le, hogy mikor és hányan jönnétek és milyen témában szeretnétek karácsonyi fotózást, és elküldöm a csomagajánlataimat. A honlapon feltüntett  árak tájékoztató jellegűek. Ha 6 főnél többen jönnétek, kérlek szépen kérj egyedi árajánlatot.</b>",
           "_tags": [
             "Theme"
           ],
@@ -20509,7 +20284,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Creative",
@@ -21241,7 +21016,19 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a1697-kutyafoto-pecs-dogfoto-parosfoto-pairphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a1697-kutyafoto-pecs-dogfoto-parosfoto-pairphoto-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -22117,6 +21904,19 @@
             }
           },
           "_anchor": "footer1-51"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "A páros fotózás csomagára a pécsi saját stúdiómban/pécsi szabadtéri helyszínen 34,990,-Ft-tól kezdődik, amely kb. egy óra fotózást és 10 darab digitális retusált fotót tartalmaz. További digitális retusált képek ára 1.990,-Ft/db. Kérlek írd le, hogy mikor és hol szeretnétek a fotózást, és elküldöm a csomagajánlataimat.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-jh"
         }
       ]
     },
@@ -24517,19 +24317,6 @@
           ],
           "_name": "testimonials3",
           "_anchor": "testimonials3-k2"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<b>A retusálandó képeket Te választhatod ki az általam átküldött kisfelbontású képekből. A nyers képek átadása nem képezi az ajánlat részét, azokat csak egyben lehet megvásárolni.&nbsp;</b>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-ko"
         },
         {
           "_params": {
@@ -36021,8 +35808,8 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text1": "<div><i><b>… az első mosoly... csillogó szemek.....kis kezek és talpak....</b></i></div><div><br></div><div> \n</div><div><b>A babafotózásra a legalkalmasabb időszak a 2-4 hónapos kortól kezdődik</b>, amikor a babád már szépen hason ki tudja tartani magát, és már mosolyogni is tud, és különféle érzelmeket megjeleníteni az arcán. Ilyenkor különösen aranyosak, és a szülőkkel együtt is jól fotózhatóak. </div><div>Az újszülött fotózás után ez az időszak a legkedvezőbb a babák fotózására. Természetesen <b>nyugodt babákat egy-két hónapos korban is nagyon jól lehet fotózni.</b></div><div><br></div><div>A <b>fotózás helyszínéül választhatod Pécsen a stúdiómat,</b> ahol otthonos, meleg, tiszta környezetben több fajta kellék közül választhatsz, <b>illetve szabadteret Pécsen és Szekszárdon, és a saját udvarunkat</b>.&nbsp;</div><div><br></div><div>Egyedi, letisztult fotókat készítek, amelynek a középpontjában a pici babátok szépsége és egyedisége áll.</div><div><br></div>",
-          "text2": "<div><br></div><div><br></div><div>Természetesen <b>családi és testvér képeket is szívesen készítek</b> rólatok. A családi fotók számomra mindig nagyon fontos részei a babafotózásnak, hiszen ezek lesznek később gyermekeitek legnagyobb kincsei.<br></div><div><b><br></b></div><div><b>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra.</b></div><div><b><br></b></div><div><b>Több csomagajánalatomból tudsz választani.</b></div><div><br></div><div>A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető. A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készíttethetsz .&nbsp;</b></div><div><br></div><div>Várlak Benneteket szeretettel, keress bizalommal egy fantasztikus hangulatú fotózásra!\n</div><div><br></div><div>\n</div><div><br></div>",
+          "text1": "<div><i><b>… az első mosoly... csillogó szemek.....kis kezek és talpak....</b></i></div><div><br></div><div> \n</div><div><b>A babafotózásra a legalkalmasabb időszak a 3-4 hónapos kortól kezdődik</b>, amikor a babád már szépen hason ki tudja tartani magát, és már mosolyogni is tud, és különféle érzelmeket megjeleníteni az arcán. Ilyenkor különösen aranyosak, és a szülőkkel együtt is jól fotózhatóak. </div><div>Az újszülött fotózás után ez az időszak a legkedvezőbb a babák fotózására. Természetesen <b>nyugodt babákat egy-két hónapos korban is nagyon jól lehet fotózni.</b></div><div><br></div><div>A <b>fotózás helyszínéül választhatod Pécsen a stúdiómat,</b> ahol otthonos, meleg, tiszta környezetben több fajta kellék közül választhatsz, <b>illetve szabadteret Pécsen és Szekszárdon, és a saját udvarunkat</b>.&nbsp;</div><div><br></div><div>Egyedi, letisztult fotókat készítek, amelynek a középpontjában a pici babátok szépsége és egyedisége áll.</div><div><br></div>",
+          "text2": "<div><br></div><div><br></div><div>Természetesen <b>családi és testvér képeket is szívesen készítek</b> rólatok. A családi fotók számomra mindig nagyon fontos részei a babafotózásnak, hiszen ezek lesznek később gyermekeitek legnagyobb kincsei.<br></div><div><b><br></b></div><div><b>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra.</b> </div><div><br></div><div>A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető. A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készíttethetsz .&nbsp;</b></div><div><br></div><div>Várlak Benneteket szeretettel, keress bizalommal egy fantasztikus hangulatú fotózásra!\n</div><div><br></div><div>\n</div><div><br></div>",
           "_tags": [
             "Theme"
           ],
@@ -36215,7 +36002,7 @@
             {
               "authorName": "",
               "authorBio": "User",
-              "text": "<p><b>Minimál csomag\n</b></p><p><span style=\"font-size: 1.125rem;\">A saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban a minimál csomag ára 35.990,-Ft, mely kb. 45 perc fotózást és 8 db digitális, professzionálisan retusált fotót tartalmaz (ha fotózás munkanap nap történik, esetleg szombaton, ha hétköznap nem megoldható).&nbsp;</span><br></p><p>\n</p><p>A csomagár egy helyszínre vonatkozik. A fotózás időtartama az átöltözési és konzultációs időket is tartalmazza. Ez a csomag a szűk családra vonatkozik (szülők és gyerekek.)</p><p><b>\n</b></p><p>A 8 db feletti digitális retusált képek ára 2.490,-Ft/db.&nbsp;</p><p><b><br></b></p>",
+              "text": "<p><b>Minimál csomag\n</b></p><p><span style=\"font-size: 1.125rem;\">A saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban a minimál csomag ára 35.990,-Ft, mely kb. 45 perc fotózást és 8 db digitális, professzionálisan retusált fotót tartalmaz (ha fotózás munkanap nap történik, esetleg szombaton, ha hétköznap nem megoldható).&nbsp;</span><br></p><p>\n</p><p>A csomagár egy helyszínre vonatkozik. A fotózás időtartama az átöltözési és konzultációs időket is tartalmazza.&nbsp;</p><p><b>\n</b></p><p>A 8 db feletti digitális retusált képek ára 2.490,-Ft/db.&nbsp;</p><p><b><br></b></p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face3.jpg",
@@ -36344,12 +36131,12 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<b>A baba fotózás csomagajánlata a pécsi saját stúdiómban családi és testvér fotókat is tartalmaz. A retusálandó képeket Te választhatod ki az általam átküldött kisfelbontású képekből. A nyers képek átadása nem képezi az ajánlat részét, azokat csak egyben lehet megvásárolni. Kérlek írd le, hogy mikor és hányan jönnétek, és elküldöm a csomagajánlataimat. A honlapon feltüntett árak tájékoztató jellegűek. Ha 6 főnél többen jönnétek, kérlek szépen kérj egyedi árajánlatot.&nbsp;</b>",
+          "text": "A baba fotózás csomagárai családi és testvér fotókat is tartalmaz. Ha 6 főnél többen jönnétek, kérlek szépen kérj egyedi ajánlatot. Kérlek írd le, hogy mikor és hányan jönnétek, hol szeretnétek a fotózást, és elküldöm a csomagajánlataimat.",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-kh"
+          "_anchor": "content1-eh"
         },
         {
           "_params": {
@@ -37333,19 +37120,6 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<b>A retusálandó képeket Te választhatod ki az általam átküldött kisfelbontású képekből. A nyers képek átadása nem képezi az ajánlat részét, azokat csak egyben lehet megvásárolni.&nbsp;</b>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-kk"
-        },
-        {
-          "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
             "bgColor": "#fff"
@@ -38004,8 +37778,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/1913-boudoir-glamour-fotozas-pecs-szekszard-photography.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1913-boudoir-glamour-fotozas-pecs-szekszard-photography-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1795-boudoir-fotos-pecs-szekszard-photographer.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1795-boudoir-fotos-pecs-szekszard-photographer-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -38016,8 +37790,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/1795-boudoir-fotos-pecs-szekszard-photographer.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1795-boudoir-fotos-pecs-szekszard-photographer-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1913-boudoir-glamour-fotozas-pecs-szekszard-photography.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1913-boudoir-glamour-fotozas-pecs-szekszard-photography-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -39282,7 +39056,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>A csomagárak tájékoztató jellegűek. A retusálandó képeket te választhatod ki, az általam átküldött kis felbontású vízjelezett nyers képekből. A nyers képek átadása nem képezi az ajánlat részét, azokat egyben lehet megvásárolni. A fotózás alatt többször átöltözhetsz.</b></p>",
+          "text": "<p>A csomagárak tájékoztató jellegűek. A retusálandó képeket te választhatod ki, az általam átküldött kis felbontású vízjelezett nyers képekből. A nyers képek átadása nem képezi az ajánlat részét, azokat egyben lehet megvásárolni. A fotózás alatt többször átöltözhetsz.</p>",
           "_tags": [
             "Theme"
           ],
@@ -41689,19 +41463,6 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<b>A retusálandó képeket Te választhatod ki az általam átküldött kisfelbontású képekből. A nyers képek átadása nem képezi az ajánlat részét, azokat csak egyben lehet megvásárolni.</b>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-kl"
-        },
-        {
-          "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
             "bgColor": "#efefef"
@@ -43429,8 +43190,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a2771-businessportefoto-headshotphoto-linkedin-pecs.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a2771-businessportefoto-headshotphoto-linkedin-pecs-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a2641-ferfiportre-pecs-tuzolto-manportraitphoto-fireman.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a2641-ferfiportre-pecs-tuzolto-manportraitphoto-fireman-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -43465,30 +43226,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a2641-ferfiportre-pecs-tuzolto-manportraitphoto-fireman.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a2641-ferfiportre-pecs-tuzolto-manportraitphoto-fireman-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a3610-orvosfoto-doctorphoto-pecs.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a3610-orvosfoto-doctorphoto-pecs-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a2017-ferfiportrefoto-pecs-manportraitphoto.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a2017-ferfiportrefoto-pecs-manportraitphoto-613x920.jpg",
                 "alt": "",
@@ -43513,8 +43250,32 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a3610-orvosfoto-doctorphoto-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a3610-orvosfoto-doctorphoto-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a3553-portefoto-pecs-portraitphoto.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a3553-portefoto-pecs-portraitphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a2771-businessportefoto-headshotphoto-linkedin-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a2771-businessportefoto-headshotphoto-linkedin-pecs-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -43982,19 +43743,6 @@
           ],
           "_name": "testimonials3",
           "_anchor": "testimonials3-k7"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<b>A retusálandó képeket Te választhatod ki az általam átküldött kisfelbontású képekből. A nyers képek átadása nem képezi az ajánlat részét, azokat csak egyben lehet megvásárolni.</b>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-kj"
         },
         {
           "_params": {
