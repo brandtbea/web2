@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "karacsonyi_fotozas_pecs.html",
+    "currentPage": "unnepi_fotozas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -6464,7 +6464,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -6632,43 +6632,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-2443-karacsonyifotok-christmasphotos.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2443-karacsonyifotok-christmasphotos-800x559.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-2445-karacsonyikep-christmaspicture.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2445-karacsonyikep-christmaspicture-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-2449-csaladfotozas-familyphotography-1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2449-csaladfotozas-familyphotography-1-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Creative",
