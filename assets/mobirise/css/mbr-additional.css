@@ -1328,6 +1328,7 @@ section.form .container {
 }
 #header3-at .mbr-section-title {
   font-size: 30px;
+  color: #c0a375;
 }
 #content1-4p P {
   font-size: 18px;
@@ -1346,6 +1347,9 @@ section.form .container {
 #header3-js .mbr-section-title I {
   font-size: 36px;
 }
+#header3-js .mbr-section-title {
+  color: #c0a375;
+}
 #msg-box5-jj H3 {
   font-size: 24px;
   text-align: center;
@@ -1363,6 +1367,9 @@ section.form .container {
 #header3-ig .mbr-section-title I {
   font-size: 30px;
 }
+#header3-ig .mbr-section-title {
+  color: #c0a375;
+}
 #msg-box5-if H3 {
   font-size: 24px;
   text-align: center;
@@ -1379,6 +1386,9 @@ section.form .container {
 }
 #header3-ii .mbr-section-title I {
   font-size: 36px;
+}
+#header3-ii .mbr-section-title {
+  color: #c0a375;
 }
 #msg-box5-as SPAN {
   font-size: 36px;
@@ -1609,6 +1619,10 @@ section.form .container {
 }
 
 
+
+
+
+
 #msg-box5-54 H3 {
   text-align: center;
   font-size: 25px;
@@ -1634,18 +1648,24 @@ section.form .container {
 #header3-53 .mbr-section-title I {
   font-size: 24px;
 }
+#content6-52 .lead P {
+  font-family: 'Raleway', sans-serif;
+}
 #buttons1-58 .btn {
   font-size: 18px;
 }
 #msg-box5-hr SPAN {
   font-size: 22px;
+  font-family: 'Montserrat', sans-serif;
 }
 #msg-box5-hr I {
   font-size: 30px;
+  font-family: 'Montserrat', sans-serif;
 }
 #msg-box5-hr H3 {
   font-size: 30px;
   text-align: center;
+  font-family: 'Indie Flower', cursive;
 }
 #testimonials3-jf .mbr-section-title {
   color: #efefef;
@@ -1664,6 +1684,13 @@ section.form .container {
 }
 #buttons1-kw .btn {
   font-size: 18px;
+}
+#header3-kx .mbr-section-title,
+#header3-kx .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-kx .mbr-section-title I {
+  font-size: 36px;
 }
 #buttons1-gy .btn {
   font-size: 18px;

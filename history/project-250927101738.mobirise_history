@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "karacsonyi_fotozas_pecs.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 754,
+    "uniqCompNum": 753,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -64,7 +64,9 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "imageResize": false,
     "mbrsiteDomain": "w7otjnoplx",
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "ujszulott_fotozas.html": {
@@ -12261,8 +12263,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "font-size": "30px",
-              "color": "#c0a375"
+              "font-size": "30px"
             }
           },
           "_params": {
@@ -12271,7 +12272,7 @@
             "paddingBottom": "1",
             "bgColor": "#fff"
           },
-          "title": "<i>Kismama, újszülött, baba, családi, portré, páros, születésnap, keresztelő, háziállat, glamour, boudoir, jegyes, esküvői, enteriőr és ingatlan fotózás Pécsen, Szekszárdon és környékén, szabadtéren és műteremben&nbsp;</i><div><br></div>",
+          "title": "<i>Kismama, újszülött, baba, gyermek, családi, portré, üzleti portré, páros, születésnap, keresztelő, háziállat, glamour, boudoir, jegyes, esküvői, enteriőr és ingatlan fotózás Pécsen, Szekszárdon és környékén, szabadtéren és műteremben a saját igényeid szerint\n</i><div><br></div>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -12327,9 +12328,6 @@
             },
             ".mbr-section-title I": {
               "font-size": "36px"
-            },
-            ".mbr-section-title": {
-              "color": "#c0a375"
             }
           },
           "_params": {
@@ -12413,7 +12411,7 @@
             "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"karacsonyi_fotozas_pecs.html\" data-toolbar=\"-mbrBtnMove\">A karácsonyi fotózásról bővebben</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"velemenyek.html\" data-toolbar=\"-mbrBtnMove\">A karácsonyi fotózásról bővebben</a> ",
           "_tags": [
             "Theme"
           ],
@@ -12445,9 +12443,6 @@
             },
             ".mbr-section-title I": {
               "font-size": "30px"
-            },
-            ".mbr-section-title": {
-              "color": "#c0a375"
             }
           },
           "_params": {
@@ -12535,9 +12530,6 @@
             },
             ".mbr-section-title I": {
               "font-size": "36px"
-            },
-            ".mbr-section-title": {
-              "color": "#c0a375"
             }
           },
           "_params": {
@@ -12562,7 +12554,7 @@
             "inverse": false,
             "imageSize": "56",
             "paddingTop": 0,
-            "paddingBottom": "1",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -12597,7 +12589,7 @@
               "size": 0
             }
           },
-          "title": "<i style=\"\"><br></i><br><br><br><i style=\"\">AJÁNDÉKUTALVÁNY FOTÓZÁSRA<br></i><br><br><span style=\"font-weight: normal;\"><i>Ha szeretnéd a szeretteid meglepni egy szuper élménnyel, és örök emlékkel, akkor ajándékozz fotózást névre szóló ajándékkártya formájában a saját igényeid szerint.&nbsp;</i></span><br><span style=\"font-weight: normal;\"><i>Ajándékutalvány újszülött, baba, gyermek, családi, kismama, páros, portré, glamour, boudoir, háziállat témában.<br></i></span><br><br><br><br><i style=\"\"><br></i>",
+          "title": "<i style=\"\"><br></i><br><br><br><i style=\"\">AJÁNDÉKUTALVÁNY FOTÓZÁSRA<br></i><br><br><br><br><span style=\"font-weight: normal;\"><i>Ha szeretnéd a szeretteid meglepni egy szuper élménnyel, és örök emlékkel, akkor ajándékozz fotózást névre szóló ajándékkártya formájában a saját igényeid szerint.&nbsp;</i></span><br><span style=\"font-weight: normal;\"><i>Ajándékutalvány újszülött, baba, gyermek, családi, kismama, páros, portré, glamour, boudoir, háziállat témában.<br></i></span><br><br><br><br><i style=\"\"><br></i>",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
           "_tags": [
@@ -12886,7 +12878,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/1089-ujszulottfoto-pecs-babafoto-newbornphoto-babyphoto.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1037-ujszulott-babafotozas-pecs-szekszard-newborn-babyphoto.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -14692,7 +14684,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "title": "<i style=\"\">KARÁCSONYI CSALÁDI, BABA, ÚJSZÜLÖTT, KISMAMA, PÁROS, PORTRÉ, GLAMOUR FOTÓZÁS PÉCSEN &nbsp;STÚDIÓBAN</i>",
+          "title": "<i style=\"\">KARÁCSONYI CSALÁDI, BABA, GYERMEK, ÚJSZÜLÖTT, KISMAMA, PÁROS, PORTRÉ, GLAMOUR FOTÓZÁS PÉCSEN</i>",
           "meta": "Lepd meg szeretteidet gyönyörű családi és gyerek fotókkal!&nbsp;",
           "_tags": [
             "Theme"
@@ -14777,8 +14769,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a9404-kutyafotos-pecs-parosfotos-dogphotography-maternity-613x920-613x920.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a9404-kutyafotos-pecs-parosfotos-dogphotography-maternity-613x920-613x920-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/9153-karacsonyi-csaladi-fotozas-pecs-christmas-photostudio.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9153-karacsonyi-csaladi-fotozas-pecs-christmas-photostudio-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -14789,12 +14781,36 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/9153-karacsonyi-csaladi-fotozas-pecs-christmas-photostudio.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/9153-karacsonyi-csaladi-fotozas-pecs-christmas-photostudio-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a2574-msolat-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a2574-msolat-1-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/karacsonyi-csaladi-fotozas-pecs-chirstmas-photography-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/karacsonyi-csaladi-fotozas-pecs-chirstmas-photography-1-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/0902-karacsonyi-csaladi-fotozas-christmas-photo.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0902-karacsonyi-csaladi-fotozas-christmas-photo-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -14806,19 +14822,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/6625-karacsonyi-csaladi-fotozas-pecs-christmas-photo.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/6625-karacsonyi-csaladi-fotozas-pecs-christmas-photo-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -14827,18 +14831,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/2729-paros-fotozas-pecs-karacsonyi-foto.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2729-paros-fotozas-pecs-karacsonyi-foto-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a2579-msolat.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a2579-msolat-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -14878,13 +14870,7 @@
             "Theme"
           ],
           "_name": "content6",
-          "_anchor": "content6-52",
-          "_styles": {
-            ".lead P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
+          "_anchor": "content6-52"
         },
         {
           "_params": {
@@ -14947,7 +14933,7 @@
               "size": 0
             }
           },
-          "title": "<i style=\"\"><br></i><br><br><br><i style=\"\">AJÁNDÉKUTALVÁNY FOTÓZÁSRA<br></i><br>Ajándékoz egy szuper élményt és örök emléket!<br><br><span style=\"font-weight: normal;\">Ha még nincs ötleted, hogy mit ajándékoz karácsonyra, akkor ajándékozz fotózást, így egy igazán személyes és emlékezetes ajándékkal lepheted meg szeretteidet, melyet ajándékutalvány formájában a karácsonyfa alá is tehetsz.\n</span><div><span style=\"font-weight: normal;\">\n</span></div><div><span style=\"font-weight: normal;\">Családi, gyermek, baba, újszülött, kismama, páros, jegyes, portré, glamour, boudoir témában várlak szeretettel.</span><br><i style=\"\"><br></i></div>",
+          "title": "<i style=\"\"><br></i><br><br><br><i style=\"\">AJÁNDÉKUTALVÁNY FOTÓZÁSRA<br></i><br><br><span style=\"font-weight: normal;\">Ha még nincs ötleted, hogy mit ajándékoz karácsonyra, akkor ajándékozz fotózást, így egy igazán személyes és emlékezetes ajándékkal lepheted meg szeretteidet, melyet ajándékutalvány formájában a karácsonyfa alá is tehetsz.\n</span><div><span style=\"font-weight: normal;\">\n</span></div><div><span style=\"font-weight: normal;\">Családi, gyermek, baba, újszülött, kismama, páros, jegyes, portré, glamour, boudoir témában várlak szeretettel.</span><br><i style=\"\"><br></i></div>",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
           "_tags": [
@@ -14956,20 +14942,14 @@
           "_name": "msg-box5",
           "_styles": {
             "SPAN": {
-              "font-size": "22px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "font-size": "22px"
             },
             "I": {
-              "font-size": "30px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "font-size": "30px"
             },
             "H3": {
               "font-size": "30px",
-              "text-align": "center",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+              "text-align": "center"
             }
           },
           "_anchor": "msg-box5-hr"
@@ -15167,29 +15147,6 @@
             }
           },
           "_anchor": "buttons1-kw"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title I": {
-              "font-size": "36px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "0",
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "title": "<i>Karácsonyi fotóim</i>",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-kx"
         },
         {
           "_params": {
@@ -18073,7 +18030,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Creative",
@@ -18409,7 +18366,19 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a7985-ujszulott-karacsonyifotozas-pecs-newborn-christmasphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a7985-ujszulott-karacsonyifotozas-pecs-newborn-christmasphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Creative",
