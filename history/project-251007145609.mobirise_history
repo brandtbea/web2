@@ -64,7 +64,9 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "imageResize": false,
     "mbrsiteDomain": "w7otjnoplx",
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "ujszulott_fotozas.html": {
@@ -12326,7 +12328,7 @@
               "text-align": "center"
             },
             ".mbr-section-title I": {
-              "font-size": "30px"
+              "font-size": "32px"
             },
             ".mbr-section-title": {
               "color": "#c0a375"
