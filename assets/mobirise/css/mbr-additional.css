@@ -591,10 +591,6 @@ section.form .container {
 #buttons1-s .btn {
   font-size: 18px;
 }
-#contacts1-1w P {
-  color: #acacac;
-  font-size: 13px;
-}
 
 
 #msg-box5-21 H3 {
@@ -659,10 +655,6 @@ section.form .container {
 }
 #buttons1-25 .btn {
   font-size: 18px;
-}
-#contacts1-26 P {
-  color: #acacac;
-  font-size: 13px;
 }
 #ext_menu-27 .hide-buttons .nav-btn {
   display: none !important;
@@ -753,7 +745,10 @@ section.form .container {
   font-size: 24px;
 }
 #header3-3w .mbr-section-title I {
-  font-size: 30px;
+  font-size: 25px;
+}
+#buttons1-l3 .btn {
+  font-size: 18px;
 }
 #buttons1-4l .btn {
   font-size: 18px;
@@ -769,10 +764,6 @@ section.form .container {
 #buttons1-3h .btn {
   font-size: 18px;
   font-family: 'Roboto', sans-serif;
-}
-#contacts1-3i P {
-  color: #acacac;
-  font-size: 13px;
 }
 #ext_menu-3j .hide-buttons .nav-btn {
   display: none !important;
@@ -893,10 +884,6 @@ section.form .container {
 }
 #buttons1-31 .btn {
   font-size: 18px;
-}
-#contacts1-32 P {
-  color: #acacac;
-  font-size: 13px;
 }
 #ext_menu-33 .hide-buttons .nav-btn {
   display: none !important;
@@ -1024,10 +1011,6 @@ section.form .container {
 #buttons1-2l .btn {
   font-size: 18px;
 }
-#contacts1-2m P {
-  color: #acacac;
-  font-size: 13px;
-}
 #ext_menu-2n .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1151,10 +1134,6 @@ section.form .container {
 }
 #buttons1-39 .btn {
   font-size: 18px;
-}
-#contacts1-3a P {
-  color: #acacac;
-  font-size: 13px;
 }
 #ext_menu-3b .hide-buttons .nav-btn {
   display: none !important;
@@ -1345,7 +1324,7 @@ section.form .container {
   text-align: center;
 }
 #header3-js .mbr-section-title I {
-  font-size: 30px;
+  font-size: 32px;
 }
 #header3-js .mbr-section-title {
   color: #c0a375;
@@ -1547,10 +1526,6 @@ section.form .container {
 #buttons1-2t .btn {
   font-size: 18px;
 }
-#contacts1-2u P {
-  color: #acacac;
-  font-size: 13px;
-}
 #ext_menu-2v .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1714,10 +1689,6 @@ section.form .container {
 #buttons1-h0 .btn {
   font-size: 18px;
 }
-#contacts1-4z P {
-  color: #acacac;
-  font-size: 13px;
-}
 #social-buttons3-5f .mbr-section-title,
 #social-buttons3-5f .btn-social {
   color: #fff;
@@ -1835,10 +1806,6 @@ section.form .container {
 #buttons1-5p .btn {
   font-size: 18px;
   font-family: 'Roboto', sans-serif;
-}
-#contacts1-5q P {
-  color: #acacac;
-  font-size: 13px;
 }
 #ext_menu-5r .hide-buttons .nav-btn {
   display: none !important;
@@ -1970,10 +1937,6 @@ section.form .container {
 #buttons1-66 .btn {
   font-size: 18px;
 }
-#contacts1-67 P {
-  color: #acacac;
-  font-size: 13px;
-}
 #ext_menu-68 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2075,10 +2038,6 @@ section.form .container {
 }
 #buttons1-6x .btn {
   font-size: 18px;
-}
-#contacts1-6y P {
-  color: #acacac;
-  font-size: 13px;
 }
 #ext_menu-6z .hide-buttons .nav-btn {
   display: none !important;
@@ -2182,10 +2141,6 @@ section.form .container {
 #buttons1-6l .btn {
   font-size: 18px;
 }
-#contacts1-6m P {
-  color: #acacac;
-  font-size: 13px;
-}
 #ext_menu-6n .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2287,10 +2242,6 @@ section.form .container {
 }
 #buttons1-79 .btn {
   font-size: 18px;
-}
-#contacts1-7a P {
-  color: #acacac;
-  font-size: 13px;
 }
 #ext_menu-7b .hide-buttons .nav-btn {
   display: none !important;
@@ -2394,10 +2345,6 @@ section.form .container {
 #buttons1-7l .btn {
   font-size: 18px;
 }
-#contacts1-7m P {
-  color: #acacac;
-  font-size: 13px;
-}
 #ext_menu-7n .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2499,10 +2446,6 @@ section.form .container {
 }
 #buttons1-7x .btn {
   font-size: 18px;
-}
-#contacts1-7y P {
-  color: #acacac;
-  font-size: 13px;
 }
 #ext_menu-7z .hide-buttons .nav-btn {
   display: none !important;
@@ -2606,10 +2549,6 @@ section.form .container {
 #buttons1-89 .btn {
   font-size: 18px;
 }
-#contacts1-8a P {
-  color: #acacac;
-  font-size: 13px;
-}
 #ext_menu-8b .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2711,10 +2650,6 @@ section.form .container {
 }
 #buttons1-8l .btn {
   font-size: 18px;
-}
-#contacts1-8m P {
-  color: #acacac;
-  font-size: 13px;
 }
 #ext_menu-8n .hide-buttons .nav-btn {
   display: none !important;
@@ -2818,10 +2753,6 @@ section.form .container {
 #buttons1-8x .btn {
   font-size: 18px;
 }
-#contacts1-8y P {
-  color: #acacac;
-  font-size: 13px;
-}
 #ext_menu-8z .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2923,10 +2854,6 @@ section.form .container {
 }
 #buttons1-99 .btn {
   font-size: 18px;
-}
-#contacts1-9a P {
-  color: #acacac;
-  font-size: 13px;
 }
 #ext_menu-9b .hide-buttons .nav-btn {
   display: none !important;
@@ -3030,10 +2957,6 @@ section.form .container {
 #buttons1-9n .btn {
   font-size: 18px;
 }
-#contacts1-9o P {
-  color: #acacac;
-  font-size: 13px;
-}
 #ext_menu-9p .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -3135,10 +3058,6 @@ section.form .container {
 }
 #buttons1-9z .btn {
   font-size: 18px;
-}
-#contacts1-a0 P {
-  color: #acacac;
-  font-size: 13px;
 }
 #ext_menu-a1 .hide-buttons .nav-btn {
   display: none !important;
@@ -3242,10 +3161,6 @@ section.form .container {
 #buttons1-am .btn {
   font-size: 18px;
 }
-#contacts1-an P {
-  color: #acacac;
-  font-size: 13px;
-}
 #ext_menu-ao .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -3315,6 +3230,7 @@ section.form .container {
 #footer1-ap P {
   text-align: center;
 }
+
 
 
 #ext_menu-av .hide-buttons .nav-btn {
@@ -3399,8 +3315,18 @@ section.form .container {
 #msg-box4-b0 P {
   text-align: left;
 }
+#msg-box4-l0 H3 {
+  font-size: 30px;
+}
+#msg-box4-l0 P {
+  text-align: left;
+}
 #msg-box5-b1 P {
   text-align: left;
+}
+#msg-box5-b1 I {
+  font-size: 17px;
+  font-family: 'Raleway', sans-serif;
 }
 #msg-box5-b2 P {
   text-align: left;
@@ -3410,10 +3336,6 @@ section.form .container {
 }
 #buttons1-b4 .btn {
   font-size: 18px;
-}
-#contacts1-b5 P {
-  color: #acacac;
-  font-size: 13px;
 }
 
 
@@ -3447,10 +3369,6 @@ section.form .container {
 }
 #buttons1-bv .btn {
   font-size: 18px;
-}
-#contacts1-bw P {
-  color: #acacac;
-  font-size: 13px;
 }
 #ext_menu-bx .hide-buttons .nav-btn {
   display: none !important;
@@ -3554,10 +3472,6 @@ section.form .container {
 #buttons1-c7 .btn {
   font-size: 18px;
 }
-#contacts1-c8 P {
-  color: #acacac;
-  font-size: 13px;
-}
 #ext_menu-c9 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -3651,10 +3565,6 @@ section.form .container {
 }
 #buttons1-d6 .btn {
   font-size: 18px;
-}
-#contacts1-d9 P {
-  color: #acacac;
-  font-size: 13px;
 }
 #ext_menu-da .hide-buttons .nav-btn {
   display: none !important;
@@ -3850,10 +3760,6 @@ section.form .container {
 #buttons1-dm .btn {
   font-size: 18px;
 }
-#contacts1-do P {
-  color: #acacac;
-  font-size: 13px;
-}
 
 
 #msg-box5-dq H3 {
@@ -3911,10 +3817,6 @@ section.form .container {
 }
 #buttons1-dz .btn {
   font-size: 18px;
-}
-#contacts1-e0 P {
-  color: #acacac;
-  font-size: 13px;
 }
 #ext_menu-e1 .hide-buttons .nav-btn {
   display: none !important;
@@ -4040,10 +3942,6 @@ section.form .container {
 #buttons1-ec .btn {
   font-size: 18px;
 }
-#contacts1-ed P {
-  color: #acacac;
-  font-size: 13px;
-}
 #ext_menu-ee .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4138,10 +4036,6 @@ section.form .container {
 }
 #buttons1-ew .btn {
   font-size: 18px;
-}
-#contacts1-ez P {
-  color: #acacac;
-  font-size: 13px;
 }
 #ext_menu-f0 .hide-buttons .nav-btn {
   display: none !important;
@@ -4244,10 +4138,6 @@ section.form .container {
 }
 #buttons1-cj .btn {
   font-size: 18px;
-}
-#contacts1-ck P {
-  color: #acacac;
-  font-size: 13px;
 }
 #ext_menu-cl .hide-buttons .nav-btn {
   display: none !important;
@@ -4451,10 +4341,6 @@ section.form .container {
 #buttons1-fp .btn {
   font-size: 18px;
 }
-#contacts1-fq P {
-  color: #acacac;
-  font-size: 13px;
-}
 #ext_menu-fr .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4557,10 +4443,6 @@ section.form .container {
 #buttons1-g3 .btn {
   font-size: 18px;
 }
-#contacts1-g4 P {
-  color: #acacac;
-  font-size: 13px;
-}
 #ext_menu-g5 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4662,10 +4544,6 @@ section.form .container {
 }
 #buttons1-gj .btn {
   font-size: 18px;
-}
-#contacts1-gk P {
-  color: #acacac;
-  font-size: 13px;
 }
 #ext_menu-gl .hide-buttons .nav-btn {
   display: none !important;
@@ -4791,10 +4669,6 @@ section.form .container {
 #buttons1-hb .btn {
   font-size: 18px;
 }
-#contacts1-hc P {
-  color: #acacac;
-  font-size: 13px;
-}
 #ext_menu-hd .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4896,10 +4770,6 @@ section.form .container {
 }
 #buttons1-hx .btn {
   font-size: 18px;
-}
-#contacts1-hy P {
-  color: #acacac;
-  font-size: 13px;
 }
 #ext_menu-hz .hide-buttons .nav-btn {
   display: none !important;
@@ -5003,10 +4873,6 @@ section.form .container {
 #buttons1-ib .btn {
   font-size: 18px;
 }
-#contacts1-ic P {
-  color: #acacac;
-  font-size: 13px;
-}
 #ext_menu-id .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -5109,10 +4975,6 @@ section.form .container {
 #buttons1-ip .btn {
   font-size: 18px;
 }
-#contacts1-iq P {
-  color: #acacac;
-  font-size: 13px;
-}
 #ext_menu-ir .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -5207,10 +5069,6 @@ section.form .container {
 }
 #buttons1-jb .btn {
   font-size: 18px;
-}
-#contacts1-jc P {
-  color: #acacac;
-  font-size: 13px;
 }
 #ext_menu-jd .hide-buttons .nav-btn {
   display: none !important;
@@ -5365,10 +5223,6 @@ section.form .container {
 #testimonials3-1v .card-block {
   text-align: center;
 }
-#contacts1-1w P {
-  color: #acacac;
-  font-size: 13px;
-}
 
 
 #ext_menu-1o .hide-buttons .nav-btn {
@@ -5443,10 +5297,6 @@ section.form .container {
 #header3-1q .mbr-section-title,
 #header3-1q .mbr-section-subtitle {
   text-align: center;
-}
-#contacts1-1w P {
-  color: #acacac;
-  font-size: 13px;
 }
 
 
@@ -5532,10 +5382,6 @@ section.form .container {
 }
 #footer1-1n P {
   text-align: center;
-}
-#contacts1-1w P {
-  color: #acacac;
-  font-size: 13px;
 }
 #header3-cv .mbr-section-title,
 #header3-cv .mbr-section-subtitle {
@@ -5635,10 +5481,6 @@ section.form .container {
 #buttons1-5v .btn {
   font-size: 18px;
 }
-#contacts1-1w P {
-  color: #acacac;
-  font-size: 13px;
-}
 
 
 #msg-box5-29 H3 {
@@ -5705,10 +5547,6 @@ section.form .container {
 }
 #buttons1-2d .btn {
   font-size: 18px;
-}
-#contacts1-2e P {
-  color: #acacac;
-  font-size: 13px;
 }
 #ext_menu-2f .hide-buttons .nav-btn {
   display: none !important;

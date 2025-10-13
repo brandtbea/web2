@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "path": "@PROJECT_PATH@",
+    "name": "Beus",
+    "screenshot": "screenshot.png",
+    "versionFirst": "4.12.4",
+    "siteFonts": [],
+    "theme": {},
+    "currentPage": "index.html",
+    "versionPublish": "4.12.4"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": []
+    }
+  }
+}
