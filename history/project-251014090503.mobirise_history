@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "karacsonyi_fotozas_pecs.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -64,7 +64,9 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "imageResize": false,
     "mbrsiteDomain": "w7otjnoplx",
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "ujszulott_fotozas.html": {
