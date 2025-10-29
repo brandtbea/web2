@@ -747,6 +747,21 @@ section.form .container {
 #header3-3w .mbr-section-title I {
   font-size: 25px;
 }
+#testimonials3-l5 .mbr-section-title {
+  color: #efefef;
+}
+#testimonials3-l5 .mbr-author-name {
+  color: #ccc;
+}
+#testimonials3-l5 .card-block {
+  text-align: center;
+}
+#testimonials3-l6 .mbr-section-title {
+  color: #efefef;
+}
+#testimonials3-l6 .mbr-author-name {
+  color: #ccc;
+}
 #buttons1-l3 .btn {
   font-size: 18px;
 }
@@ -1629,22 +1644,6 @@ section.form .container {
 #content6-52 .lead P {
   font-family: 'Raleway', sans-serif;
 }
-#buttons1-58 .btn {
-  font-size: 18px;
-}
-#msg-box5-hr SPAN {
-  font-size: 22px;
-  font-family: 'Montserrat', sans-serif;
-}
-#msg-box5-hr I {
-  font-size: 30px;
-  font-family: 'Montserrat', sans-serif;
-}
-#msg-box5-hr H3 {
-  font-size: 30px;
-  text-align: center;
-  font-family: 'Indie Flower', cursive;
-}
 #testimonials3-jf .mbr-section-title {
   color: #efefef;
 }
@@ -1660,8 +1659,21 @@ section.form .container {
 #testimonials3-jg .mbr-author-name {
   color: #ccc;
 }
-#buttons1-kw .btn {
+#buttons1-l4 .btn {
   font-size: 18px;
+}
+#msg-box5-hr SPAN {
+  font-size: 22px;
+  font-family: 'Montserrat', sans-serif;
+}
+#msg-box5-hr I {
+  font-size: 30px;
+  font-family: 'Montserrat', sans-serif;
+}
+#msg-box5-hr H3 {
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
 }
 #header3-kx .mbr-section-title,
 #header3-kx .mbr-section-subtitle {
