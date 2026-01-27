@@ -64,9 +64,7 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "imageResize": false,
     "mbrsiteDomain": "w7otjnoplx",
-    "publishChangesOnly": false,
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "publishChangesOnly": false
   },
   "pages": {
     "ujszulott_fotozas.html": {
@@ -12280,7 +12278,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "file:///C:/Beus/Beus%20web/export/assets/images/g85a9257-msolat-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a9257-msolat-1.jpg",
               "link": "",
               "alt": "",
               "title": ""
