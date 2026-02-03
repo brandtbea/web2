@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "ingatlan_enterior_epuletfotozas_pecs_propertyphoto.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -64,7 +64,9 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "imageResize": false,
     "mbrsiteDomain": "w7otjnoplx",
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "ujszulott_fotozas.html": {
@@ -12278,7 +12280,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/g85a9257-msolat-1.jpg",
+              "src": "file:///C:/Beus/Beus%20web/export/assets/images/g85a9257-msolat-1.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -12296,7 +12298,7 @@
             }
           },
           "title": "<i>VALENTIN NAPI PÁROS, PORTRÉ, GLAMOUR, BOUDOIR MŰTERMI ÉS SZABADTÉRI FOTÓZÁS PÉCSEN</i>",
-          "text": "<br>Sok szeretettel várlak Valentin napi fotózásra a saját pécsi pécsi stúdiómban, vagy szabadtéren.<br>Tarts velem és lepd meg párodat egy igazán gyönyörű és különleges fotósorozattal rólad, illetve kettőtökről, amely különleges ajándékul szolgál, valamint gazdagítsd magad és a párodat egy szép élménnyel. Ha még nincs ötleted, hogy mit ajándékoz szeretettednek Valentin napra, akkor ajándékozz fotózást, melyet ajándékutalvány formájában is átadhatsz. Várlak szeretettel, és remélem hamarosan találkozunk.&nbsp;<br>\n<br>&nbsp;&nbsp;",
+          "text": "<br>💖 Valentin-nap Közeledik! Készüljetek Emlékezetes Pillanatokra a Stúdiómban! 💖<br><br>Sziasztok! Ahogy közeledik a szerelem ünnepe, elhoztam nektek a tökéletes lehetőséget, hogy megörökítsétek a szerelmet, a szépséget és az önbizalmat – akár egyedül, akár párosan!<br><br>A pécsi stúdiómban idén Valentin-nap alkalmából különleges fotózási élményeket kínálok, amelyek garantáltan emlékezetesek maradnak:<br><br>✨ Páros Valentin-napi Fotózás: Örökítsétek meg a köztetek lévő köteléket, a nevetést, az intimitást és a szenvedélyt. Legyen szó romantikus, játékos vagy elegáns képekről, együtt megálmodjuk a számotokra legkedvesebb pillanatokat. Lepjétek meg egymást egy olyan élménnyel, aminek az eredményét még évekig szívesen nézegetitek majd!<br><br>💃 Portré, Glamour &amp; Boudoir Fotózás Egyénileg: Miért ne ünnepelnéd meg saját magad ezen a különleges napon? Keresed az önbizalmadat? Szeretnél egy igazán különleges ajándékot adni magadnak vagy párodnak? Akár finom és elegáns portrékra, sugárzó glamour képekre, vagy érzéki boudoir fotókra vágysz, a stúdiómban én segítek neked abban, hogy a legszebb és legmagabiztosabb énedet mutasd meg. Hidd el, gyönyörű vagy!<br><br>Mitől lesz különleges a fotózás nálam?<br><br>Személyre szabott élmény: Minden fotózás előtt megbeszéljük az elképzeléseiteket, stílusotokat, hogy a végeredmény 100%-ban rólatok szóljon.<br><br>Profi smink és frizura: Kérésre profi sminkessel és fodrásszal dolgozom együtt, hogy a tökéletes külsőt varázsoljuk eléd/elétek a fotózásra.<br><br>Nyugodt, inspiráló környezet: A pécsi stúdiómban garantált a kellemes, diszkrét és professzionális légkör.<br><br>Egyedi ajándék: Kész fotóidat igény szerint exkluzív fotókönyvbe vagy vászonképre is elkészíttetem, ami örök emlék marad.<br><br>Ne hagyd ki ezt a fantasztikus lehetőséget! Foglalj időpontot még ma, hogy garantáltan legyen helyed Valentin-nap előtt!<br>\n<br>&nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
           "_tags": [
             "Theme"
@@ -35939,8 +35941,8 @@
               "size": 0
             }
           },
-          "title": "<i>INAGATLAN, ENTERIŐR, ÉPÜLET &nbsp;és SZÁLLÁSHELY FOTÓZÁS PÉCSEN, SZEKSZÁRDON ÉS &nbsp;KÖRNYÉKÉN</i>",
-          "text": "<b>Marketing stratégia, szépérzék és mérnöki precizitás egyetlen kattintásban.</b><br><br><b>Vizuális történetmesélés: Megmutatjuk ingatlanod valódi lelkét/szépségét és értékét.</b><br><i>..amivel elvarázsolod és megnyered a leendő ügyfeled</i>..<br><br>...amivel versenyképes leszel....<br><br>...amivel a vállalkozásod sikerét növeled...<br><br>....egyedileg retusált profi HDR fotók...<br><br><br>",
+          "title": "<br><i><br></i><br><i>INAGATLAN, ENTERIŐR, ÉPÜLET &nbsp;és </i><br><i>SZÁLLÁSHELY FOTÓZÁS </i><br><br><i>PÉCSEN, SZEKSZÁRDON ÉS &nbsp;KÖRNYÉKÉN</i>",
+          "text": "<br><b>Marketing stratégia, szépérzék és mérnöki precizitás egyetlen kattintásban.</b><br><br><b>Vizuális történetmesélés: Megmutatjuk ingatlanod valódi lelkét/szépségét és értékét.</b><br><br>...amivel versenyképes leszel....<br><br>...amivel a vállalkozásod sikerét növeled...<br><br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -35949,7 +35951,7 @@
           "_styles": {
             "H3": {
               "font-size": "24px",
-              "text-align": "center"
+              "text-align": "left"
             },
             "P": {
               "text-align": "center",
@@ -36059,7 +36061,7 @@
               "size": 0
             }
           },
-          "title": "<br>Ingatlanfotózás, ahol a marketing stratégia, a szép érzék, és a mérnöki precizitás találkozik<br><br>Ingatlanfotózás: marketing stratégia, szépérzék és mérnöki precizitás egyetlen kattintásban.\n<div><br><br><div>Az első benyomásnak nincs második esélye\n<div>\n</div><div><br></div></div></div>",
+          "title": "<br><br>Ingatlanfotózás, ahol a marketing stratégia, a szép érzék, és a mérnöki precizitás találkozik<br><br><div><br><br><div>Az első benyomásnak nincs második esélye\n<div>\n</div><div><br></div></div></div>",
           "text": "Tudtad, hogy az érdeklődők 90%-a másodpercek alatt, érzelmi alapon dönt? Ne bízd a véletlenre az első benyomást Emelkedj ki a tömegből olyan fotókkal, amelyek nemcsak szépek és tűélesek, hanem a marketing erejével és a harmónia esztétikumával hódítják meg ügyfeleidet.<br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
           "_tags": [
@@ -36070,6 +36072,9 @@
           "_styles": {
             "H3": {
               "font-size": "22px"
+            },
+            "P": {
+              "text-align": "left"
             }
           }
         },
@@ -36117,7 +36122,7 @@
             }
           },
           "title": "<div>\n</div><div>Ingatlanfotózás: Marketing stratégia, szépérzék és mérnöki precizitás egyetlen kattintásban.</div><div><br></div>",
-          "text": "<b>Együtt alkotunk ...</b>\n<br><br>Üdvözölünk! Mi egy házasrpár és alkotópáros vagyunk, akik hisznek abban, hogy minden épületnek, szobának és birtoknak saját története van. Célunk, hogy ezt a történetet olyan vizuális nyelvre fordítsuk le, amely megszólítja a leendő ügyfeleidet. \n<br>\n<br>Férjemmel, Gáspár Attilával <b>8 éve dolgozunk</b> azon, hogy az ingatlanokat és szálláshelyeket a lehető legvonzóbb formájukban mutassuk be. Családi vállalkozásunk ereje a két különböző, mégis egymást kiegészítő látásmódunkban rejlik. Amikor minket bíz meg, nem csupán egy fotóst kap, hanem egy stratégiai alkotópárost. \n<br>\n<br>Kapcsolatunkban, és a munkánkban is&nbsp;<b>két különböző szemléletmód, a nói és a férfi találkozik.</b> <b>és éppen ez a mi legnagyobb erősségünk.\n</b><br><br>Olyan<b>&nbsp;</b>képeket készítünk, amelyek igazán kiemelik az épületek, belsőterek szépségét és egyediségét,&nbsp;<b><br></b><br><b>Két nézőpont, egy cél: Az értékesítésed sikere.</b> \n<br><br><br>",
+          "text": "<b>Együtt alkotunk ...</b>\n<br><br>Üdvözölünk! Mi egy házasrpár és alkotópáros vagyunk, akik hisznek abban, hogy minden épületnek, szobának és birtoknak saját története van. Célunk, hogy ezt a történetet olyan vizuális nyelvre fordítsuk le, amely megszólítja a leendő ügyfeleidet. \n<br>\n<br>Férjemmel, Gáspár Attilával <b>8 éve dolgozunk</b> azon, hogy az ingatlanokat és szálláshelyeket a lehető legvonzóbb formájukban mutassuk be. Családi vállalkozásunk ereje a két különböző, mégis egymást kiegészítő látásmódunkban rejlik. Amikor minket bízol meg, nem csupán egy fotóst kapsz, hanem egy stratégiai alkotópárost. \n<br>\n<br>Kapcsolatunkban, és a munkánkban is&nbsp;<b>két különböző szemléletmód, a nói és a férfi találkozik.</b> <b>és éppen ez a mi legnagyobb erősségünk.\n</b><br><br>Olyan<b>&nbsp;</b>képeket készítünk, amelyek igazán kiemelik az épületek, belsőterek szépségét és egyediségét,&nbsp;<b><br></b><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
           "_tags": [
             "Theme"
@@ -36197,7 +36202,7 @@
               "font-size": "22px"
             },
             "B": {
-              "font-size": "22px",
+              "font-size": "19px",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
@@ -36220,7 +36225,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -36289,7 +36294,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -36359,7 +36364,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -36457,7 +36462,7 @@
             }
           },
           "title": "Az eredmény: Több megkeresés, magasabb bevétel&nbsp;",
-          "text": "<b>Az eredmény</b>: Több megkeresés, magasabb bevétel<br>Számunkra a fotózás nem ér véget az exponáló gomb megnyomásával. <b>Mi partnerként tekintünk Rád:</b> a célunk, hogy a <b>munkánk valódi profitot és sikert hozzon</b> <b>a vállalkozásodnak. </b>A profi fotó nálunk nem kiadás, hanem befektetés, amely az első sikeres üzletnél vagy foglalásnál többszörösen megtérül.<br><br><b>Hozzuk ki együtt ingatlana vagy birtoka maximumát!</b><br><br>Ha szeretnél olyan képeket, amelyek tükrözik a házad, lakásod értékét, akkor fordulj hozzánk bizalommal! Várunk szeretettel!<b><br></b>",
+          "text": "<b>Az eredmény</b>: Több megkeresés, magasabb bevétel<br>Számunkra a fotózás nem ér véget az exponáló gomb megnyomásával. <b>Mi partnerként tekintünk Rád:</b> a célunk, hogy a <b>munkánk valódi profitot és sikert hozzon</b> <b>a vállalkozásodnak. </b>A profi fotó nálunk nem kiadás, hanem befektetés, amely az első sikeres üzletnél vagy foglalásnál többszörösen megtérül.<br><br><b>Hozzuk ki együtt ingatlanod vagy birtokod maximumát!</b><br><br>Ha szeretnél olyan képeket, amelyek tükrözik a házad, lakásod értékét, akkor fordulj hozzánk bizalommal! Várunk szeretettel!<b><br></b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
           "_tags": [
             "Theme"
