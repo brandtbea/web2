@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "ingatlan_enterior_epuletfotozas_pecs_propertyphoto.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -64,7 +64,9 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "imageResize": false,
     "mbrsiteDomain": "w7otjnoplx",
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "ujszulott_fotozas.html": {
@@ -12278,7 +12280,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/g85a9257-msolat-1.jpg",
+              "src": "file:///C:/Beus/Beus%20web/export/assets/images/g85a9257-msolat-1.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -36042,7 +36044,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/bikali-kastely-fotozas-pecs-szekszard.jpg",
+              "src": "@PROJECT_PATH@/assets/images/szallashelyfotozas-pecs-szekszard.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -36059,7 +36061,7 @@
               "size": 0
             }
           },
-          "title": "<br>Ingatlanfotózás, ahol a marketing stratégia, a szép érzék, és a mérnöki precizitás találkozik<br><br>Ingatlanfotózás: marketing stratégia, szépérzék és mérnöki precizitás egyetlen kattintásban.\n<div><br><br><div>Az első benyomásnak nincs második esélye\n<div>\n</div><div><br></div></div></div>",
+          "title": "<br>Ingatlanfotózás, ahol a marketing stratégia, a szép érzék, és a mérnöki precizitás találkozik<br><br>Ingatlanfotózás: Marketing stratégia, szépérzék és mérnöki precizitás egyetlen kattintásban.\r<div><br><br><div>Az első benyomásnak nincs második esélye\n<div>\n</div><div><br></div></div></div>",
           "text": "Tudtad, hogy az érdeklődők 90%-a másodpercek alatt, érzelmi alapon dönt? Ne bízd a véletlenre az első benyomást Emelkedj ki a tömegből olyan fotókkal, amelyek nemcsak szépek és tűélesek, hanem a marketing erejével és a harmónia esztétikumával hódítják meg ügyfeleidet.<br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
           "_tags": [
@@ -36128,10 +36130,9 @@
               "font-size": "22px"
             },
             "DIV": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "22px",
-              "text-align": "left"
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "17px"
             },
             "P": {
               "text-align": "left"
@@ -36186,7 +36187,7 @@
             }
           },
           "title": "<div>\n</div><div><br></div>",
-          "text": "<br><b>Két nézőpont egy árért</b><br><br><br><b>Miért mi vagyunk a sikerednek a kulcsa?</b><br><b> \n</b><br>Nem csupán képeket készítünk, hanem egy olyan <b>komplex látásmódot </b>kínálunk, amely a<b> piacon egyedülálló</b>. \n<br><br>Kapcsolatunkban és a munkánkban is a<b> női és férfi látásmód szinergiája</b> teremti meg azt a tökéletes végeredményt, amit egyedül nehéz lenne elérni:<br><br><b>Marketing stratégia és szakértelem:</b> Marketing és Vezetés-szervezés diplomáimnak köszönhetően nem csak „szép” képekben gondolkodom. Úgy tekintek a terekre, mint egy értékesítési felületre. <b>Tudom, milyen vizuális ingerek segítik az eladást, </b>és <b>mi kelti fel a vendégek vágyát </b>egy azonnali foglaláshoz.. <b>Kíválóan tudom megragadni az épületek, enteriőrök szépségét és karakterét.</b>\n<br>\n<br><br>",
+          "text": "<br><b>Két nézőpont egy árért<br></b><br><br><b>Miért mi vagyunk a sikerednek a kulcsa? \n</b><br>Nem csupán képeket készítünk, hanem egy olyan <b>komplex látásmódot </b>kínálunk, amely a<b> piacon egyedülálló</b>. \n<br><br>Kapcsolatunkban és a munkánkban is a<b> női és férfi látásmód szinergiája</b> teremti meg azt a tökéletes végeredményt, amit egyedül nehéz lenne elérni:<br><br><b>Marketing stratégia és szakértelem:</b> Marketing és Vezetés-szervezés diplomáimnak köszönhetően nem csak „szép” képekben gondolkodom. Úgy tekintek a terekre, mint egy értékesítési felületre. <b>Tudom, milyen vizuális ingerek segítik az eladást, </b>és <b>mi kelti fel a vendégek vágyát </b>egy azonnali foglaláshoz.. <b>Kíválóan tudom megragadni az épületek, enteriőrök szépségét és karakterét.</b>\n<br>\n<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
           "_tags": [
             "Theme"
@@ -36197,9 +36198,7 @@
               "font-size": "22px"
             },
             "B": {
-              "font-size": "22px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "font-size": "17px"
             },
             "P": {
               "text-align": "left"
@@ -36269,9 +36268,7 @@
               "text-align": "left"
             },
             "B": {
-              "font-size": "22px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "font-size": "19px"
             }
           },
           "_anchor": "msg-box5-li"
@@ -36302,7 +36299,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/6300-takler-kuria-ingatlan-fotozas-pecs-szekszard.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2648-szallashelyfotozas-pecs-szekszard.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -36339,9 +36336,7 @@
               "text-align": "left"
             },
             "B": {
-              "font-size": "22px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "font-size": "19px"
             }
           },
           "_anchor": "msg-box5-lj"
@@ -36372,7 +36367,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/hl1-img-5673-ingatlanfoto-propertyphoto-pecs-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/6215-takler-kuria-szekszard-ingatlanfotozas-pecs.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -36439,7 +36434,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/2654-fritztanya-szekszard-hotelfotozas-pecs-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/6215-takler-kuria-szekszard-ingatlanfotozas-pecs.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -36505,6 +36500,20 @@
           ],
           "_name": "header3",
           "_anchor": "header3-lg"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text1": "<p><b>Az első benyomásnak nincs második esélye</b></p><p><br></p><p>Tudtad, hogy egy igazán profi ingatlan, enteriőr, épület fotóval, amely elvarázsolja a leendő ügyfeledet, és amellyel ki tudsz tűni a konkurencia közül növeli a vállalkozásod sikerét?</p><p></p><p><br></p><p>Az első benyomást az ingatlanodról (lakásodról, házadról, hoteledről),&nbsp;<span style=\"font-size: 1.07rem;\">a róla készült fotók adják. A fényképeken dől el, hogy a leendő ügyfeled felveszi-e veled a kapcsolatot..</span></p><p><br></p><p>Tűnj ki a versenytársak közül egyedi retusált profi HDR fotókkal, amellyel igazán jó benyomást és bizalmat keltesz a leendő üzletfeieidben, és a vállalkozásod sikerrét megsokszorozza!</p><p><br></p><p><br></p><p></p><p></p>",
+          "text2": "<div><br></div><div>Együtt alkotunk\n...</div><div>\n</div><div>Én és a férjem, Gáspár Attila, ingatlan, enteriőr- és épületfotózással is foglalkozunk.\n</div><div>\n</div><div><br></div><div>Képzésem és tapasztalatom alapján kiválóan tudom megragadni az épületek, enteriőrök szépségét és karakterét. A férjem pedig a technikai tudásával és precizitásával biztosítja, hogy a képek kifogástalanok legyenek.\n</div><div>\n</div><div><br></div><div>Így a munkánk során a férfi és női szemléletmód találkozik, és olyan képeket készítünk, amelyek igazán kiemelik az épületek, belsőterek szépségét és egyediségét.\n</div><div>\n</div><div><br></div><div>Ha szeretnél olyan képeket, amelyek tükrözik a házad, lakásod értékét, akkor fordulj hozzánk bizalommal! Várunk szeretettel!</div><div><br></div><div><br></div><div><br></div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-et"
         },
         {
           "_params": {
