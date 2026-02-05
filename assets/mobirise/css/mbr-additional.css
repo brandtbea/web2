@@ -3995,7 +3995,7 @@ section.form .container {
 
 #msg-box5-ep H3 {
   font-size: 24px;
-  text-align: center;
+  text-align: left;
 }
 #msg-box5-ep P {
   text-align: center;
@@ -4017,6 +4017,9 @@ section.form .container {
 #msg-box5-le H3 {
   font-size: 22px;
 }
+#msg-box5-le P {
+  text-align: left;
+}
 #msg-box5-lh H3 {
   font-size: 22px;
 }
@@ -4035,7 +4038,7 @@ section.form .container {
   font-size: 22px;
 }
 #msg-box5-lf B {
-  font-size: 22px;
+  font-size: 19px;
   font-family: 'Montserrat', sans-serif;
 }
 #msg-box5-lf P {
