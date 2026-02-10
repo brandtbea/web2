@@ -33415,6 +33415,18 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/1105-zleti-business-portraitphoto-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1105-zleti-business-portraitphoto-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
                 "active": true
               }
             ]
