@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "business_uzleti_portre_fotozas_oneletrajz_cv_pecs.html",
+    "currentPage": "ingatlan_enterior_epuletfotozas_pecs_propertyphoto.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33295,7 +33295,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Creative",
@@ -33427,7 +33427,31 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/9202-business-portrait-photoshott-pecs-linkedin-fotozas.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9202-business-portrait-photoshott-pecs-linkedin-fotozas-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/9309-zletiportre-fotozas-pecs-businessportraitphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9309-zletiportre-fotozas-pecs-businessportraitphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
