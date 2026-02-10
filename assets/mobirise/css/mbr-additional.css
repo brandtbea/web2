@@ -3758,6 +3758,41 @@ section.form .container {
 #header3-ds .mbr-section-title I {
   font-size: 25px;
 }
+#msg-box5-lm H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-lm P {
+  text-align: left;
+}
+#msg-box5-lp H3 {
+  font-size: 24px;
+  text-align: left;
+}
+#msg-box5-lp P {
+  text-align: left;
+}
+#msg-box5-lt H3 {
+  font-size: 24px;
+  text-align: left;
+}
+#msg-box5-lt P {
+  text-align: left;
+}
+#msg-box5-lq H3 {
+  font-size: 24px;
+  text-align: left;
+}
+#msg-box5-lq P {
+  text-align: left;
+}
+#msg-box5-lu H3 {
+  font-size: 24px;
+  text-align: left;
+}
+#msg-box5-lu P {
+  text-align: left;
+}
 #testimonials3-jv .mbr-section-title {
   color: #efefef;
 }
@@ -3775,6 +3810,16 @@ section.form .container {
 }
 #buttons1-jx .btn {
   font-size: 18px;
+}
+#header3-lv .mbr-section-title,
+#header3-lv .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-lv .mbr-section-title I {
+  font-size: 36px;
+}
+#header3-lv .mbr-section-title DIV {
+  font-size: 22px;
 }
 #testimonials1-dv .mbr-section-title {
   font-size: 36px;
