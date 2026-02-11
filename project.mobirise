@@ -64,7 +64,9 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "imageResize": false,
     "mbrsiteDomain": "w7otjnoplx",
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "ujszulott_fotozas.html": {
@@ -32970,7 +32972,7 @@
           },
           "title": "Az első benyomásod nem várhat: Profi üzleti portré, ami bizalmat épít",
           "text": "<br>\"<i>A pótolhatatlanság nélkülözhetetlen feltétele, hogy különbözz másoktól.\"  Coco Chanel</i><br><br><br>Tudtad, hogy mindössze néhány másodperc alatt eldől, szimpatikusnak és hitelesnek találnak-e a weboldaladon vagy a LinkedIn profilodon? Legyen szó egy új állásról, egy értékes megbízásról vagy a márkád építéséről, a fotód az első „kézfogás” közted és a partnered között.<br>\n<br>&nbsp;&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Időpontot foglalni</a>",
           "_tags": [
             "Theme"
           ],
@@ -33031,7 +33033,7 @@
           },
           "title": "<i>Miért válassz engem?</i>",
           "text": "<br>Segítek, hogy ne csak egy legyél a sok közül. Olyan önazonos és bizalmat keltő fotókat készítünk, amelyek:<br><br>Megnyitják az ajtókat: Egy HR-es számára az önéletrajzod a fotóddal válik teljessé – döntsük el az interjút már az első pillanatban!<br><br>Vevőket hoznak: Az ügyfeleid szívesebben kötnek üzletet egy arccal, akiről sugárzik a profizmus.<br><br>Önbizalmat adnak: Megmutatjuk a legjobb formádat, feszengés nélkül.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Időpontot foglalni</a>",
           "_tags": [
             "Theme"
           ],
@@ -33092,7 +33094,7 @@
           },
           "title": "Rugalmas helyszínek, az Te igényeidre szabva",
           "text": "<br>\"Pécsi műtermemben várlak, de a helyszínnek csak a képzeleted szab határt:\n<br>\n<br>Stúdió vagy természet? Akár mindkettő! Saját, gyönyörű virágos udvarunkban a stúdióminőség és a természetes fények előnyeit egyszerre élvezheted.\n<br>\n<br>Kiszállás: Szívesen megyek a munkahelyedre, vagy fotózhatunk erdőben, mezőn, tóparton is.<br>\n<br>&nbsp;&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Időpontot foglalni</a>",
           "_tags": [
             "Theme"
           ],
@@ -33153,7 +33155,7 @@
           },
           "title": "Garancia a minőségre",
           "text": "<br>Garancia a minőségre<br>Te döntesz: A nyers képekből te választod ki azokat, amik a legjobban tetszenek, én pedig profi retussal varázsolom őket tökéletessé.<br><br>Prémium átadás: A képeket nagy felbontásban kapod meg, így akár faliújságra vagy óriásplakátra is alkalmasak.<br><br>Extrák: Kérhetsz tőlem egyedi, zenés digitális slideshow-t is, amivel stílusosan mutathatod be az új sorozatodat.<br><br>Profi háttér cégeknek: Természetesen számlaképes vagyok, így vállalkozások számára is ideális partner vagyok a csapatfotózáshoz vagy vezetői portrékhoz.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Időpontot foglalni</a>",
           "_tags": [
             "Theme"
           ],
@@ -33214,7 +33216,7 @@
           },
           "title": "Készen állsz a szintlépésre?",
           "text": "<br><br>Ne hagyd a véletlenre a megítélésedet! Keress bizalommal, és alkossuk meg együtt a sikered arcát.<br>&nbsp;&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Időpontot szeretnék kérni</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Időpontot szeretnék foglalni</a>",
           "_tags": [
             "Theme"
           ],
@@ -33412,7 +33414,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot!</a>           ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot most!</a>           ",
           "_tags": [
             "Theme"
           ],
@@ -33911,18 +33913,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/7389-portre-fotozas-pecs-portraitphotography.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/7389-portre-fotozas-pecs-portraitphotography-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/7392-uzleti-portre-foto-headshot-potrait-photo-pecs.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/7392-uzleti-portre-foto-headshot-potrait-photo-pecs-613x920.jpg",
                 "alt": "",
@@ -33941,6 +33931,18 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7389-portre-fotozas-pecs-portraitphotography.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7389-portre-fotozas-pecs-portraitphotography-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
