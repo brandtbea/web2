@@ -32848,7 +32848,7 @@
               "size": 0
             }
           },
-          "title": "<i><br></i><br><br><i><br></i><br><i>ÜZLETI /BUSINESS PORTRÉ, </i><br><br><i>HEADSHOT FOTÓ, </i><br><br><i>ÖNÉLETRAJZ /CV , LINKEDIN, </i><br><br><i>WEBLAP, PORTFÓLIÓ , ARCULAT </i><br><br><i>FOTÓZÁS PÉCSEN MŰTEREMBEN </i><br><br><i>ÉS SZABADTÉREN</i>",
+          "title": "<i>ÜZLETI /BUSINESS PORTRÉ, HEADSHOT FOTÓ, ÖNÉLETRAJZ /CV , LINKEDIN, WEBLAP, PORTFÓLIÓ , ARCULAT FOTÓZÁS PÉCSEN MŰTEREMBEN ÉS SZABADTÉREN</i>",
           "text": "<i>...Be unique.</i>..<br>...<i>Be different...<br>...Be authentic...<br>....Be yourself....<br>...Be successful.</i>..<br><br><br>\n<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -33251,12 +33251,12 @@
             "showBio": false,
             "count": 3,
             "paddingTop": 3,
-            "paddingBottom": "2",
-            "bgImageRadio": false,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/fotos-pecs-glamour-portrefotozas-photographer-1.jpg",
             "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#d6cda7",
+            "bgColorRadio": false,
+            "bgColor": "#fff",
             "overlay": true,
             "overlayColor": "#222",
             "overlayOpacity": "0.8"
@@ -33330,13 +33330,13 @@
             "showName": false,
             "showBio": false,
             "count": 3,
-            "paddingTop": "1",
+            "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/pipacsfoto-glamourphoto-portrefotozas-fenykepesz-pecs-2.jpg",
             "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#d6cda7",
+            "bgColorRadio": false,
+            "bgColor": "#fff",
             "overlay": true,
             "overlayColor": "#222",
             "overlayOpacity": "0.9"
@@ -34045,7 +34045,7 @@
             {
               "authorName": "Hűbér Veronika",
               "authorBio": "Developer",
-              "text": "\"Szívből ajánlom mindenkinek! ❤\n<div>Bea rendkívül örömteli, felszabadult hangulatot teremtett, és különös érzékkel varázsolt elő olyan természetes pillanatokat, amelyekből csodálatos fotók születtek! \"❤</div>",
+              "text": "\"Szívből ajánlom mindenkinek! ❤\r<div>Bea rendkívül örömteli, felszabadult hangulatot teremtett, és különös érzékkel varázsolt elő olyan természetes pillanatokat, amelyekből csodálatos fotók születtek! \"❤</div>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/g85a0668-portrefotos-pecs-portraitphoto.jpeg",
