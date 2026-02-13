@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "business_uzleti_portre_fotozas_oneletrajz_cv_pecs.html",
+    "currentPage": "ingatlan_enterior_epuletfotozas_pecs_propertyphoto.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 788,
+    "uniqCompNum": 789,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -64,9 +64,7 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "imageResize": false,
     "mbrsiteDomain": "w7otjnoplx",
-    "publishChangesOnly": false,
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "publishChangesOnly": false
   },
   "pages": {
     "ujszulott_fotozas.html": {
@@ -36794,6 +36792,124 @@
         },
         {
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/02-lakasfotozas-pecs-szekszard.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/02-lakasfotozas-pecs-szekszard-800x400.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/03-airbnb-lakasfotozas-pecs-szekszard.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/03-airbnb-lakasfotozas-pecs-szekszard-800x400.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/04-lakasfotozas-pecs-szekszard.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/04-lakasfotozas-pecs-szekszard-800x400.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/05-szallashelyfotozas-pecs-szekszard.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/05-szallashelyfotozas-pecs-szekszard-800x400.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/07-ingatlanfotozas-pecs-szekszard.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/07-ingatlanfotozas-pecs-szekszard-800x400.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/06-epuletfotozas-pecs-szekszard.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/06-epuletfotozas-pecs-szekszard-800x400.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/08-hotelfotozas-pecs-szekszard.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/08-hotelfotozas-pecs-szekszard-800x400.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/szallashelyfotozas-pecs-szekszard.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/szallashelyfotozas-pecs-szekszard-800x400.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-lw"
+        },
+        {
+          "_params": {
             "showBullets": false,
             "fullWidth": false,
             "spacing": "1",
@@ -37114,7 +37230,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -37207,6 +37323,54 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/4426-lakasfotozas-airbnb-pecs-szekszard.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/4426-lakasfotozas-airbnb-pecs-szekszard-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/hl-enteriorfotozas-realestatephoto-pecs-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hl-enteriorfotozas-realestatephoto-pecs-1-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/enterior-fotozas-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/enterior-fotozas-pecs-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/enterior-fotozas-pecs-szekszard.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/enterior-fotozas-pecs-szekszard-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/3724-ingatlanfotzs-pecs-enteriorphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3724-ingatlanfotzs-pecs-enteriorphoto-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -37587,6 +37751,18 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6302-takler-kuria-epuletfotozas-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6302-takler-kuria-epuletfotozas-pecs-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/fritz-pinceszet-szekszard-epuletfotozas-pecs.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/fritz-pinceszet-szekszard-epuletfotozas-pecs-613x920.jpg",
                 "alt": "",
@@ -37599,8 +37775,56 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2632-takler-pinceszet-pecs-ingatlanfotozas.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2632-takler-pinceszet-pecs-ingatlanfotozas-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/3997-bodri-pinceszet-hotelfotozas-pecs-szekszard.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/3997-bodri-pinceszet-hotelfotozas-pecs-szekszard-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2261-takler-kuria-epuletfotozas-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2261-takler-kuria-epuletfotozas-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2629-fritz-tanya-szekszrd-picszet-fotozas.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2629-fritz-tanya-szekszrd-picszet-fotozas-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6306-takler-kuria-szekszard-ingatlan-fotozas.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6306-takler-kuria-szekszard-ingatlan-fotozas-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
