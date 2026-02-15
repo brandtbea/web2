@@ -1334,16 +1334,6 @@ section.form .container {
 #content1-hf I {
   font-size: 32px;
 }
-#msg-box5-la H3 {
-  font-size: 24px;
-  text-align: center;
-}
-#msg-box5-la P {
-  text-align: left;
-}
-#msg-box5-la I {
-  font-size: 25px;
-}
 #buttons1-ju .btn {
   font-size: 18px;
 }
@@ -1358,14 +1348,14 @@ section.form .container {
   color: #c0a375;
 }
 #msg-box5-as SPAN {
-  font-size: 36px;
+  font-size: 20px;
 }
 #msg-box5-as I {
   font-size: 30px;
 }
 #msg-box5-as H3 {
   font-size: 30px;
-  text-align: center;
+  text-align: left;
 }
 #header3-47 .mbr-section-title,
 #header3-47 .mbr-section-subtitle {

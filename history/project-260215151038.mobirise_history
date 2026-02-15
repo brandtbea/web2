@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "index.html",
+    "currentPage": "ingatlan_enterior_epuletfotozas_pecs_propertyphoto.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -64,7 +64,9 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "imageResize": false,
     "mbrsiteDomain": "w7otjnoplx",
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "ujszulott_fotozas.html": {
@@ -12254,6 +12256,70 @@
         },
         {
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/g85a9257-msolat-1.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<i>VALENTIN NAPI PÁROS, PORTRÉ, GLAMOUR, BOUDOIR MŰTERMI ÉS SZABADTÉRI FOTÓZÁS PÉCSEN</i>",
+          "text": "<br>💖 Valentin-nap Közeledik! Készüljetek Emlékezetes Pillanatokra a Stúdiómban! 💖<br><br>Sziasztok! Ahogy közeledik a szerelem ünnepe, elhoztam nektek a tökéletes lehetőséget, hogy megörökítsétek a szerelmet, a szépséget és az önbizalmat – akár egyedül, akár párosan!<br><br>A pécsi stúdiómban idén Valentin-nap alkalmából különleges fotózási élményeket kínálok, amelyek garantáltan emlékezetesek maradnak:<br><br>✨ Páros Valentin-napi Fotózás: Örökítsétek meg a köztetek lévő köteléket, a nevetést, az intimitást és a szenvedélyt. Legyen szó romantikus, játékos vagy elegáns képekről, együtt megálmodjuk a számotokra legkedvesebb pillanatokat. Lepjétek meg egymást egy olyan élménnyel, aminek az eredményét még évekig szívesen nézegetitek majd!<br><br>💃 Portré, Glamour &amp; Boudoir Fotózás Egyénileg: Miért ne ünnepelnéd meg saját magad ezen a különleges napon? Keresed az önbizalmadat? Szeretnél egy igazán különleges ajándékot adni magadnak vagy párodnak? Akár finom és elegáns portrékra, sugárzó glamour képekre, vagy érzéki boudoir fotókra vágysz, a stúdiómban én segítek neked abban, hogy a legszebb és legmagabiztosabb énedet mutasd meg. Hidd el, gyönyörű vagy!<br><br>Mitől lesz különleges a fotózás nálam?<br><br>Személyre szabott élmény: Minden fotózás előtt megbeszéljük az elképzeléseiteket, stílusotokat, hogy a végeredmény 100%-ban rólatok szóljon.<br><br>Profi smink és frizura: Kérésre profi sminkessel és fodrásszal dolgozom együtt, hogy a tökéletes külsőt varázsoljuk eléd/elétek a fotózásra.<br><br>Nyugodt, inspiráló környezet: A pécsi stúdiómban garantált a kellemes, diszkrét és professzionális légkör.<br><br>Egyedi ajándék: Kész fotóidat igény szerint exkluzív fotókönyvbe vagy vászonképre is elkészíttetem, ami örök emlék marad.<br><br>Ne hagyd ki ezt a fantasztikus lehetőséget! Foglalj időpontot még ma, hogy garantáltan legyen helyed Valentin-nap előtt!<br>\n<br>&nbsp;&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "24px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            "I": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "msg-box5-la"
+        },
+        {
+          "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
             "bgColor": "#fff"
@@ -12349,14 +12415,14 @@
           "_anchor": "msg-box5-as",
           "_styles": {
             "SPAN": {
-              "font-size": "20px"
+              "font-size": "36px"
             },
             "I": {
               "font-size": "30px"
             },
             "H3": {
               "font-size": "30px",
-              "text-align": "left"
+              "text-align": "center"
             }
           }
         },
