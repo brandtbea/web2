@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "babafotozas_pecs_csaladifotozas_babyphoto.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -64,7 +64,9 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "imageResize": false,
     "mbrsiteDomain": "w7otjnoplx",
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "ujszulott_fotozas.html": {
@@ -31710,6 +31712,30 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8139-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8139-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8170-2000x2242.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8170-2000x2242-800x897.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a9705-fenykepesz-pecs-photography.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a9705-fenykepesz-pecs-photography-800x533.jpg",
                 "alt": "",
@@ -31722,8 +31748,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a8139-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a8139-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a8178-2000x2034.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8178-2000x2034-800x814.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -31758,6 +31784,18 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8243-2000x1343.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8243-2000x1343-800x537.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a8163-2000x3119.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a8163-2000x3119-800x1248.jpg",
                 "alt": "",
@@ -31782,6 +31820,18 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8081-2000x1354.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8081-2000x1354-800x542.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a9752-babafotozas-pecs-babyphotography.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a9752-babafotozas-pecs-babyphotography-800x533.jpg",
                 "alt": "",
@@ -31794,8 +31844,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/mg-4165-1-babakep-ocbaby.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-4165-1-babakep-ocbaby-800x534.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a9879-csaladifotozas-pecs-fenykepesz.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9879-csaladifotozas-pecs-fenykepesz-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -31806,8 +31856,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a9879-csaladifotozas-pecs-fenykepesz.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a9879-csaladifotozas-pecs-fenykepesz-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-4165-1-babakep-ocbaby.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-4165-1-babakep-ocbaby-800x534.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -31844,30 +31894,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a7053-baba-gyermekfotozas-pecs-pecsifotos.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a7053-baba-gyermekfotozas-pecs-pecsifotos-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/mg-3789-2-babafotozas-pecs-szekszard-babyphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-3789-2-babafotozas-pecs-szekszard-babyphoto-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/mg-6641-1-babafotos-babyphotographer-800x555.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-6641-1-babafotos-babyphotographer-800x555-450x312.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -31950,6 +31976,18 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mg-6641-1-babafotos-babyphotographer-800x555.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-6641-1-babafotos-babyphotographer-800x555-450x312.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a0028-familyphoto-csaladifoto-babafoto-pecs.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a0028-familyphoto-csaladifoto-babafoto-pecs-613x920.jpg",
                 "alt": "",
@@ -32015,7 +32053,19 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8248-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8248-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -32106,6 +32156,18 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mg-3789-2-babafotozas-pecs-szekszard-babyphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-3789-2-babafotozas-pecs-szekszard-babyphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/1260-babafotozas-pecs-babyphotoshoot.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/1260-babafotozas-pecs-babyphotoshoot-613x920.jpg",
                 "alt": "",
@@ -32135,7 +32197,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Creative",
