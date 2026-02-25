@@ -1337,6 +1337,16 @@ section.form .container {
 #buttons1-ju .btn {
   font-size: 18px;
 }
+#msg-box5-mj H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-mj P {
+  text-align: left;
+}
+#msg-box5-mj I {
+  font-size: 25px;
+}
 #header3-ii .mbr-section-title,
 #header3-ii .mbr-section-subtitle {
   text-align: center;
