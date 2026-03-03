@@ -64,7 +64,9 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "imageResize": false,
     "mbrsiteDomain": "w7otjnoplx",
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "ujszulott_fotozas.html": {
@@ -19230,7 +19232,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/g85a8974-tavaszi-husveti-fotozas-pecs-photography-easter0.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-g85a8974-tavaszi-husveti-fotozas-pecs-photography-easter.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -19291,91 +19293,6 @@
           "_anchor": "testimonials3-mv"
         },
         {
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "showImages": true,
-            "showName": true,
-            "showBio": false,
-            "count": "3",
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "A fotózásomon résztvevők ajánlásai",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "testimonial": [
-            {
-              "authorName": "Kasper-Kovács-Szabina",
-              "authorBio": "User",
-              "text": "Húsvéti fotózáson voltunk a 10 hónapos kisfiammal. Bea nagyon kedves, türelmes, közvetlen :)\r<div>A képek csodaszépek lettek. Mindenkinek ajánlom :)</div>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/g85a8781-msolat-5.jpeg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": ""
-                }
-              }
-            },
-            {
-              "authorName": "Veress Sándor",
-              "authorBio": "User",
-              "text": "\"Már harmadszor volt szerencsénk Beával dolgozni. 🥰 Nagyon türelmes, jól elkapja a pillanatokat, gyönyörű képeket csinált! 😊Ajánlom mindenkinek! Mi negyedszerre is vissza fogunk jönni. Nagyon köszönjük!\" 😘",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/img-7698-2-csaladfoto-familyshoot-1.jpeg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": ""
-                }
-              }
-            },
-            {
-              "authorName": "Hóborné K. Anita",
-              "authorBio": "User",
-              "text": "Ajánlom Brandt Beá-t minden ismerősömnek és annak aki felejthetetlen élményt szeretne! Nagyom jó fotókat készít! A gyerekeimről rengeteg képet készített! Imádom őket! ❤",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/g85a0081-babafoto-pecs-babyphoto-csaladifoto-familyphoto.jpeg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": ""
-                }
-              }
-            }
-          ],
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials1",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "36px"
-            }
-          },
-          "_anchor": "testimonials1-hn"
-        },
-        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -19390,7 +19307,7 @@
           "_params": {
             "showMeta": false,
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": 1,
             "bgColor": "#efefef"
           },
           "title": "\n<div><i>Húsvéti/tavaszi/anyáknapi újszülött, baba, családi, kismama, porté, páros fotóim</i></div>",
@@ -20160,6 +20077,88 @@
             }
           },
           "_anchor": "buttons1-5n"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": true,
+            "showName": true,
+            "showBio": false,
+            "count": "3",
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "A fotózásomon résztvevők ajánlásai",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Kasper-Kovács-Szabina",
+              "authorBio": "User",
+              "text": "Húsvéti fotózáson voltunk a 10 hónapos kisfiammal. Bea nagyon kedves, türelmes, közvetlen :)\r<div>A képek csodaszépek lettek. Mindenkinek ajánlom :)</div>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/g85a8781-msolat-5.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "Suffian A.",
+              "authorBio": "User",
+              "text": "\"Már harmadszor volt szerencsénk Beával dolgozni. 🥰 Nagyon türelmes, jól elkapja a pillanatokat, gyönyörű képeket csinált! 😊Ajánlom mindenkinek! Mi negyedszerre is vissza fogunk jönni. Nagyon köszönjük!\" 😘",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Hóborné K. Anita",
+              "authorBio": "User",
+              "text": "Ajánlom Brandt Beá-t minden ismerősömnek és annak aki felejthetetlen élményt szeretne! Nagyom jó fotókat készít! A gyerekeimről rengeteg képet készített! Imádom őket! ❤",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/g85a0081-babafoto-pecs-babyphoto-csaladifoto-familyphoto.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "testimonials1-hn"
         },
         {
           "_styles": {

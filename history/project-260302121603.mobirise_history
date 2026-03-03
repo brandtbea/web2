@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 825,
+    "uniqCompNum": 817,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -64,7 +64,9 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "imageResize": false,
     "mbrsiteDomain": "w7otjnoplx",
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "ujszulott_fotozas.html": {
@@ -12217,7 +12219,7 @@
             "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
-          "text": "<p><b>Szeretnéd az élet legcsodálatosabb pillanatait megörökíteni,</b> mint a babavárást, az újszülöttek első mosolyát, a babák, gyerekek őszinte kacaját, az egymás iránti szeretet meghitt pillanatait,<b> egyedi, érzelemmel teli csodás fotókon? </b></p><p><b><i><br></i></b></p><p><b><i>Kismama, baba, gyermek, újszülött, családi, portré, üzleti portré, páros, glamour, boudoir, keresztelő, jegyes, esküvői, háziállat enteriőr és ingatlan fotógráfus vagyok.</i> </b>A fényképezés élményét egy kellemes program keretében a saját műterműnkben, és szabadtéren is megtapasztalhatod velünk Pécsen, Szekszárdon és környékén. Előre is köszönöm, hogy megtekinted a honlapomat. Keress bizalommal! Várlak szeretettel.</p>",
+          "text": "<p><b>Szeretnéd az élet legcsodálatosabb pillanatait megörökíteni,</b> mint a babavárást, az újszülöttek első mosolyát, a babák, gyerekek őszinte kacaját, az egymás iránti szeretet meghitt pillanatait,<b> egyedi, érzelemmel teli csodás fotókon? </b></p><p><b><i>Kismama, baba, gyermek, újszülött, családi, portré, üzleti portré, páros, glamour, boudoir, keresztelő, jegyes, esküvői, háziállat enteriőr és ingatlan fotógráfus vagyok.</i> </b>A fényképezés élményét egy kellemes program keretében a saját műterműnkben, és szabadtéren is megtapasztalhatod velünk Pécsen, Szekszárdon és környékén. Előre is köszönöm, hogy megtekinted a honlapomat. Keress bizalommal! Várlak szeretettel.</p>",
           "_tags": [
             "Theme"
           ],
@@ -12271,29 +12273,6 @@
           "_anchor": "buttons1-ju"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title I": {
-              "font-size": "30px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "title": "<i>Tavaszi/húsvéti/anyáknapi műtermi és szabadtéri újszülött, baba, gyermek, családi, kismama, páros és portré fotózás Pécsen és Szekszárdon</i>",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-mt"
-        },
-        {
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -12306,7 +12285,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -12336,8 +12315,8 @@
               "size": 0
             }
           },
-          "title": "HÚSVÉTI/ANYÁKNAPI FOTÓZÁS",
-          "text": "<br><br>Sok szeretettel várlak benneteket márciustól húsvéti/tavaszi fotózásra a saját pécsi gyönyörű szépen berendezett stúdiómban, a virágos udvarunkban vagy szabadtéren Pécsen és Szekszárdon.<br><br>Tarts velem és lepd meg magadat, a családodat, a párodat egy fantasztikus élménnyel, egy igazán gyönyörű és különleges fotósorozattal, amely különleges ajándékul szolgál, <br>Ha még nincs ötleted, hogy mit ajándékoz szeretetteidnek húsvétra/anyáknapjára, akkor ajándékozz fotózást, melyet ajándékutalvány formájában is átadhatsz. <br><br>Várlak szeretettel, és remélem hamarosan találkozunk.&nbsp;<br>\n<br>&nbsp;&nbsp;",
+          "title": "<i>HÚSVÉTI/ANYÁKNAPI ÚJSZÜLÖTT, BABA, GYERMEK, CSALÁDI, KISMAMA, PÁROS, PORTRÉ/GLAMOUR/ MŰTERMI ÉS SZABADTÉRI FOTÓZÁS PÉCSEN ÉS SZEKSZÁRDON</i>",
+          "text": "<br><br><br>Sok szeretettel várlak benneteket márciustól húsvéti/tavaszi fotózásra a saját pécsi gyönyörű szépen berendezett stúdiómban, a virágos udvarunkban vagy szabadtéren Pécsen és Szekszárdon.<br><br>Tarts velem és lepd meg magadat, a családodat, a párodat egy fantasztikus élménnyel, egy igazán gyönyörű és különleges fotósorozattal, amely különleges ajándékul szolgál, <br>Ha még nincs ötleted, hogy mit ajándékoz szeretetteidnek húsvétra/anyáknapjára, akkor ajándékozz fotózást, melyet ajándékutalvány formájában is átadhatsz. <br><br>Várlak szeretettel, és remélem hamarosan találkozunk.&nbsp;<br>\n<br>&nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot!</a>",
           "_tags": [
             "Theme"
@@ -14741,6 +14720,169 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           }
+        },
+        {
+          "_inherit": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#efefef"
+            },
+            ".mbr-author-name": {
+              "color": "#ccc"
+            },
+            ".card-block": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": false,
+            "showName": false,
+            "showBio": false,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/g85a1946-beata-brandt-pecs-fotostudio-muterem-photostudio-christmas.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "title": "Karácsonyi csomagajánlatok",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "",
+              "authorBio": "User",
+              "text": "<p><b>Minimál csomag</b></p><p>A saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban a minimál csomag ára 35.990,-Ft, mely kb. 45 perc fotózást és 8 db digitális, professzionálisan retusált fotót tartalmaz (ha fotózás munkanap nap történik, esetleg szombaton, ha hétköznap nem megoldható).\n</p><p><span style=\"font-size: 1.125rem;\">A csomagár egy helyszínre vonatkozik. A fotózás időtartama az átöltözési/etetési időket is tartalmazza. Ez a csomagár a szűk családra vonatkozik szülők és gyerekek.&nbsp;</span></p><p><span style=\"font-size: 1.125rem;\">A képeket te magad választhatod ki. A 8 db képek feletti ára 2.490,-Ft/db.</span></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "",
+              "authorBio": "User",
+              "text": "<p><b>Standard csomag</b></p><p><span style=\"font-size: 1.125rem;\">A saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban a minimál csomag ára 39.990,-Ft, mely kb. 1 óra fotózást és 10 db digitális, professzionálisan retusált fotót tartalmaz (ha fotózás munkanap nap történik, esetleg szombaton, ha hétköznap nem megoldható).</span></p><div>A csomagár egy helyszínre vonatkozik. A fotózás időtartama az átöltözési/etetési időket is tartalmazza.&nbsp;</div><div><br></div><p></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "",
+              "authorBio": "User",
+              "text": "<p><b>Médium csomag</b></p><p>A médium csomag ára a saját pécsi stúdiómban//pécsi szabadtéri helyszínen/saját udvarunkban 44.990,-Ft, mely kb. 60-75 perc fotózást és 13 db digitális, professzionálisan retusált fotót tartalmaz (ha fotózás munkanap történik, nem ünnepnapokon, esetleg szombaton, ha hétköznap nem megoldható).\n</p><div>A csomagár egy helyszínre vonatkozik. Ettől a csomagártól már lehet a saját stúdiómat és saját udvarunkat kombinálni.\n</div><div><br></div><p></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            }
+          ],
+          "_name": "testimonials3",
+          "_anchor": "testimonials3-jf"
+        },
+        {
+          "_inherit": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#efefef"
+            },
+            ".mbr-author-name": {
+              "color": "#ccc"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showSubtitle": false,
+            "showImages": false,
+            "showName": false,
+            "showBio": false,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/g85a1952-beata-brandt-photography-photostudio-pecs-fotostudio.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "title": "",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Abanoub S.",
+              "authorBio": "User",
+              "text": "<p><b>VIP csomag</b>\n</p><p><span style=\"font-size: 1.125rem;\">A VIP csomag ára a saját pécsi stúdiómban 49.990,-Ft, mely kb. egy-másfél óra fotózást, 16 db digitális professzionálisan retusált képet tartalmaz (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).</span><br></p><div><br></div><p></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Suffian A.",
+              "authorBio": "User",
+              "text": "<b>Prémium csomag\n</b><div>\n</div><div><br></div><div>A Prémium csomag ára a saját pécsi stúdiómban 54.990,-Ft, mely kb. 60-90-100 perc fotózást, 19 db digitális professzionális retusált képet tartalmaz (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).\n</div><div>\n</div><div><br></div>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Jhollman C.",
+              "authorBio": "User",
+              "text": "<b>Maxi csomag\n</b><div><br></div><div>A Maxi csomag ára a saját pécsi stúdiómban 59.990,-Ft, mely kb. egy-másfél-két óra fotózást, 22 db digitális professzionális retusált képet tartalmaz (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).\n</div><div>\n</div><div>A 22 db feletti digitális retusált képek ára 1.990,-Ft/db.&nbsp;</div>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            }
+          ],
+          "_name": "testimonials3",
+          "_anchor": "testimonials3-jg"
         },
         {
           "_params": {
@@ -18599,8 +18741,8 @@
               "size": 0
             }
           },
-          "title": "<i>HÚSVÉTI /ANYÁKNAPI /TAVASZI </i><br><br><i>CSALÁDI, PÁROS, PORTRÉ, KISMAMA, BABA, GYERMEK, ÚJSZÜLÖTT FOTÓZÁS </i><br><br><i>PÉCSEN és SZEKSZÁRDON</i>",
-          "text": "<i>...tavaszi hangulatok...</i><br><br><i>...családi pillanatok...</i>",
+          "title": "<i>HÚSVÉTI /ANYÁKNAPI /TAVASZI CSALÁDI, PÁROS, PORTRÉ, KISMAMA, BABA, GYERMEK, ÚJSZÜLÖTT FOTÓZÁS </i><br><br><i>PÉCSEN és SZEKSZÁRDON</i>",
+          "text": "<i>...ünnepi hangulatok...</i><br><i>...családi pillanatok...</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -18668,7 +18810,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "title": "<i>HÚSVÉTI/ANYÁKNAPI CSALÁDI, BABA, GYERMEK,&nbsp; ÚJSZÜLÖTT, KISMAMA, PÁROS, PORTRÉ MŰTERMI ÉS SZABADTÉRI&nbsp;</i><i>FOTÓZÁS PÉCSEN és SZEKSZÁRDON! </i><br><br>",
+          "title": "<i>HÚSVÉTI/ANYÁKNAPI CSALÁDI, BABA, GYERMEK,&nbsp; ÚJSZÜLÖTT, KISMAMA, PÁROS, PORTRÉ MŰTERMI ÉS SZABADTÉRI&nbsp;</i><i>FOTÓZÁS PÉCSEN és SZEKSZÁRDON! </i><br><i><br></i><br><i>&nbsp;<span style=\"font-weight: normal;\">Lepd meg magad és szeretteidet egy csodálatos sorozattal!</span></i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -18719,8 +18861,8 @@
               "size": 0
             }
           },
-          "title": "<i>Legyen idén a tavasz a legszebb közös emléketek! 🌸</i>",
-          "text": "<br><br>A tavaszi napsütés, a húsvéti készülődés és az Anyák napja mind egy-egy csodás alkalom arra, hogy megállítsuk az időt. Tudom, hogy édesanyaként vagy nagymamaként sokszor te vagy a kamera másik oldalán – itt az idő, hogy végre te is rajta legyél a képeken, és átéld az önfeledt pillanatokat a szeretteiddel!<br><br>&nbsp;&nbsp;",
+          "title": "<i>HÚSVÉTI ÚJSZÜLÖTT, BABA, GYERMEK, CSALÁDI, KISMAMA, PÁROS, PORTRÉ/GLAMOUR/ MŰTERMI ÉS SZABADTÉRI FOTÓZÁS PÉCSEN ÉS SZEKSZÁRDON</i>",
+          "text": "<br><br><br>Sok szeretettel várlak benneteket tavaszi fotózásra a saját pécsi gyönyörű szépen berendezett stúdiómban, a virágos udvarunkban vagy szabadtéren Pécsen és Szekszárdon.<br><br>Tarts velem és lepd meg magadat, a családodat, a párodat egy fantasztikus élménnyel, egy igazán gyönyörű és különleges fotósorozattal, amely különleges ajándékul szolgál, <br>Ha még nincs ötleted, hogy mit ajándékoz szeretetteidnek húsvétra/anyáknapjára, akkor ajándékozz fotózást, melyet ajándékutalvány formájában is átadhatsz. <br><br>Várlak szeretettel, és remélem hamarosan találkozunk.&nbsp;<br>\n<br>&nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot!</a>",
           "_tags": [
             "Theme"
@@ -18783,8 +18925,8 @@
               "size": 0
             }
           },
-          "title": "<i>Lepd meg magad és szeretteidet egy csodálatos sorozattal!</i>",
-          "text": "<br><br>A húsvét és az anyáknapja remek alkalom arra, hogy összejöjjön a család, és együtt ünnepeljen. Mi lenne jobb módja ennek, mint egy vidám, kreatív fotózás, ahol megörökíthetitek a legszebb pillanatokat?<br><br>A családi fotók számomra mindig nagyon fontos részei a fotózásnak, hiszen ezek lesznek később gyermekeitek legnagyobb kincsei, melyek generációkon keresztül öröklődni fognak. A családfotózás összehozza a családot, amikor mindenki együtt van, és, ahol mindenki rajta van képen. <br>\n<br><br>",
+          "title": "<i>NYÁRI ÚJSZÜLÖTT, BABA, GYERMEK, CSALÁDI, KISMAMA, PÁROS, PORTRÉ/GLAMOUR/ MŰTERMI ÉS SZABADTÉRI FOTÓZÁS PÉCSEN ÉS SZEKSZÁRDON</i>",
+          "text": "<br><br><br>Sok szeretettel várlak benneteket tavaszi fotózásra a saját pécsi gyönyörű szépen berendezett stúdiómban, a virágos udvarunkban vagy szabadtéren Pécsen és Szekszárdon.<br><br>Tarts velem és lepd meg magadat, a családodat, a párodat egy fantasztikus élménnyel, egy igazán gyönyörű és különleges fotósorozattal, amely különleges ajándékul szolgál, <br>Ha még nincs ötleted, hogy mit ajándékoz szeretetteidnek húsvétra/anyáknapjára, akkor ajándékozz fotózást, melyet ajándékutalvány formájában is átadhatsz. <br><br>Várlak szeretettel, és remélem hamarosan találkozunk.&nbsp;<br>\n<br>&nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot!</a>",
           "_tags": [
             "Theme"
@@ -18810,70 +18952,6 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/1089-ujszulottfoto-pecs-babafoto-newbornphoto-babyphoto.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<span style=\"font-size: 25px;\"><i><br></i></span><br><br><span style=\"font-size: 25px;\"><i>🐰 Tavaszi Pillanatok: Fotózás, ahol a szeretet látszik ✨</i></span>",
-          "text": "<br><br>Egy maradandó élmény, ahol az egymás iránti szeretet meghitt pillanatai egymás szemében tükröződik, a közös nevetések, a viccelődések mind élvezetessé teszik a családi fotózást.\n<br><br>&nbsp;&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot!</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "font-size": "24px",
-              "text-align": "center"
-            },
-            "P": {
-              "text-align": "left"
-            },
-            "I": {
-              "font-size": "25px"
-            }
-          },
-          "_anchor": "msg-box5-mq"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
             "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -18911,8 +18989,8 @@
               "size": 0
             }
           },
-          "title": "<i>🐰 Húsvéti varázslat a pécsi fotóstúdiómban! 🌷</i>\n<div>\n</div><div><br></div>",
-          "text": "<br><br>Sok szeretettel várlak benneteket márciustól húsvéti/tavaszi/anyáknapi fotózásra a saját pécsi gyönyörű szépen berendezett stúdiómban, a virágos udvarunkban vagy a legszebb szabadtéri helyszíneken Pécsen és Szekszárdon.&nbsp;<br><br>Stúdiós és kültéri fotózásra is lehetőség van egyszerre a stúdiónkban és az udvarunkban .&nbsp;<br><br>\n<br>&nbsp;&nbsp;",
+          "title": "<i>NYÁRI ÚJSZÜLÖTT, BABA, GYERMEK, CSALÁDI, KISMAMA, PÁROS, PORTRÉ/GLAMOUR/ MŰTERMI ÉS SZABADTÉRI FOTÓZÁS PÉCSEN ÉS SZEKSZÁRDON</i>",
+          "text": "<br><br><br>Sok szeretettel várlak benneteket tavaszi fotózásra a saját pécsi gyönyörű szépen berendezett stúdiómban, a virágos udvarunkban vagy szabadtéren Pécsen és Szekszárdon.<br><br>Tarts velem és lepd meg magadat, a családodat, a párodat egy fantasztikus élménnyel, egy igazán gyönyörű és különleges fotósorozattal, amely különleges ajándékul szolgál, <br>Ha még nincs ötleted, hogy mit ajándékoz szeretetteidnek húsvétra/anyáknapjára, akkor ajándékozz fotózást, melyet ajándékutalvány formájában is átadhatsz. <br><br>Várlak szeretettel, és remélem hamarosan találkozunk.&nbsp;<br>\n<br>&nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot!</a>",
           "_tags": [
             "Theme"
@@ -18945,70 +19023,6 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/g85a8711-csaladifoto-pecs-familyphoto-613x920.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<i>Miért érdemes most eljönnötök?</i>",
-          "text": "<br><b>Örök érték:</b> A gyermekeitek számára ezek a fotók lesznek a legdrágább kincsek 10-20 év múlva.\n<br>\n<br><b>A tökéletes ajándék: </b>Egy profi fotósorozatnál nincs kedvesebb meglepetés a nagyszülőknek.\n<br>\n<br><b>Élmény, nem csak fotózás:</b> Közös nevetés, ölelések és játékos hangulat – nálunk a fotózás egy vidám családi program.<br><br><br>\n<br>&nbsp;&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot!</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "font-size": "24px",
-              "text-align": "center"
-            },
-            "P": {
-              "text-align": "left"
-            },
-            "I": {
-              "font-size": "25px"
-            }
-          },
-          "_anchor": "msg-box5-mp"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -19022,7 +19036,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/g85a9809-husveti-tavaszi-anyaknapifotozas-pecs.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a1862-anyaknapi-fotozas-pecs-motherdayphoto.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -19039,8 +19053,8 @@
               "size": 0
             }
           },
-          "title": "<i>Kényelem és professzionalizmus:</i>",
-          "text": "<br><b>Rengeteg stílusos kellékkel és egyedi díszlettel várlak titeket.</b><br><b><br></b> A képeket<b> ti magatok választhatjátok ki</b>, a végeredményt pedig nagy felbontásban, akár egyedi, zenés slideshow formájában is megkaphatjátok.<br><br>Újszülött, baba, kismama, családi, páros, portré, glamour témában várlak szeretettel.&nbsp;<br><br>&nbsp;&nbsp;",
+          "title": "<i>NYÁRI ÚJSZÜLÖTT, BABA, GYERMEK, CSALÁDI, KISMAMA, PÁROS, PORTRÉ/GLAMOUR/ MŰTERMI ÉS SZABADTÉRI FOTÓZÁS PÉCSEN ÉS SZEKSZÁRDON</i>",
+          "text": "<br><br><br>Sok szeretettel várlak benneteket tavaszi fotózásra a saját pécsi gyönyörű szépen berendezett stúdiómban, a virágos udvarunkban vagy szabadtéren Pécsen és Szekszárdon.<br><br>Tarts velem és lepd meg magadat, a családodat, a párodat egy fantasztikus élménnyel, egy igazán gyönyörű és különleges fotósorozattal, amely különleges ajándékul szolgál, <br>Ha még nincs ötleted, hogy mit ajándékoz szeretetteidnek húsvétra/anyáknapjára, akkor ajándékozz fotózást, melyet ajándékutalvány formájában is átadhatsz. <br><br>Várlak szeretettel, és remélem hamarosan találkozunk.&nbsp;<br>\n<br>&nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot!</a>",
           "_tags": [
             "Theme"
@@ -19062,344 +19076,17 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/g85a9197-husveti-anyaknapi-fotozas-pecs-motherday-photo-1.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<i>Készen álltok a közös kalandra? Keress bizalommal, és foglaljuk le a nektek megfelelő időpontot!</i>",
-          "text": "<br><br>Tarts velem és lepd meg magadat, a családodat, a párodat egy fantasztikus élménnyel, egy igazán gyönyörű és különleges fotósorozattal, amely különleges ajándékul szolgál, <br><br>Ha még nincs ötleted, hogy mit ajándékoz szeretetteidnek húsvétra/anyáknapjára, akkor ajándékozz fotózást, melyet ajándékutalvány formájában is átadhatsz. <br><br>Várlak szeretettel, és remélem hamarosan találkozunk.&nbsp;<br>\n<br>Görgess tovább referencia képekért, és a csomagajánlatokért!<br>&nbsp;&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot!</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "font-size": "24px",
-              "text-align": "center"
-            },
-            "P": {
-              "text-align": "left"
-            },
-            "I": {
-              "font-size": "25px"
-            }
-          },
-          "_anchor": "msg-box5-mr"
-        },
-        {
-          "_inherit": "testimonials1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#efefef"
-            },
-            ".mbr-author-name": {
-              "color": "#ccc"
-            },
-            ".card-block": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "showImages": false,
-            "showName": false,
-            "showBio": false,
-            "count": 3,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/g85a2104-anyaknapifotozas-pecs-husvetifotozas-easterphoto-1.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "title": "Húsvéti csomagajánlatok",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "testimonial": [
-            {
-              "authorName": "",
-              "authorBio": "User",
-              "text": "<p><b>Minimál csomag\n</b></p><p><span style=\"font-size: 1.125rem;\">A saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban a minimál csomag ára 35.990,-Ft, mely kb. 1 óra fotózást és 10 db digitális, professzionálisan retusált fotót tartalmaz (ha fotózás munkanap nap történik, esetleg szombaton, ha hétköznap nem megoldható).&nbsp;</span><br></p><p>\n</p><p>A csomagár egy helyszínre vonatkozik. A fotózás időtartama az átöltözési/etetési időket is tartalmazza. Ez a csomagár a szűk családra vonatkozik szülők és gyerekek.</p><p>További képek ára: 1.990,-Ft/db</p><p><b><br></b></p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face3.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            },
-            {
-              "authorName": "",
-              "authorBio": "User",
-              "text": "<p><b>Standard csomag</b>\n</p><p><span style=\"font-size: 1.125rem;\">A standard csomag ára a saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban 39.990,-Ft, mely kb. egy-másfél óra fotózást és 13 db digitális, professzionálisan retusált fotót tartalmaz (ha fotózás munkanap történik, nem ünnepnapokon, esetleg szombaton, ha hétköznap nem megoldható).&nbsp;</span><br></p><p>\n</p><p>A csomagár egy helyszínre vonatkozik. Ettől a csomagártól már lehet a saját stúdiómat és saját udvarunkat kombinálni.</p><div><br></div><p></p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            },
-            {
-              "authorName": "",
-              "authorBio": "User",
-              "text": "<p><b>Médium csomag</b>\r</p><p><span style=\"font-size: 1.125rem;\">A Médium csomag ára saját pécsi stúdiómban/ pécsi szabadtéri&nbsp;</span><br></p><p><span style=\"font-size: 1.125rem;\">helyszínen/saját udvarunkban 44.990,-Ft, mely kb. egy-másfél óra fotózást, 16 db digitális professzionálisan retusált képet tartalmaz (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).</span><br></p><div><br></div><p></p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            }
-          ],
-          "_name": "testimonials3",
-          "_anchor": "testimonials3-mu"
-        },
-        {
-          "_inherit": "testimonials1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#efefef"
-            },
-            ".mbr-author-name": {
-              "color": "#ccc"
-            },
-            ".card-block": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "showImages": false,
-            "showName": false,
-            "showBio": false,
-            "count": 3,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/g85a8974-tavaszi-husveti-fotozas-pecs-photography-easter0.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "title": "Húsvéti csomagajánlatok",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "testimonial": [
-            {
-              "authorName": "",
-              "authorBio": "User",
-              "text": "<p><b>Minimál csomag</b></p><p>A saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban a minimál csomag ára 35.990,-Ft, mely kb. 45 perc fotózást és 8 db digitális, professzionálisan retusált fotót tartalmaz (ha fotózás munkanap nap történik, esetleg szombaton, ha hétköznap nem megoldható).\n</p><p><span style=\"font-size: 1.125rem;\">A csomagár egy helyszínre vonatkozik. A fotózás időtartama az átöltözési/etetési időket is tartalmazza. Ez a csomagár a szűk családra vonatkozik szülők és gyerekek.&nbsp;</span></p><p><span style=\"font-size: 1.125rem;\">A képeket te magad választhatod ki. A 8 db képek feletti ára 2.490,-Ft/db.</span></p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face3.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            },
-            {
-              "authorName": "",
-              "authorBio": "User",
-              "text": "<p><b>Standard csomag</b></p><p><span style=\"font-size: 1.125rem;\">A saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban a minimál csomag ára 39.990,-Ft, mely kb. 1 óra fotózást és 10 db digitális, professzionálisan retusált fotót tartalmaz (ha fotózás munkanap nap történik, esetleg szombaton, ha hétköznap nem megoldható).</span></p><div>A csomagár egy helyszínre vonatkozik. A fotózás időtartama az átöltözési/etetési időket is tartalmazza.&nbsp;</div><div><br></div><p></p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            },
-            {
-              "authorName": "",
-              "authorBio": "User",
-              "text": "<p><b>Médium csomag</b></p><p>A médium csomag ára a saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban 44.990,-Ft, mely kb. 60-75 perc fotózást és 13 db digitális, professzionálisan retusált fotót tartalmaz (ha fotózás munkanap történik, nem ünnepnapokon, esetleg szombaton, ha hétköznap nem megoldható).\n</p><div>A csomagár egy helyszínre vonatkozik. Ettől a csomagártól már lehet a saját stúdiómat és saját udvarunkat kombinálni.\n</div><div><br></div><p></p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            }
-          ],
-          "_name": "testimonials3",
-          "_anchor": "testimonials3-mv"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "showImages": true,
-            "showName": true,
-            "showBio": false,
-            "count": "3",
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "A fotózásomon résztvevők ajánlásai",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "testimonial": [
-            {
-              "authorName": "Kasper-Kovács-Szabina",
-              "authorBio": "User",
-              "text": "Húsvéti fotózáson voltunk a 10 hónapos kisfiammal. Bea nagyon kedves, türelmes, közvetlen :)\r<div>A képek csodaszépek lettek. Mindenkinek ajánlom :)</div>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/g85a8781-msolat-5.jpeg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": ""
-                }
-              }
-            },
-            {
-              "authorName": "Veress Sándor",
-              "authorBio": "User",
-              "text": "\"Már harmadszor volt szerencsénk Beával dolgozni. 🥰 Nagyon türelmes, jól elkapja a pillanatokat, gyönyörű képeket csinált! 😊Ajánlom mindenkinek! Mi negyedszerre is vissza fogunk jönni. Nagyon köszönjük!\" 😘",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/img-7698-2-csaladfoto-familyshoot-1.jpeg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": ""
-                }
-              }
-            },
-            {
-              "authorName": "Hóborné K. Anita",
-              "authorBio": "User",
-              "text": "Ajánlom Brandt Beá-t minden ismerősömnek és annak aki felejthetetlen élményt szeretne! Nagyom jó fotókat készít! A gyerekeimről rengeteg képet készített! Imádom őket! ❤",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/g85a0081-babafoto-pecs-babyphoto-csaladifoto-familyphoto.jpeg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": ""
-                }
-              }
-            }
-          ],
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials1",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "36px"
-            }
-          },
-          "_anchor": "testimonials1-hn"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title I": {
-              "font-size": "36px"
-            },
-            ".mbr-section-title DIV": {
-              "font-size": "30px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": 1,
+            "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "title": "\n<div><i>Húsvéti/tavaszi/anyáknapi újszülött, baba, családi, kismama, porté, páros fotóim</i></div>",
-          "meta": "By John Smith posted July 20, 2016",
+          "text1": "<p><b style=\"font-size: 1.07rem;\"><br></b></p><p><b style=\"font-size: 1.07rem;\"><i>Örökítsd meg a tavasz legszebb pillanatait egy kedves családi fotózással!</i></b></p><p><b style=\"font-size: 1.07rem;\"><i><br></i></b></p><p><b style=\"font-size: 1.07rem;\"><i>Sok szeretettel várlak benneteket márciustól húsvéti/tavaszi/anyáknapi fotózásra a saját pécsi gyönyörű szépen berendezett stúdiómban, a virágos udvarunkban vagy szabadtéren Pécsen és Szekszárdon.</i></b></p><p><b style=\"font-size: 1.07rem;\"><br></b></p><p><b style=\"font-size: 1.07rem;\">A húsvéti, anyáknapi fotózás</b><span style=\"font-size: 1.07rem;\"> kiváló alkalmat ad arra, hogy </span><i style=\"font-size: 1.07rem;\">ajándékként fotósorozattal kedveskedjetek a nagyszülőknek, a rokonoknak, és egy csodás élménnyel gazdagodjatok.</i></p><p><i style=\"font-size: 1.07rem;\"><br></i>A húsvét és az anyáknapja remek alkalom arra, hogy összejöjjön a család, és együtt ünnepeljen. Mi lenne jobb módja ennek, mint egy vidám, kreatív fotózás, ahol megörökíthetitek a legszebb pillanatokat?</p><div><br></div><div>A családi fotók számomra mindig nagyon fontos részei a fotózásnak, hiszen ezek lesznek később gyermekeitek legnagyobb kincsei, melyek generációkon keresztül öröklődni fognak. A családfotózás összehozza a családot, amikor mindenki együtt van, és, ahol mindenki rajta van képen.&nbsp;</div><div><br></div><p></p>",
+          "text2": "<p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">Egy maradandó élmény, ahol az egymás iránti szeretet meghitt pillanatai egymás szemében tükröződik, a közös nevetések, a viccelődések mind élvezetessé teszik a családi fotózást.</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">A fotózáshoz </span><b style=\"font-size: 1.07rem;\">rengeteg kellék és díszlet közül választhatsz</b><span style=\"font-size: 1.07rem;\">.</span><br></p><div>\n<span style=\"font-size: 1.07rem;\">A&nbsp;<b>fotózás helyszínéül választhatod a saját műtermemet Pécsen, bérelt stúdiót vagy szabadteret Pécsen és Szekszárdon,</b> a gyönyörű virágos <b>udvarunkat</b>, mezőt, erdőt, tópartot stb.. Stúdiós és kültéri fotózásra is lehetőség van egyszerre a stúdiónkban és az udvarunkban .&nbsp;</span></div><div><br></div><div>Az elkészült fotókból <b>te választhatod ki, hogy melyek kerüljenek retusálásra.</b> A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető.</b> A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készítetthetsz . </div><div> </div><div><br></div><div>Várlak Benneteket szeretettel. Keress bizalommal!</div><p></p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-ms"
+          "_name": "content6",
+          "_anchor": "content6-5m"
         },
         {
           "_params": {
@@ -20160,6 +19847,57 @@
             }
           },
           "_anchor": "buttons1-5n"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": true,
+            "showName": true,
+            "showBio": false,
+            "count": "1",
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "A fotózásomon résztvevők ajánlásai",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Kasper-Kovács-Szabina",
+              "authorBio": "User",
+              "text": "Húsvéti fotózáson voltunk a 10 hónapos kisfiammal. Bea nagyon kedves, türelmes, közvetlen :)\r<div>A képek csodaszépek lettek. Mindenkinek ajánlom :)</div>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/g85a8781-msolat-4.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "testimonials1-hn"
         },
         {
           "_styles": {
@@ -32930,7 +32668,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/mg-3798-2-msolat-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-3798-2-msolat-2.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-3798-2-msolat-2-613x920.jpg",
                 "alt": "",
                 "title": "",
@@ -39778,7 +39516,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5248-fitness-cangoo-photo-pecs.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-5248-fitness-cangoo-photo-pecs.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -40491,7 +40229,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/5248-fitness-cangoo-photo-pecs0.jpg",
+                "image": "@PROJECT_PATH@/assets/images/5248-fitness-cangoo-photo-pecs.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/5248-fitness-cangoo-photo-pecs-613x920.jpg",
                 "alt": "",
                 "title": "",
@@ -49247,14 +48985,11 @@
               "text": "Ajánlom Brandt Beá-t minden ismerősömnek és annak aki felejthetetlen élményt szeretne! Nagyom jó fotókat készít! A gyerekeimről rengeteg képet készített! Imádom őket! ❤",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/g85a9985-msolat-1.jpeg",
+                  "src": "@PROJECT_PATH@/assets/images/face3.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": ""
+                  "active": true
                 }
               }
             },
@@ -49264,14 +48999,11 @@
               "text": "Nagyon vicces hangulatú fotózás után csodás eredmények születtek!\n<div>Csak ajánlani tudom! :)</div>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/mller-hanna-arcjpg-3.jpeg",
+                  "src": "@PROJECT_PATH@/assets/images/face1.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": ""
+                  "active": true
                 }
               }
             },
@@ -49281,14 +49013,11 @@
               "text": "Bea rendkívül kedves és barátságos. Munkájával elégedett vagyok, bátran ajánlom. 🥰",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/krpti-krisztina-arckp-1.jpeg",
+                  "src": "@PROJECT_PATH@/assets/images/face2.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": ""
+                  "active": true
                 }
               }
             }

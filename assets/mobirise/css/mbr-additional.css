@@ -1337,6 +1337,13 @@ section.form .container {
 #buttons1-ju .btn {
   font-size: 18px;
 }
+#header3-mt .mbr-section-title,
+#header3-mt .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-mt .mbr-section-title I {
+  font-size: 30px;
+}
 #msg-box5-mj H3 {
   font-size: 24px;
   text-align: center;
@@ -1614,21 +1621,6 @@ section.form .container {
 #content6-52 .lead P {
   font-family: 'Raleway', sans-serif;
 }
-#testimonials3-jf .mbr-section-title {
-  color: #efefef;
-}
-#testimonials3-jf .mbr-author-name {
-  color: #ccc;
-}
-#testimonials3-jf .card-block {
-  text-align: center;
-}
-#testimonials3-jg .mbr-section-title {
-  color: #efefef;
-}
-#testimonials3-jg .mbr-author-name {
-  color: #ccc;
-}
 #buttons1-l4 .btn {
   font-size: 18px;
 }
@@ -1764,11 +1756,109 @@ section.form .container {
 #header3-5k .mbr-section-title I {
   font-size: 21px;
 }
-#buttons1-5n .btn {
-  font-size: 18px;
+#msg-box5-ml H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-ml P {
+  text-align: left;
+}
+#msg-box5-ml I {
+  font-size: 25px;
+}
+#msg-box5-mm H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-mm P {
+  text-align: left;
+}
+#msg-box5-mm I {
+  font-size: 25px;
+}
+#msg-box5-mq H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-mq P {
+  text-align: left;
+}
+#msg-box5-mq I {
+  font-size: 25px;
+}
+#msg-box5-mn H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-mn P {
+  text-align: left;
+}
+#msg-box5-mn I {
+  font-size: 25px;
+}
+#msg-box5-mp H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-mp P {
+  text-align: left;
+}
+#msg-box5-mp I {
+  font-size: 25px;
+}
+#msg-box5-mo H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-mo P {
+  text-align: left;
+}
+#msg-box5-mo I {
+  font-size: 25px;
+}
+#msg-box5-mr H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-mr P {
+  text-align: left;
+}
+#msg-box5-mr I {
+  font-size: 25px;
+}
+#testimonials3-mu .mbr-section-title {
+  color: #efefef;
+}
+#testimonials3-mu .mbr-author-name {
+  color: #ccc;
+}
+#testimonials3-mu .card-block {
+  text-align: center;
+}
+#testimonials3-mv .mbr-section-title {
+  color: #efefef;
+}
+#testimonials3-mv .mbr-author-name {
+  color: #ccc;
+}
+#testimonials3-mv .card-block {
+  text-align: center;
 }
 #testimonials1-hn .mbr-section-title {
   font-size: 36px;
+}
+#header3-ms .mbr-section-title,
+#header3-ms .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-ms .mbr-section-title I {
+  font-size: 36px;
+}
+#header3-ms .mbr-section-title DIV {
+  font-size: 30px;
+}
+#buttons1-5n .btn {
+  font-size: 18px;
 }
 #header3-5o .mbr-section-title,
 #header3-5o .mbr-section-subtitle {
