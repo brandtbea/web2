@@ -1963,12 +1963,105 @@ section.form .container {
 #header3-61 .mbr-section-title I {
   font-size: 25px;
 }
-#content6-63 .lead P {
-  font-size: 19px;
+#msg-box5-n0 H3 {
+  font-size: 24px;
+  text-align: center;
 }
-#content6-63 .lead DIV {
+#msg-box5-n0 P {
   text-align: left;
-  font-size: 19px;
+}
+#msg-box5-n0 I {
+  font-size: 25px;
+}
+#msg-box5-mx H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-mx P {
+  text-align: left;
+}
+#msg-box5-mx I {
+  font-size: 25px;
+}
+#msg-box5-my H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-my P {
+  text-align: left;
+}
+#msg-box5-my I {
+  font-size: 25px;
+}
+#msg-box5-mz H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-mz P {
+  text-align: left;
+}
+#msg-box5-mz I {
+  font-size: 25px;
+}
+#msg-box5-n1 H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-n1 P {
+  text-align: left;
+}
+#msg-box5-n1 I {
+  font-size: 25px;
+}
+#msg-box5-n5 H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-n5 P {
+  text-align: left;
+}
+#msg-box5-n5 I {
+  font-size: 25px;
+}
+#msg-box5-n2 H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-n2 P {
+  text-align: left;
+}
+#msg-box5-n2 I {
+  font-size: 25px;
+}
+#msg-box5-n3 H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-n3 P {
+  text-align: left;
+}
+#msg-box5-n3 I {
+  font-size: 25px;
+}
+#msg-box5-n6 H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-n6 P {
+  text-align: left;
+}
+#msg-box5-n6 I {
+  font-size: 25px;
+}
+#msg-box5-n4 H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-n4 P {
+  text-align: left;
+}
+#msg-box5-n4 I {
+  font-size: 25px;
 }
 #testimonials3-k1 .mbr-section-title {
   color: #efefef;
@@ -1984,6 +2077,16 @@ section.form .container {
 }
 #testimonials3-k2 .mbr-author-name {
   color: #ccc;
+}
+#header3-n7 .mbr-section-title,
+#header3-n7 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-n7 .mbr-section-title I {
+  font-size: 36px;
+}
+#header3-n7 .mbr-section-title DIV {
+  font-size: 30px;
 }
 #buttons1-k3 .btn {
   font-size: 18px;
