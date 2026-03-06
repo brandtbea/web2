@@ -1126,7 +1126,7 @@ section.form .container {
   text-align: left;
 }
 #msg-box5-n9 I {
-  font-size: 25px;
+  font-size: 22px;
 }
 #msg-box5-na H3 {
   font-size: 24px;
@@ -1136,7 +1136,7 @@ section.form .container {
   text-align: left;
 }
 #msg-box5-na I {
-  font-size: 25px;
+  font-size: 22px;
 }
 #msg-box5-nb H3 {
   font-size: 24px;
@@ -1146,7 +1146,7 @@ section.form .container {
   text-align: left;
 }
 #msg-box5-nb I {
-  font-size: 25px;
+  font-size: 22px;
 }
 #msg-box5-nc H3 {
   font-size: 24px;
@@ -1156,7 +1156,7 @@ section.form .container {
   text-align: left;
 }
 #msg-box5-nc I {
-  font-size: 25px;
+  font-size: 22px;
 }
 #msg-box5-nd H3 {
   font-size: 24px;
@@ -1166,7 +1166,7 @@ section.form .container {
   text-align: left;
 }
 #msg-box5-nd I {
-  font-size: 25px;
+  font-size: 22px;
 }
 #msg-box5-ne H3 {
   font-size: 24px;
@@ -1176,7 +1176,7 @@ section.form .container {
   text-align: left;
 }
 #msg-box5-ne I {
-  font-size: 25px;
+  font-size: 22px;
 }
 #msg-box5-nf H3 {
   font-size: 24px;
@@ -1186,7 +1186,7 @@ section.form .container {
   text-align: left;
 }
 #msg-box5-nf I {
-  font-size: 25px;
+  font-size: 22px;
 }
 #msg-box5-ng H3 {
   font-size: 24px;
@@ -1196,7 +1196,7 @@ section.form .container {
   text-align: left;
 }
 #msg-box5-ng I {
-  font-size: 25px;
+  font-size: 22px;
 }
 #msg-box5-nh H3 {
   font-size: 24px;
@@ -1206,7 +1206,7 @@ section.form .container {
   text-align: left;
 }
 #msg-box5-nh I {
-  font-size: 25px;
+  font-size: 22px;
 }
 #msg-box5-ni H3 {
   font-size: 24px;
@@ -1216,7 +1216,7 @@ section.form .container {
   text-align: left;
 }
 #msg-box5-ni I {
-  font-size: 25px;
+  font-size: 22px;
 }
 #testimonials3-k4 .mbr-section-title {
   color: #efefef;
@@ -1235,6 +1235,16 @@ section.form .container {
 }
 #testimonials1-b9 .mbr-section-title {
   font-size: 36px;
+}
+#buttons1-nj .btn {
+  font-size: 18px;
+}
+#header3-nk .mbr-section-title,
+#header3-nk .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-nk .mbr-section-title I {
+  font-size: 24px;
 }
 #buttons1-4j .btn {
   font-size: 18px;

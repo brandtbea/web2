@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 850,
+    "uniqCompNum": 849,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -10411,7 +10411,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-0894-low-key-portre-portrait-800x1200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a8779-noiportre-pecs-zsolnay-portraitphoto-1.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -10925,26 +10925,23 @@
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
             },
-            ".mbr-section-title": {
-              "font-size": "25px"
-            },
             ".mbr-section-title I": {
-              "font-size": "25px"
+              "font-size": "30px"
             }
           },
           "_params": {
             "showMeta": false,
-            "paddingTop": 1,
+            "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "title": "<i>Női portré fotóim a pécsi stúdiómban és szabadtéren Pécsen, Szekszárdon és környékén</i>",
-          "meta": "",
+          "title": "<i>Női portré fotók a pécsi stúdiómban és szabadtérien Pécsen és Szekszárd környékén</i>",
+          "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-nl"
+          "_anchor": "header3-nk"
         },
         {
           "_params": {
