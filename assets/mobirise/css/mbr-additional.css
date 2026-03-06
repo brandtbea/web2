@@ -1239,12 +1239,15 @@ section.form .container {
 #buttons1-nj .btn {
   font-size: 18px;
 }
-#header3-nk .mbr-section-title,
-#header3-nk .mbr-section-subtitle {
+#header3-nl .mbr-section-title,
+#header3-nl .mbr-section-subtitle {
   text-align: center;
 }
-#header3-nk .mbr-section-title I {
-  font-size: 24px;
+#header3-nl .mbr-section-title {
+  font-size: 25px;
+}
+#header3-nl .mbr-section-title I {
+  font-size: 25px;
 }
 #buttons1-4j .btn {
   font-size: 18px;

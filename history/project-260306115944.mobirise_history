@@ -64,7 +64,9 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "imageResize": false,
     "mbrsiteDomain": "w7otjnoplx",
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "ujszulott_fotozas.html": {
@@ -10043,7 +10045,7 @@
             }
           },
           "title": "<i>Női portréfotózás: Találj vissza az önbizalmadhoz a lencsémen keresztül</i>",
-          "text": "<br><br>Sok ügyfelem érkezik azzal a mondattal: <i>„</i>Nem vagyok fotogén”. De a fotózás nálam nem a tökéletes vonásokról szól, hanem a felszabadultságról, az önazonooságról, a külső és a belső szépséged megmutatásáról. A célom az, hogy a közös munka során az önbizalmad nőjön, és a képeket látva rácsodálkozz: „Igen, ez az igazi énem!”<br>\n<br>&nbsp;&nbsp;",
+          "text": "<br><br>Sok ügyfelem érkezik azzal a mondattal: <i>„Nem vagyok fotogén”</i>. De a fotózás nálam nem a tökéletes vonásokról szól, hanem a felszabadultságról, az önazonooságról, a külső és a belső szépséged megmutatásáról. A célom az, hogy a közös munka során az önbizalmad nőjön, és a képeket látva rácsodálkozz: „Igen, ez az igazi énem!”<br>\n<br>&nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot!</a>",
           "_tags": [
             "Theme"
@@ -10107,7 +10109,7 @@
             }
           },
           "title": "<i>Női portréfotózás: Több, mint egy kép – A te történeted</i>",
-          "text": "<br><br>Hiszem, hogy minden nőben ott rejlik egy megismételhetetlen különös történet, egy egyedi szépség és egy különleges ragyogás, melyet a sors írt a vonásokba, a mozdulatokba, s legfőképpen a tekintetbe. Az én hivatásom és küldetésem, hogy ezt a csodát láthatóvá tegyem, és megörökítsem csodás fotókon. <br><br>\n<br>&nbsp;&nbsp;",
+          "text": "<br><br>Számomra minden ember egy történet, és hiszem, hogy minden nőben ott rejlik egy megismételhetetlen történet, egy egyedi szépség és egy különleges ragyogás. Az én hivatásom, hogy ezt láthatóvá tegyem.<br><br>\n<br>&nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot!</a>",
           "_tags": [
             "Theme"
