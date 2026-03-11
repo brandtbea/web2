@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "portre_fotozas.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 850,
+    "uniqCompNum": 867,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -12116,7 +12116,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -12221,6 +12221,42 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/0160-portre-glamour-photo-pecs-szekszard-makmezo-poppyfield-1.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/0160-portre-glamour-photo-pecs-szekszard-makmezo-poppyfield-1-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2939-fenyfesztival-pecs-glamourphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2939-fenyfesztival-pecs-glamourphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2529-fenyfesztival-pecs-fashon-glamour-fotozas-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2529-fenyfesztival-pecs-fashon-glamour-fotozas-1-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2569-lightfestival-glamour-fashionphoto-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2569-lightfestival-glamour-fashionphoto-pecs-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -36582,7 +36618,7 @@
             }
           },
           "title": "<i>GLAMOUR/BOUDOIR FOTÓZÁS PÉCSEN és SZEKSZÁRDON MŰTEREMBEN ÉS SZABADTÉREN</i>",
-          "text": "<i>...varázslatos szépség, ragyogás, tündöklés</i>..<br><i>... belső sugárzó szépség ....<br></i><br>\"Minden ember szép, ha igazán önmaga.\" (Anselm Grün)",
+          "text": "<i>...varázslatos szépség, ragyogás, tündöklés</i>..<br><i>... belső sugárzó szépség ....<br></i><br>\"<i>Minden ember szép, ha igazán önmaga.</i>\" (Anselm Grün)",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -36657,6 +36693,1368 @@
           ],
           "_name": "header3",
           "_anchor": "header3-e5"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/poppyfield-glamourphoto-pecs-portrefotozas-photographer.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<i><br></i><br><br><i>Glamour és Boudoir: A szépségednek, a kisugárzásodnak, &nbsp;a vonzerődnek a bemutatása</i>",
+          "text": "<b><br></b><br><b>Mikor érezted magad utoljára igazán, ízig-vérig Nőnek? Olyan nőnek, aki magabiztos, ragyogó és büszke minden porcikájára?</b><br><br>A boudoir és glamour fotózás sokkal több, mint szép fehérneműk vagy elegáns ruhák sorozata. Ez egy belső utazás. Egy lehetőség, hogy letedd a mindennapok szerepeit – az anyát, a feleséget, a munkatársat –, és végre csak önmagadra, a saját szépségedre fókuszálj.<br><br><br>&nbsp;&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot!</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "24px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            "I": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "msg-box5-nm"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/g85a0014-portre-fenyfesztival-pecs-boudoir-glamour-foto.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<i>Mit jelent a glamour?</i>",
+          "text": "<br><b>A glamour</b> – e különös, idegen szó – nem puszta fényűzést jelent. Hanem a ragyogás azon titokzatos formája, mely egy pillanatra megállítja az időt, és meglátja, és <b>megmutatja a varázslatos szépséget az emberben. </b><br><br>Nem a csillogó ruha, nem az ékszer az, ami a lényeget adja, hanem <b>az a megfoghatatlan kisugárzás, az a belső fény,</b> mely a lélek mélyéből fakad.<br><br><br>&nbsp;&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot!</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "24px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            "I": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "msg-box5-nn"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/fenykepesz-pecs-szekszard-piapcs-portraitphoto-glamour-1.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-size: 25px;\"><i>Glamour : a belső szépség ragyogása</i></span><br><br><br>",
+          "text": "<br><br>Számomra minden ember egy történet. Egy könyv, melynek lapjait az élet írta, tele küzdelmekkel, győzelmekkel és rejtett álmokkal. Egy különös, egyedi elbeszélés, melyet a sors írt a vonásokba, a mozdulatokba, s legfőképpen a tekintetbe. <br><br>Éppen ezért kutatom, s szenvedéllyel szeretem meglátni és kifejezni a nőben azt az <b>egyediséget</b>, mely csak rá jellemző.\n<br><br>Azt a belső, sugárzó szépséget, ami a lélek tisztaságából fakad. S mindezek felett, vagy talán mindezek tükreként, ott van a szemben a lélek ragyogása, az a mélység, melyben az egész emberi lét tükröződik. &nbsp;Mert a lélek az, ami igazán fénylik.\n<br><br>Ezt a ragyogást, ezt a csodát megörökíteni csodás fotókon – ez a hivatás, ez a küldetés. Mert minden kép egy-egy lépés a megértés felé, egy-egy pillanat, mely emlékeztet minket arra, hogy az igazi szépség a szívből fakad, és a lélek tükrében ragyog fel.<br>\n<br>&nbsp;&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot!</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "24px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            "I": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "msg-box5-no"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/g85a9832-boudoir-fotozas-pecs-fenyfesztival-.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<i>Mit jelent a boudoir?</i>",
+          "text": "<br><br>A<b> boudoir </b>– ez a hangzatos, francia szó – nem csupán egy szoba, nem csak egy női hálószoba, szalon vagy öltöző. Sokkal inkább egy intim tér, egy titkos kapu, melyen keresztül a női lélek legmélyebb zugai tárulnak fel. Itt bomlik ki a <b>báj,</b> az a <b>finom elegancia</b>, mely nem hivalkodó, <b>csupán sejtet.</b> Itt mutatkozik meg <b>a szépség&nbsp;</b>az a mélyről fakadó, időtlen ragyogás, mely a lélekből árad.<br><br>Itt, e meghitt falak között, a hétköznapok zajától távol, a lélek ledobja láncait, és önmaga valójában mutatkozik meg.&nbsp;<br><br><br>&nbsp;&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot!</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "24px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            "I": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "msg-box5-np"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/1795-boudoir-fotos-pecs-szekszard-photographer.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<i>Boudoir: utazás egy rejtett világba</i>",
+          "text": "<br>A boudoir fotózás pedig egy utazás ebbe a rejtett világba. Egy kapu ez a<b> csábítás </b>birodalmába, ahol a tekintet, a mozdulat, a félhomály játékai többet mondanak ezer szónál. <br>Egy bepillantás a <b>nő bájába</b>, abba a finom, láthatatlan vonzerőbe, mely nem a divat, hanem a lélek szépségéből fakad. <br>Megmutatja a<b> szépségét, </b>nem a tökéletes formákat, hanem azt a belső ragyogást, mely a szívből árad. <br>Felfedi a <b>csábítást</b>, mely nem manipuláció, hanem a nőiség eredendő, mágikus ereje. <br>Belevezet a <b>titokzatosságba</b>, abba a homályba, mely minden igazi nő körül leng, s mely ezer történetet rejt. <br>Feltárja a <b>sejtelmességet</b>, a még kimondatlan vágyakat, a tekintetekben rejtőző álmokat. <br>És ami a legfontosabb: megörökíti azt a <b>varázslatot</b>, mely egy nő lényét áthatja. <br><br>&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot!</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "24px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            "I": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "msg-box5-nq"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-0980-glamourfoto-glamourphoto-800x1200.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-size: 25px;\"><i>Boudoir: A lélek rejtett kincseit hozza napvilágra</i></span>",
+          "text": "<br><br>Mert a boudoir fotózás nem a testről, hanem <b>a lélek mezítelenségéről szól.</b> Arról az<b> őszinte tiszta pillanatról</b>, amikor a nő megengedi magának, hogy <b>igazán önmaga</b> legyen minden álarc nélkül, sebezhetően, mégis erősen, tisztán és sugárzóan. Ez a pillanat az, melyet igazán érdemes megőrizni, mert benne rejlik a nőiség örök, megfoghatatlan esszenciája. Ebben rejlik a boudoir igazi ereje, mely a lélek rejtett kincseit hozza napvilágra.<br>\n<br>&nbsp;&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot!</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "24px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            "I": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "msg-box5-nr"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/g85a4877-fotos-pecs-photography-3.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<i><br></i><br><br><i>Glamour fajtái:</i><br><i><br></i><br><i>1. Klasszikus Glamour (Beauty)<br></i><br><div><i><br></i></div>",
+          "text": "Ez a típus az<b> arcra és a felsőtestre koncentrál.</b> Célja a tökéletes esztétika megjelenítése.\n<br><br>•\t<b>Jellemzői: </b>Erős smink, profi frizura, közeli portrék.\n<br><br>•\t<b>Helyszín</b>: Többnyire stúdió, letisztult háttérrel.\n<br><br>•\t<b>Kinek ajánlott:</b> Akik egyszerűen csak a legelőnyösebb arcukat szeretnék megörökíteni.\n<br><br><br>&nbsp;&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot!</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "24px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            "I": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "msg-box5-ns"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/0010-boudoir-glamour-photo-pecs-szekszard.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-size: 25px;\"><i>2. Boudoir fotózás</i></span><br><span style=\"font-size: 25px;\"><i><br></i></span>",
+          "text": "<br>Ez az egyik legkeresettebb stílus. A név a francia \"női szalon\" szóból ered, és <b>egy intim, elegáns világ</b>ot idéz meg.\n<br><br>•&nbsp;<b>Jellemzői:</b> <b>Fehérnemű, hálóing,</b> vagy egy<b> lazán ledobott ing</b> a fő öltözet. Nem tartalmaz akt, és félakt képket. Nem a meztelenségről, hanem <b>az érzékiségről és az önbizalomról szól</b>.\n<br><br>•\t<b>Helyszín:</b> szépen berendezett stúdió.\n<br><br>•\t<b>Kinek ajánlott</b>: <b>Ajándéknak vagy önbizalomnövelés céljából.</b>\n<br><br>&nbsp;&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot!</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "24px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            "I": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "msg-box5-nt"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/6115-glamourphoto-boudoirphoto-pecs-szekszard-1.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<i>3. Fashion-Glamour (Editorial)</i>",
+          "text": "<br>Itt a<b> divat és a glamour határa elmosódik</b>. A hangsúly a stíluson, a pózokon és a \"high-end\" életérzésen van.\n<br><br><b>•\tJellemzői:</b> Drámai ruhák (estélyik, tüllök), extrém pózok és erőteljesebb retusálás.\n<br><br><b>•\tHelyszín</b>: Kastélyok, luxusszállodák vagy modern építészeti terek.\n<br><br><br>\n<br>&nbsp;&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot!</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "24px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            "I": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "msg-box5-nu"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/pipacs-naplemente-glamour-portrefotozas-pecs-portraitsession.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-size: 25px;\"><i>4. Lifestyle Glamour</i></span>",
+          "text": "<br><b>Természetesebb</b> megközelítés, ahol a modell <b>\"életképszerű\" helyzetekben</b> jelenik meg, de a világítás és a styling továbbra is kifogástalan.\n<br><br><b>•\tJellemzői:</b> Kevésbé beállítottnak tűnik, több a mozgás.\n<br><br><b>•\tHelyszín: </b>Kávézók, utcai helyszínek vagy napfényes lakások.\n<br><br><br>\n<br>&nbsp;&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot!</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "24px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            "I": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "msg-box5-nv"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-0821-low-key-portrait-portre.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-size: 25px;\"><i>5. Fine Art Glamour</i></span>",
+          "text": "<br>Ez már súrolja a <b>művészet </b>kategóriáját. Gyakran festményszerű, drámai fény-árnyék hatásokkal (chiaroscuro) dolgozik.\n<br><br><b>•\tJellemzői:</b> Mély színek, komoly arckifejezések, gyakran fekete-fehér képek.\n<br><br><b>•\tCél: </b>Egy <b>időtlen, művészi alkotás</b> létrehozása az alanyról.\n<br><br>.&nbsp;<br>&nbsp;&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot!</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "24px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            "I": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "msg-box5-nw"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/fenyfesztival-fashion-glamour-photo-pecs.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<i>Miért engem válasz?</i>",
+          "text": "<br>Nemcsak fotósként, hanem mentálhigiénés szakemberként és coachként kísérlek ezen az úton. Tudom, hogyan teremtsek olyan <b>támogató, biztonságos légkör</b>t, ahol:<br><br>A gátlásaid percek alatt elpárolognak.<br><br>Nem „beállított” leszel, hanem önazonos.<br><br>Meglátom benned azt az <b>egyedi tüz</b>et, amit talán te magad is rég láttál már.<br><br>&nbsp;&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot!</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "24px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            "I": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "msg-box5-nx"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/g85a9893-girlportre-lanyportre-pecs-1.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-size: 25px;\"><i>Bizalom és Garancia</i></span>",
+          "text": "<br>77 független vélemény alapján az <b>egyetlen 5 csillagos értékelésű fotós vagyok Pécsen</b>. Számomra a te komfortérzeted és az önbizalmad növekedése az elsődleges küldetés.<br><br><br>&nbsp;&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot!</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "24px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            "I": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "msg-box5-ny"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/2526-fenyfesztival-pecs-glamour-fashon-photo.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<i>Hol készülnek a képek?</i><br><i><br></i>",
+          "text": "A intimitás és a kényelem jegyében<b> több helyszín</b>t is kínálok:<br><br>Saját szépen berendezett <b>pécsi műtermem</b>: Ahol senki nem zavar minket, és teljesen átadhatod magad az élménynek.<br><br><b>Privát virágos udvarunkban vagy szabadtéri helyszínen</b>: Ha a természetesebb, romantikusabb „outdoor boudoir” stílus áll hozzád közelebb.<br><br><b>Bérelt stúdió:</b> Ha egy konkrét elegáns enteriőrre vágysz.<br><br><br>&nbsp;&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot!</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "24px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            "I": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "msg-box5-nz"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/2473-fashion-editorial-glamour-photo-pecs.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-size: 25px;\"><i>Hogyan gondoskodom az élményről?</i></span><br><span style=\"font-size: 25px;\"><i><br></i></span>",
+          "text": "<b>Személyes hangolódás:</b> Átbeszéljük a vágyaidat és a határaidat. Csak olyat csinálunk, amiben 100%-ig jól érzed magad.<br><br><b>Professzionális instruálás: </b>Mentálhigiénés háttérrel segítek az ellazulásban, fotósként pedig pontosan <b>mutatom, mi áll neked a legjobban.</b><br><br><b>Te döntesz:</b> A nyers képek közül te választod ki, <b>melyek kerüljenek retusálásra.</b><br><br><b>Prémium végeredmény: </b>A nagy felbontású, művészi fotók mellé kérhetsz egyedi zenés slideshow-t is, hogy bármikor újra átéld ezt a magabiztos érzést.<br><br><br>\n<br>&nbsp;&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot!</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "24px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            "I": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "msg-box5-o0"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/g85a9832-portrefoto-pecs-portraitphoto-1.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<i>„Megérdemlem ezt?”</i>",
+          "text": "<br>Gyakran hallom ezt a kérdést. <b>A válaszom: Igen</b>. Nem kell modellnek lenned, és <b>nem kell megvárnod a „tökéletes” alakot</b> sem. A boudoir fotózás nem a tökéletességről, hanem <b>az önelfogadásról és a ragyogásról szól – itt és most.</b><br><br><b>Tedd meg az első lépést az új önbizalmad felé! Keress bizalommal, és alkossunk valami maradandót!<br></b><br><br><b>További fotókért, csomagajánlatokért kérlek görgess tovább!</b><br>\n<br>&nbsp;&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot!</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "24px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            "I": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "msg-box5-o1"
+        },
+        {
+          "_inherit": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#efefef"
+            },
+            ".mbr-author-name": {
+              "color": "#ccc"
+            },
+            ".card-block": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": false,
+            "showName": false,
+            "showBio": false,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fotos-pecs-glamour-portrefotozas-photographer-1.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.2"
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "title": "Glamour/boudoir csomagajánlatok",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "",
+              "authorBio": "User",
+              "text": "<p><b>Minimál csomag\n</b></p><p><span style=\"font-size: 1.125rem;\">A saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban a minimál csomag ára 39.990,-Ft, mely kb. 45 perc fotózást és 6 db digitális, professzionálisan retusált fotót tartalmaz (ha fotózás munkanap nap történik, esetleg szombaton, ha hétköznap nem megoldható).&nbsp;</span><br></p><p>\n</p><p>A csomagár egy helyszínre vonatkozik. A fotózás időtartama az átöltözési és konzultációs időket is tartalmazza.&nbsp;</p><p><b>\n</b></p><p>A 6 db feletti digitális retusált képek ára 2.690,-Ft/db.&nbsp;</p><p><b><br></b></p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "",
+              "authorBio": "User",
+              "text": "<p><b>Standard csomag</b>\n</p><p><span style=\"font-size: 1.125rem;\">A standard csomag ára a saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban 44.990,-Ft, mely kb. egy óra fotózást és 9 db digitális, professzionálisan retusált fotót tartalmaz (ha fotózás munkanap, szombati nap történik, nem ünnepnapokon).&nbsp;</span><br></p><p>\n</p><p>A csomagár egy helyszínre vonatkozik.&nbsp;</p><div><br></div><p></p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "",
+              "authorBio": "User",
+              "text": "<p><b>Médium csomag</b>\n</p><p><span style=\"font-size: 1.125rem;\">A Médium csomag ára saját pécsi stúdiómban/ pécsi szabadtéri&nbsp;</span><br></p><p><span style=\"font-size: 1.125rem;\">helyszínen/saját udvarunkban 49.990,-Ft, mely kb. 60-75 perc fotózást, 12 db digitális professzionálisan retusált képet tartalmaz (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).</span><br></p><div>Ettől a csomagártól már lehet a saját stúdiómat és saját udvarunkat kombinálni.</div><p></p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            }
+          ],
+          "_name": "testimonials3",
+          "_anchor": "testimonials3-it"
+        },
+        {
+          "_inherit": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#efefef"
+            },
+            ".mbr-author-name": {
+              "color": "#ccc"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showSubtitle": false,
+            "showImages": false,
+            "showName": false,
+            "showBio": false,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/pipacsfoto-glamourphoto-portrefotozas-fenykepesz-pecs-2.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.2"
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "title": "",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Abanoub S.",
+              "authorBio": "User",
+              "text": "<p><b>VIP csomag</b>\n</p><p><span style=\"font-size: 1.125rem;\">A VIP csomag ára a saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban &nbsp;54.990,-Ft, mely kb. egy-másfél óra fotózást, 15 db digitális professzionálisan retusált képet tartalmaz (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).</span></p><p><span style=\"font-size: 1.125rem;\">Ettől a csomagtól lehet a fine art glamour stílust választani.<br></span></p><p></p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Suffian A.",
+              "authorBio": "User",
+              "text": "<b>Prémium csomag\n</b><div>\n</div><div><br></div><div>A Prémium csomag ára a saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban &nbsp;59.990,-Ft, mely kb. egy-másfél óra fotózást, 18 db digitális professzionális retusált képet tartalmaz (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).\n</div><div>\n</div><div><br></div>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Jhollman C.",
+              "authorBio": "User",
+              "text": "<b>Maxi csomag\n</b><div><br></div><div>A Maxi csomag ára a saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban &nbsp;64.990,-Ft, mely kb. egy-másfél-két óra fotózást, 21 db digitális professzionális retusált képet tartalmaz (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).\n</div><div>\n</div><div>A 21 db feletti digitális retusált képek ára 2.290,-Ft/db.&nbsp;</div>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            }
+          ],
+          "_name": "testimonials3",
+          "_anchor": "testimonials3-iv"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p><b>A csomagárak tájékoztató jellegűek. A retusálandó képeket te választhatod ki, az általam átküldött kis felbontású vízjelezett nyers képekből. A nyers képek átadása nem képezi az ajánlat részét, azokat egyben lehet megvásárolni. A fotózás alatt többször átöltözhetsz.</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-j3"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": true,
+            "showName": true,
+            "showBio": false,
+            "count": "6",
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "A portré/glamour/boudoir fotózásomon résztvevők ajánlásai",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Schmidt Erika",
+              "authorBio": "User",
+              "text": "\"Beáta nem csupán fotós, hanem csodálatos Ember is, akinek az első pillanattól ki tudtam nyitni a lelkemet és ezt a fotókon is viszont láttam! Életemben először láttam magamat szépnek, mert az az EGYség tudott megnyilvánulni kifelé is, amit belül érzek önmagammal kapcsolatban, és ezért nagyon hálás vagyok neki! A mosolyával, őszinteségével, tisztaságával már a honlapján elvarázsolt és a hatást csak fokozta a fotózás hangulata! Szép emlék lett számomra a találkozás is vele! Ezt az élményt kívánom szeretettel mindenkinek, aki megkeresi Őt a jövőben! \"",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/g85a2995-1.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "linkInNewWindow": false
+                }
+              }
+            },
+            {
+              "authorName": "Szantner Klára",
+              "authorBio": "User",
+              "text": "\"5+1 csillagot adnék Beának, ha lehetne. : ) Az első perctől kezdve megvolt köztünk az összhang és a fotózás végéig nagyon jó hangulatban telt a közös munka. A lágy háttérzenével oldotta a \"feszültséget\" és ötleteivel is sokat segített nekünk. Életünk legjobb fotózása volt! Nyugodt szívvel ajánlom bárkinek és szerintem mi is találkozunk még egy következő alkalommal! : ) Csak így tovább, Bea!\"",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/g85a3649-1.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "linkInNewWindow": false
+                }
+              }
+            },
+            {
+              "authorName": "Fedeles Márti",
+              "authorBio": "User",
+              "text": "\"Szívből ajánlom mindenkinek! Tökéletes képeket készít, könnyedén elkapja a megfelelő pillanatot, amit sok fotósnak csak nehezen,vagy egyáltalán nem sikerül elcsípnie. Az eddigi közös projektjeink mindig jó hangulatban teltek,és szuper lett a végeredmény is. De a képek magukért beszélnek!\"",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/img-1034-modellfotozas-modellphotoshoot.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "linkInNewWindow": false
+                }
+              }
+            },
+            {
+              "authorName": "Balogh Anikó",
+              "authorBio": "Developer",
+              "text": "Bea, végtelen kedves, barátságos, nagyon szép képeket készít, csak ajánlani tudom!😊",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/siksi-anik-3.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "Hűbér Veronika",
+              "authorBio": "Developer",
+              "text": "\"Szívből ajánlom mindenkinek! ❤\r<div>Bea rendkívül örömteli, felszabadult hangulatot teremtett, és különös érzékkel varázsolt elő olyan természetes pillanatokat, amelyekből csodálatos fotók születtek! \"❤</div>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/g85a0668-portrefotos-pecs-portraitphoto.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "linkInNewWindow": false
+                }
+              }
+            },
+            {
+              "authorName": "Horváth Barbara",
+              "authorBio": "Developer",
+              "text": "\"Mindenkinek csak ajánlani tudom! Kedves, közvetlen, precíz. Amellett, hogy szuper képek készülnek a fotózás is nagyon jó hangulatban telik.\"😊",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/img-0530-portrefotos-portraitphotographer-1-800x1200.jpeg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "linkInNewWindow": false
+                }
+              }
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "testimonials1-e8"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "25px"
+            },
+            ".mbr-section-title I": {
+              "font-size": "25px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "title": "<i>Glamour, boudoir fotóim fotóstúdióban, szabadtéren Pécsen és Szekszárd környékén</i><br><i><br></i>",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-o2"
         },
         {
           "_params": {
@@ -36764,7 +38162,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -36855,18 +38253,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/2058-boudoir-glamourphoto-pecs-szekszard.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2058-boudoir-glamourphoto-pecs-szekszard-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/2066-boudoir-glamour-fotozas-pecs-szekszard.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2066-boudoir-glamour-fotozas-pecs-szekszard-613x920.jpg",
                 "alt": "",
@@ -36915,8 +38301,164 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2058-boudoir-glamourphoto-pecs-szekszard.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2058-boudoir-glamourphoto-pecs-szekszard-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/9836-glamourphoto-pecs-portrefoto-fenykepesz-1.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/9836-glamourphoto-pecs-portrefoto-fenykepesz-1-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2508-lightfestival-pecs-fashion-glamour-photo.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2508-lightfestival-pecs-fashion-glamour-photo-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2442-fashion-glamour-photo-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2442-fashion-glamour-photo-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2529-fenyfesztival-pecs-fashon-glamour-fotozas.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2529-fenyfesztival-pecs-fashon-glamour-fotozas-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2573-fenyfesztival-glamour-fashionphoto-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2573-fenyfesztival-glamour-fashionphoto-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2568-glamour-fashionphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2568-glamour-fashionphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2637-glamour-fashionphoto-pecs-szekszard.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2637-glamour-fashionphoto-pecs-szekszard-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2535-fenyfesztival-fashion-glamour-photo-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2535-fenyfesztival-fashion-glamour-photo-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2652-glamour-fashionphoto-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2652-glamour-fashionphoto-pecs-592x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2819-glamour-fashionphoto-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2819-glamour-fashionphoto-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8612-portrefoto-pecs-portraitphoto-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8612-portrefoto-pecs-portraitphoto-1-614x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2931-fenyfesztival-pecs-glamourphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2931-fenyfesztival-pecs-glamourphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a4413-pecsifotos-photographer-portrait-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a4413-pecsifotos-photographer-portrait-1-614x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -37081,8 +38623,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a6373-glamourfoto-pecs-pecsifotos.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a6373-glamourfoto-pecs-pecsifotos-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0980-glamourfoto-glamourphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-0980-glamourfoto-glamourphoto-800x1200.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -37093,8 +38635,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-0980-glamourfoto-glamourphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-0980-glamourfoto-glamourphoto-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a6373-glamourfoto-pecs-pecsifotos.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a6373-glamourfoto-pecs-pecsifotos-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -37297,56 +38839,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a8025-glamour-portraitphoto-pecs-photography.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a8025-glamour-portraitphoto-pecs-photography-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a5482-bouidoir-glamour-photograpy-pecs.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a5482-bouidoir-glamour-photograpy-pecs-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a5608-glamour-portre-fotozas-pecs.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a5608-glamour-portre-fotozas-pecs-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a4413-pecsifotos-photographer-portrait.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a4413-pecsifotos-photographer-portrait-614x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a5480-boudoir-fotozas-pecs-glamour-photo.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a5480-boudoir-fotozas-pecs-glamour-photo-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -37369,8 +38863,68 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/mg-4629-1glamourfoto-glamourphoto.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-4629-1glamourfoto-glamourphoto-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a5480-boudoir-fotozas-pecs-glamour-photo.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a5480-boudoir-fotozas-pecs-glamour-photo-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a5608-glamour-portre-fotozas-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a5608-glamour-portre-fotozas-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8086-glamour-fotozas-pecs-photographer.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8086-glamour-fotozas-pecs-photographer-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8025-glamour-portraitphoto-pecs-photography.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8025-glamour-portraitphoto-pecs-photography-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a7629-portre-glamour-fotozas-pecs-photography.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a7629-portre-glamour-fotozas-pecs-photography-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a8142-glamour-portre-fotozas-pecs-photography.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a8142-glamour-portre-fotozas-pecs-photography-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -37383,18 +38937,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a2334-msolat.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a2334-msolat-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a9870-msolat-1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a9870-msolat-1-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -37429,8 +38971,20 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a2560-ladyportrait-noiportrefoto-pecs.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a2560-ladyportrait-noiportrefoto-pecs-613x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g85a9870-msolat-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a9870-msolat-1-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mg-4629-1glamourfoto-glamourphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-4629-1glamourfoto-glamourphoto-800x1200.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -37453,32 +39007,20 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/g85a2560-ladyportrait-noiportrefoto-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/g85a2560-ladyportrait-noiportrefoto-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a9269-portrefotozas-pecs-ladyportrait.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a9269-portrefotozas-pecs-ladyportrait-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a8086-glamour-fotozas-pecs-photographer.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a8086-glamour-fotozas-pecs-photographer-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a7629-portre-glamour-fotozas-pecs-photography.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a7629-portre-glamour-fotozas-pecs-photography-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -37515,18 +39057,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a7217-pipacs-poppy-portre-glamour-fotospecs.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a7217-pipacs-poppy-portre-glamour-fotospecs-613x920.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/g85a8142-glamour-portre-fotozas-pecs-photography.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g85a8142-glamour-portre-fotozas-pecs-photography-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -37830,7 +39360,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -37879,6 +39409,30 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/9968-portre-glamour-fotozas-pecs-szekszard-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9968-portre-glamour-fotozas-pecs-szekszard-1-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/0424-boudoir-glamour-photoshoot-fotozas-pecs-szekszard.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0424-boudoir-glamour-photoshoot-fotozas-pecs-szekszard-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -37889,332 +39443,6 @@
           ],
           "_name": "gallery1",
           "_anchor": "gallery1-e6"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text1": "<p>A <b>glamour</b> ragyogást, varázslatos szépséget jelent. Számomra minden ember egy történet. Szeretem meglátni és kifejezni a nőben lévő egyediséget, a belső sugárzó szépségét, valamint a szemében a lélek tükrének a ragyogását csodás fotókon.</p><p><br></p><p>A <b>boudoir</b> jelentése női hálószoba, szalon öltöző. A boudoir fotózás bepillantást enged a nő bájába, szépségébe, csábításába, titokzatosságába, sejtelmességébe, varázslatába.&nbsp;&nbsp;</p><p>\n</p><div><br></div><div>\n</div><div>Minden nő életében eljön az a pillanat, amikor úgy érzi, hogy szeretné magát, illetve a párját meglepni egy gyönyörű szép fotósorozattal.</div><div><br></div><p></p>",
-          "text2": "A glamour/boudoir&nbsp;<b>fotózás helyszínéül választhatod a saját műtermemet Pécsen, bérelt stúdiót vagy a természetet</b>, a gyönyörű virágos udvarunkat, erdőt, mezőt, tópartot stb..&nbsp;<b>Stúdiós és kültéri fotózásra is lehetőség van egyszerre a saját udvarunkban.\n</b><div>Az elkészült fotókból te választhatod ki, hogy melyek kerüljenek retusálásra. A kiválasztott képekből <b>egyedi zenés digitális slideshow is kérhető. </b>A retusált képeket nagy felbontásban adom át, melyekből jó minőségű fali képeket is készíttethetsz.</div><div>Minden fotózásba újdonságot viszek bele, és az egyediség varázsára törekszem.</div><div>Többféle csomagajánlatból tudsz választani, melyet a vélemények alatt találsz.</div><div><br></div><div> \n</div><div>Keress bizalommal, várlak szeretettel!</div>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_anchor": "content6-e7"
-        },
-        {
-          "_inherit": "testimonials1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#efefef"
-            },
-            ".mbr-author-name": {
-              "color": "#ccc"
-            },
-            ".card-block": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "showImages": false,
-            "showName": false,
-            "showBio": false,
-            "count": 3,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/fotos-pecs-glamour-portrefotozas-photographer-1.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0.2"
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "title": "Glamour/boudoir csomagajánlatok",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "testimonial": [
-            {
-              "authorName": "",
-              "authorBio": "User",
-              "text": "<p><b>Minimál csomag\n</b></p><p><span style=\"font-size: 1.125rem;\">A saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban a minimál csomag ára 39.990,-Ft, mely kb. 45 perc fotózást és 6 db digitális, professzionálisan retusált fotót tartalmaz (ha fotózás munkanap nap történik, esetleg szombaton, ha hétköznap nem megoldható).&nbsp;</span><br></p><p>\n</p><p>A csomagár egy helyszínre vonatkozik. A fotózás időtartama az átöltözési és konzultációs időket is tartalmazza.&nbsp;</p><p><b>\n</b></p><p>A 6 db feletti digitális retusált képek ára 2.690,-Ft/db.&nbsp;</p><p><b><br></b></p>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face3.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            },
-            {
-              "authorName": "",
-              "authorBio": "User",
-              "text": "<p><b>Standard csomag</b>\n</p><p><span style=\"font-size: 1.125rem;\">A standard csomag ára a saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban 44.990,-Ft, mely kb. egy óra fotózást és 9 db digitális, professzionálisan retusált fotót tartalmaz (ha fotózás munkanap, szombati nap történik, nem ünnepnapokon).&nbsp;</span><br></p><p>\n</p><p>A csomagár egy helyszínre vonatkozik.&nbsp;</p><div><br></div><p></p>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face1.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            },
-            {
-              "authorName": "",
-              "authorBio": "User",
-              "text": "<p><b>Médium csomag</b>\n</p><p><span style=\"font-size: 1.125rem;\">A Médium csomag ára saját pécsi stúdiómban/ pécsi szabadtéri&nbsp;</span><br></p><p><span style=\"font-size: 1.125rem;\">helyszínen/saját udvarunkban 49.990,-Ft, mely kb. 60-75 perc fotózást, 12 db digitális professzionálisan retusált képet tartalmaz (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).</span><br></p><div>Ettől a csomagártól már lehet a saját stúdiómat és saját udvarunkat kombinálni.</div><p></p>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face2.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            }
-          ],
-          "_name": "testimonials3",
-          "_anchor": "testimonials3-it"
-        },
-        {
-          "_inherit": "testimonials1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#efefef"
-            },
-            ".mbr-author-name": {
-              "color": "#ccc"
-            }
-          },
-          "_params": {
-            "showTitle": false,
-            "showSubtitle": false,
-            "showImages": false,
-            "showName": false,
-            "showBio": false,
-            "count": 3,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/pipacsfoto-glamourphoto-portrefotozas-fenykepesz-pecs-2.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0.2"
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "title": "",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "testimonial": [
-            {
-              "authorName": "Abanoub S.",
-              "authorBio": "User",
-              "text": "<p><b>VIP csomag</b>\n</p><p><span style=\"font-size: 1.125rem;\">A VIP csomag ára a saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban &nbsp;54.990,-Ft, mely kb. egy-másfél óra fotózást, 15 db digitális professzionálisan retusált képet tartalmaz (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).</span><br></p><div><br></div><p></p>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face3.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            },
-            {
-              "authorName": "Suffian A.",
-              "authorBio": "User",
-              "text": "<b>Prémium csomag\n</b><div>\n</div><div><br></div><div>A Prémium csomag ára a saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban &nbsp;59.990,-Ft, mely kb. egy-másfél óra fotózást, 18 db digitális professzionális retusált képet tartalmaz (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).\n</div><div>\n</div><div><br></div>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face1.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            },
-            {
-              "authorName": "Jhollman C.",
-              "authorBio": "User",
-              "text": "<b>Maxi csomag\n</b><div><br></div><div>A Maxi csomag ára a saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban &nbsp;64.990,-Ft, mely kb. egy-másfél-két óra fotózást, 21 db digitális professzionális retusált képet tartalmaz (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).\n</div><div>\n</div><div>A 21 db feletti digitális retusált képek ára 2.290,-Ft/db.&nbsp;</div>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face2.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            }
-          ],
-          "_name": "testimonials3",
-          "_anchor": "testimonials3-iv"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p><b>A csomagárak tájékoztató jellegűek. A retusálandó képeket te választhatod ki, az általam átküldött kis felbontású vízjelezett nyers képekből. A nyers képek átadása nem képezi az ajánlat részét, azokat egyben lehet megvásárolni. A fotózás alatt többször átöltözhetsz.</b></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-j3"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "showImages": true,
-            "showName": true,
-            "showBio": false,
-            "count": "6",
-            "paddingTop": 3,
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "A portré/glamour/boudoir fotózásomon résztvevők ajánlásai",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "testimonial": [
-            {
-              "authorName": "Schmidt Erika",
-              "authorBio": "User",
-              "text": "\"Beáta nem csupán fotós, hanem csodálatos Ember is, akinek az első pillanattól ki tudtam nyitni a lelkemet és ezt a fotókon is viszont láttam! Életemben először láttam magamat szépnek, mert az az EGYség tudott megnyilvánulni kifelé is, amit belül érzek önmagammal kapcsolatban, és ezért nagyon hálás vagyok neki! A mosolyával, őszinteségével, tisztaságával már a honlapján elvarázsolt és a hatást csak fokozta a fotózás hangulata! Szép emlék lett számomra a találkozás is vele! Ezt az élményt kívánom szeretettel mindenkinek, aki megkeresi Őt a jövőben! \"",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/g85a2995-1.jpeg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "linkInNewWindow": false
-                }
-              }
-            },
-            {
-              "authorName": "Szantner Klára",
-              "authorBio": "User",
-              "text": "\"5+1 csillagot adnék Beának, ha lehetne. : ) Az első perctől kezdve megvolt köztünk az összhang és a fotózás végéig nagyon jó hangulatban telt a közös munka. A lágy háttérzenével oldotta a \"feszültséget\" és ötleteivel is sokat segített nekünk. Életünk legjobb fotózása volt! Nyugodt szívvel ajánlom bárkinek és szerintem mi is találkozunk még egy következő alkalommal! : ) Csak így tovább, Bea!\"",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/g85a3649-1.jpeg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "linkInNewWindow": false
-                }
-              }
-            },
-            {
-              "authorName": "Fedeles Márti",
-              "authorBio": "User",
-              "text": "\"Szívből ajánlom mindenkinek! Tökéletes képeket készít, könnyedén elkapja a megfelelő pillanatot, amit sok fotósnak csak nehezen,vagy egyáltalán nem sikerül elcsípnie. Az eddigi közös projektjeink mindig jó hangulatban teltek,és szuper lett a végeredmény is. De a képek magukért beszélnek!\"",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/img-1034-modellfotozas-modellphotoshoot.jpeg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "linkInNewWindow": false
-                }
-              }
-            },
-            {
-              "authorName": "Balogh Anikó",
-              "authorBio": "Developer",
-              "text": "Bea, végtelen kedves, barátságos, nagyon szép képeket készít, csak ajánlani tudom!😊",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/siksi-anik-3.jpeg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": ""
-                }
-              }
-            },
-            {
-              "authorName": "Hűbér Veronika",
-              "authorBio": "Developer",
-              "text": "\"Szívből ajánlom mindenkinek! ❤\r<div>Bea rendkívül örömteli, felszabadult hangulatot teremtett, és különös érzékkel varázsolt elő olyan természetes pillanatokat, amelyekből csodálatos fotók születtek! \"❤</div>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/g85a0668-portrefotos-pecs-portraitphoto.jpeg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "linkInNewWindow": false
-                }
-              }
-            },
-            {
-              "authorName": "Horváth Barbara",
-              "authorBio": "Developer",
-              "text": "\"Mindenkinek csak ajánlani tudom! Kedves, közvetlen, precíz. Amellett, hogy szuper képek készülnek a fotózás is nagyon jó hangulatban telik.\"😊",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/img-0530-portrefotos-portraitphotographer-1-800x1200.jpeg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "linkInNewWindow": false
-                }
-              }
-            }
-          ],
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials1",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "36px"
-            }
-          },
-          "_anchor": "testimonials1-e8"
         },
         {
           "_params": {
@@ -43071,7 +44299,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>...portré fotózás Pécsen a fényfesztiválon...</i>",
+          "title": "<i>...portré, glamour fotózás Pécsen a fényfesztiválon...</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -43146,6 +44374,198 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/g85a9877-boudoir-glamour-photo-pecs-fenyfesztival.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/g85a9877-boudoir-glamour-photo-pecs-fenyfesztival-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2442-fashion-glamour-photo-pecs-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2442-fashion-glamour-photo-pecs-1-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2473-fashion-editorial-glamour-photo-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2473-fashion-editorial-glamour-photo-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2508-lightfestival-pecs-fashion-glamour-photo.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2508-lightfestival-pecs-fashion-glamour-photo-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2526-fenyfesztival-pecs-glamour-fashon-photo.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2526-fenyfesztival-pecs-glamour-fashon-photo-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2558-fenyfesztival-glamour-fashionphoto-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2558-fenyfesztival-glamour-fashionphoto-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2569-lightfestival-glamour-fashionphoto-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2569-lightfestival-glamour-fashionphoto-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2529-fenyfesztival-pecs-fashon-glamour-fotozas-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2529-fenyfesztival-pecs-fashon-glamour-fotozas-1-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2568-glamour-fashionphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2568-glamour-fashionphoto-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2535-fenyfesztival-fashion-glamour-photo-pecs-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2535-fenyfesztival-fashion-glamour-photo-pecs-1-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2637-glamour-fashionphoto-pecs-szekszard.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2637-glamour-fashionphoto-pecs-szekszard-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2931-fenyfesztival-pecs-glamourphoto-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2931-fenyfesztival-pecs-glamourphoto-1-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2573-fenyfesztival-glamour-fashionphoto-pecs-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2573-fenyfesztival-glamour-fashionphoto-pecs-1-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/fenyfesztival-fashion-glamour-photo-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fenyfesztival-fashion-glamour-photo-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2652-glamour-fashionphoto-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2652-glamour-fashionphoto-pecs-592x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2819-glamour-fashionphoto-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2819-glamour-fashionphoto-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2939-fenyfesztival-pecs-glamourphoto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2939-fenyfesztival-pecs-glamourphoto-613x920.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
