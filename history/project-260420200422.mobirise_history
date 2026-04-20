@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "glamour_boudoir_fotozas_photography_pecspage36.html",
+    "currentPage": "business_uzleti_portre_fotozas_oneletrajz_cv_pecs.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -64,7 +64,9 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "imageResize": false,
     "mbrsiteDomain": "w7otjnoplx",
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "ujszulott_fotozas.html": {
@@ -36599,10 +36601,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/8333-glamour-boudoir-fotozas-pecs.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a7846-glamour-photo-pecs-fotospecs-.jpg",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -36783,7 +36786,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/8258-glamour-boudoir-fotozas-pecs.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a0014-portre-fenyfesztival-pecs-boudoir-glamour-foto.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -36975,7 +36978,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/7535-glamour-boudoir-pecs.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1795-boudoir-fotos-pecs-szekszard-photographer.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -37487,7 +37490,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/8640-glamour-boudoir-foto-pecs.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a9893-girlportre-lanyportre-pecs-1.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -37551,7 +37554,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5934-glamour-boudoir-fotozas-pecs.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2526-fenyfesztival-pecs-glamour-fashon-photo.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -37679,7 +37682,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/7685-glamour-boudoir-fotozas-pecs.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a9832-portrefoto-pecs-portraitphoto-1.jpg",
               "link": "",
               "alt": "",
               "title": ""
