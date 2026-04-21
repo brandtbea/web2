@@ -6640,3 +6640,105 @@ section.form .container {
 #footer1-os P {
   text-align: center;
 }
+
+
+#msg-box5-ow H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-ow I {
+  font-size: 22px;
+}
+#header3-oy .mbr-section-title,
+#header3-oy .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-oy .mbr-section-title {
+  font-size: 24px;
+}
+#header3-oy .mbr-section-title I {
+  font-size: 30px;
+}
+#buttons1-p0 .btn {
+  font-size: 18px;
+}
+#header3-p1 .mbr-section-title,
+#header3-p1 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-p1 .mbr-section-title {
+  font-size: 32px;
+  text-align: center;
+}
+#buttons1-p2 .btn {
+  font-size: 18px;
+}
+#ext_menu-p3 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-p3 .navbar-caption {
+  color: #ffffff;
+  font-family: 'Titillium Web', sans-serif;
+}
+#ext_menu-p3 .navbar-toggler {
+  color: #000000;
+}
+#ext_menu-p3 .close-icon::before,
+#ext_menu-p3 .close-icon::after {
+  background-color: #000000;
+}
+#ext_menu-p3 .link,
+#ext_menu-p3 .dropdown-item {
+  color: #000000;
+  font-family: 'Raleway', sans-serif;
+}
+#ext_menu-p3 .link {
+  font-size: 1rem;
+}
+#ext_menu-p3 .dropdown-item,
+#ext_menu-p3 .nav-dropdown-sm .link {
+  font-size: 1.083rem;
+}
+#ext_menu-p3 .link:hover,
+#ext_menu-p3 .dropdown-item:hover,
+#ext_menu-p3 .link:focus,
+#ext_menu-p3 .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-p3 .link[aria-expanded="true"],
+#ext_menu-p3 .dropdown-menu {
+  background: #e6e6e6;
+}
+#ext_menu-p3 .nav-dropdown-sm .link:focus,
+#ext_menu-p3 .nav-dropdown-sm .link:hover,
+#ext_menu-p3 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-p3 .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#ext_menu-p3 .navbar,
+#ext_menu-p3 .nav-dropdown-sm,
+#ext_menu-p3 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-p3 .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#ext_menu-p3 .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#ext_menu-p3 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-p3 .bg-color.transparent.opened .link:hover,
+#ext_menu-p3 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-p3 .link[aria-expanded="true"],
+#ext_menu-p3 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#ext_menu-p3 A {
+  font-size: 14px;
+}
+#footer1-p4 P {
+  text-align: center;
+}
