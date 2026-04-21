@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 894,
+    "uniqCompNum": 896,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -36719,7 +36719,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/poppyfield-glamourphoto-pecs-portrefotozas-photographer.jpg",
+              "src": "@PROJECT_PATH@/assets/images/g85a7932-boudoir-glamour-fotozas-photography-pecs.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -37231,7 +37231,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/6115-glamourphoto-boudoirphoto-pecs-szekszard-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/poppyfield-glamourphoto-pecs-portrefotozas-photographer.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -37423,7 +37423,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fenyfesztival-fashion-glamour-photo-pecs.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5721-glamour-boudoir-photography-pecs.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -38072,6 +38072,290 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/8366-glamour-boudoir-fenykepesz-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8366-glamour-boudoir-fenykepesz-pecs-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/8762-glamour-boudoir-fotos-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8762-glamour-boudoir-fotos-pecs-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7902-glamour-boudoir-pecs-fotozas.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7902-glamour-boudoir-pecs-fotozas-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7316-glamour-boudoir-fenykpesz-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7316-glamour-boudoir-fenykpesz-pecs-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6456-glamour-boudoir-fotozas-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6456-glamour-boudoir-fotozas-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/5720-glamour-boudoir-photography-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5720-glamour-boudoir-photography-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/8229-glamour-boudoir-foto-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8229-glamour-boudoir-foto-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7293-glamour-boudoir-fotozas-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7293-glamour-boudoir-fotozas-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6753-glamour-boudoir-fenykepesz-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6753-glamour-boudoir-fenykepesz-pecs-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6598-glamour-boudoir-fotos-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6598-glamour-boudoir-fotos-pecs-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/8352-glamour-boudoir-fotozas-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8352-glamour-boudoir-fotozas-pecs-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6475-glamour-boudoir-fotografer.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6475-glamour-boudoir-fotografer-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-ou"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7437-glamour-boudoir-fotostudio-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7437-glamour-boudoir-fotostudio-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6243-glamour-boudoir-photo-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6243-glamour-boudoir-photo-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/8690-glamour-boudoir-fotografie-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8690-glamour-boudoir-fotografie-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/8894-glamour-boudoir-fotozas-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8894-glamour-boudoir-fotozas-pecs-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/8589-glamour-boudoir-fotos-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8589-glamour-boudoir-fotos-pecs-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/8376-glamour-boudoir-fotos-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8376-glamour-boudoir-fotos-pecs-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6725-glamour-boudoir-fotozas-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6725-glamour-boudoir-fotozas-pecs-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6632-glamour-boudoir-photoshoot-pecs.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6632-glamour-boudoir-photoshoot-pecs-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-ov"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/pipacsmezo-pecsifotos-portre-glamour-portraitphoto.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/pipacsmezo-pecsifotos-portre-glamour-portraitphoto-613x920.jpg",
                 "alt": "",
@@ -38437,7 +38721,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -38461,7 +38745,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ]
           },
