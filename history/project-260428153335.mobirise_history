@@ -64,7 +64,9 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "imageResize": false,
     "mbrsiteDomain": "w7otjnoplx",
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "ujszulott_fotozas.html": {
@@ -13025,7 +13027,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/tavaszi-fotozas-2026-pecs.jpg",
+              "src": "@PROJECT_PATH@/assets/images/husveti-tavaszi-anyaknapi-fotozas-easter-motherday-spring-photo.jpg",
               "link": "",
               "alt": "",
               "title": ""
