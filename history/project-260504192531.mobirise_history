@@ -64,7 +64,9 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "imageResize": false,
     "mbrsiteDomain": "w7otjnoplx",
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "ujszulott_fotozas.html": {
@@ -12991,7 +12993,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "title": "<i>Tavaszi műtermi és szabadtéri újszülött, baba, gyermek, családi, kismama, páros és portré fotózás Pécsen és Szekszárdon</i>",
+          "title": "<i>Tavaszi/anyáknapi műtermi és szabadtéri újszülött, baba, gyermek, családi, kismama, páros és portré fotózás Pécsen és Szekszárdon</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -13042,7 +13044,7 @@
               "size": 0
             }
           },
-          "title": "TAVASZI FOTÓZÁS",
+          "title": "TAVASZI/ANYÁKNAPI FOTÓZÁS",
           "text": "<br><br>Sok szeretettel várlak benneteket márciustól tavaszi fotózásra a saját pécsi gyönyörű szépen berendezett stúdiómban, a virágos udvarunkban vagy szabadtéren Pécsen és Szekszárdon.<br><br>Tarts velem és lepd meg magadat, a családodat, a párodat egy fantasztikus élménnyel, egy igazán gyönyörű és különleges fotósorozattal, amely különleges ajándékul szolgál, <br>Ha még nincs ötleted, hogy mit ajándékoz szeretetteidnek anyáknapjára, akkor ajándékozz fotózást, melyet ajándékutalvány formájában is átadhatsz. <br><br>Várlak szeretettel, és remélem hamarosan találkozunk.&nbsp;<br>\n<br>&nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot!</a>",
           "_tags": [
