@@ -1458,7 +1458,7 @@ section.form .container {
   text-align: center;
 }
 #header3-mt .mbr-section-title I {
-  font-size: 30px;
+  font-size: 24px;
 }
 #msg-box5-mj H3 {
   font-size: 24px;
@@ -1469,6 +1469,16 @@ section.form .container {
 }
 #msg-box5-mj I {
   font-size: 25px;
+}
+#msg-box5-pi H3 {
+  font-size: 24px;
+  text-align: left;
+}
+#msg-box5-pi P {
+  text-align: left;
+}
+#msg-box5-pi I {
+  font-size: 23px;
 }
 #header3-ii .mbr-section-title,
 #header3-ii .mbr-section-subtitle {
@@ -6303,6 +6313,99 @@ section.form .container {
 }
 #header3-43 .mbr-section-title I {
   font-size: 30px;
+}
+#msg-box5-pa H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-pa P {
+  text-align: left;
+}
+#msg-box5-pa I {
+  font-size: 25px;
+}
+#msg-box5-pb H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-pb P {
+  text-align: left;
+}
+#msg-box5-pb I {
+  font-size: 16px;
+}
+#msg-box5-pb SPAN {
+  font-size: 18px;
+}
+#msg-box5-pc H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-pc P {
+  text-align: left;
+}
+#msg-box5-pc I {
+  font-size: 25px;
+}
+#msg-box5-pd H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-pd P {
+  text-align: left;
+}
+#msg-box5-pd I {
+  font-size: 25px;
+}
+#msg-box5-pe H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-pe P {
+  text-align: left;
+}
+#msg-box5-pe I {
+  font-size: 25px;
+}
+#msg-box5-pf H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-pf P {
+  text-align: left;
+}
+#msg-box5-pf I {
+  font-size: 25px;
+}
+#msg-box5-pg H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-pg P {
+  text-align: left;
+}
+#msg-box5-pg I {
+  font-size: 25px;
+}
+#msg-box5-ph H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-ph P {
+  text-align: left;
+}
+#msg-box5-ph I {
+  font-size: 25px;
+}
+#msg-box5-pj H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-pj P {
+  text-align: left;
+}
+#msg-box5-pj I {
+  font-size: 25px;
 }
 #header3-4c .mbr-section-title,
 #header3-4c .mbr-section-subtitle {

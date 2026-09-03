@@ -64,7 +64,9 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "imageResize": false,
     "mbrsiteDomain": "w7otjnoplx",
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "ujszulott_fotozas.html": {
@@ -51188,7 +51190,7 @@
               "size": 0
             }
           },
-          "title": "<i>CSALÁDI FOTÓZÁS MŰTEREMBEN ÉS SZABADTÉREN PÉCSEN, SZEKSZÁRDON ÉS KÖRNYÉKÉN</i>",
+          "title": "<i>CSALÁDI FOTÓZÁS MŰTEREMBEN ÉS SZABADTÉREN PÉCSEN ÉS KÖRNYÉKÉN</i>",
           "text": "<i>...az egymás iránti szeretet meghitt pillanatai</i>...<br><i>...generációknak szóló emlékek..</i>.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -51253,7 +51255,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>Nem csak fotókat készítek, hanem a ti egyedi családi történeteteket mesélem el. Generációknak szóló emlékek a családi fotók.</i>",
+          "title": "<i>...generációknak szóló emlékek a családi fotók...</i>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -51802,7 +51804,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/9277-karacsonyi-csaladi-fotozas-christmas-familyphoto-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/poppyfield-glamourphoto-pecs-portrefotozas-photographer.jpg",
               "link": "",
               "alt": "",
               "title": ""
