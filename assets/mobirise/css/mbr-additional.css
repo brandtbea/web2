@@ -6312,7 +6312,7 @@ section.form .container {
   font-size: 24px;
 }
 #header3-43 .mbr-section-title I {
-  font-size: 30px;
+  font-size: 25px;
 }
 #msg-box5-pa H3 {
   font-size: 24px;
@@ -6346,6 +6346,9 @@ section.form .container {
 }
 #msg-box5-pc I {
   font-size: 25px;
+}
+#msg-box5-pc SPAN {
+  font-size: 24px;
 }
 #msg-box5-pd H3 {
   font-size: 24px;
@@ -6407,19 +6410,6 @@ section.form .container {
 #msg-box5-pj I {
   font-size: 25px;
 }
-#header3-4c .mbr-section-title,
-#header3-4c .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-4c .mbr-section-title I {
-  font-size: 23px;
-}
-#header3-4c .mbr-section-title SPAN {
-  font-size: 24px;
-}
-#header3-4c .mbr-section-title {
-  font-size: 24px;
-}
 #testimonials3-kc .mbr-section-title {
   color: #efefef;
 }
@@ -6435,11 +6425,21 @@ section.form .container {
 #testimonials3-kd .mbr-author-name {
   color: #ccc;
 }
-#buttons1-kq .btn {
-  font-size: 18px;
-}
 #testimonials1-bb .mbr-section-title {
   font-size: 36px;
+}
+#header3-pk .mbr-section-title,
+#header3-pk .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-pk .mbr-section-title {
+  font-size: 25px;
+}
+#header3-pk .mbr-section-title I {
+  font-size: 25px;
+}
+#buttons1-kq .btn {
+  font-size: 18px;
 }
 #buttons1-4f .btn {
   font-size: 18px;
