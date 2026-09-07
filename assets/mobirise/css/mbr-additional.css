@@ -1747,6 +1747,21 @@ section.form .container {
 #content6-52 .lead P {
   font-family: 'Raleway', sans-serif;
 }
+#testimonials3-pm .mbr-section-title {
+  color: #efefef;
+}
+#testimonials3-pm .mbr-author-name {
+  color: #ccc;
+}
+#testimonials3-pm .card-block {
+  text-align: center;
+}
+#testimonials3-pl .mbr-section-title {
+  color: #efefef;
+}
+#testimonials3-pl .mbr-author-name {
+  color: #ccc;
+}
 #buttons1-l4 .btn {
   font-size: 18px;
 }
