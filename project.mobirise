@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "karacsonyi_fotozas_pecs.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -13098,7 +13098,7 @@
               "text-align": "center"
             },
             ".mbr-section-title I": {
-              "font-size": "24px"
+              "font-size": "19px"
             }
           },
           "_params": {
