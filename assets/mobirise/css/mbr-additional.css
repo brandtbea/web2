@@ -1453,22 +1453,20 @@ section.form .container {
 #buttons1-ju .btn {
   font-size: 18px;
 }
-#header3-mt .mbr-section-title,
-#header3-mt .mbr-section-subtitle {
+#header3-pz .mbr-section-title,
+#header3-pz .mbr-section-subtitle {
   text-align: center;
 }
-#header3-mt .mbr-section-title I {
-  font-size: 24px;
-}
-#msg-box5-mj H3 {
-  font-size: 24px;
+#header3-pz .mbr-section-title {
   text-align: center;
-}
-#msg-box5-mj P {
-  text-align: left;
-}
-#msg-box5-mj I {
   font-size: 25px;
+}
+#header3-pz .mbr-section-subtitle {
+  color: #000000;
+  text-align: center;
+}
+#header3-pz .mbr-section-title I {
+  font-size: 24px;
 }
 #msg-box5-pi H3 {
   font-size: 24px;
@@ -1479,6 +1477,26 @@ section.form .container {
 }
 #msg-box5-pi I {
   font-size: 23px;
+}
+#buttons1-q0 .btn {
+  font-size: 18px;
+}
+#header3-mt .mbr-section-title,
+#header3-mt .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-mt .mbr-section-title I {
+  font-size: 24px;
+}
+#msg-box5-py H3 {
+  font-size: 24px;
+  text-align: center;
+}
+#msg-box5-py P {
+  text-align: left;
+}
+#msg-box5-py I {
+  font-size: 22px;
 }
 #header3-ii .mbr-section-title,
 #header3-ii .mbr-section-subtitle {
@@ -1719,6 +1737,23 @@ section.form .container {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #msg-box5-54 H3 {
   text-align: center;
   font-size: 25px;
@@ -1744,7 +1779,188 @@ section.form .container {
 #header3-53 .mbr-section-title I {
   font-size: 24px;
 }
-#content6-52 .lead P {
+#msg-box5-pn H3 {
+  font-size: 24px;
+  text-align: left;
+}
+#msg-box5-pn P {
+  text-align: left;
+  font-size: 17px;
+  font-family: 'Raleway', sans-serif;
+}
+#msg-box5-pn I {
+  font-size: 25px;
+}
+#msg-box5-pn B {
+  font-size: 20px;
+}
+#msg-box5-pn SPAN {
+  font-size: 17px;
+  font-family: 'Raleway', sans-serif;
+}
+#msg-box5-pv H3 {
+  font-size: 24px;
+  text-align: left;
+}
+#msg-box5-pv P {
+  text-align: left;
+  font-size: 17px;
+  font-family: 'Raleway', sans-serif;
+}
+#msg-box5-pv I {
+  font-size: 25px;
+}
+#msg-box5-pv B {
+  font-size: 20px;
+}
+#msg-box5-pv SPAN {
+  font-size: 17px;
+  font-family: 'Raleway', sans-serif;
+}
+#msg-box5-pw H3 {
+  font-size: 24px;
+  text-align: left;
+}
+#msg-box5-pw P {
+  text-align: left;
+  font-size: 17px;
+  font-family: 'Raleway', sans-serif;
+}
+#msg-box5-pw I {
+  font-size: 25px;
+}
+#msg-box5-pw B {
+  font-size: 20px;
+}
+#msg-box5-pw SPAN {
+  font-size: 17px;
+  font-family: 'Raleway', sans-serif;
+}
+#msg-box5-po H3 {
+  font-size: 24px;
+  text-align: left;
+}
+#msg-box5-po P {
+  text-align: left;
+  font-size: 17px;
+  font-family: 'Raleway', sans-serif;
+}
+#msg-box5-po I {
+  font-size: 25px;
+}
+#msg-box5-po B {
+  font-size: 20px;
+}
+#msg-box5-po SPAN {
+  font-size: 17px;
+  font-family: 'Raleway', sans-serif;
+}
+#msg-box5-pp H3 {
+  font-size: 24px;
+  text-align: left;
+}
+#msg-box5-pp P {
+  text-align: left;
+  font-size: 17px;
+  font-family: 'Raleway', sans-serif;
+}
+#msg-box5-pp I {
+  font-size: 25px;
+}
+#msg-box5-pp B {
+  font-size: 20px;
+}
+#msg-box5-pp SPAN {
+  font-size: 17px;
+  font-family: 'Raleway', sans-serif;
+}
+#msg-box5-pq H3 {
+  font-size: 24px;
+  text-align: left;
+}
+#msg-box5-pq P {
+  text-align: left;
+  font-size: 17px;
+  font-family: 'Raleway', sans-serif;
+}
+#msg-box5-pq I {
+  font-size: 25px;
+}
+#msg-box5-pq B {
+  font-size: 20px;
+}
+#msg-box5-pq SPAN {
+  font-size: 17px;
+  font-family: 'Raleway', sans-serif;
+}
+#msg-box5-pr H3 {
+  font-size: 24px;
+  text-align: left;
+}
+#msg-box5-pr P {
+  text-align: left;
+  font-size: 17px;
+  font-family: 'Raleway', sans-serif;
+}
+#msg-box5-pr I {
+  font-size: 25px;
+}
+#msg-box5-pr B {
+  font-size: 20px;
+}
+#msg-box5-pr SPAN {
+  font-size: 17px;
+  font-family: 'Raleway', sans-serif;
+}
+#msg-box5-px SPAN {
+  font-size: 17px;
+  font-family: 'Raleway', sans-serif;
+}
+#msg-box5-px I {
+  font-size: 25px;
+  font-family: 'Montserrat', sans-serif;
+}
+#msg-box5-px H3 {
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+#msg-box5-pt H3 {
+  font-size: 24px;
+  text-align: left;
+}
+#msg-box5-pt P {
+  text-align: left;
+  font-size: 17px;
+  font-family: 'Raleway', sans-serif;
+}
+#msg-box5-pt I {
+  font-size: 25px;
+}
+#msg-box5-pt B {
+  font-size: 20px;
+}
+#msg-box5-pt SPAN {
+  font-size: 17px;
+  font-family: 'Raleway', sans-serif;
+}
+#msg-box5-pu H3 {
+  font-size: 24px;
+  text-align: left;
+}
+#msg-box5-pu P {
+  text-align: left;
+  font-size: 17px;
+  font-family: 'Raleway', sans-serif;
+}
+#msg-box5-pu I {
+  font-size: 25px;
+}
+#msg-box5-pu B {
+  font-size: 20px;
+}
+#msg-box5-pu SPAN {
+  font-size: 17px;
   font-family: 'Raleway', sans-serif;
 }
 #testimonials3-pm .mbr-section-title {
@@ -1764,19 +1980,6 @@ section.form .container {
 }
 #buttons1-l4 .btn {
   font-size: 18px;
-}
-#msg-box5-hr SPAN {
-  font-size: 22px;
-  font-family: 'Montserrat', sans-serif;
-}
-#msg-box5-hr I {
-  font-size: 30px;
-  font-family: 'Montserrat', sans-serif;
-}
-#msg-box5-hr H3 {
-  font-size: 30px;
-  text-align: center;
-  font-family: 'Indie Flower', cursive;
 }
 #buttons1-gy .btn {
   font-size: 18px;
