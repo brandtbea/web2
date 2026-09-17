@@ -64,9 +64,7 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "imageResize": false,
     "mbrsiteDomain": "w7otjnoplx",
-    "publishChangesOnly": false,
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "publishChangesOnly": false
   },
   "pages": {
     "ujszulott_fotozas.html": {
