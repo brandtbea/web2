@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 940,
+    "uniqCompNum": 939,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -13036,7 +13036,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/karacsonyi-montzs-2026.jpg",
+              "src": "@PROJECT_PATH@/assets/images/9914-karacsonyi-cica-fotozas-pecs-christmas-catphoto-1.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -13054,7 +13054,7 @@
             }
           },
           "title": "<i>KARÁCSONYI&nbsp;</i><i>STÚDIÓS FÉNYKÉPEZÉS PÉCSEN</i>",
-          "text": "Kedves Látogató!<br><br>Novembertől január elejéig várlak sok szeretettel karácsonyi fotózásra a gyönyörű szép karácsonyi enteriőrrel berendezett pécsi stúdiómban, rengeteg szép kellékkel. Már lehet jelentkezni a szabad helyekre.<br><br>Hétköznap és szombaton is tudtok jönni 9.30-18 óra között a szabad időpontokra.&nbsp;<br><br>Tarts velem, és lepd meg magad, és szeretteidet egy igazán gyönyörű és egyedi fotósorozattal, mely különleges ajándékul is szolgál, valamint gazdagítsd magad és a családodat egy szuper élménnyel, és örök emlékkel. <br><br>Családi, gyermek, baba, újszülött, kismama, páros, portré, glamour, boudoir, háziállat témában várlak szeretettel. <br><br>\n<br>\nTovábbi információk és fotók:&nbsp;<br>&nbsp;&nbsp;",
+          "text": "Szia!<br><br>Novembertől január elejéig várlak sok szeretettel karácsonyi fotózásra a gyönyörű szép karácsonyi enteriőrrel berendezett pécsi stúdiómban, rengeteg szép kellékkel. Már lehet jelentkezni a szabad helyekre.<br><br>Hétköznap és szombaton is tudtok jönni 9.30-18 óra között a szabad időpontokra.&nbsp;<br><br>Tarts velem, és lepd meg magad, és szeretteidet egy igazán gyönyörű és egyedi fotósorozattal, mely különleges ajándékul is szolgál, valamint gazdagítsd magad és a családodat egy szuper élménnyel, és örök emlékkel. <br><br>Családi, gyermek, baba, újszülött, kismama, páros, portré, glamour, boudoir, háziállat témában várlak szeretettel. <br><br>\n<br>\nTovábbi információk és fotók:&nbsp;<br>&nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"karacsonyi_fotozas_pecs.html\" data-toolbar=\"-mbrBtnMove\">Karácsonyi fotózás</a>",
           "_tags": [
             "Theme"
@@ -16213,24 +16213,6 @@
           "_anchor": "testimonials1-iw"
         },
         {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot most!</a>           ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "18px"
-            }
-          },
-          "_anchor": "buttons1-q3"
-        },
-        {
           "_inherit": "testimonials1",
           "_styles": {
             ".mbr-section-title": {
@@ -16284,7 +16266,7 @@
             {
               "authorName": "",
               "authorBio": "User",
-              "text": "<p><b>Standard csomag</b></p><p><span style=\"font-size: 1.125rem;\">A saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban a minimál csomag ára 39.990,-Ft, mely kb. 55 perc fotózást és 10 db digitális, professzionálisan retusált fotót tartalmaz (ha fotózás munkanap nap történik, esetleg szombaton, ha hétköznap nem megoldható).</span></p><div>A csomagár egy helyszínre vonatkozik. A fotózás időtartama az átöltözési/etetési időket is tartalmazza.&nbsp;</div><div><br></div><p></p>",
+              "text": "<p><b>Standard csomag</b></p><p><span style=\"font-size: 1.125rem;\">A saját pécsi stúdiómban/pécsi szabadtéri helyszínen/saját udvarunkban a minimál csomag ára 39.990,-Ft, mely kb. 1 óra fotózást és 10 db digitális, professzionálisan retusált fotót tartalmaz (ha fotózás munkanap nap történik, esetleg szombaton, ha hétköznap nem megoldható).</span></p><div>A csomagár egy helyszínre vonatkozik. A fotózás időtartama az átöltözési/etetési időket is tartalmazza.&nbsp;</div><div><br></div><p></p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face1.jpg",
@@ -16298,7 +16280,7 @@
             {
               "authorName": "",
               "authorBio": "User",
-              "text": "<p><b>Médium csomag</b></p><p>A médium csomag ára a saját pécsi stúdiómban//pécsi szabadtéri helyszínen/saját udvarunkban 44.990,-Ft, mely kb. 60-65 perc fotózást és 13 db digitális, professzionálisan retusált fotót tartalmaz (ha fotózás munkanap történik, nem ünnepnapokon, esetleg szombaton, ha hétköznap nem megoldható).\n</p><div>A csomagár egy helyszínre vonatkozik. Ettől a csomagártól már lehet a saját stúdiómat és saját udvarunkat kombinálni.\n</div><div><br></div><p></p>",
+              "text": "<p><b>Médium csomag</b></p><p>A médium csomag ára a saját pécsi stúdiómban//pécsi szabadtéri helyszínen/saját udvarunkban 44.990,-Ft, mely kb. 60-75 perc fotózást és 13 db digitális, professzionálisan retusált fotót tartalmaz (ha fotózás munkanap történik, nem ünnepnapokon, esetleg szombaton, ha hétköznap nem megoldható).\n</p><div>A csomagár egy helyszínre vonatkozik. Ettől a csomagártól már lehet a saját stúdiómat és saját udvarunkat kombinálni.\n</div><div><br></div><p></p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -16350,7 +16332,7 @@
             {
               "authorName": "Abanoub S.",
               "authorBio": "User",
-              "text": "<p><b>VIP csomag</b>\n</p><p><span style=\"font-size: 1.125rem;\">A VIP csomag ára a saját pécsi stúdiómban 49.990,-Ft, mely kb. 60-70 perc fotózást, 16 db digitális professzionálisan retusált képet tartalmaz (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).</span><br></p><div><br></div><p></p>",
+              "text": "<p><b>VIP csomag</b>\n</p><p><span style=\"font-size: 1.125rem;\">A VIP csomag ára a saját pécsi stúdiómban 49.990,-Ft, mely kb. egy-másfél óra fotózást, 16 db digitális professzionálisan retusált képet tartalmaz (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).</span><br></p><div><br></div><p></p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face3.jpg",
@@ -16364,7 +16346,7 @@
             {
               "authorName": "Suffian A.",
               "authorBio": "User",
-              "text": "<b>Prémium csomag\n</b><div>\n</div><div><br></div><div>A Prémium csomag ára a saját pécsi stúdiómban 54.990,-Ft, mely kb. 60-75 perc fotózást, 19 db digitális professzionális retusált képet tartalmaz (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).\n</div><div>\n</div><div><br></div>",
+              "text": "<b>Prémium csomag\n</b><div>\n</div><div><br></div><div>A Prémium csomag ára a saját pécsi stúdiómban 54.990,-Ft, mely kb. 60-90-100 perc fotózást, 19 db digitális professzionális retusált képet tartalmaz (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).\n</div><div>\n</div><div><br></div>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face1.jpg",
@@ -16378,7 +16360,7 @@
             {
               "authorName": "Jhollman C.",
               "authorBio": "User",
-              "text": "<b>Maxi csomag\n</b><div><br></div><div>A Maxi csomag ára a saját pécsi stúdiómban 59.990,-Ft, mely kb. 60-90 perc fotózást, 22 db digitális professzionális retusált képet tartalmaz (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).\n</div><div>\n</div><div>A 22 db feletti digitális retusált képek ára 1.990,-Ft/db.&nbsp;</div>",
+              "text": "<b>Maxi csomag\n</b><div><br></div><div>A Maxi csomag ára a saját pécsi stúdiómban 59.990,-Ft, mely kb. egy-másfél-két óra fotózást, 22 db digitális professzionális retusált képet tartalmaz (ha a fotózás munkanap, vagy szombati nap történik, nem ünnepnapokon).\n</div><div>\n</div><div>A 22 db feletti digitális retusált képek ára 1.990,-Ft/db.&nbsp;</div>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
