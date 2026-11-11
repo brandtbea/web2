@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beus",
-    "currentPage": "karacsonyi_fotozas_pecs.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 940,
+    "uniqCompNum": 949,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -64,7 +64,9 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "imageResize": false,
     "mbrsiteDomain": "w7otjnoplx",
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "ujszulott_fotozas.html": {
@@ -2232,7 +2234,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -4511,7 +4513,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -5517,7 +5519,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -7636,7 +7638,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -9793,7 +9795,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -12443,7 +12445,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -14196,7 +14198,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -14207,6 +14209,55 @@
             }
           },
           "_anchor": "footer1-y"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-q4"
         }
       ]
     },
@@ -15162,7 +15213,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -15351,7 +15402,7 @@
             }
           },
           "title": "<span style=\"font-size: 25px;\"><i>Varázslatos Karácsonyi Fotózás Pécsen – Ajándékozz örök emléket! 🎄✨</i></span>",
-          "text": "<br><br><b>Szia! Üdvözöllek az oldalamon!\n</b><br><b><br></b><br>A karácsony a legszebb időszak arra, hogy a család összeüljön, és megállítsuk egy picit az időt. Legyen szó a gyerkőcök őszinte mosolyáról, egy romantikus páros pillanatról, vagy egy vidám családi fotózásról – egy profi fotósorozat nemcsak egy fantasztikus élmény, hanem a legszemélyesebb ajándék is a nagyszülőknek, rokonoknak, vagy éppen saját magatoknak.\n<br><br><b>A szabad időpontokra a jelentkezés már elindult!</b><br><br>&nbsp;&nbsp;",
+          "text": "<br><br><b>Szia! Üdvözöllek az oldalamon!\n</b><br><b><br></b><br>A karácsony a legszebb időszak arra, hogy a család összeüljön, és megállítsuk egy picit az időt. Legyen szó a gyerkőcök őszinte mosolyáról, egy romantikus páros pillanatról, vagy egy vidám családi fotózásról – egy profi fotósorozat nemcsak egy fantasztikus élmény, hanem a legszemélyesebb ajándék is a nagyszülőknek, rokonoknak, vagy éppen saját magatoknak.\n<br><br><b>A szabad időpontokra még tudtok jelentkezni.</b><br>&nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot!</a>",
           "_tags": [
             "Theme"
@@ -16423,6 +16474,201 @@
             }
           },
           "_anchor": "buttons1-l4"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title I": {
+              "font-size": "32px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "title": "<i>A pécsi fotóstúdióm varázslatos karácsonyi enteriőrben</i>",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-q9"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/0168-christmas-photostudio-pecs-brandt-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0168-christmas-photostudio-pecs-brandt-1-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/0175-karacsonyi-muterem-pecs-brandt.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0175-karacsonyi-muterem-pecs-brandt-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/0217-karacsonyi-studio-fotok-pecs-brandt-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0217-karacsonyi-studio-fotok-pecs-brandt-1-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/0206-karacsonyi-fotostudio-pecs-brandt-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0206-karacsonyi-fotostudio-pecs-brandt-1-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/0190-karacsonyi-fotozas-pecs-brandt.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0190-karacsonyi-fotozas-pecs-brandt-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/0155-karacsonyi-fotos-muterem-pecs-brandt.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0155-karacsonyi-fotos-muterem-pecs-brandt-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/0209-karacsonyi-fotostudio-pecs-brandt.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0209-karacsonyi-fotostudio-pecs-brandt-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/0192-karacsonyi-fotostudio-pecs-brandt-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0192-karacsonyi-fotostudio-pecs-brandt-1-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-q8"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"velemenyek.html\" data-toolbar=\"-mbrBtnMove\">További képek a fotóstúdiómról</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-qb"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"kapcsolat.html\" data-toolbar=\"-mbrBtnMove\">Árajánlatot szeretnék kérni/Foglalj időpontot most!</a>           ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "buttons1-qc"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title I": {
+              "font-size": "32px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "title": "<i>Karácsonyi műtermi családi, gyermek, baba, újszülött, kismama, páros, portré fotóim</i>",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-qa"
         },
         {
           "_params": {
@@ -19846,7 +20092,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -21627,7 +21873,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -24216,7 +24462,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -25109,7 +25355,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -26150,7 +26396,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -27057,7 +27303,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -27723,7 +27969,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -28270,7 +28516,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -28805,7 +29051,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -29256,7 +29502,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -29755,7 +30001,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -30158,7 +30404,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -30669,7 +30915,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -31144,7 +31390,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -31703,7 +31949,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -31835,7 +32081,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -32738,7 +32984,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -33153,7 +33399,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -34331,7 +34577,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -35169,7 +35415,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -37157,7 +37403,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -40564,7 +40810,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -42377,7 +42623,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -42816,7 +43062,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -42948,7 +43194,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -44476,7 +44722,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -45106,7 +45352,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -45688,7 +45934,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -47318,7 +47564,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -48103,7 +48349,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -48711,7 +48957,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -49281,7 +49527,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -49421,6 +49667,232 @@
           ],
           "_name": "header3",
           "_anchor": "header3-j8"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/0143-karacsonyi-fotostudio-fotok-brandt.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0143-karacsonyi-fotostudio-fotok-brandt-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/0149-karacsonyi-fotostudio-pecs-brandt.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0149-karacsonyi-fotostudio-pecs-brandt-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/0155-karacsonyi-fotos-muterem-pecs-brandt.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0155-karacsonyi-fotos-muterem-pecs-brandt-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/0190-karacsonyi-fotozas-pecs-brandt.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0190-karacsonyi-fotozas-pecs-brandt-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/0166-karacsonyi-fotostudio-pecs-brandt.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0166-karacsonyi-fotostudio-pecs-brandt-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/0175-karacsonyi-muterem-pecs-brandt.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0175-karacsonyi-muterem-pecs-brandt-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/0162-karacsonyi-fotozas-pecs-brandt.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0162-karacsonyi-fotozas-pecs-brandt-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/0168-christmas-photostudio-pecs-brandt.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0168-christmas-photostudio-pecs-brandt-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/0192-karacsonyi-fotostudio-pecs-brandt.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0192-karacsonyi-fotostudio-pecs-brandt-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/0204-karacsonyi-fotostudio-pecs-brandt.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0204-karacsonyi-fotostudio-pecs-brandt-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/0202-karacsonyi-fotostudio-pecs-brandt.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0202-karacsonyi-fotostudio-pecs-brandt-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/0180-karacsonyi-fotostudio-pecs-brandt.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0180-karacsonyi-fotostudio-pecs-brandt-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/0206-karacsonyi-fotostudio-pecs-brandt.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0206-karacsonyi-fotostudio-pecs-brandt-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/0209-karacsonyi-fotostudio-pecs-brandt.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0209-karacsonyi-fotostudio-pecs-brandt-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/0210-karacsonyi-fotostudio-pecs-brandt.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0210-karacsonyi-fotostudio-pecs-brandt-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/0211-karacsoniy-fotostudio-pecs-brandt.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0211-karacsoniy-fotostudio-pecs-brandt-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/0217-karacsonyi-studio-fotok-pecs-brandt.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0217-karacsonyi-studio-fotok-pecs-brandt-613x920.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-q7"
         },
         {
           "_params": {
@@ -50259,7 +50731,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -50391,7 +50863,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -50875,7 +51347,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -51122,7 +51594,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -51278,7 +51750,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -53789,7 +54261,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -54263,7 +54735,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -55105,7 +55577,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],
@@ -55979,7 +56451,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2026",
           "_tags": [
             "Theme"
           ],

@@ -1984,6 +1984,23 @@ section.form .container {
 #buttons1-l4 .btn {
   font-size: 18px;
 }
+#header3-q9 .mbr-section-title,
+#header3-q9 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-q9 .mbr-section-title I {
+  font-size: 32px;
+}
+#buttons1-qc .btn {
+  font-size: 18px;
+}
+#header3-qa .mbr-section-title,
+#header3-qa .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-qa .mbr-section-title I {
+  font-size: 32px;
+}
 #buttons1-gy .btn {
   font-size: 18px;
 }
